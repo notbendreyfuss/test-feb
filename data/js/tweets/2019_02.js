@@ -137,6 +137,188 @@ Grailbird.data.tweets_2019_02 =
 			"protected": false,
 			"followers_count": 54931,
 			"friends_count": 1739,
+			"listed_count": 1792,
+			"created_at": "Tue Aug 05 20:09:58 +0000 2008",
+			"favourites_count": 691,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 113305,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "EDEDED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/757089858338885632/WuSbZte7_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/757089858338885632/WuSbZte7_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15741036/1529607155",
+			"profile_link_color": "FF6600",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "E6E6E6",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 4,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@bendreyfuss @jbarro This is what the school told our reporter https://t.co/okbK5pmH7c"
+	},
+	{
+		"created_at": "Sat Feb 02 19:48:07 +0000 2019",
+		"id": 1091785353965563900,
+		"id_str": "1091785353965563904",
+		"full_text": "@bendreyfuss @jbarro This is what the school told our reporter https://t.co/okbK5pmH7c",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bendreyfuss",
+					"name": "Ben Dreyfuss",
+					"id": 18269124,
+					"id_str": "18269124",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "jbarro",
+					"name": "Josh Barro",
+					"id": 16244449,
+					"id_str": "16244449",
+					"indices": [
+						13,
+						20
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1091785349989314600,
+					"id_str": "1091785349989314562",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/DybM_cUWsAIY8l6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DybM_cUWsAIY8l6.jpg",
+					"url": "https://t.co/okbK5pmH7c",
+					"display_url": "pic.twitter.com/okbK5pmH7c",
+					"expanded_url": "https://twitter.com/katherinemiller/status/1091785353965563904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1091785349989314600,
+					"id_str": "1091785349989314562",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/DybM_cUWsAIY8l6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DybM_cUWsAIY8l6.jpg",
+					"url": "https://t.co/okbK5pmH7c",
+					"display_url": "pic.twitter.com/okbK5pmH7c",
+					"expanded_url": "https://twitter.com/katherinemiller/status/1091785353965563904/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1091775582659059700,
+		"in_reply_to_status_id_str": "1091775582659059712",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 15741036,
+			"id_str": "15741036",
+			"name": "Katherine Miller",
+			"screen_name": "katherinemiller",
+			"location": "New York",
+			"description": "Edit features + write about politics @BuzzFeedNews. I like to joke around. katherine.miller@buzzfeed.com",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 54931,
+			"friends_count": 1739,
 			"listed_count": 1793,
 			"created_at": "Tue Aug 05 20:09:58 +0000 2008",
 			"favourites_count": 691,
