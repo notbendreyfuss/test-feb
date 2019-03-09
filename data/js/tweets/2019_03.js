@@ -1,6 +1,122 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Fri Mar 08 20:43:28 +0000 2019",
+		"id": 1104118783159889900,
+		"id_str": "1104120469228265472",
+		"full_text": "Thrilled by two new hires: The brilliant @tcraggs22 is MoJo's Enterprise Editor; he'll be a font of great ideas and pieces of his own. And, from a slightly different era of the Gawker-Fusion-Gizmodo universe, @danielkingtime will now be getting copy-editing ducks in a row. WOOT!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tcraggs22",
+					"name": "Tommy Craggs",
+					"id": 41293059,
+					"id_str": "41293059",
+					"indices": [
+						41,
+						51
+					]
+				},
+				{
+					"screen_name": "danielkingtime",
+					"name": "Daniel King",
+					"id": 821601956804304900,
+					"id_str": "821601956804304896",
+					"indices": [
+						209,
+						224
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 43412697,
+			"id_str": "43412697",
+			"name": "Clara Jeffery",
+			"screen_name": "ClaraJeffery",
+			"location": "ÜT: 37.770364,-122.410351",
+			"description": "Editor-in-Chief of Mother Jones. Mom. Living in a powder keg and giving off sparks.",
+			"url": "https://t.co/Qc0aAQ7IMx",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Qc0aAQ7IMx",
+							"expanded_url": "http://motherjones.com",
+							"display_url": "motherjones.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 111718,
+			"friends_count": 2034,
+			"listed_count": 3034,
+			"created_at": "Fri May 29 21:22:46 +0000 2009",
+			"favourites_count": 30092,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 171360,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/793482716947677188/cgeFNqv__normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/793482716947677188/cgeFNqv__normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/43412697/1398196808",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 132,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Thrilled by two new hires: The brilliant @tcraggs22 is MoJo's Enterprise Editor; he'll be a font of great ideas and pieces of his own. And, from a slightly different era of the Gawker-Fusion-Gizmodo universe, @danielkingtime will now be getting copy-editing ducks in a row. WOOT!"
+	},
+	{
 		"created_at": "Thu Mar 07 23:07:09 +0000 2019",
 		"id": 1103794243481538600,
 		"id_str": "1103794243481538561",
