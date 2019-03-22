@@ -1,6 +1,841 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 21 19:21:39 +0000 2019",
+		"id": 1108810922473095200,
+		"id_str": "1108810922473095168",
+		"full_text": "JESUS, like WIRED and TIME, apparently has to be styled in all-caps. https://t.co/pkRcAhLTme",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1108810875492655100,
+					"id_str": "1108810875492655104",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/D2NJndTUYAATYL1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2NJndTUYAATYL1.jpg",
+					"url": "https://t.co/pkRcAhLTme",
+					"display_url": "pic.twitter.com/pkRcAhLTme",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1108810922473095168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1108810875492655100,
+					"id_str": "1108810875492655104",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/D2NJndTUYAATYL1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2NJndTUYAATYL1.jpg",
+					"url": "https://t.co/pkRcAhLTme",
+					"display_url": "pic.twitter.com/pkRcAhLTme",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1108810922473095168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\"  (Editorial Director for Growth, Strategy, & SoulCycle, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42196,
+			"friends_count": 188,
+			"listed_count": 879,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 67766,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 235,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "JESUS, like WIRED and TIME, apparently has to be styled in all-caps. https://t.co/pkRcAhLTme"
+	},
+	{
+		"created_at": "Thu Mar 21 16:57:12 +0000 2019",
+		"id": 1108774572839465000,
+		"id_str": "1108774572839464965",
+		"full_text": "@NickBaumann I unfollowed everyone with an automated script a few weeks ago!!! I've been slowly adding people back!!!!!!",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			120
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NickBaumann",
+					"name": "Nick Baumann",
+					"id": 18164272,
+					"id_str": "18164272",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1108773192729067500,
+		"in_reply_to_status_id_str": "1108773192729067521",
+		"in_reply_to_user_id": 18164272,
+		"in_reply_to_user_id_str": "18164272",
+		"in_reply_to_screen_name": "NickBaumann",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\"  (Editorial Director for Growth, Strategy, & SoulCycle, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42196,
+			"friends_count": 188,
+			"listed_count": 879,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 67766,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 235,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NickBaumann I unfollowed everyone with an automated script a few weeks ago!!! I've been slowly adding people back!!!!!!"
+	},
+	{
+		"created_at": "Thu Mar 21 16:49:00 +0000 2019",
+		"id": 1108772509241860100,
+		"id_str": "1108772509241860097",
+		"full_text": "Wow I feel so seen https://t.co/hFSH0DmfV3 https://t.co/liIsloQe2C",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hFSH0DmfV3",
+					"expanded_url": "https://apple.news/AIekF7DLZT8qJPgduOp0dLw",
+					"display_url": "apple.news/AIekF7DLZT8qJP…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1108772415138463700,
+					"id_str": "1108772415138463744",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/D2MmoxUUgAAM0l9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2MmoxUUgAAM0l9.jpg",
+					"url": "https://t.co/liIsloQe2C",
+					"display_url": "pic.twitter.com/liIsloQe2C",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1108772509241860097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 484,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 855,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1578,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1108772415138463700,
+					"id_str": "1108772415138463744",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/D2MmoxUUgAAM0l9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2MmoxUUgAAM0l9.jpg",
+					"url": "https://t.co/liIsloQe2C",
+					"display_url": "pic.twitter.com/liIsloQe2C",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1108772509241860097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 484,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 855,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1124,
+							"h": 1578,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1108772415566274600,
+					"id_str": "1108772415566274560",
+					"indices": [
+						43,
+						66
+					],
+					"media_url": "http://pbs.twimg.com/media/D2Mmoy6UYAAsKmZ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2Mmoy6UYAAsKmZ.jpg",
+					"url": "https://t.co/liIsloQe2C",
+					"display_url": "pic.twitter.com/liIsloQe2C",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1108772509241860097/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1125,
+							"h": 1011,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 1011,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 611,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\"  (Editorial Director for Growth, Strategy, & SoulCycle, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42196,
+			"friends_count": 188,
+			"listed_count": 879,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 67766,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 235,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wow I feel so seen https://t.co/hFSH0DmfV3 https://t.co/liIsloQe2C"
+	},
+	{
+		"created_at": "Thu Mar 21 13:19:06 +0000 2019",
+		"id": 1108719686676410400,
+		"id_str": "1108719686676410369",
+		"full_text": "KIX are great. Everyone loves kix.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1108719412180193300,
+		"in_reply_to_status_id_str": "1108719412180193280",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\"  (Editorial Director for Growth, Strategy, & SoulCycle, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42196,
+			"friends_count": 188,
+			"listed_count": 879,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 67766,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 235,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "KIX are great. Everyone loves kix."
+	},
+	{
+		"created_at": "Thu Mar 21 13:18:01 +0000 2019",
+		"id": 1108719412180193300,
+		"id_str": "1108719412180193280",
+		"full_text": "The best cereal in this bracket is raising bran but the actual best cereal is KIX. https://t.co/NgLyekeepz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NgLyekeepz",
+					"expanded_url": "https://twitter.com/sbnation/status/1108417012831870976",
+					"display_url": "twitter.com/sbnation/statu…",
+					"indices": [
+						83,
+						106
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\"  (Editorial Director for Growth, Strategy, & SoulCycle, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42196,
+			"friends_count": 188,
+			"listed_count": 879,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 67766,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 235,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1108417012831871000,
+		"quoted_status_id_str": "1108417012831870976",
+		"quoted_status_permalink": {
+			"url": "https://t.co/NgLyekeepz",
+			"expanded": "https://twitter.com/sbnation/status/1108417012831870976",
+			"display": "twitter.com/sbnation/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 20 17:16:23 +0000 2019",
+			"id": 1108417012831871000,
+			"id_str": "1108417012831870976",
+			"full_text": "BREAKFAST CEREAL BRACKET LETS  GO https://t.co/ZJhNq6tQ0b",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				33
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1108417008390103000,
+						"id_str": "1108417008390103040",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/media/D2HjZYAX4AANSSf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D2HjZYAX4AANSSf.jpg",
+						"url": "https://t.co/ZJhNq6tQ0b",
+						"display_url": "pic.twitter.com/ZJhNq6tQ0b",
+						"expanded_url": "https://twitter.com/SBNation/status/1108417012831870976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1571,
+								"h": 1234,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 534,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 943,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1108417008390103000,
+						"id_str": "1108417008390103040",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/media/D2HjZYAX4AANSSf.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D2HjZYAX4AANSSf.jpg",
+						"url": "https://t.co/ZJhNq6tQ0b",
+						"display_url": "pic.twitter.com/ZJhNq6tQ0b",
+						"expanded_url": "https://twitter.com/SBNation/status/1108417012831870976/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1571,
+								"h": 1234,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 534,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 943,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16745015,
+				"id_str": "16745015",
+				"name": "SB Nation",
+				"screen_name": "SBNation",
+				"location": "",
+				"description": "Come fan with us! 👇https://t.co/FXqGNlphxN for 📽 https://t.co/i88DmRfQEC for 🎨",
+				"url": "https://t.co/mlylfVPR3G",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mlylfVPR3G",
+								"expanded_url": "http://sbnation.com",
+								"display_url": "sbnation.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/FXqGNlphxN",
+								"expanded_url": "http://youtube.com/sbnation",
+								"display_url": "youtube.com/sbnation",
+								"indices": [
+									19,
+									42
+								]
+							},
+							{
+								"url": "https://t.co/i88DmRfQEC",
+								"expanded_url": "http://instagram.com/sbnation",
+								"display_url": "instagram.com/sbnation",
+								"indices": [
+									49,
+									72
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 305288,
+				"friends_count": 988,
+				"listed_count": 5430,
+				"created_at": "Tue Oct 14 20:17:11 +0000 2008",
+				"favourites_count": 6917,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 285499,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "BBB8B7",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/968564028380348416/dClsfgm7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/968564028380348416/dClsfgm7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16745015/1504021586",
+				"profile_link_color": "C52126",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E4E4E4",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 471,
+			"favorite_count": 1526,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The best cereal in this bracket is raising bran but the actual best cereal is KIX. https://t.co/NgLyekeepz"
+	},
+	{
 		"created_at": "Thu Mar 21 02:33:38 +0000 2019",
 		"id": 1108557245707509800,
 		"id_str": "1108557245707509760",
