@@ -1,6 +1,1048 @@
 Grailbird.data.tweets_2019_03 = 
 [
 	{
+		"created_at": "Thu Mar 28 01:38:19 +0000 2019",
+		"id": 1111080042988273700,
+		"id_str": "1111080042988273665",
+		"full_text": "Robert Moses was terrible but this is pretty funny. https://t.co/IsJaXrEgwr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1111080038408089600,
+					"id_str": "1111080038408089600",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/D2tZaH5XcAAbVuO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2tZaH5XcAAbVuO.jpg",
+					"url": "https://t.co/IsJaXrEgwr",
+					"display_url": "pic.twitter.com/IsJaXrEgwr",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1111080042988273665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1111080038408089600,
+					"id_str": "1111080038408089600",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/D2tZaH5XcAAbVuO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2tZaH5XcAAbVuO.jpg",
+					"url": "https://t.co/IsJaXrEgwr",
+					"display_url": "pic.twitter.com/IsJaXrEgwr",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1111080042988273665/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\"  (Editorial Director for Growth, Strategy, & SoulCycle, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42180,
+			"friends_count": 222,
+			"listed_count": 881,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 67879,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 268,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Robert Moses was terrible but this is pretty funny. https://t.co/IsJaXrEgwr"
+	},
+	{
+		"created_at": "Thu Mar 28 00:40:32 +0000 2019",
+		"id": 1111062454883229700,
+		"id_str": "1111065500820344834",
+		"full_text": "Save local news https://t.co/ieU1sesxVT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ieU1sesxVT",
+					"expanded_url": "https://twitter.com/g0negirlll/status/1110968428100288513",
+					"display_url": "twitter.com/g0negirlll/sta…",
+					"indices": [
+						16,
+						39
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 208725869,
+			"id_str": "208725869",
+			"name": "Taylor Lorenz",
+			"screen_name": "TaylorLorenz",
+			"location": "Brooklyn, NY",
+			"description": "Staff writer @TheAtlantic. I write about internet culture.",
+			"url": "https://t.co/sUUeBpX2tT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/sUUeBpX2tT",
+							"expanded_url": "http://www.instagram.com/taylorlorenz",
+							"display_url": "instagram.com/taylorlorenz",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 73344,
+			"friends_count": 4140,
+			"listed_count": 1546,
+			"created_at": "Wed Oct 27 20:40:40 +0000 2010",
+			"favourites_count": 160787,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 483,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1106387537105506304/cJD1Q7GQ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1106387537105506304/cJD1Q7GQ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/208725869/1536423037",
+			"profile_link_color": "696969",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1110968428100288500,
+		"quoted_status_id_str": "1110968428100288513",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ieU1sesxVT",
+			"expanded": "https://twitter.com/g0negirlll/status/1110968428100288513",
+			"display": "twitter.com/g0negirlll/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 27 18:14:48 +0000 2019",
+			"id": 1110968428100288500,
+			"id_str": "1110968428100288513",
+			"full_text": "i cannot believe this is my city’s news station...i cannot believe this is real https://t.co/MBfa7Zu5E6",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				79
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1110968320776388600,
+						"id_str": "1110968320776388608",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1110968320776388608/pu/img/mw9cUkxwghO2z_w0.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1110968320776388608/pu/img/mw9cUkxwghO2z_w0.jpg",
+						"url": "https://t.co/MBfa7Zu5E6",
+						"display_url": "pic.twitter.com/MBfa7Zu5E6",
+						"expanded_url": "https://twitter.com/G0NEGIRLLL/status/1110968428100288513/video/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 398,
+								"h": 224,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 398,
+								"h": 224,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 398,
+								"h": 224,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1110968320776388600,
+						"id_str": "1110968320776388608",
+						"indices": [
+							80,
+							103
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1110968320776388608/pu/img/mw9cUkxwghO2z_w0.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1110968320776388608/pu/img/mw9cUkxwghO2z_w0.jpg",
+						"url": "https://t.co/MBfa7Zu5E6",
+						"display_url": "pic.twitter.com/MBfa7Zu5E6",
+						"expanded_url": "https://twitter.com/G0NEGIRLLL/status/1110968428100288513/video/1",
+						"type": "video",
+						"sizes": {
+							"large": {
+								"w": 398,
+								"h": 224,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 398,
+								"h": 224,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 398,
+								"h": 224,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								199,
+								112
+							],
+							"duration_millis": 37421,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1110968320776388608/pu/vid/398x224/VKM6cLBCljtU__mb.mp4?tag=8"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1110968320776388608/pu/pl/kaDgz_Wko8Dh13q6.m3u8?tag=8"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 874747150869176300,
+				"id_str": "874747150869176324",
+				"name": "space goth coast 2 coast  🗡",
+				"screen_name": "G0NEGIRLLL",
+				"location": "Toledo, OH",
+				"description": "has anyone ever told you? you move like a corpse   (she/her)",
+				"url": "https://t.co/evIwY8aC2m",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/evIwY8aC2m",
+								"expanded_url": "http://letterboxd.com/thelovevvitch",
+								"display_url": "letterboxd.com/thelovevvitch",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2981,
+				"friends_count": 2370,
+				"listed_count": 103,
+				"created_at": "Tue Jun 13 21:55:47 +0000 2017",
+				"favourites_count": 45954,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 37225,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1097181829583593473/0zthsnyc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1097181829583593473/0zthsnyc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/874747150869176324/1552679742",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 11876,
+			"favorite_count": 47074,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 77,
+		"favorite_count": 389,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Save local news https://t.co/ieU1sesxVT"
+	},
+	{
+		"created_at": "Wed Mar 27 22:19:50 +0000 2019",
+		"id": 1111030091595812900,
+		"id_str": "1111030091595812864",
+		"full_text": "things seem to be going well in britain https://t.co/Npb2k1y28X",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1111030080963260400,
+					"id_str": "1111030080963260418",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/D2sr-N6WsAID5oi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2sr-N6WsAID5oi.jpg",
+					"url": "https://t.co/Npb2k1y28X",
+					"display_url": "pic.twitter.com/Npb2k1y28X",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1111030091595812864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1828,
+							"h": 388,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 144,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 255,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1111030080963260400,
+					"id_str": "1111030080963260418",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/D2sr-N6WsAID5oi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D2sr-N6WsAID5oi.jpg",
+					"url": "https://t.co/Npb2k1y28X",
+					"display_url": "pic.twitter.com/Npb2k1y28X",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1111030091595812864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1828,
+							"h": 388,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 144,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 255,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\"  (Editorial Director for Growth, Strategy, & SoulCycle, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42180,
+			"friends_count": 222,
+			"listed_count": 881,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 67879,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 268,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "things seem to be going well in britain https://t.co/Npb2k1y28X"
+	},
+	{
+		"created_at": "Wed Mar 27 20:42:20 +0000 2019",
+		"id": 1111005517227413500,
+		"id_str": "1111005557081686023",
+		"full_text": "My debut post as a digital media fellow at Mother Jones is on a topic near and dear to my heart\nhttps://t.co/PMQZx2X9uY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PMQZx2X9uY",
+					"expanded_url": "https://www.motherjones.com/food/2019/03/people-are-very-upset-about-the-way-this-dude-cuts-his-bagels/",
+					"display_url": "motherjones.com/food/2019/03/p…",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 279709111,
+			"id_str": "279709111",
+			"name": "Abigail Weinberg",
+			"screen_name": "abigailweinberg",
+			"location": "New York",
+			"description": "digital media fellow @MotherJones. previously @amNewYork and @nyunews. overlooked workhorse of the underbelly of football.",
+			"url": "https://t.co/rBJo4SK555",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/rBJo4SK555",
+							"expanded_url": "http://www.abigailweinberg.me",
+							"display_url": "abigailweinberg.me",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 528,
+			"friends_count": 470,
+			"listed_count": 8,
+			"created_at": "Sat Apr 09 21:11:21 +0000 2011",
+			"favourites_count": 11346,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 8168,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/874437536353058816/IKDFVWZL_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/874437536353058816/IKDFVWZL_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/279709111/1448936365",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 54,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "My debut post as a digital media fellow at Mother Jones is on a topic near and dear to my heart\nhttps://t.co/PMQZx2X9uY"
+	},
+	{
+		"created_at": "Wed Mar 27 20:06:56 +0000 2019",
+		"id": 1110996647742447600,
+		"id_str": "1110996647742447616",
+		"full_text": "I went to a Vice Christmas party a really long time ago where the dude went on stage and then gave every Vice employee there a thousand dollars. Seems like this settlement isn’t enough! https://t.co/tTC56mKjdW",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			185
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tTC56mKjdW",
+					"expanded_url": "https://twitter.com/JaneLytv/status/1110996016407433217",
+					"display_url": "twitter.com/JaneLytv/statu…",
+					"indices": [
+						186,
+						209
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\"  (Editorial Director for Growth, Strategy, & SoulCycle, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42180,
+			"friends_count": 222,
+			"listed_count": 881,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 67879,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 268,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1110996016407433200,
+		"quoted_status_id_str": "1110996016407433217",
+		"quoted_status_permalink": {
+			"url": "https://t.co/tTC56mKjdW",
+			"expanded": "https://twitter.com/JaneLytv/status/1110996016407433217",
+			"display": "twitter.com/JaneLytv/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Mar 27 20:04:26 +0000 2019",
+			"id": 1110996016407433200,
+			"id_str": "1110996016407433217",
+			"full_text": "That's $625,000 for the lawyers and roughly $1,800 for each employee involved in the suit. https://t.co/gm4RvRaC24",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				90
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gm4RvRaC24",
+						"expanded_url": "https://twitter.com/business/status/1110993075780968448",
+						"display_url": "twitter.com/business/statu…",
+						"indices": [
+							91,
+							114
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 65284273,
+				"id_str": "65284273",
+				"name": "Jane Lytvynenko 🤦🏽‍♀️🤦🏽‍♀️🤦🏽‍♀️",
+				"screen_name": "JaneLytv",
+				"location": "Toronto, Ontario",
+				"description": "reporting on platforms, disinformation, fakes, scams & fraud • send story ideas & tips: jane.lytvynenko@buzzfeed.com • DMs open • ask for Signal number",
+				"url": "https://t.co/l4mA7I2ahX",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/l4mA7I2ahX",
+								"expanded_url": "https://www.buzzfeednews.com/article/janelytvynenko",
+								"display_url": "buzzfeednews.com/article/janely…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14511,
+				"friends_count": 3918,
+				"listed_count": 424,
+				"created_at": "Thu Aug 13 05:20:45 +0000 2009",
+				"favourites_count": 26979,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 31105,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "050505",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1095468162236145664/0jIqJHfv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1095468162236145664/0jIqJHfv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/65284273/1543591181",
+				"profile_link_color": "ABB8C2",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "C2C2C2",
+				"profile_text_color": "362720",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1110993075780968400,
+			"quoted_status_id_str": "1110993075780968448",
+			"quoted_status_permalink": {
+				"url": "https://t.co/gm4RvRaC24",
+				"expanded": "https://twitter.com/business/status/1110993075780968448",
+				"display": "twitter.com/business/statu…"
+			},
+			"retweet_count": 65,
+			"favorite_count": 199,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I went to a Vice Christmas party a really long time ago where the dude went on stage and then gave every Vice employee there a thousand dollars. Seems like this settlement isn’t enough! https://t.co/tTC56mKjdW"
+	},
+	{
+		"created_at": "Wed Mar 27 17:25:35 +0000 2019",
+		"id": 1110733949377146900,
+		"id_str": "1110956040051408897",
+		"full_text": "*Avengers: Endgame, opening scene, 1 month later*\n\nCaptain America (crying): \"I'm still so sad.\"\n\nBlack Widow: \"We need to do something fun. Let's go see Oates in concert.\"\n\nCaptain America: \"Just Oates? What about Ha... oh right...\" (more crying)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15765431,
+			"id_str": "15765431",
+			"name": "Jeff Lyons",
+			"screen_name": "usedwigs",
+			"location": "Philly",
+			"description": "Executive Producer of 'Nephew Swap'",
+			"url": "https://t.co/Eo74vV38QN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eo74vV38QN",
+							"expanded_url": "http://usedwigs.com",
+							"display_url": "usedwigs.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10567,
+			"friends_count": 875,
+			"listed_count": 361,
+			"created_at": "Thu Aug 07 16:32:49 +0000 2008",
+			"favourites_count": 74543,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 9125,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "4E4E9A",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/458705648666955777/VTw43QN__normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/458705648666955777/VTw43QN__normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/15765431/1516540575",
+			"profile_link_color": "181968",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFEFDA",
+			"profile_text_color": "121249",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 9646,
+		"favorite_count": 48278,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "*Avengers: Endgame, opening scene, 1 month later*\n\nCaptain America (crying): \"I'm still so sad.\"\n\nBlack Widow: \"We need to do something fun. Let's go see Oates in concert.\"\n\nCaptain America: \"Just Oates? What about Ha... oh right...\" (more crying)"
+	},
+	{
 		"created_at": "Wed Mar 27 00:42:16 +0000 2019",
 		"id": 1110703549049172000,
 		"id_str": "1110703549049171968",
