@@ -1,6 +1,334 @@
 Grailbird.data.tweets_2019_04 = 
 [
 	{
+		"created_at": "Mon Apr 08 23:32:09 +0000 2019",
+		"id": 1115395983632891900,
+		"id_str": "1115396945940570112",
+		"full_text": "Tipping 20 percent was standard when I waited tables from 99 to 2006 so if you’re doing less than that now you’re a cop https://t.co/AkvLRSsTsN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AkvLRSsTsN",
+					"expanded_url": "https://twitter.com/cnbc/status/1115080069221949440",
+					"display_url": "twitter.com/cnbc/status/11…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 11361262,
+			"id_str": "11361262",
+			"name": "Laura June",
+			"screen_name": "laura_june",
+			"location": "NYC",
+			"description": "Emma Carmichael. Writer. laurajunetopolsky@gmail.com “the founder’s wife”",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 13441,
+			"friends_count": 2009,
+			"listed_count": 634,
+			"created_at": "Thu Dec 20 04:28:34 +0000 2007",
+			"favourites_count": 34128,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 907,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "FFFFFF",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1099067115745746944/ZxCnEg9o_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1099067115745746944/ZxCnEg9o_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/11361262/1530808489",
+			"profile_link_color": "7FDBB6",
+			"profile_sidebar_border_color": "87BC44",
+			"profile_sidebar_fill_color": "E0FF92",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1115080069221949400,
+		"quoted_status_id_str": "1115080069221949440",
+		"quoted_status_permalink": {
+			"url": "https://t.co/AkvLRSsTsN",
+			"expanded": "https://twitter.com/cnbc/status/1115080069221949440",
+			"display": "twitter.com/cnbc/status/11…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 08 02:33:00 +0000 2019",
+			"id": 1115080069221949400,
+			"id_str": "1115080069221949440",
+			"full_text": "This simple tipping trick could save you over $400 a year: https://t.co/MhES06lRHl via @CNBCMakeIt https://t.co/SRp8L6FFYb",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				98
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "CNBCMakeIt",
+						"name": "CNBC Make It",
+						"id": 514513113,
+						"id_str": "514513113",
+						"indices": [
+							87,
+							98
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/MhES06lRHl",
+						"expanded_url": "https://cnb.cx/2EtxYsr",
+						"display_url": "cnb.cx/2EtxYsr",
+						"indices": [
+							59,
+							82
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 963175752442241000,
+						"id_str": "963175752442241025",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/DV3kzTtX0AEPBk6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DV3kzTtX0AEPBk6.jpg",
+						"url": "https://t.co/SRp8L6FFYb",
+						"display_url": "pic.twitter.com/SRp8L6FFYb",
+						"expanded_url": "https://twitter.com/CNBC/status/1115080069221949440/video/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 963175752442241000,
+						"id_str": "963175752442241025",
+						"indices": [
+							99,
+							122
+						],
+						"media_url": "http://pbs.twimg.com/media/DV3kzTtX0AEPBk6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DV3kzTtX0AEPBk6.jpg",
+						"url": "https://t.co/SRp8L6FFYb",
+						"display_url": "pic.twitter.com/SRp8L6FFYb",
+						"expanded_url": "https://twitter.com/CNBC/status/1115080069221949440/video/1",
+						"type": "video",
+						"sizes": {
+							"medium": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 640,
+								"h": 640,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 127169,
+							"variants": [
+								{
+									"bitrate": 320000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/963175752442241025/vid/240x240/4snyS8-2v3R1H2T8.mp4"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/963175752442241025/pl/8t0LgeY14QtNVFxY.m3u8"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/963175752442241025/vid/480x480/S1gTPb7qRuC7GgV_.mp4"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "This simple tipping trick could save you over $400 a year. ",
+							"description": "There are rules when it comes to tipping, but this trick can save you money without making you look cheap. ",
+							"call_to_actions": {
+								"visit_site": {
+									"url": "https://cnb.cx/2K3AbLq"
+								}
+							},
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 20402945,
+				"id_str": "20402945",
+				"name": "CNBC",
+				"screen_name": "CNBC",
+				"location": "Englewood Cliffs, NJ",
+				"description": "First in business worldwide.",
+				"url": "https://t.co/fdcFKDtOzb",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/fdcFKDtOzb",
+								"expanded_url": "https://www.cnbc.com/",
+								"display_url": "cnbc.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3131158,
+				"friends_count": 661,
+				"listed_count": 27289,
+				"created_at": "Mon Feb 09 00:03:41 +0000 2009",
+				"favourites_count": 181,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 271469,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0D181F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1053251132997406721/tEutxMDC_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1053251132997406721/tEutxMDC_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/20402945/1533568341",
+				"profile_link_color": "2D648A",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EAEBEA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 223,
+			"favorite_count": 1209,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 8,
+		"favorite_count": 41,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Tipping 20 percent was standard when I waited tables from 99 to 2006 so if you’re doing less than that now you’re a cop https://t.co/AkvLRSsTsN"
+	},
+	{
 		"created_at": "Sun Apr 07 23:26:54 +0000 2019",
 		"id": 1115033234205749200,
 		"id_str": "1115033234205749248",
