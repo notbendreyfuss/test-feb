@@ -1,6 +1,1443 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Wed May 08 03:15:52 +0000 2019",
+		"id": 1125962495527739400,
+		"id_str": "1125962495527739392",
+		"full_text": "@andylevy @anthonyLfisher oj waited to say that until vegas",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "andylevy",
+					"name": "your pal andy",
+					"id": 7841652,
+					"id_str": "7841652",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "anthonyLfisher",
+					"name": "Anthony L. Fisher",
+					"id": 19768173,
+					"id_str": "19768173",
+					"indices": [
+						10,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1125962297741070300,
+		"in_reply_to_status_id_str": "1125962297741070336",
+		"in_reply_to_user_id": 7841652,
+		"in_reply_to_user_id_str": "7841652",
+		"in_reply_to_screen_name": "andylevy",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\"  (Editorial Director for Growth, Strategy, & SoulCycle, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42648,
+			"friends_count": 385,
+			"listed_count": 886,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 68442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 390,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@andylevy @anthonyLfisher oj waited to say that until vegas"
+	},
+	{
+		"created_at": "Wed May 08 03:14:36 +0000 2019",
+		"id": 1125962176857092100,
+		"id_str": "1125962176857092099",
+		"full_text": "@andylevy @anthonyLfisher That was a good 1",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "andylevy",
+					"name": "your pal andy",
+					"id": 7841652,
+					"id_str": "7841652",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "anthonyLfisher",
+					"name": "Anthony L. Fisher",
+					"id": 19768173,
+					"id_str": "19768173",
+					"indices": [
+						10,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1125962099014815700,
+		"in_reply_to_status_id_str": "1125962099014815744",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\"  (Editorial Director for Growth, Strategy, & SoulCycle, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42648,
+			"friends_count": 385,
+			"listed_count": 886,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 68442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 390,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@andylevy @anthonyLfisher That was a good 1"
+	},
+	{
+		"created_at": "Wed May 08 03:14:18 +0000 2019",
+		"id": 1125962099014815700,
+		"id_str": "1125962099014815744",
+		"full_text": "@andylevy @anthonyLfisher Hahahhahahhahhahahhahahhahahha",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "andylevy",
+					"name": "your pal andy",
+					"id": 7841652,
+					"id_str": "7841652",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "anthonyLfisher",
+					"name": "Anthony L. Fisher",
+					"id": 19768173,
+					"id_str": "19768173",
+					"indices": [
+						10,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1125962045373984800,
+		"in_reply_to_status_id_str": "1125962045373984768",
+		"in_reply_to_user_id": 7841652,
+		"in_reply_to_user_id_str": "7841652",
+		"in_reply_to_screen_name": "andylevy",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\"  (Editorial Director for Growth, Strategy, & SoulCycle, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42648,
+			"friends_count": 385,
+			"listed_count": 886,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 68442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 390,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "it",
+		"text": "@andylevy @anthonyLfisher Hahahhahahhahhahahhahahhahahha"
+	},
+	{
+		"created_at": "Wed May 08 03:13:11 +0000 2019",
+		"id": 1125961429528584200,
+		"id_str": "1125961820290867201",
+		"full_text": "@andylevy @anthonyLfisher My mystery subscription box has sent me the following things in the last 4 months:\n1. A martini set (with vermouth atomizer)\n2. A brew your own beer set up\n3. A grow your own herbs kit\n4. A knife\n\nThe only thing I've used is the herb kit which is nice &amp; I'll have basil by fall!",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			308
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "andylevy",
+					"name": "your pal andy",
+					"id": 7841652,
+					"id_str": "7841652",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "anthonyLfisher",
+					"name": "Anthony L. Fisher",
+					"id": 19768173,
+					"id_str": "19768173",
+					"indices": [
+						10,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1125959355055190000,
+		"in_reply_to_status_id_str": "1125959355055190016",
+		"in_reply_to_user_id": 7841652,
+		"in_reply_to_user_id_str": "7841652",
+		"in_reply_to_screen_name": "andylevy",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\"  (Editorial Director for Growth, Strategy, & SoulCycle, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42648,
+			"friends_count": 385,
+			"listed_count": 886,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 68442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 390,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@andylevy @anthonyLfisher My mystery subscription box has sent me the following things in the last 4 months:\n1. A martini set (with vermouth atomizer)\n2. A brew your own beer set up\n3. A grow your own herbs kit\n4. A knife\n\nThe only thing I've used is the herb kit which is nice &amp; I'll have basil by fall!"
+	},
+	{
+		"created_at": "Wed May 08 03:11:38 +0000 2019",
+		"id": 1125961429528584200,
+		"id_str": "1125961429528584192",
+		"full_text": "@andylevy @anthonyLfisher My mystery subscription box has sent me the following things in the last 4 months:\n1. A martini set (with vermouth atomizer)\n2. A brew your own beer set up\n3. A grow your own herbs kit\n4. A knife\n\nThe only thing I've used is the herb kit which is nice &amp; I'll have basil by fall!",
+		"truncated": false,
+		"display_text_range": [
+			26,
+			308
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "andylevy",
+					"name": "your pal andy",
+					"id": 7841652,
+					"id_str": "7841652",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "anthonyLfisher",
+					"name": "Anthony L. Fisher",
+					"id": 19768173,
+					"id_str": "19768173",
+					"indices": [
+						10,
+						25
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1125959355055190000,
+		"in_reply_to_status_id_str": "1125959355055190016",
+		"in_reply_to_user_id": 7841652,
+		"in_reply_to_user_id_str": "7841652",
+		"in_reply_to_screen_name": "andylevy",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\"  (Editorial Director for Growth, Strategy, & SoulCycle, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42648,
+			"friends_count": 385,
+			"listed_count": 886,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 68442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 390,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@andylevy @anthonyLfisher My mystery subscription box has sent me the following things in the last 4 months:\n1. A martini set (with vermouth atomizer)\n2. A brew your own beer set up\n3. A grow your own herbs kit\n4. A knife\n\nThe only thing I've used is the herb kit which is nice &amp; I'll have basil by fall!"
+	},
+	{
+		"created_at": "Wed May 08 03:07:13 +0000 2019",
+		"id": 1125960318625157100,
+		"id_str": "1125960318625157122",
+		"full_text": "I get a subscription box. It's a \"mystery box.\" I get the dumbest shit on Earth. I'm not the typical American. I have more disposable income than 80% of Americans. I am stupider than 90% of Americans. But at $40, I apparently spend less on subscription boxes than 95% of Americans",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1125955597323710500,
+		"in_reply_to_status_id_str": "1125955597323710465",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\"  (Editorial Director for Growth, Strategy, & SoulCycle, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42648,
+			"friends_count": 385,
+			"listed_count": 886,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 68442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 390,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 125,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I get a subscription box. It's a \"mystery box.\" I get the dumbest shit on Earth. I'm not the typical American. I have more disposable income than 80% of Americans. I am stupider than 90% of Americans. But at $40, I apparently spend less on subscription boxes than 95% of Americans"
+	},
+	{
+		"created_at": "Wed May 08 02:49:14 +0000 2019",
+		"id": 1125955789519302700,
+		"id_str": "1125955789519302656",
+		"full_text": "@ibflorea But coffee is a whole other category in the breakdown!",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ibflorea",
+					"name": "Ioana F",
+					"id": 30803956,
+					"id_str": "30803956",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1125955667007823900,
+		"in_reply_to_status_id_str": "1125955667007823872",
+		"in_reply_to_user_id": 30803956,
+		"in_reply_to_user_id_str": "30803956",
+		"in_reply_to_screen_name": "ibflorea",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\"  (Editorial Director for Growth, Strategy, & SoulCycle, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42648,
+			"friends_count": 385,
+			"listed_count": 886,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 68442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 390,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ibflorea But coffee is a whole other category in the breakdown!"
+	},
+	{
+		"created_at": "Wed May 08 02:48:28 +0000 2019",
+		"id": 1125955597323710500,
+		"id_str": "1125955597323710465",
+		"full_text": "Also, wait, I refuse to believe that the average American spends $94 on subscription boxes. I refuse to believe that most Americans even know what subscription boxes are.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1125955071206940700,
+		"in_reply_to_status_id_str": "1125955071206940672",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\"  (Editorial Director for Growth, Strategy, & SoulCycle, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42648,
+			"friends_count": 385,
+			"listed_count": 886,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 68442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 390,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 164,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Also, wait, I refuse to believe that the average American spends $94 on subscription boxes. I refuse to believe that most Americans even know what subscription boxes are."
+	},
+	{
+		"created_at": "Wed May 08 02:46:22 +0000 2019",
+		"id": 1125955071206940700,
+		"id_str": "1125955071206940672",
+		"full_text": "Everyone is mad at this obviously stupid story for lots of very good reasons but I feel like people aren't talking enough about why the icon for the \"drinks\" category is like a latte? https://t.co/Qvooop0DM6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			183
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Qvooop0DM6",
+					"expanded_url": "https://twitter.com/usatoday/status/1125891810595954688",
+					"display_url": "twitter.com/usatoday/statu…",
+					"indices": [
+						184,
+						207
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\"  (Editorial Director for Growth, Strategy, & SoulCycle, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42648,
+			"friends_count": 385,
+			"listed_count": 886,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 68442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 390,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1125891810595954700,
+		"quoted_status_id_str": "1125891810595954688",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Qvooop0DM6",
+			"expanded": "https://twitter.com/usatoday/status/1125891810595954688",
+			"display": "twitter.com/usatoday/statu…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 07 22:35:00 +0000 2019",
+			"id": 1125891810595954700,
+			"id_str": "1125891810595954688",
+			"full_text": "The average adult in the USA spends $1,497 a month on nonessential items. All told, that's roughly $18,000 a year on things we can all do without. https://t.co/KQ8wxFtduQ https://t.co/bpgVj94SaM",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				170
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KQ8wxFtduQ",
+						"expanded_url": "http://bit.ly/2vIbNZZ",
+						"display_url": "bit.ly/2vIbNZZ",
+						"indices": [
+							147,
+							170
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1125845121646452700,
+						"id_str": "1125845121646452737",
+						"indices": [
+							171,
+							194
+						],
+						"media_url": "http://pbs.twimg.com/media/D5_OLFPX4AEzm12.png",
+						"media_url_https": "https://pbs.twimg.com/media/D5_OLFPX4AEzm12.png",
+						"url": "https://t.co/bpgVj94SaM",
+						"display_url": "pic.twitter.com/bpgVj94SaM",
+						"expanded_url": "https://twitter.com/USATODAY/status/1125891810595954688/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1125845121646452700,
+						"id_str": "1125845121646452737",
+						"indices": [
+							171,
+							194
+						],
+						"media_url": "http://pbs.twimg.com/media/D5_OLFPX4AEzm12.png",
+						"media_url_https": "https://pbs.twimg.com/media/D5_OLFPX4AEzm12.png",
+						"url": "https://t.co/bpgVj94SaM",
+						"display_url": "pic.twitter.com/bpgVj94SaM",
+						"expanded_url": "https://twitter.com/USATODAY/status/1125891810595954688/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15754281,
+				"id_str": "15754281",
+				"name": "USA TODAY",
+				"screen_name": "USATODAY",
+				"location": "USA TODAY HQ, McLean, Va.",
+				"description": "The latest news and most interesting stories from USA TODAY. News that's meant to be shared.",
+				"url": "http://t.co/7xDl0vVHSt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/7xDl0vVHSt",
+								"expanded_url": "http://www.usatoday.com",
+								"display_url": "usatoday.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 3783781,
+				"friends_count": 529,
+				"listed_count": 33340,
+				"created_at": "Wed Aug 06 19:55:31 +0000 2008",
+				"favourites_count": 1951,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 284534,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "0092D0",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/924991591642796032/v90LrlR__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/924991591642796032/v90LrlR__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15754281/1509370165",
+				"profile_link_color": "0000FF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 423,
+			"favorite_count": 1131,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 8,
+		"favorite_count": 84,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Everyone is mad at this obviously stupid story for lots of very good reasons but I feel like people aren't talking enough about why the icon for the \"drinks\" category is like a latte? https://t.co/Qvooop0DM6"
+	},
+	{
+		"created_at": "Tue May 07 23:36:56 +0000 2019",
+		"id": 1125907397019566100,
+		"id_str": "1125907397019566081",
+		"full_text": "“In fact, year after year, Mr. Trump appears to have lost more money than nearly any other individual American taxpayer” https://t.co/QcZeB2vCnZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QcZeB2vCnZ",
+					"expanded_url": "https://www.nytimes.com/interactive/2019/05/07/us/politics/donald-trump-taxes.html?smid=fb-nytimes&smtyp=cur&sfns=mo",
+					"display_url": "nytimes.com/interactive/20…",
+					"indices": [
+						121,
+						144
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\"  (Editorial Director for Growth, Strategy, & SoulCycle, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42648,
+			"friends_count": 385,
+			"listed_count": 886,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 68442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 390,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“In fact, year after year, Mr. Trump appears to have lost more money than nearly any other individual American taxpayer” https://t.co/QcZeB2vCnZ"
+	},
+	{
+		"created_at": "Tue May 07 19:58:39 +0000 2019",
+		"id": 1125852465784664000,
+		"id_str": "1125852465784664067",
+		"full_text": "@TimHerrera @mccanner A few weeks ago I was in a restaurant and there were all these people dressed like witches and I googled “why are witches in restaurant” and now I keep getting served ads for like NYC: Witch Dinner. Haha",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			225
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "TimHerrera",
+					"name": "Internet Person™⭐️",
+					"id": 3248910245,
+					"id_str": "3248910245",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "mccanner",
+					"name": "erin mccann |",
+					"id": 42313640,
+					"id_str": "42313640",
+					"indices": [
+						12,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1125851882877071400,
+		"in_reply_to_status_id_str": "1125851882877071371",
+		"in_reply_to_user_id": 3248910245,
+		"in_reply_to_user_id_str": "3248910245",
+		"in_reply_to_screen_name": "TimHerrera",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\"  (Editorial Director for Growth, Strategy, & SoulCycle, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42648,
+			"friends_count": 385,
+			"listed_count": 886,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 68442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 390,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@TimHerrera @mccanner A few weeks ago I was in a restaurant and there were all these people dressed like witches and I googled “why are witches in restaurant” and now I keep getting served ads for like NYC: Witch Dinner. Haha"
+	},
+	{
+		"created_at": "Tue May 07 18:48:27 +0000 2019",
+		"id": 1125782492844306400,
+		"id_str": "1125834799975944192",
+		"full_text": "The thing about the \"just bring your reusable totes to the store, duh\" busybodies is the assumption you are driving a *car* to the store and the totes are in your trunk. What if I *walk* to the grocery store on my way home from work? https://t.co/aQZT2BtfpI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aQZT2BtfpI",
+					"expanded_url": "https://reason.com/2019/05/07/new-jersey-politician-wants-to-ban-all-bags-paper-or-plastic/",
+					"display_url": "reason.com/2019/05/07/new…",
+					"indices": [
+						234,
+						257
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16244449,
+			"id_str": "16244449",
+			"name": "Josh Barro",
+			"screen_name": "jbarro",
+			"location": "New York, New York",
+			"description": "Business columnist for @NYMag. Host of KCRW's Left, Right & Center. Cohost w/ @popehat of LRC Presents: All the President's Lawyers.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 245236,
+			"friends_count": 2350,
+			"listed_count": 5472,
+			"created_at": "Thu Sep 11 17:57:48 +0000 2008",
+			"favourites_count": 13353,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 55912,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1123676377973182465/4-BoC_lP_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1123676377973182465/4-BoC_lP_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16244449/1462471547",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 81,
+		"favorite_count": 545,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The thing about the \"just bring your reusable totes to the store, duh\" busybodies is the assumption you are driving a *car* to the store and the totes are in your trunk. What if I *walk* to the grocery store on my way home from work? https://t.co/aQZT2BtfpI"
+	},
+	{
+		"created_at": "Tue May 07 17:59:12 +0000 2019",
+		"id": 1125822404587139100,
+		"id_str": "1125822404587139073",
+		"full_text": "@frankpallotta Pirates of the Caribbean: The Legend of Curly's Gold",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "frankpallotta",
+					"name": "Frank Pallotta",
+					"id": 31422711,
+					"id_str": "31422711",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1125821581723340800,
+		"in_reply_to_status_id_str": "1125821581723340805",
+		"in_reply_to_user_id": 31422711,
+		"in_reply_to_user_id_str": "31422711",
+		"in_reply_to_screen_name": "frankpallotta",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\"  (Editorial Director for Growth, Strategy, & SoulCycle, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42648,
+			"friends_count": 385,
+			"listed_count": 886,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 68442,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 390,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@frankpallotta Pirates of the Caribbean: The Legend of Curly's Gold"
+	},
+	{
 		"created_at": "Mon May 06 23:19:52 +0000 2019",
 		"id": 1125540715445063700,
 		"id_str": "1125540715445063682",
