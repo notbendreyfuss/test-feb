@@ -1,6 +1,720 @@
 Grailbird.data.tweets_2019_05 = 
 [
 	{
+		"created_at": "Thu May 30 23:51:09 +0000 2019",
+		"id": 1134245897515278300,
+		"id_str": "1134245897515278336",
+		"full_text": "@ChristinaMRau Thank you!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChristinaMRau",
+					"name": "Christina M Rau 🖋📚🧘‍♀️🚀♍️©️",
+					"id": 254594651,
+					"id_str": "254594651",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1134222003999842300,
+		"in_reply_to_status_id_str": "1134222003999842309",
+		"in_reply_to_user_id": 254594651,
+		"in_reply_to_user_id_str": "254594651",
+		"in_reply_to_screen_name": "ChristinaMRau",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\" (Editorial Director, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42546,
+			"friends_count": 415,
+			"listed_count": 886,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 68977,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ChristinaMRau Thank you!"
+	},
+	{
+		"created_at": "Thu May 30 23:51:09 +0000 2019",
+		"id": 1134222003999842300,
+		"id_str": "1134245896097603584",
+		"full_text": "@bendreyfuss Here ya go. https://t.co/SPNhNVewpl",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bendreyfuss",
+					"name": "Ben Dreyfuss",
+					"id": 18269124,
+					"id_str": "18269124",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1134221998480089100,
+					"id_str": "1134221998480089088",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/D72Q5fPW4AAfK9x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D72Q5fPW4AAfK9x.jpg",
+					"url": "https://t.co/SPNhNVewpl",
+					"display_url": "pic.twitter.com/SPNhNVewpl",
+					"expanded_url": "https://twitter.com/ChristinaMRau/status/1134222003999842309/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1134221998480089100,
+					"id_str": "1134221998480089088",
+					"indices": [
+						25,
+						48
+					],
+					"media_url": "http://pbs.twimg.com/media/D72Q5fPW4AAfK9x.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/D72Q5fPW4AAfK9x.jpg",
+					"url": "https://t.co/SPNhNVewpl",
+					"display_url": "pic.twitter.com/SPNhNVewpl",
+					"expanded_url": "https://twitter.com/ChristinaMRau/status/1134222003999842309/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1134218208548966400,
+		"in_reply_to_status_id_str": "1134218208548966401",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 254594651,
+			"id_str": "254594651",
+			"name": "Christina M Rau 🖋📚🧘‍♀️🚀♍️©️",
+			"screen_name": "ChristinaMRau",
+			"location": "NY",
+			"description": "LIBERATING THE ASTRONAUTS @AqueductPress /WAKEBREATHEMOVE #flp/ FOR THE GIRLS, I @dancinggrlpress /#BookRioter/ Incredibly Witty except for right here right now",
+			"url": "https://t.co/mJtatxhlZZ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/mJtatxhlZZ",
+							"expanded_url": "http://www.christinamrau.com",
+							"display_url": "christinamrau.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 379,
+			"friends_count": 288,
+			"listed_count": 51,
+			"created_at": "Sat Feb 19 16:06:01 +0000 2011",
+			"favourites_count": 3608,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 4496,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1114873115216109569/cjX6ufL1_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114873115216109569/cjX6ufL1_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/254594651/1397572321",
+			"profile_link_color": "ED5B26",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "99CC33",
+			"profile_text_color": "3E4415",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 2,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@bendreyfuss Here ya go. https://t.co/SPNhNVewpl"
+	},
+	{
+		"created_at": "Thu May 30 22:01:08 +0000 2019",
+		"id": 1134218208548966400,
+		"id_str": "1134218208548966401",
+		"full_text": "I have no photos of this so this one where I'm the moderator you can vaguely make out on the side will have to do. https://t.co/dDL7scDLlO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			114
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/dDL7scDLlO",
+					"expanded_url": "https://twitter.com/christinamrau/status/1134187385410002944",
+					"display_url": "twitter.com/christinamrau/…",
+					"indices": [
+						115,
+						138
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\" (Editorial Director, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42546,
+			"friends_count": 415,
+			"listed_count": 886,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 68977,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1134187385410003000,
+		"quoted_status_id_str": "1134187385410002944",
+		"quoted_status_permalink": {
+			"url": "https://t.co/dDL7scDLlO",
+			"expanded": "https://twitter.com/christinamrau/status/1134187385410002944",
+			"display": "twitter.com/christinamrau/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 30 19:58:39 +0000 2019",
+			"id": 1134187385410003000,
+			"id_str": "1134187385410002944",
+			"full_text": "Laughing Out Loud with @jennyslate @johnhodgman &amp; @peteholmes .\n@BookExpoAmerica #BEA2019 #nyc #BookExpo19 #BookExpo2019 https://t.co/TEo4nacApN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				124
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "BEA2019",
+						"indices": [
+							85,
+							93
+						]
+					},
+					{
+						"text": "nyc",
+						"indices": [
+							94,
+							98
+						]
+					},
+					{
+						"text": "BookExpo19",
+						"indices": [
+							99,
+							110
+						]
+					},
+					{
+						"text": "BookExpo2019",
+						"indices": [
+							111,
+							124
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "jennyslate",
+						"name": "jenny slate",
+						"id": 89898430,
+						"id_str": "89898430",
+						"indices": [
+							23,
+							34
+						]
+					},
+					{
+						"screen_name": "JohnHodgman",
+						"name": "JohnHodgman",
+						"id": 17604669,
+						"id_str": "17604669",
+						"indices": [
+							35,
+							47
+						]
+					},
+					{
+						"screen_name": "peteholmes",
+						"name": "Pete Holmes",
+						"id": 20322986,
+						"id_str": "20322986",
+						"indices": [
+							54,
+							65
+						]
+					},
+					{
+						"screen_name": "BookExpoAmerica",
+						"name": "BookExpo",
+						"id": 24931569,
+						"id_str": "24931569",
+						"indices": [
+							68,
+							84
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1134187378145452000,
+						"id_str": "1134187378145452033",
+						"indices": [
+							125,
+							148
+						],
+						"media_url": "http://pbs.twimg.com/media/D71xaUcXYAEHJ6g.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D71xaUcXYAEHJ6g.jpg",
+						"url": "https://t.co/TEo4nacApN",
+						"display_url": "pic.twitter.com/TEo4nacApN",
+						"expanded_url": "https://twitter.com/ChristinaMRau/status/1134187385410002944/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1821,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1134187378145452000,
+						"id_str": "1134187378145452033",
+						"indices": [
+							125,
+							148
+						],
+						"media_url": "http://pbs.twimg.com/media/D71xaUcXYAEHJ6g.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/D71xaUcXYAEHJ6g.jpg",
+						"url": "https://t.co/TEo4nacApN",
+						"display_url": "pic.twitter.com/TEo4nacApN",
+						"expanded_url": "https://twitter.com/ChristinaMRau/status/1134187385410002944/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 1821,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 254594651,
+				"id_str": "254594651",
+				"name": "Christina M Rau 🖋📚🧘‍♀️🚀♍️©️",
+				"screen_name": "ChristinaMRau",
+				"location": "NY",
+				"description": "LIBERATING THE ASTRONAUTS @AqueductPress /WAKEBREATHEMOVE #flp/ FOR THE GIRLS, I @dancinggrlpress /#BookRioter/ Incredibly Witty except for right here right now",
+				"url": "https://t.co/mJtatxhlZZ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mJtatxhlZZ",
+								"expanded_url": "http://www.christinamrau.com",
+								"display_url": "christinamrau.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 379,
+				"friends_count": 288,
+				"listed_count": 51,
+				"created_at": "Sat Feb 19 16:06:01 +0000 2011",
+				"favourites_count": 3608,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4496,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1114873115216109569/cjX6ufL1_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1114873115216109569/cjX6ufL1_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/254594651/1397572321",
+				"profile_link_color": "ED5B26",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "99CC33",
+				"profile_text_color": "3E4415",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I have no photos of this so this one where I'm the moderator you can vaguely make out on the side will have to do. https://t.co/dDL7scDLlO"
+	},
+	{
+		"created_at": "Thu May 30 15:10:08 +0000 2019",
+		"id": 1134114778916577300,
+		"id_str": "1134114778916577282",
+		"full_text": "@trekonomics oh I was wondering why everyone was talking about airport arrival times again yesterday!",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "trekonomics",
+					"name": "manu saadia 🖖",
+					"id": 3240396234,
+					"id_str": "3240396234",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1134114350086549500,
+		"in_reply_to_status_id_str": "1134114350086549504",
+		"in_reply_to_user_id": 3240396234,
+		"in_reply_to_user_id_str": "3240396234",
+		"in_reply_to_screen_name": "trekonomics",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\" (Editorial Director, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 42546,
+			"friends_count": 415,
+			"listed_count": 886,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 68977,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 249,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@trekonomics oh I was wondering why everyone was talking about airport arrival times again yesterday!"
+	},
+	{
 		"created_at": "Thu May 30 03:14:37 +0000 2019",
 		"id": 1133934710202208300,
 		"id_str": "1133934710202208256",
