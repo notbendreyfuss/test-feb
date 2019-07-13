@@ -1,6 +1,714 @@
 Grailbird.data.tweets_2019_07 = 
 [
 	{
+		"created_at": "Sat Jul 13 04:44:22 +0000 2019",
+		"id": 1149790128493043700,
+		"id_str": "1149902365358792704",
+		"full_text": "Still fun, @bendreyfuss https://t.co/gl9qgFl9mx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bendreyfuss",
+					"name": "Ben Dreyfuss",
+					"id": 18269124,
+					"id_str": "18269124",
+					"indices": [
+						11,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gl9qgFl9mx",
+					"expanded_url": "https://twitter.com/TheWriterJess/status/644705684941074434",
+					"display_url": "twitter.com/TheWriterJess/…",
+					"indices": [
+						24,
+						47
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 44115180,
+			"id_str": "44115180",
+			"name": "Jessica Ciencin Henriquez",
+			"screen_name": "TheWriterJess",
+			"location": "New York City",
+			"description": "You teach people how to treat you by what you allow, what you stop & what you reinforce.\n\nWords in @nytimes @time @teenvogue \n\nRep: WME",
+			"url": "https://t.co/KjjUlbCtko",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/KjjUlbCtko",
+							"expanded_url": "http://www.thewriterjess.com",
+							"display_url": "thewriterjess.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18994,
+			"friends_count": 1075,
+			"listed_count": 86,
+			"created_at": "Tue Jun 02 13:14:46 +0000 2009",
+			"favourites_count": 51582,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 12393,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1084862177578754053/KPf7Ip_k_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084862177578754053/KPf7Ip_k_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/44115180/1420745963",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 644705684941074400,
+		"quoted_status_id_str": "644705684941074434",
+		"quoted_status_permalink": {
+			"url": "https://t.co/gl9qgFl9mx",
+			"expanded": "https://twitter.com/TheWriterJess/status/644705684941074434",
+			"display": "twitter.com/TheWriterJess/…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 18 02:53:07 +0000 2015",
+			"id": 644705684941074400,
+			"id_str": "644705684941074434",
+			"full_text": "Going to see black mass with @bendreyfuss , because we are going to be best friends forever. http://t.co/FXC5z9lY6l",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				115
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "bendreyfuss",
+						"name": "Ben Dreyfuss",
+						"id": 18269124,
+						"id_str": "18269124",
+						"indices": [
+							29,
+							41
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 644705678125170700,
+						"id_str": "644705678125170688",
+						"indices": [
+							93,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/CPJ0ZgFUAAA4A7C.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CPJ0ZgFUAAA4A7C.jpg",
+						"url": "http://t.co/FXC5z9lY6l",
+						"display_url": "pic.twitter.com/FXC5z9lY6l",
+						"expanded_url": "https://twitter.com/TheWriterJess/status/644705684941074434/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 575,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 575,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 644705678125170700,
+						"id_str": "644705678125170688",
+						"indices": [
+							93,
+							115
+						],
+						"media_url": "http://pbs.twimg.com/media/CPJ0ZgFUAAA4A7C.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/CPJ0ZgFUAAA4A7C.jpg",
+						"url": "http://t.co/FXC5z9lY6l",
+						"display_url": "pic.twitter.com/FXC5z9lY6l",
+						"expanded_url": "https://twitter.com/TheWriterJess/status/644705684941074434/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 575,
+								"h": 1024,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 575,
+								"h": 1024,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 44115180,
+				"id_str": "44115180",
+				"name": "Jessica Ciencin Henriquez",
+				"screen_name": "TheWriterJess",
+				"location": "New York City",
+				"description": "You teach people how to treat you by what you allow, what you stop & what you reinforce.\n\nWords in @nytimes @time @teenvogue \n\nRep: WME",
+				"url": "https://t.co/KjjUlbCtko",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/KjjUlbCtko",
+								"expanded_url": "http://www.thewriterjess.com",
+								"display_url": "thewriterjess.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 18994,
+				"friends_count": 1075,
+				"listed_count": 86,
+				"created_at": "Tue Jun 02 13:14:46 +0000 2009",
+				"favourites_count": 51582,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 12393,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1084862177578754053/KPf7Ip_k_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084862177578754053/KPf7Ip_k_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/44115180/1420745963",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 7,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 5,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Still fun, @bendreyfuss https://t.co/gl9qgFl9mx"
+	},
+	{
+		"created_at": "Fri Jul 12 19:51:37 +0000 2019",
+		"id": 1149768294351745000,
+		"id_str": "1149768294351745024",
+		"full_text": "@MattWelch @notjessewalker @kmele @wethefifth @mcmoynihan @MollyJongFast Hahaha",
+		"truncated": false,
+		"display_text_range": [
+			73,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MattWelch",
+					"name": "Matt Welch",
+					"id": 21368060,
+					"id_str": "21368060",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "notjessewalker",
+					"name": "Jesse Walker",
+					"id": 211031794,
+					"id_str": "211031794",
+					"indices": [
+						11,
+						26
+					]
+				},
+				{
+					"screen_name": "kmele",
+					"name": "Kmele",
+					"id": 17296100,
+					"id_str": "17296100",
+					"indices": [
+						27,
+						33
+					]
+				},
+				{
+					"screen_name": "wethefifth",
+					"name": "The Fifth Column",
+					"id": 713940693379649500,
+					"id_str": "713940693379649538",
+					"indices": [
+						34,
+						45
+					]
+				},
+				{
+					"screen_name": "mcmoynihan",
+					"name": "Michael C Moynihan",
+					"id": 22056192,
+					"id_str": "22056192",
+					"indices": [
+						46,
+						57
+					]
+				},
+				{
+					"screen_name": "MollyJongFast",
+					"name": "Molly Jong-Fast",
+					"id": 14298769,
+					"id_str": "14298769",
+					"indices": [
+						58,
+						72
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1149763588896129000,
+		"in_reply_to_status_id_str": "1149763588896129024",
+		"in_reply_to_user_id": 21368060,
+		"in_reply_to_user_id_str": "21368060",
+		"in_reply_to_screen_name": "MattWelch",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\" (Editorial Director, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46793,
+			"friends_count": 456,
+			"listed_count": 901,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 70014,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tl",
+		"text": "@MattWelch @notjessewalker @kmele @wethefifth @mcmoynihan @MollyJongFast Hahaha"
+	},
+	{
+		"created_at": "Fri Jul 12 17:46:12 +0000 2019",
+		"id": 1149736730079219700,
+		"id_str": "1149736730079219712",
+		"full_text": "\"Too true, little timmy\"\n\n\"Also it's implicit in the lyrics.\"\n\n\"Very good point, Suzie\"\n\n\"What about, if things could be worse and you know it, clap your hands...\"\n\n*Clap clap*\n\n\"Yes. This will be the new song. You're all such bright little children.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1149736224116138000,
+		"in_reply_to_status_id_str": "1149736224116137989",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\" (Editorial Director, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46793,
+			"friends_count": 456,
+			"listed_count": 901,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 70014,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "\"Too true, little timmy\"\n\n\"Also it's implicit in the lyrics.\"\n\n\"Very good point, Suzie\"\n\n\"What about, if things could be worse and you know it, clap your hands...\"\n\n*Clap clap*\n\n\"Yes. This will be the new song. You're all such bright little children.\""
+	},
+	{
+		"created_at": "Fri Jul 12 17:44:11 +0000 2019",
+		"id": 1149736224116138000,
+		"id_str": "1149736224116137989",
+		"full_text": "\"if you're happy and you know it clap your hands\"\n\n*Clap clap*\n\n\"what if I'm happy &amp; I don't know it?\"\n\n\"Can you be happy &amp;not know it?\"\n\n\"If I stabbed my hand with a pencil my hand would hurt and I'd think longingly of the time when my hand didn't hurt that I took for granted.\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			287
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\" (Editorial Director, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46793,
+			"friends_count": 456,
+			"listed_count": 901,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 70014,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "\"if you're happy and you know it clap your hands\"\n\n*Clap clap*\n\n\"what if I'm happy &amp; I don't know it?\"\n\n\"Can you be happy &amp;not know it?\"\n\n\"If I stabbed my hand with a pencil my hand would hurt and I'd think longingly of the time when my hand didn't hurt that I took for granted.\""
+	},
+	{
+		"created_at": "Fri Jul 12 17:29:49 +0000 2019",
+		"id": 1149732610496704500,
+		"id_str": "1149732610496704512",
+		"full_text": "@oh2tweet Oh whoops! Fuck",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "oh2tweet",
+					"name": "Sally Anderson💙🌊🇺🇸",
+					"id": 35277267,
+					"id_str": "35277267",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1149536991131787300,
+		"in_reply_to_status_id_str": "1149536991131787269",
+		"in_reply_to_user_id": 35277267,
+		"in_reply_to_user_id_str": "35277267",
+		"in_reply_to_screen_name": "oh2tweet",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\" (Editorial Director, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46793,
+			"friends_count": 456,
+			"listed_count": 901,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 70014,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1330,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@oh2tweet Oh whoops! Fuck"
+	},
+	{
 		"created_at": "Fri Jul 12 04:22:59 +0000 2019",
 		"id": 1149534594745524200,
 		"id_str": "1149534594745524224",
