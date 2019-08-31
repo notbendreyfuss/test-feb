@@ -1,6 +1,177 @@
 Grailbird.data.tweets_2019_08 = 
 [
 	{
+		"created_at": "Fri Aug 30 14:50:31 +0000 2019",
+		"id": 1167449525641994200,
+		"id_str": "1167449525641994240",
+		"full_text": "lol https://t.co/4ccwJZMz5v https://t.co/BCtlQjWPZd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/4ccwJZMz5v",
+					"expanded_url": "https://53eig.ht/2Zr1bjC",
+					"display_url": "53eig.ht/2Zr1bjC",
+					"indices": [
+						4,
+						27
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1167449514220957700,
+					"id_str": "1167449514220957696",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EDOdJdRXsAA7HU4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDOdJdRXsAA7HU4.jpg",
+					"url": "https://t.co/BCtlQjWPZd",
+					"display_url": "pic.twitter.com/BCtlQjWPZd",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1167449525641994240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 168,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1078,
+							"h": 266,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1078,
+							"h": 266,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1167449514220957700,
+					"id_str": "1167449514220957696",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EDOdJdRXsAA7HU4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDOdJdRXsAA7HU4.jpg",
+					"url": "https://t.co/BCtlQjWPZd",
+					"display_url": "pic.twitter.com/BCtlQjWPZd",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1167449525641994240/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 168,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1078,
+							"h": 266,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1078,
+							"h": 266,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\" (Editorial Director, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 47700,
+			"friends_count": 497,
+			"listed_count": 893,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 71107,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2714,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "lol https://t.co/4ccwJZMz5v https://t.co/BCtlQjWPZd"
+	},
+	{
 		"created_at": "Fri Aug 30 04:18:47 +0000 2019",
 		"id": 1167290542495064000,
 		"id_str": "1167290542495064064",
