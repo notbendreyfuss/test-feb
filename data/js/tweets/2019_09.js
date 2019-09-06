@@ -1,6 +1,926 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 05 18:24:18 +0000 2019",
+		"id": 1169677651067441200,
+		"id_str": "1169677651067441152",
+		"full_text": "Evidence of possible tax fraud is lying in plain sight on Donald Trump's financial disclosures https://t.co/HgUBvtvlTK https://t.co/6NdYKrO3kp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/HgUBvtvlTK",
+					"expanded_url": "http://bit.ly/2ZwN0cV",
+					"display_url": "bit.ly/2ZwN0cV",
+					"indices": [
+						95,
+						118
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1169677628686647300,
+					"id_str": "1169677628686647296",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EDuHmyeWwAA0sHV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDuHmyeWwAA0sHV.jpg",
+					"url": "https://t.co/6NdYKrO3kp",
+					"display_url": "pic.twitter.com/6NdYKrO3kp",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1169677651067441152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1169677628686647300,
+					"id_str": "1169677628686647296",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/media/EDuHmyeWwAA0sHV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDuHmyeWwAA0sHV.jpg",
+					"url": "https://t.co/6NdYKrO3kp",
+					"display_url": "pic.twitter.com/6NdYKrO3kp",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1169677651067441152/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1024,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\" (Editorial Director, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 47828,
+			"friends_count": 508,
+			"listed_count": 894,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 71078,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 24,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Evidence of possible tax fraud is lying in plain sight on Donald Trump's financial disclosures https://t.co/HgUBvtvlTK https://t.co/6NdYKrO3kp"
+	},
+	{
+		"created_at": "Thu Sep 05 16:29:27 +0000 2019",
+		"id": 1169648748240261000,
+		"id_str": "1169648748240261126",
+		"full_text": "It's fun to think back to the Bush years and how crazy it was. I took this photo at a gas station in Utah in 2005. \"Please see cashier for details\" about...the Homeland Security Threat Level https://t.co/lJqWOoZg1r",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			190
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1169648745820106800,
+					"id_str": "1169648745820106759",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/EDttVlaWsAcS_B7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDttVlaWsAcS_B7.jpg",
+					"url": "https://t.co/lJqWOoZg1r",
+					"display_url": "pic.twitter.com/lJqWOoZg1r",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1169648748240261126/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 604,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 604,
+							"h": 453,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 604,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1169648745820106800,
+					"id_str": "1169648745820106759",
+					"indices": [
+						191,
+						214
+					],
+					"media_url": "http://pbs.twimg.com/media/EDttVlaWsAcS_B7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDttVlaWsAcS_B7.jpg",
+					"url": "https://t.co/lJqWOoZg1r",
+					"display_url": "pic.twitter.com/lJqWOoZg1r",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1169648748240261126/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 604,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 604,
+							"h": 453,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 604,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\" (Editorial Director, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 47828,
+			"friends_count": 508,
+			"listed_count": 894,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 71078,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2853,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 216,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's fun to think back to the Bush years and how crazy it was. I took this photo at a gas station in Utah in 2005. \"Please see cashier for details\" about...the Homeland Security Threat Level https://t.co/lJqWOoZg1r"
+	},
+	{
+		"created_at": "Thu Sep 05 13:56:15 +0000 2019",
+		"id": 1169365258454098000,
+		"id_str": "1169610194608939010",
+		"full_text": "Taylor Swift stans learning who Tool are because they're currently selling more copies than \"Lover\" is really something special https://t.co/k398YRDzvZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1169364339566006300,
+					"id_str": "1169364339566006277",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EDpqq9jXUAUB2UA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDpqq9jXUAUB2UA.jpg",
+					"url": "https://t.co/k398YRDzvZ",
+					"display_url": "pic.twitter.com/k398YRDzvZ",
+					"expanded_url": "https://twitter.com/broderick/status/1169365258454097920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 645,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1016,
+							"h": 964,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1016,
+							"h": 964,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1169364339566006300,
+					"id_str": "1169364339566006277",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EDpqq9jXUAUB2UA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDpqq9jXUAUB2UA.jpg",
+					"url": "https://t.co/k398YRDzvZ",
+					"display_url": "pic.twitter.com/k398YRDzvZ",
+					"expanded_url": "https://twitter.com/broderick/status/1169365258454097920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 645,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1016,
+							"h": 964,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1016,
+							"h": 964,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1169364352203464700,
+					"id_str": "1169364352203464705",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EDpqrsoXoAEsEqu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDpqrsoXoAEsEqu.jpg",
+					"url": "https://t.co/k398YRDzvZ",
+					"display_url": "pic.twitter.com/k398YRDzvZ",
+					"expanded_url": "https://twitter.com/broderick/status/1169365258454097920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 650,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1148,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1378,
+							"h": 1318,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1169364368133374000,
+					"id_str": "1169364368133373953",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EDpqsn-WwAEsXTx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDpqsn-WwAEsXTx.jpg",
+					"url": "https://t.co/k398YRDzvZ",
+					"display_url": "pic.twitter.com/k398YRDzvZ",
+					"expanded_url": "https://twitter.com/broderick/status/1169365258454097920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 990,
+							"h": 1102,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 611,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 990,
+							"h": 1102,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1169364469182546000,
+					"id_str": "1169364469182545923",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/EDpqygaWwAMdHpn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDpqygaWwAMdHpn.jpg",
+					"url": "https://t.co/k398YRDzvZ",
+					"display_url": "pic.twitter.com/k398YRDzvZ",
+					"expanded_url": "https://twitter.com/broderick/status/1169365258454097920/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 424,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 240,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1352,
+							"h": 478,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18205531,
+			"id_str": "18205531",
+			"name": "Ryan Broderick",
+			"screen_name": "broderick",
+			"location": "New York, I guess",
+			"description": "Senior reporter @BuzzFeedNews. @iexplorer podcast. Lots of typos. Open DMs. Send tips. Email: ryan@buzzfeed.com https://t.co/FY9mN44qa2",
+			"url": "https://t.co/z9Bjj1EEut",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/z9Bjj1EEut",
+							"expanded_url": "http://Instagram.com/ryanhatesthis",
+							"display_url": "Instagram.com/ryanhatesthis",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/FY9mN44qa2",
+							"expanded_url": "https://garbageday.substack.com",
+							"display_url": "garbageday.substack.com",
+							"indices": [
+								112,
+								135
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 58032,
+			"friends_count": 1877,
+			"listed_count": 1637,
+			"created_at": "Thu Dec 18 01:29:08 +0000 2008",
+			"favourites_count": 18167,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 75536,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1141015603353968640/tBokIZXy_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141015603353968640/tBokIZXy_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18205531/1422647849",
+			"profile_link_color": "1F98C7",
+			"profile_sidebar_border_color": "C6E2EE",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "663B12",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3061,
+		"favorite_count": 10513,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Taylor Swift stans learning who Tool are because they're currently selling more copies than \"Lover\" is really something special https://t.co/k398YRDzvZ"
+	},
+	{
+		"created_at": "Thu Sep 05 13:51:27 +0000 2019",
+		"id": 1169607859430154200,
+		"id_str": "1169608985655349250",
+		"full_text": "Facebook's original and truest form https://t.co/BjpwTYy9cK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BjpwTYy9cK",
+					"expanded_url": "https://twitter.com/broderick/status/1169607137317806081",
+					"display_url": "twitter.com/broderick/stat…",
+					"indices": [
+						36,
+						59
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 145773567,
+			"id_str": "145773567",
+			"name": "Silvia Killingsworth",
+			"screen_name": "silviakillings",
+			"location": "New York, NY",
+			"description": "Patron Saint of early bedtimes.",
+			"url": "https://t.co/H5DnG7TpWA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/H5DnG7TpWA",
+							"expanded_url": "https://www.indiebound.org/book/9781328662248",
+							"display_url": "indiebound.org/book/978132866…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16266,
+			"friends_count": 553,
+			"listed_count": 430,
+			"created_at": "Wed May 19 21:07:31 +0000 2010",
+			"favourites_count": 54811,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 73,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/984840943751884801/HyCzijpg_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/984840943751884801/HyCzijpg_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/145773567/1483993059",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1169607137317806000,
+		"quoted_status_id_str": "1169607137317806081",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BjpwTYy9cK",
+			"expanded": "https://twitter.com/broderick/status/1169607137317806081",
+			"display": "twitter.com/broderick/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Sep 05 13:44:06 +0000 2019",
+			"id": 1169607137317806000,
+			"id_str": "1169607137317806081",
+			"full_text": "Facebook dating is launching in the US https://t.co/LAXg7zqG7j",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				38
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1169607133433925600,
+						"id_str": "1169607133433925632",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/EDtHfbMXkAAHbDE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EDtHfbMXkAAHbDE.jpg",
+						"url": "https://t.co/LAXg7zqG7j",
+						"display_url": "pic.twitter.com/LAXg7zqG7j",
+						"expanded_url": "https://twitter.com/broderick/status/1169607137317806081/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1169607133433925600,
+						"id_str": "1169607133433925632",
+						"indices": [
+							39,
+							62
+						],
+						"media_url": "http://pbs.twimg.com/media/EDtHfbMXkAAHbDE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EDtHfbMXkAAHbDE.jpg",
+						"url": "https://t.co/LAXg7zqG7j",
+						"display_url": "pic.twitter.com/LAXg7zqG7j",
+						"expanded_url": "https://twitter.com/broderick/status/1169607137317806081/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1536,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 900,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1169605284039450600,
+			"in_reply_to_status_id_str": "1169605284039450624",
+			"in_reply_to_user_id": 18205531,
+			"in_reply_to_user_id_str": "18205531",
+			"in_reply_to_screen_name": "broderick",
+			"user": {
+				"id": 18205531,
+				"id_str": "18205531",
+				"name": "Ryan Broderick",
+				"screen_name": "broderick",
+				"location": "New York, I guess",
+				"description": "Senior reporter @BuzzFeedNews. @iexplorer podcast. Lots of typos. Open DMs. Send tips. Email: ryan@buzzfeed.com https://t.co/FY9mN44qa2",
+				"url": "https://t.co/z9Bjj1EEut",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/z9Bjj1EEut",
+								"expanded_url": "http://Instagram.com/ryanhatesthis",
+								"display_url": "Instagram.com/ryanhatesthis",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/FY9mN44qa2",
+								"expanded_url": "https://garbageday.substack.com",
+								"display_url": "garbageday.substack.com",
+								"indices": [
+									112,
+									135
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 58032,
+				"friends_count": 1877,
+				"listed_count": 1637,
+				"created_at": "Thu Dec 18 01:29:08 +0000 2008",
+				"favourites_count": 18167,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 75536,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C6E2EE",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1141015603353968640/tBokIZXy_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141015603353968640/tBokIZXy_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18205531/1422647849",
+				"profile_link_color": "1F98C7",
+				"profile_sidebar_border_color": "C6E2EE",
+				"profile_sidebar_fill_color": "DAECF4",
+				"profile_text_color": "663B12",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 39,
+			"favorite_count": 48,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Facebook's original and truest form https://t.co/BjpwTYy9cK"
+	},
+	{
 		"created_at": "Thu Sep 05 02:49:10 +0000 2019",
 		"id": 1169441876191207400,
 		"id_str": "1169442319986282496",
