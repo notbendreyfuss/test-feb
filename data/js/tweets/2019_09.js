@@ -1,6 +1,1167 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Sat Sep 07 02:13:49 +0000 2019",
+		"id": 1169783973469401000,
+		"id_str": "1170158196583030790",
+		"full_text": "Jerry Seinfeld meets Hitler:\n\"So, what's with the tiny mustache?\"\nHe is shot.\n\n#Twertzog",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Twertzog",
+					"indices": [
+						79,
+						88
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1915336519,
+			"id_str": "1915336519",
+			"name": "Werner Twertzog",
+			"screen_name": "WernerTwertzog",
+			"location": "Featured in Best American Nonrequired Reading, ed. Sarah Vowell (Houghton Mifflin 2017).",
+			"description": "Werner Herzog's unpaid internet stooge. #Twertzog: A tweet that is gnomic, erudite, existential and spoken with a Bavarian accent. September 5 is #Twertzog Day.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 74339,
+			"friends_count": 6031,
+			"listed_count": 1026,
+			"created_at": "Sat Sep 28 20:55:02 +0000 2013",
+			"favourites_count": 21552,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 11621,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1037928564904026112/qt8tIEnD_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1037928564904026112/qt8tIEnD_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1915336519/1536296342",
+			"profile_link_color": "000001",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 81,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Jerry Seinfeld meets Hitler:\n\"So, what's with the tiny mustache?\"\nHe is shot.\n\n#Twertzog"
+	},
+	{
+		"created_at": "Sat Sep 07 02:00:00 +0000 2019",
+		"id": 1170116410598494200,
+		"id_str": "1170154720641593344",
+		"full_text": "This whole review from @JHWeissmann is excellent but this is the real gut punch. https://t.co/LcBYsiqeF8 https://t.co/pjHjj4WEQD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JHWeissmann",
+					"name": "Jordan Weissmann",
+					"id": 47526275,
+					"id_str": "47526275",
+					"indices": [
+						23,
+						35
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LcBYsiqeF8",
+					"expanded_url": "https://slate.com/culture/2019/09/bari-weiss-how-to-fight-antisemitism-review.amp?__twitter_impression=true",
+					"display_url": "slate.com/culture/2019/0…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1170116405036900400,
+					"id_str": "1170116405036900353",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/ED0Wq7wU4AEqRbO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED0Wq7wU4AEqRbO.jpg",
+					"url": "https://t.co/pjHjj4WEQD",
+					"display_url": "pic.twitter.com/pjHjj4WEQD",
+					"expanded_url": "https://twitter.com/JonIsAwesomest/status/1170116410598494208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1503,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 862,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 489,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1170116405036900400,
+					"id_str": "1170116405036900353",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/ED0Wq7wU4AEqRbO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ED0Wq7wU4AEqRbO.jpg",
+					"url": "https://t.co/pjHjj4WEQD",
+					"display_url": "pic.twitter.com/pjHjj4WEQD",
+					"expanded_url": "https://twitter.com/JonIsAwesomest/status/1170116410598494208/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1080,
+							"h": 1503,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 862,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 489,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2269876740,
+			"id_str": "2269876740",
+			"name": "Jon",
+			"screen_name": "JonIsAwesomest",
+			"location": "Cottonwood, AZ",
+			"description": "Disgruntled but nice local newspaper reporter. My feed is bad politics takes and pictures of pretty places I went hiking.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2529,
+			"friends_count": 4721,
+			"listed_count": 52,
+			"created_at": "Tue Dec 31 04:57:48 +0000 2013",
+			"favourites_count": 106144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 119047,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1061322916103475200/ku8glB_D_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1061322916103475200/ku8glB_D_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2269876740/1495547236",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 10,
+		"favorite_count": 21,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This whole review from @JHWeissmann is excellent but this is the real gut punch. https://t.co/LcBYsiqeF8 https://t.co/pjHjj4WEQD"
+	},
+	{
+		"created_at": "Fri Sep 06 21:09:43 +0000 2019",
+		"id": 1170081667307987000,
+		"id_str": "1170081667307986946",
+		"full_text": "It's so funny when MAGA types try to dunk on the WaPo or NYT by proving they are competent and thurough https://t.co/D2ZGAvjN1J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D2ZGAvjN1J",
+					"expanded_url": "https://twitter.com/erictrump/status/1170065011634581504",
+					"display_url": "twitter.com/erictrump/stat…",
+					"indices": [
+						104,
+						127
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\" (Editorial Director, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 47829,
+			"friends_count": 507,
+			"listed_count": 895,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 71081,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1170065011634581500,
+		"quoted_status_id_str": "1170065011634581504",
+		"quoted_status_permalink": {
+			"url": "https://t.co/D2ZGAvjN1J",
+			"expanded": "https://twitter.com/erictrump/status/1170065011634581504",
+			"display": "twitter.com/erictrump/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 06 20:03:32 +0000 2019",
+			"id": 1170065011634581500,
+			"id_str": "1170065011634581504",
+			"full_text": "These are the tactics used by the @WashingtonPost. @JeffBezos - you should be very proud... 🙄 https://t.co/9RO91n7XGX",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				93
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "washingtonpost",
+						"name": "The Washington Post",
+						"id": 2467791,
+						"id_str": "2467791",
+						"indices": [
+							34,
+							49
+						]
+					},
+					{
+						"screen_name": "JeffBezos",
+						"name": "Jeff Bezos",
+						"id": 15506669,
+						"id_str": "15506669",
+						"indices": [
+							51,
+							61
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1170065006886555600,
+						"id_str": "1170065006886555650",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/EDzn7KuWkAI39_V.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EDzn7KuWkAI39_V.jpg",
+						"url": "https://t.co/9RO91n7XGX",
+						"display_url": "pic.twitter.com/9RO91n7XGX",
+						"expanded_url": "https://twitter.com/EricTrump/status/1170065011634581504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1242,
+								"h": 1713,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 493,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 870,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1170065006886555600,
+						"id_str": "1170065006886555650",
+						"indices": [
+							94,
+							117
+						],
+						"media_url": "http://pbs.twimg.com/media/EDzn7KuWkAI39_V.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EDzn7KuWkAI39_V.jpg",
+						"url": "https://t.co/9RO91n7XGX",
+						"display_url": "pic.twitter.com/9RO91n7XGX",
+						"expanded_url": "https://twitter.com/EricTrump/status/1170065011634581504/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1242,
+								"h": 1713,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 493,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 870,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 39349894,
+				"id_str": "39349894",
+				"name": "Eric Trump",
+				"screen_name": "EricTrump",
+				"location": "",
+				"description": "Executive Vice President of The @Trump Organization. Husband to @LaraLeaTrump. Large advocate of @StJude Children's Research Hospital. #MakeAmericaGreatAgain",
+				"url": "https://t.co/uwwNiWyamR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uwwNiWyamR",
+								"expanded_url": "http://www.Trump.com",
+								"display_url": "Trump.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2690530,
+				"friends_count": 842,
+				"listed_count": 6352,
+				"created_at": "Mon May 11 21:42:30 +0000 2009",
+				"favourites_count": 10024,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 5811,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/974045997268529152/R0CuVYHM_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/974045997268529152/R0CuVYHM_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/39349894/1516709628",
+				"profile_link_color": "116AB8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "616161",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4849,
+			"favorite_count": 10439,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 78,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It's so funny when MAGA types try to dunk on the WaPo or NYT by proving they are competent and thurough https://t.co/D2ZGAvjN1J"
+	},
+	{
+		"created_at": "Fri Sep 06 17:38:31 +0000 2019",
+		"id": 1170006974890741800,
+		"id_str": "1170028517041594368",
+		"full_text": "this is basically me recapping my twitter heroics every day to my wife (except instead of politely applauding like these audiences do she just ignores me) https://t.co/mLYCk5ejhv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mLYCk5ejhv",
+					"expanded_url": "https://twitter.com/thedailyshow/status/1169777484113444864",
+					"display_url": "twitter.com/thedailyshow/s…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21431618,
+			"id_str": "21431618",
+			"name": "McKay Coppins",
+			"screen_name": "mckaycoppins",
+			"location": "Washington, DC",
+			"description": "Staff writer, @TheAtlantic. Author of THE WILDERNESS. “Sort of handsome” - Donald J. Trump.",
+			"url": "https://t.co/SsrFO8qAW2",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/SsrFO8qAW2",
+							"expanded_url": "https://www.theatlantic.com/author/mckay-coppins/",
+							"display_url": "theatlantic.com/author/mckay-c…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 133448,
+			"friends_count": 2990,
+			"listed_count": 3093,
+			"created_at": "Fri Feb 20 20:42:33 +0000 2009",
+			"favourites_count": 19454,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 221,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/762141316671270912/YTzkq7jG_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/762141316671270912/YTzkq7jG_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1169777484113444900,
+		"quoted_status_id_str": "1169777484113444864",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mLYCk5ejhv",
+			"expanded": "https://twitter.com/thedailyshow/status/1169777484113444864",
+			"display": "twitter.com/thedailyshow/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Sep 06 01:01:00 +0000 2019",
+			"id": 1169777484113444900,
+			"id_str": "1169777484113444864",
+			"full_text": "Amy Klobuchar has a joke she'd like you to hear https://t.co/5mh5IQepva",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				47
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1169739850142093300,
+						"id_str": "1169739850142093312",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/EDvBhg9XoAAWrFj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EDvBhg9XoAAWrFj.jpg",
+						"url": "https://t.co/5mh5IQepva",
+						"display_url": "pic.twitter.com/5mh5IQepva",
+						"expanded_url": "https://twitter.com/TheDailyShow/status/1169777484113444864/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1169739850142093300,
+						"id_str": "1169739850142093312",
+						"indices": [
+							48,
+							71
+						],
+						"media_url": "http://pbs.twimg.com/media/EDvBhg9XoAAWrFj.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EDvBhg9XoAAWrFj.jpg",
+						"url": "https://t.co/5mh5IQepva",
+						"display_url": "pic.twitter.com/5mh5IQepva",
+						"expanded_url": "https://twitter.com/TheDailyShow/status/1169777484113444864/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1920,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 99333,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1169739850142093312/vid/1280x720/d3Y7Uo7SvgetkgC0.mp4?tag=13"
+								},
+								{
+									"bitrate": 288000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1169739850142093312/vid/480x270/ZEkwOBADZMOJ4SbH.mp4?tag=13"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1169739850142093312/vid/640x360/gJj3Z-5JzAVNOeMd.mp4?tag=13"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1169739850142093312/pl/QdZ1QJzgcxXk5ytw.m3u8?tag=13"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 158414847,
+				"id_str": "158414847",
+				"name": "The Daily Show",
+				"screen_name": "TheDailyShow",
+				"location": "",
+				"description": "Trevor Noah & The World’s Fakest News Team. Weeknights 11/10c @ComedyCentral. Tickets: https://t.co/otjFIiMtNU",
+				"url": "https://t.co/BAakBFaEGx",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BAakBFaEGx",
+								"expanded_url": "http://thedailyshow.com",
+								"display_url": "thedailyshow.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/otjFIiMtNU",
+								"expanded_url": "http://dailyshow.com/tickets",
+								"display_url": "dailyshow.com/tickets",
+								"indices": [
+									87,
+									110
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8069119,
+				"friends_count": 546,
+				"listed_count": 36978,
+				"created_at": "Tue Jun 22 16:41:05 +0000 2010",
+				"favourites_count": 1340,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 19592,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1074700910486536192/Io_RXyEz_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1074700910486536192/Io_RXyEz_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/158414847/1555529935",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1299,
+			"favorite_count": 6479,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 54,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this is basically me recapping my twitter heroics every day to my wife (except instead of politely applauding like these audiences do she just ignores me) https://t.co/mLYCk5ejhv"
+	},
+	{
+		"created_at": "Fri Sep 06 15:43:06 +0000 2019",
+		"id": 1169997345624227800,
+		"id_str": "1169999470672654336",
+		"full_text": "~Some personal news~\n\nAfter 5 years, I’ve left WIRED. I loved every second working with such smart, wonderful people and I wish them all the best. My next thing is very exciting, and I can’t wait to tell you all about it...as soon as I can...which isn’t yet. So stay tuned!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 38282454,
+			"id_str": "38282454",
+			"name": "Emily Dreyfuss",
+			"screen_name": "EmilyDreyfuss",
+			"location": "San Francisco, CA",
+			"description": "Writer. Editor. Gesticulator. \n\n@wired @niemanfnd @BKCHarvard emily_dreyfuss@wired.com",
+			"url": "https://t.co/Dj9tIaHy5W",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Dj9tIaHy5W",
+							"expanded_url": "http://www.wired.com",
+							"display_url": "wired.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18211,
+			"friends_count": 1187,
+			"listed_count": 663,
+			"created_at": "Wed May 06 21:34:39 +0000 2009",
+			"favourites_count": 24193,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "111212",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/614949197138276353/vAFwtVhc_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/614949197138276353/vAFwtVhc_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/38282454/1402861470",
+			"profile_link_color": "1E7575",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 252,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "~Some personal news~\n\nAfter 5 years, I’ve left WIRED. I loved every second working with such smart, wonderful people and I wish them all the best. My next thing is very exciting, and I can’t wait to tell you all about it...as soon as I can...which isn’t yet. So stay tuned!"
+	},
+	{
+		"created_at": "Fri Sep 06 15:42:59 +0000 2019",
+		"id": 1169999441358741500,
+		"id_str": "1169999441358741504",
+		"full_text": "Hahaha https://t.co/IpLRXpozbI https://t.co/DhsuDWjJ3n",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IpLRXpozbI",
+					"expanded_url": "https://slate.com/news-and-politics/2019/09/bernie-medical-debt-biden-eye-warren-climate-beto-guns.html",
+					"display_url": "slate.com/news-and-polit…",
+					"indices": [
+						7,
+						30
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1169999424304689200,
+					"id_str": "1169999424304689152",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/EDysRwkXsAA3OUH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDysRwkXsAA3OUH.jpg",
+					"url": "https://t.co/DhsuDWjJ3n",
+					"display_url": "pic.twitter.com/DhsuDWjJ3n",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1169999441358741504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 369,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 611,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 611,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1169999424304689200,
+					"id_str": "1169999424304689152",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/EDysRwkXsAA3OUH.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EDysRwkXsAA3OUH.jpg",
+					"url": "https://t.co/DhsuDWjJ3n",
+					"display_url": "pic.twitter.com/DhsuDWjJ3n",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1169999441358741504/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 369,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 611,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 611,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\" (Editorial Director, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 47829,
+			"friends_count": 507,
+			"listed_count": 895,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 71081,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tl",
+		"text": "Hahaha https://t.co/IpLRXpozbI https://t.co/DhsuDWjJ3n"
+	},
+	{
 		"created_at": "Thu Sep 05 18:24:18 +0000 2019",
 		"id": 1169677651067441200,
 		"id_str": "1169677651067441152",
