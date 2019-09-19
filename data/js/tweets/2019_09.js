@@ -1,6 +1,1000 @@
 Grailbird.data.tweets_2019_09 = 
 [
 	{
+		"created_at": "Thu Sep 19 03:44:13 +0000 2019",
+		"id": 1174529603974701000,
+		"id_str": "1174529603974701056",
+		"full_text": "Wild Muppet Things https://t.co/XcKa4EAtGD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/XcKa4EAtGD",
+					"expanded_url": "https://twitter.com/judgedewie/status/1174306364065222661",
+					"display_url": "twitter.com/judgedewie/sta…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\" (Editorial Director, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48044,
+			"friends_count": 511,
+			"listed_count": 902,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 71404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1174306364065222700,
+		"quoted_status_id_str": "1174306364065222661",
+		"quoted_status_permalink": {
+			"url": "https://t.co/XcKa4EAtGD",
+			"expanded": "https://twitter.com/judgedewie/status/1174306364065222661",
+			"display": "twitter.com/judgedewie/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Sep 18 12:57:09 +0000 2019",
+			"id": 1174306364065222700,
+			"id_str": "1174306364065222661",
+			"full_text": "After Muppet Christmas Carol and Muppet Treasure Island, what story or film would you like to see re-done as a muppet version. \n\nI’m thinking Muppet Evil Dead or Muppet Alien",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				174
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 37792278,
+				"id_str": "37792278",
+				"name": "Alex",
+				"screen_name": "JudgeDewie",
+				"location": "",
+				"description": "Just some bloke. Opinions expressed here are not my own.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1565,
+				"friends_count": 403,
+				"listed_count": 58,
+				"created_at": "Mon May 04 23:27:18 +0000 2009",
+				"favourites_count": 17933,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 236840,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/973267651454750720/zloHAJjw_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/973267651454750720/zloHAJjw_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/37792278/1486509215",
+				"profile_link_color": "2FC2EF",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 157,
+			"favorite_count": 1619,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wild Muppet Things https://t.co/XcKa4EAtGD"
+	},
+	{
+		"created_at": "Thu Sep 19 03:14:08 +0000 2019",
+		"id": 1174522030047342600,
+		"id_str": "1174522030047342599",
+		"full_text": "This is dumb lol https://t.co/TNcHd1TGHU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TNcHd1TGHU",
+					"expanded_url": "http://bit.ly/2QsBUkO",
+					"display_url": "bit.ly/2QsBUkO",
+					"indices": [
+						17,
+						40
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\" (Editorial Director, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48044,
+			"friends_count": 511,
+			"listed_count": 902,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 71404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is dumb lol https://t.co/TNcHd1TGHU"
+	},
+	{
+		"created_at": "Wed Sep 18 23:41:00 +0000 2019",
+		"id": 1172673034261414000,
+		"id_str": "1174468393732325376",
+		"full_text": "you know what i was too quick to judge. tall girl has had a hard life. https://t.co/c1vLBu96qu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1172673015831761000,
+					"id_str": "1172673015831760897",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EEYr5RJWkAE8wa3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEYr5RJWkAE8wa3.jpg",
+					"url": "https://t.co/c1vLBu96qu",
+					"display_url": "pic.twitter.com/c1vLBu96qu",
+					"expanded_url": "https://twitter.com/EstherOnFilm/status/1172673034261413888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1172673015831761000,
+					"id_str": "1172673015831760897",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EEYr5RJWkAE8wa3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEYr5RJWkAE8wa3.jpg",
+					"url": "https://t.co/c1vLBu96qu",
+					"display_url": "pic.twitter.com/c1vLBu96qu",
+					"expanded_url": "https://twitter.com/EstherOnFilm/status/1172673034261413888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1172673015840157700,
+					"id_str": "1172673015840157696",
+					"indices": [
+						71,
+						94
+					],
+					"media_url": "http://pbs.twimg.com/media/EEYr5RLWsAAv_5n.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EEYr5RLWsAAv_5n.jpg",
+					"url": "https://t.co/c1vLBu96qu",
+					"display_url": "pic.twitter.com/c1vLBu96qu",
+					"expanded_url": "https://twitter.com/EstherOnFilm/status/1172673034261413888/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1920,
+							"h": 1080,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17004642,
+			"id_str": "17004642",
+			"name": "esther rosenfield",
+			"screen_name": "EstherOnFilm",
+			"location": "iron city",
+			"description": "the stars turn, and a time presents itself // i write about movies and games and do podcasts too // trans girl she/her // obayashi's #1 girl // avi @sangledhere",
+			"url": "https://t.co/Ug7RQwBRvO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Ug7RQwBRvO",
+							"expanded_url": "http://patreon.com/estherrosenfield",
+							"display_url": "patreon.com/estherrosenfie…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3490,
+			"friends_count": 741,
+			"listed_count": 56,
+			"created_at": "Mon Oct 27 19:15:43 +0000 2008",
+			"favourites_count": 89941,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 58822,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1B95E0",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1152032525671440386/Cg5SYd8-_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1152032525671440386/Cg5SYd8-_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/17004642/1568864280",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1443,
+		"favorite_count": 7860,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "you know what i was too quick to judge. tall girl has had a hard life. https://t.co/c1vLBu96qu"
+	},
+	{
+		"created_at": "Wed Sep 18 22:58:29 +0000 2019",
+		"id": 1150525378106187800,
+		"id_str": "1174457694226395142",
+		"full_text": "https://t.co/tf6mUF3FMh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1150384397629063200,
+					"id_str": "1150384397629063168",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D_b8g7_VAAAZV93.png",
+					"media_url_https": "https://pbs.twimg.com/media/D_b8g7_VAAAZV93.png",
+					"url": "https://t.co/tf6mUF3FMh",
+					"display_url": "pic.twitter.com/tf6mUF3FMh",
+					"expanded_url": "https://twitter.com/nocontextroyco/status/1150525378106187776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1150384397629063200,
+					"id_str": "1150384397629063168",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/D_b8g7_VAAAZV93.png",
+					"media_url_https": "https://pbs.twimg.com/media/D_b8g7_VAAAZV93.png",
+					"url": "https://t.co/tf6mUF3FMh",
+					"display_url": "pic.twitter.com/tf6mUF3FMh",
+					"expanded_url": "https://twitter.com/nocontextroyco/status/1150525378106187776/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 854,
+							"h": 480,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1149923793864761300,
+			"id_str": "1149923793864761344",
+			"name": "no context succession",
+			"screen_name": "nocontextroyco",
+			"location": "",
+			"description": "NOT SPOILER-FREE! Posting screencaps of the @HBO series Succession without context. DMs open for requests and submissions.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12996,
+			"friends_count": 135,
+			"listed_count": 20,
+			"created_at": "Sat Jul 13 06:09:31 +0000 2019",
+			"favourites_count": 4347,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 793,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1149927000577957889/Dd9lGM2r_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1149927000577957889/Dd9lGM2r_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1149923793864761344/1563380621",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 23,
+		"favorite_count": 79,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/tf6mUF3FMh"
+	},
+	{
+		"created_at": "Wed Sep 18 22:39:50 +0000 2019",
+		"id": 1174360934237855700,
+		"id_str": "1174453001798508549",
+		"full_text": "Thinking, as I often do, about the time Yahoo News thought \"Zooey Deschanel divorces Death Cab for Cutie frontman Ben Gibbard\" meant she had left a man named Death Cab to pursue a relationship with the lead singer of the band Cutie https://t.co/rIA3b47KVe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1174360932266496000,
+					"id_str": "1174360932266496000",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/media/EEwrC73XUAAwmXa.png",
+					"media_url_https": "https://pbs.twimg.com/media/EEwrC73XUAAwmXa.png",
+					"url": "https://t.co/rIA3b47KVe",
+					"display_url": "pic.twitter.com/rIA3b47KVe",
+					"expanded_url": "https://twitter.com/dalykyle/status/1174360934237855749/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 526,
+							"h": 159,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 526,
+							"h": 159,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 526,
+							"h": 159,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1174360932266496000,
+					"id_str": "1174360932266496000",
+					"indices": [
+						232,
+						255
+					],
+					"media_url": "http://pbs.twimg.com/media/EEwrC73XUAAwmXa.png",
+					"media_url_https": "https://pbs.twimg.com/media/EEwrC73XUAAwmXa.png",
+					"url": "https://t.co/rIA3b47KVe",
+					"display_url": "pic.twitter.com/rIA3b47KVe",
+					"expanded_url": "https://twitter.com/dalykyle/status/1174360934237855749/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 526,
+							"h": 159,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 526,
+							"h": 159,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 526,
+							"h": 159,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 248088312,
+			"id_str": "248088312",
+			"name": "Kyle Daly",
+			"screen_name": "dalykyle",
+			"location": "Washington, D.C.",
+			"description": "Deputy tech editor @POLITICO. Formerly @BLaw, @SPGMarketIntel. Bylines @TheAVClub, @mcsweeneys, etc. @pboink for life. RTs = blood oaths.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 2785,
+			"friends_count": 1156,
+			"listed_count": 67,
+			"created_at": "Sun Feb 06 06:33:04 +0000 2011",
+			"favourites_count": 27088,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 9726,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/803462596754018304/oDp-tRPY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/803462596754018304/oDp-tRPY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/248088312/1358023871",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7951,
+		"favorite_count": 35233,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thinking, as I often do, about the time Yahoo News thought \"Zooey Deschanel divorces Death Cab for Cutie frontman Ben Gibbard\" meant she had left a man named Death Cab to pursue a relationship with the lead singer of the band Cutie https://t.co/rIA3b47KVe"
+	},
+	{
+		"created_at": "Wed Sep 18 21:15:33 +0000 2019",
+		"id": 1174431791471616000,
+		"id_str": "1174431791471616001",
+		"full_text": "@annamerlan Is this about me",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			28
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "annamerlan",
+					"name": "Anna Merlan",
+					"id": 112017297,
+					"id_str": "112017297",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1174431367200944000,
+		"in_reply_to_status_id_str": "1174431367200944128",
+		"in_reply_to_user_id": 112017297,
+		"in_reply_to_user_id_str": "112017297",
+		"in_reply_to_screen_name": "annamerlan",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\" (Editorial Director, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 48044,
+			"friends_count": 511,
+			"listed_count": 902,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 71404,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3216,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@annamerlan Is this about me"
+	},
+	{
+		"created_at": "Wed Sep 18 20:54:43 +0000 2019",
+		"id": 1174408605472133000,
+		"id_str": "1174426546112737280",
+		"full_text": "People are often concerned when I tweet and draw about being sad. But I’m more concerned about these people who haven’t yet learned to put their sadness somewhere.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 328867779,
+			"id_str": "328867779",
+			"name": "maggie mull",
+			"screen_name": "mulltoons",
+			"location": "",
+			"description": "TV Writer (Family Guy on FOX) & Cartoonist (ig: mulltoons) • Torso for days!",
+			"url": "https://t.co/DN7KkCpUQA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DN7KkCpUQA",
+							"expanded_url": "https://www.elle.com/author/12686/maggie-mull/",
+							"display_url": "elle.com/author/12686/m…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 44694,
+			"friends_count": 1257,
+			"listed_count": 498,
+			"created_at": "Mon Jul 04 05:09:05 +0000 2011",
+			"favourites_count": 29155,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 2855,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1117883215237173248/TmMYH8Nh_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1117883215237173248/TmMYH8Nh_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/328867779/1553006755",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 313,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "People are often concerned when I tweet and draw about being sad. But I’m more concerned about these people who haven’t yet learned to put their sadness somewhere."
+	},
+	{
 		"created_at": "Wed Sep 18 04:11:35 +0000 2019",
 		"id": 1174174100392161300,
 		"id_str": "1174174100392161282",
