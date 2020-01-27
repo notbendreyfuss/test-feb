@@ -1,6 +1,2656 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Mon Jan 27 01:58:11 +0000 2020",
+		"id": 1221519505270198300,
+		"id_str": "1221613340037996551",
+		"full_text": "A few years ago, I wrote something about Kobe's twilight, where he was the hardest working basketball player alive.\n\n\"If everybody played like Kobe, if everybody worked like Kobe, everybody would be great. It is that simple. It is also humanly impossible.\"\nhttps://t.co/C7Xoh68ibs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/C7Xoh68ibs",
+					"expanded_url": "https://www.slamonline.com/nba/kobe-bryant-l-a-noire/",
+					"display_url": "slamonline.com/nba/kobe-bryan…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 102594136,
+			"id_str": "102594136",
+			"name": "Ben Collins",
+			"screen_name": "oneunderscore__",
+			"location": "New York, NY",
+			"description": "Reporter, dystopia beat, @NBCNews.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 89118,
+			"friends_count": 5579,
+			"listed_count": 1436,
+			"created_at": "Thu Jan 07 06:09:14 +0000 2010",
+			"favourites_count": 77034,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 33501,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1100064833360355328/KggFqa8t_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1100064833360355328/KggFqa8t_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/102594136/1571964056",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 125,
+		"favorite_count": 436,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A few years ago, I wrote something about Kobe's twilight, where he was the hardest working basketball player alive.\n\n\"If everybody played like Kobe, if everybody worked like Kobe, everybody would be great. It is that simple. It is also humanly impossible.\"\nhttps://t.co/C7Xoh68ibs"
+	},
+	{
+		"created_at": "Mon Jan 27 01:28:55 +0000 2020",
+		"id": 1221605977310580700,
+		"id_str": "1221605977310580736",
+		"full_text": "@ilovaussiesheps A bottle opener with a magnet beneath it to catch the tops",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ilovaussiesheps",
+					"name": "Richard W | 📸💻🎥💜",
+					"id": 766672476,
+					"id_str": "766672476",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1221605195475497000,
+		"in_reply_to_status_id_str": "1221605195475496960",
+		"in_reply_to_user_id": 766672476,
+		"in_reply_to_user_id_str": "766672476",
+		"in_reply_to_screen_name": "ilovaussiesheps",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\" (Editorial Director, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56983,
+			"friends_count": 572,
+			"listed_count": 969,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 75939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 245,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ilovaussiesheps A bottle opener with a magnet beneath it to catch the tops"
+	},
+	{
+		"created_at": "Mon Jan 27 01:26:31 +0000 2020",
+		"id": 1221581643883917300,
+		"id_str": "1221605373242761217",
+		"full_text": "lamar odom on kobe. i am speechless. https://t.co/Qa2slpI93y",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1221581617510207500,
+					"id_str": "1221581617510207488",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/EPPuAkfX0AAXFEV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPPuAkfX0AAXFEV.jpg",
+					"url": "https://t.co/Qa2slpI93y",
+					"display_url": "pic.twitter.com/Qa2slpI93y",
+					"expanded_url": "https://twitter.com/ByKellyCohen/status/1221581643883917315/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 394,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1429,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 695,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 136,
+									"y": 76,
+									"h": 76,
+									"w": 76
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 287,
+									"y": 160,
+									"h": 160,
+									"w": 160
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 287,
+									"y": 160,
+									"h": 160,
+									"w": 160
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 240,
+									"y": 134,
+									"h": 134,
+									"w": 134
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1221581617510207500,
+					"id_str": "1221581617510207488",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/EPPuAkfX0AAXFEV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPPuAkfX0AAXFEV.jpg",
+					"url": "https://t.co/Qa2slpI93y",
+					"display_url": "pic.twitter.com/Qa2slpI93y",
+					"expanded_url": "https://twitter.com/ByKellyCohen/status/1221581643883917315/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 394,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 828,
+							"h": 1429,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 695,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 136,
+									"y": 76,
+									"h": 76,
+									"w": 76
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 287,
+									"y": 160,
+									"h": 160,
+									"w": 160
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 287,
+									"y": 160,
+									"h": 160,
+									"w": 160
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 240,
+									"y": 134,
+									"h": 134,
+									"w": 134
+								}
+							]
+						}
+					}
+				},
+				{
+					"id": 1221581617539559400,
+					"id_str": "1221581617539559425",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/EPPuAkmXsAE7J4C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPPuAkmXsAE7J4C.jpg",
+					"url": "https://t.co/Qa2slpI93y",
+					"display_url": "pic.twitter.com/Qa2slpI93y",
+					"expanded_url": "https://twitter.com/ByKellyCohen/status/1221581643883917315/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 1395,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 404,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 712,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1221581617543643100,
+					"id_str": "1221581617543643138",
+					"indices": [
+						37,
+						60
+					],
+					"media_url": "http://pbs.twimg.com/media/EPPuAknWAAILeIL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPPuAknWAAILeIL.jpg",
+					"url": "https://t.co/Qa2slpI93y",
+					"display_url": "pic.twitter.com/Qa2slpI93y",
+					"expanded_url": "https://twitter.com/ByKellyCohen/status/1221581643883917315/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 828,
+							"h": 1792,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 7,
+									"y": 579,
+									"h": 23,
+									"w": 23
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 14,
+									"y": 1023,
+									"h": 42,
+									"w": 42
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 21,
+									"y": 1529,
+									"h": 63,
+									"w": 63
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 21,
+									"y": 1529,
+									"h": 63,
+									"w": 63
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 261023298,
+			"id_str": "261023298",
+			"name": "kelly cohen",
+			"screen_name": "ByKellyCohen",
+			"location": "DC",
+			"description": "multisport reporter @espn • proud florida woman & mizzou alumna • always yelling • 📧: kelly.cohen@espn.com",
+			"url": "https://t.co/YxK4FxVwCd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/YxK4FxVwCd",
+							"expanded_url": "http://instagram.com/kcocoloco",
+							"display_url": "instagram.com/kcocoloco",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 22402,
+			"friends_count": 1178,
+			"listed_count": 529,
+			"created_at": "Sat Mar 05 02:45:58 +0000 2011",
+			"favourites_count": 152024,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 90615,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207292129615192065/b3tQy61h_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207292129615192065/b3tQy61h_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/261023298/1578421162",
+			"profile_link_color": "333333",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": {
+			"id": "01fbe706f872cb32",
+			"url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+			"place_type": "city",
+			"name": "Washington",
+			"full_name": "Washington, DC",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-77.119401,
+							38.801826
+						],
+						[
+							-76.909396,
+							38.801826
+						],
+						[
+							-76.909396,
+							38.9953797
+						],
+						[
+							-77.119401,
+							38.9953797
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 872,
+		"favorite_count": 3666,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "lamar odom on kobe. i am speechless. https://t.co/Qa2slpI93y"
+	},
+	{
+		"created_at": "Mon Jan 27 01:20:33 +0000 2020",
+		"id": 1221603869937078300,
+		"id_str": "1221603869937078274",
+		"full_text": "Love 2 lose weight with very unhealthy starvation diets https://t.co/MmdTOeCVSY",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			55
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1221603864618635300,
+					"id_str": "1221603864618635265",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EPQCPhbWkAE7mco.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPQCPhbWkAE7mco.jpg",
+					"url": "https://t.co/MmdTOeCVSY",
+					"display_url": "pic.twitter.com/MmdTOeCVSY",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1221603869937078274/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 2000,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 56,
+									"y": 487,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 251,
+									"y": 344,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 31,
+									"y": 144,
+									"h": 172,
+									"w": 172
+								},
+								{
+									"x": 205,
+									"y": 216,
+									"h": 151,
+									"w": 151
+								},
+								{
+									"x": 65,
+									"y": 226,
+									"h": 154,
+									"w": 154
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 100,
+									"y": 858,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 442,
+									"y": 606,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 55,
+									"y": 253,
+									"h": 304,
+									"w": 304
+								},
+								{
+									"x": 361,
+									"y": 381,
+									"h": 267,
+									"w": 267
+								},
+								{
+									"x": 114,
+									"y": 398,
+									"h": 273,
+									"w": 273
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 167,
+									"y": 1431,
+									"h": 89,
+									"w": 89
+								},
+								{
+									"x": 738,
+									"y": 1011,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 93,
+									"y": 423,
+									"h": 507,
+									"w": 507
+								},
+								{
+									"x": 603,
+									"y": 636,
+									"h": 445,
+									"w": 445
+								},
+								{
+									"x": 191,
+									"y": 664,
+									"h": 455,
+									"w": 455
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 167,
+									"y": 1431,
+									"h": 89,
+									"w": 89
+								},
+								{
+									"x": 738,
+									"y": 1011,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 93,
+									"y": 423,
+									"h": 507,
+									"w": 507
+								},
+								{
+									"x": 603,
+									"y": 636,
+									"h": 445,
+									"w": 445
+								},
+								{
+									"x": 191,
+									"y": 664,
+									"h": 455,
+									"w": 455
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1221603864618635300,
+					"id_str": "1221603864618635265",
+					"indices": [
+						56,
+						79
+					],
+					"media_url": "http://pbs.twimg.com/media/EPQCPhbWkAE7mco.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPQCPhbWkAE7mco.jpg",
+					"url": "https://t.co/MmdTOeCVSY",
+					"display_url": "pic.twitter.com/MmdTOeCVSY",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1221603869937078274/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 383,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 2000,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 56,
+									"y": 487,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 251,
+									"y": 344,
+									"h": 45,
+									"w": 45
+								},
+								{
+									"x": 31,
+									"y": 144,
+									"h": 172,
+									"w": 172
+								},
+								{
+									"x": 205,
+									"y": 216,
+									"h": 151,
+									"w": 151
+								},
+								{
+									"x": 65,
+									"y": 226,
+									"h": 154,
+									"w": 154
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 100,
+									"y": 858,
+									"h": 53,
+									"w": 53
+								},
+								{
+									"x": 442,
+									"y": 606,
+									"h": 80,
+									"w": 80
+								},
+								{
+									"x": 55,
+									"y": 253,
+									"h": 304,
+									"w": 304
+								},
+								{
+									"x": 361,
+									"y": 381,
+									"h": 267,
+									"w": 267
+								},
+								{
+									"x": 114,
+									"y": 398,
+									"h": 273,
+									"w": 273
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 167,
+									"y": 1431,
+									"h": 89,
+									"w": 89
+								},
+								{
+									"x": 738,
+									"y": 1011,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 93,
+									"y": 423,
+									"h": 507,
+									"w": 507
+								},
+								{
+									"x": 603,
+									"y": 636,
+									"h": 445,
+									"w": 445
+								},
+								{
+									"x": 191,
+									"y": 664,
+									"h": 455,
+									"w": 455
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 167,
+									"y": 1431,
+									"h": 89,
+									"w": 89
+								},
+								{
+									"x": 738,
+									"y": 1011,
+									"h": 134,
+									"w": 134
+								},
+								{
+									"x": 93,
+									"y": 423,
+									"h": 507,
+									"w": 507
+								},
+								{
+									"x": 603,
+									"y": 636,
+									"h": 445,
+									"w": 445
+								},
+								{
+									"x": 191,
+									"y": 664,
+									"h": 455,
+									"w": 455
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\" (Editorial Director, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56983,
+			"friends_count": 572,
+			"listed_count": 969,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 75939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 245,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Love 2 lose weight with very unhealthy starvation diets https://t.co/MmdTOeCVSY"
+	},
+	{
+		"created_at": "Mon Jan 27 01:16:00 +0000 2020",
+		"id": 1221552460768202800,
+		"id_str": "1221602723252047872",
+		"full_text": "Kobe was a legend on the court and just getting started in what would have been just as meaningful a second act. To lose Gianna is even more heartbreaking to us as parents. Michelle and I send love and prayers to Vanessa and the entire Bryant family on an unthinkable day.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			272
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 813286,
+			"id_str": "813286",
+			"name": "Barack Obama",
+			"screen_name": "BarackObama",
+			"location": "Washington, DC",
+			"description": "Dad, husband, President, citizen.",
+			"url": "https://t.co/93Y27HEnnX",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/93Y27HEnnX",
+							"expanded_url": "https://www.obama.org/",
+							"display_url": "obama.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 112534842,
+			"friends_count": 609430,
+			"listed_count": 228668,
+			"created_at": "Mon Mar 05 22:08:25 +0000 2007",
+			"favourites_count": 11,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 15718,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "77B0DC",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/822547732376207360/5g0FC8XX_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/822547732376207360/5g0FC8XX_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/813286/1502508746",
+			"profile_link_color": "2574AD",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "C2E0F6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 525505,
+		"favorite_count": 2840390,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Kobe was a legend on the court and just getting started in what would have been just as meaningful a second act. To lose Gianna is even more heartbreaking to us as parents. Michelle and I send love and prayers to Vanessa and the entire Bryant family on an unthinkable day."
+	},
+	{
+		"created_at": "Sun Jan 26 20:56:51 +0000 2020",
+		"id": 1221527692782293000,
+		"id_str": "1221537507612995592",
+		"full_text": "\"My Latino fans are very important to me because they were the first ones who embraced me the most when I first got here...\" — Kobe Bryant\n\nKobe Bryant was a force of nature and had forged a special connection with his Latino fans. This is heartbreaking. 💔 https://t.co/JVg4wc8a9d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1221527536322130000,
+					"id_str": "1221527536322129922",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1221527536322129922/pu/img/_9PrJkA-_XA3f5HV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1221527536322129922/pu/img/_9PrJkA-_XA3f5HV.jpg",
+					"url": "https://t.co/JVg4wc8a9d",
+					"display_url": "pic.twitter.com/JVg4wc8a9d",
+					"expanded_url": "https://twitter.com/latinovictoryus/status/1221527692782292993/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1221527536322130000,
+					"id_str": "1221527536322129922",
+					"indices": [
+						257,
+						280
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1221527536322129922/pu/img/_9PrJkA-_XA3f5HV.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1221527536322129922/pu/img/_9PrJkA-_XA3f5HV.jpg",
+					"url": "https://t.co/JVg4wc8a9d",
+					"display_url": "pic.twitter.com/JVg4wc8a9d",
+					"expanded_url": "https://twitter.com/latinovictoryus/status/1221527692782292993/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 107357,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1221527536322129922/pu/vid/480x270/U7DNjjTrKV5RZyQu.mp4?tag=10"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1221527536322129922/pu/vid/1280x720/6Y2V44xMbc_AVv4s.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1221527536322129922/pu/vid/640x360/UAIiPR_X4fqr5lq6.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1221527536322129922/pu/pl/esaFdKhz1QguabjZ.m3u8?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 2302481323,
+			"id_str": "2302481323",
+			"name": "Latino Victory",
+			"screen_name": "latinovictoryus",
+			"location": "Washington, D.C.",
+			"description": "Latino Victory grows Latino political power by electing progressive Latinos to every level of government.\n\nCo-founded by @EvaLongoria & @HenryRMunozIII",
+			"url": "https://t.co/ej1ZIUUaVN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ej1ZIUUaVN",
+							"expanded_url": "http://latinovictory.us",
+							"display_url": "latinovictory.us",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 26430,
+			"friends_count": 2442,
+			"listed_count": 369,
+			"created_at": "Tue Jan 21 04:21:01 +0000 2014",
+			"favourites_count": 7812,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 13438,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1098311511666319363/cxT1K7NS_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098311511666319363/cxT1K7NS_normal.png",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/2302481323/1525817162",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 29940,
+		"favorite_count": 80640,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"My Latino fans are very important to me because they were the first ones who embraced me the most when I first got here...\" — Kobe Bryant\n\nKobe Bryant was a force of nature and had forged a special connection with his Latino fans. This is heartbreaking. 💔 https://t.co/JVg4wc8a9d"
+	},
+	{
+		"created_at": "Sun Jan 26 20:55:37 +0000 2020",
+		"id": 1221530964649578500,
+		"id_str": "1221537195397394435",
+		"full_text": "RIP 🏀 Kobe Bryant mural on Melrose by JC Ro https://t.co/iSYwG0DJOM",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1221530951362072600,
+					"id_str": "1221530951362072576",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/EPO_7aYU0AAEX_6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPO_7aYU0AAEX_6.jpg",
+					"url": "https://t.co/iSYwG0DJOM",
+					"display_url": "pic.twitter.com/iSYwG0DJOM",
+					"expanded_url": "https://twitter.com/hunterschwarz/status/1221530964649578500/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 575,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 952,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 952,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1221530951362072600,
+					"id_str": "1221530951362072576",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/EPO_7aYU0AAEX_6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPO_7aYU0AAEX_6.jpg",
+					"url": "https://t.co/iSYwG0DJOM",
+					"display_url": "pic.twitter.com/iSYwG0DJOM",
+					"expanded_url": "https://twitter.com/hunterschwarz/status/1221530964649578500/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 575,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1125,
+							"h": 952,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1125,
+							"h": 952,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18939358,
+			"id_str": "18939358",
+			"name": "Hunter Schwarz",
+			"screen_name": "hunterschwarz",
+			"location": "",
+			"description": "🇺🇸 Founder of Yello @yello_zine, an email newsletter about the culture, branding, and visual rhetoric of politics. Previously: CNN, WaPo. 📨 Subscribe:",
+			"url": "https://t.co/seImcuCQuT",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/seImcuCQuT",
+							"expanded_url": "http://yello.substack.com",
+							"display_url": "yello.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 21824,
+			"friends_count": 1776,
+			"listed_count": 801,
+			"created_at": "Tue Jan 13 14:34:26 +0000 2009",
+			"favourites_count": 9312,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 58411,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "00A1F2",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1175281477099171840/cirEbt2T_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1175281477099171840/cirEbt2T_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18939358/1536679845",
+			"profile_link_color": "FBE300",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EFEFEF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "RIP 🏀 Kobe Bryant mural on Melrose by JC Ro https://t.co/iSYwG0DJOM"
+	},
+	{
+		"created_at": "Sun Jan 26 20:50:55 +0000 2020",
+		"id": 1221531245227569200,
+		"id_str": "1221536012867919876",
+		"full_text": "Former #Nuggets coach and longtime #Lakers assistant Brian Shaw talking about the death of friend Kobe Bryant #Denver7 https://t.co/87jyisJY8K",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [
+				{
+					"text": "Nuggets",
+					"indices": [
+						7,
+						15
+					]
+				},
+				{
+					"text": "Lakers",
+					"indices": [
+						35,
+						42
+					]
+				},
+				{
+					"text": "Denver7",
+					"indices": [
+						110,
+						118
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1221530830104694800,
+					"id_str": "1221530830104694786",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1221530830104694786/pu/img/5TSYPnYSRZJR40-h.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1221530830104694786/pu/img/5TSYPnYSRZJR40-h.jpg",
+					"url": "https://t.co/87jyisJY8K",
+					"display_url": "pic.twitter.com/87jyisJY8K",
+					"expanded_url": "https://twitter.com/TroyRenck/status/1221531245227569152/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1221530830104694800,
+					"id_str": "1221530830104694786",
+					"indices": [
+						119,
+						142
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1221530830104694786/pu/img/5TSYPnYSRZJR40-h.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1221530830104694786/pu/img/5TSYPnYSRZJR40-h.jpg",
+					"url": "https://t.co/87jyisJY8K",
+					"display_url": "pic.twitter.com/87jyisJY8K",
+					"expanded_url": "https://twitter.com/TroyRenck/status/1221531245227569152/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 104993,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1221530830104694786/pu/vid/1280x720/iIS5CZ2V5IWn1oOn.mp4?tag=10"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1221530830104694786/pu/vid/640x360/0GY8BYFj-eHouphz.mp4?tag=10"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1221530830104694786/pu/pl/Ke8Qkd8cIUPg9DYA.m3u8?tag=10"
+							},
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1221530830104694786/pu/vid/480x270/DeE3jr_lhdF1PZKD.mp4?tag=10"
+							}
+						]
+					},
+					"features": {},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 9637692,
+			"id_str": "9637692",
+			"name": "Troy Renck",
+			"screen_name": "TroyRenck",
+			"location": "Denver, Colorado",
+			"description": "Broncos Insider/Sports Anchor Denver7, ABC. Broncos/Rockies beat writer 2002-16 at The Denver Post. 2019 Colorado Sportscaster of The Year. Love Chewy Sprees.",
+			"url": "https://t.co/F4Th15gBxS",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/F4Th15gBxS",
+							"expanded_url": "http://www.thedenverchannel.com",
+							"display_url": "thedenverchannel.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 55721,
+			"friends_count": 18955,
+			"listed_count": 2541,
+			"created_at": "Tue Oct 23 22:28:13 +0000 2007",
+			"favourites_count": 20136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 142847,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/759986697690046464/K4bB_VNP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/759986697690046464/K4bB_VNP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/9637692/1470034613",
+			"profile_link_color": "009999",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 808,
+		"favorite_count": 2964,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Former #Nuggets coach and longtime #Lakers assistant Brian Shaw talking about the death of friend Kobe Bryant #Denver7 https://t.co/87jyisJY8K"
+	},
+	{
+		"created_at": "Sun Jan 26 20:48:15 +0000 2020",
+		"id": 1221534605242552300,
+		"id_str": "1221535341590523904",
+		"full_text": "https://t.co/MVSSYKjfJK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1221534597755756500,
+					"id_str": "1221534597755756545",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EPPDPqQU4AEcAiy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPPDPqQU4AEcAiy.jpg",
+					"url": "https://t.co/MVSSYKjfJK",
+					"display_url": "pic.twitter.com/MVSSYKjfJK",
+					"expanded_url": "https://twitter.com/Chiney321/status/1221534605242552322/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1221534597755756500,
+					"id_str": "1221534597755756545",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EPPDPqQU4AEcAiy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPPDPqQU4AEcAiy.jpg",
+					"url": "https://t.co/MVSSYKjfJK",
+					"display_url": "pic.twitter.com/MVSSYKjfJK",
+					"expanded_url": "https://twitter.com/Chiney321/status/1221534605242552322/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				},
+				{
+					"id": 1221534597759979500,
+					"id_str": "1221534597759979522",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/EPPDPqRVUAInDex.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPPDPqRVUAInDex.jpg",
+					"url": "https://t.co/MVSSYKjfJK",
+					"display_url": "pic.twitter.com/MVSSYKjfJK",
+					"expanded_url": "https://twitter.com/Chiney321/status/1221534605242552322/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 1040,
+									"y": 964,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 1298,
+									"y": 1234,
+									"h": 76,
+									"w": 76
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 609,
+									"y": 564,
+									"h": 43,
+									"w": 43
+								},
+								{
+									"x": 760,
+									"y": 723,
+									"h": 44,
+									"w": 44
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1040,
+									"y": 964,
+									"h": 74,
+									"w": 74
+								},
+								{
+									"x": 1298,
+									"y": 1234,
+									"h": 76,
+									"w": 76
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 345,
+									"y": 320,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 430,
+									"y": 409,
+									"h": 25,
+									"w": 25
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1221533107234336800,
+		"in_reply_to_status_id_str": "1221533107234336770",
+		"in_reply_to_user_id": 213530043,
+		"in_reply_to_user_id_str": "213530043",
+		"in_reply_to_screen_name": "Chiney321",
+		"user": {
+			"id": 213530043,
+			"id_str": "213530043",
+			"name": "Chiney Ogwumike",
+			"screen_name": "Chiney321",
+			"location": "",
+			"description": "tougher than nigerian hair",
+			"url": "https://t.co/Eu3iNAwPQM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Eu3iNAwPQM",
+							"expanded_url": "https://youtu.be/02DFAxzLDiM",
+							"display_url": "youtu.be/02DFAxzLDiM",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 57727,
+			"friends_count": 878,
+			"listed_count": 508,
+			"created_at": "Tue Nov 09 04:16:28 +0000 2010",
+			"favourites_count": 2874,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 21996,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "050000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1187751999460147200/9IrluLYP_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1187751999460147200/9IrluLYP_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/213530043/1568411631",
+			"profile_link_color": "120869",
+			"profile_sidebar_border_color": "F02213",
+			"profile_sidebar_fill_color": "030303",
+			"profile_text_color": "ED0EED",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 936,
+		"favorite_count": 3232,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/MVSSYKjfJK"
+	},
+	{
+		"created_at": "Sun Jan 26 20:29:42 +0000 2020",
+		"id": 1221530673464238000,
+		"id_str": "1221530673464238080",
+		"full_text": "One time when I was in my teens I forced my way near the tunnel at the Forum and when they came back from halftime he low-fived me (and 30 other people) and it remains the only time in my entire life I have ever been giddily and euphorically star struck.  😭",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1221529229873107000,
+		"in_reply_to_status_id_str": "1221529229873106946",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\" (Editorial Director, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56983,
+			"friends_count": 572,
+			"listed_count": 969,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 75939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 245,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 76,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "One time when I was in my teens I forced my way near the tunnel at the Forum and when they came back from halftime he low-fived me (and 30 other people) and it remains the only time in my entire life I have ever been giddily and euphorically star struck.  😭"
+	},
+	{
+		"created_at": "Sun Jan 26 20:23:57 +0000 2020",
+		"id": 1221529229873107000,
+		"id_str": "1221529229873106946",
+		"full_text": "The first Kobe game I went to was the night he flamed out against the Jazz in the playoffs his rookie year. I was like 10 and had travelled with a friend from Idaho to see it. I have flown places to see Kobe so many times since then, because watching him was like nothing else.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\" (Editorial Director, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56983,
+			"friends_count": 572,
+			"listed_count": 969,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 75939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 245,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 106,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "The first Kobe game I went to was the night he flamed out against the Jazz in the playoffs his rookie year. I was like 10 and had travelled with a friend from Idaho to see it. I have flown places to see Kobe so many times since then, because watching him was like nothing else."
+	},
+	{
+		"created_at": "Sun Jan 26 20:20:03 +0000 2020",
+		"id": 1221527995766042600,
+		"id_str": "1221528244354273281",
+		"full_text": "For me, the Lakers represent joy, excellence and, of course, showtime. Watching the Lakers on cold winter nights has filled me with Californian warmth my entire life. That’s why I’m a fan.\n\nKobe represented that feeling. He is, in short, the Lakers. https://t.co/pk0F8X0pQZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1221527973020434400,
+					"id_str": "1221527973020434434",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/EPO9ODMWAAIvVN7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPO9ODMWAAIvVN7.jpg",
+					"url": "https://t.co/pk0F8X0pQZ",
+					"display_url": "pic.twitter.com/pk0F8X0pQZ",
+					"expanded_url": "https://twitter.com/frankpallotta/status/1221527995766042624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 574,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 574,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1221527973020434400,
+					"id_str": "1221527973020434434",
+					"indices": [
+						250,
+						273
+					],
+					"media_url": "http://pbs.twimg.com/media/EPO9ODMWAAIvVN7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EPO9ODMWAAIvVN7.jpg",
+					"url": "https://t.co/pk0F8X0pQZ",
+					"display_url": "pic.twitter.com/pk0F8X0pQZ",
+					"expanded_url": "https://twitter.com/frankpallotta/status/1221527995766042624/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1024,
+							"h": 574,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1024,
+							"h": 574,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 381,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 31422711,
+			"id_str": "31422711",
+			"name": "Frank Pallotta",
+			"screen_name": "frankpallotta",
+			"location": "New York, NY",
+			"description": "Media reporter @CNN. I cover Hollywood, streaming and galaxies both near and far, far away.",
+			"url": "https://t.co/GcGPVsy1Qf",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GcGPVsy1Qf",
+							"expanded_url": "https://www.cnn.com/profiles/frank-pallotta",
+							"display_url": "cnn.com/profiles/frank…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 17254,
+			"friends_count": 608,
+			"listed_count": 468,
+			"created_at": "Wed Apr 15 14:42:58 +0000 2009",
+			"favourites_count": 43889,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 27980,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "8B542B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1054059716060553222/7ckroW36_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1054059716060553222/7ckroW36_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/31422711/1540211622",
+			"profile_link_color": "D5251A",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EACFAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 18,
+		"favorite_count": 70,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For me, the Lakers represent joy, excellence and, of course, showtime. Watching the Lakers on cold winter nights has filled me with Californian warmth my entire life. That’s why I’m a fan.\n\nKobe represented that feeling. He is, in short, the Lakers. https://t.co/pk0F8X0pQZ"
+	},
+	{
+		"created_at": "Sun Jan 26 20:14:40 +0000 2020",
+		"id": 1221526893066776600,
+		"id_str": "1221526893066776576",
+		"full_text": "Omg I can't believe Kobe news",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			29
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\" (Editorial Director, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 56983,
+			"friends_count": 572,
+			"listed_count": 969,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 75939,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 245,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Omg I can't believe Kobe news"
+	},
+	{
+		"created_at": "Sun Jan 26 20:13:02 +0000 2020",
+		"id": 1221525143593218000,
+		"id_str": "1221526481999777792",
+		"full_text": "Years ago Kobe was suspended for calling a ref a fucking fag in a heated moment. He didn’t give a weak apology and yell “triggered!” He learned from it. Actually put in work. Worked with GLAAD. Called out his own fan for calling someone gay in his mentions. People can grow.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21630029,
+			"id_str": "21630029",
+			"name": "Slade",
+			"screen_name": "Slade",
+			"location": "Brooklyn NY",
+			"description": "Making vids @TheRecount. Solving mysteries in Cabot Cove.",
+			"url": "https://t.co/Z0xAkVCBC4",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Z0xAkVCBC4",
+							"expanded_url": "http://Instagram.com/sladeny",
+							"display_url": "Instagram.com/sladeny",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 20793,
+			"friends_count": 976,
+			"listed_count": 461,
+			"created_at": "Mon Feb 23 04:10:30 +0000 2009",
+			"favourites_count": 147140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14801,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "9AE4E8",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1210395114692108289/nr2caeHH_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1210395114692108289/nr2caeHH_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21630029/1569865543",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDFFCC",
+			"profile_text_color": "333333",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": true,
+			"followed_by": true,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6460,
+		"favorite_count": 98503,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Years ago Kobe was suspended for calling a ref a fucking fag in a heated moment. He didn’t give a weak apology and yell “triggered!” He learned from it. Actually put in work. Worked with GLAAD. Called out his own fan for calling someone gay in his mentions. People can grow."
+	},
+	{
 		"created_at": "Sun Jan 26 03:38:13 +0000 2020",
 		"id": 1221195811943522300,
 		"id_str": "1221276127962025984",
