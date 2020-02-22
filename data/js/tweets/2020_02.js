@@ -1,6 +1,326 @@
 Grailbird.data.tweets_2020_02 = 
 [
 	{
+		"created_at": "Fri Feb 21 07:26:40 +0000 2020",
+		"id": 1230589728337981400,
+		"id_str": "1230755703607840768",
+		"full_text": "good lord who gives a shit https://t.co/5H4JIDDsdg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			26
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5H4JIDDsdg",
+					"expanded_url": "https://twitter.com/joncoopertweets/status/1230495262210232320",
+					"display_url": "twitter.com/joncoopertweet…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16244449,
+			"id_str": "16244449",
+			"name": "Josh Barro",
+			"screen_name": "jbarro",
+			"location": "New York, New York",
+			"description": "Business columnist for @NYMag. Host of KCRW's Left, Right & Center. Cohost w/ @popehat of LRC Presents: All the President's Lawyers. Instagram: @ joshbarro",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 251125,
+			"friends_count": 2360,
+			"listed_count": 5556,
+			"created_at": "Thu Sep 11 17:57:48 +0000 2008",
+			"favourites_count": 15612,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 23805,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207529322862587904/TVlmh58i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207529322862587904/TVlmh58i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16244449/1462471547",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1230495262210232300,
+		"quoted_status_id_str": "1230495262210232320",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5H4JIDDsdg",
+			"expanded": "https://twitter.com/joncoopertweets/status/1230495262210232320",
+			"display": "twitter.com/joncoopertweet…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Feb 20 14:11:46 +0000 2020",
+			"id": 1230495262210232300,
+			"id_str": "1230495262210232320",
+			"full_text": "Who else would love to have a summer home like @BernieSanders’ so-called “cabin” in Vermont that’s worth over $600,000, comes with a guest cottage, and boasts 500 feet of lakefront on Lake Champlain? https://t.co/PIeC9uMGlE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				199
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "BernieSanders",
+						"name": "Bernie Sanders",
+						"id": 216776631,
+						"id_str": "216776631",
+						"indices": [
+							47,
+							61
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1230495252282212400,
+						"id_str": "1230495252282212352",
+						"indices": [
+							200,
+							223
+						],
+						"media_url": "http://pbs.twimg.com/media/EROY6ZoWAAA-Mm6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EROY6ZoWAAA-Mm6.jpg",
+						"url": "https://t.co/PIeC9uMGlE",
+						"display_url": "pic.twitter.com/PIeC9uMGlE",
+						"expanded_url": "https://twitter.com/joncoopertweets/status/1230495262210232320/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 620,
+								"h": 315,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 620,
+								"h": 315,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 620,
+								"h": 315,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1230495252282212400,
+						"id_str": "1230495252282212352",
+						"indices": [
+							200,
+							223
+						],
+						"media_url": "http://pbs.twimg.com/media/EROY6ZoWAAA-Mm6.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EROY6ZoWAAA-Mm6.jpg",
+						"url": "https://t.co/PIeC9uMGlE",
+						"display_url": "pic.twitter.com/PIeC9uMGlE",
+						"expanded_url": "https://twitter.com/joncoopertweets/status/1230495262210232320/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 620,
+								"h": 315,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 620,
+								"h": 315,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 620,
+								"h": 315,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1230495252554928000,
+						"id_str": "1230495252554928128",
+						"indices": [
+							200,
+							223
+						],
+						"media_url": "http://pbs.twimg.com/media/EROY6apXUAAR2Ei.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EROY6apXUAAR2Ei.jpg",
+						"url": "https://t.co/PIeC9uMGlE",
+						"display_url": "pic.twitter.com/PIeC9uMGlE",
+						"expanded_url": "https://twitter.com/joncoopertweets/status/1230495262210232320/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 620,
+								"h": 463,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 620,
+								"h": 463,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 620,
+								"h": 463,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 27493883,
+				"id_str": "27493883",
+				"name": "Jon Cooper 🇺🇸",
+				"screen_name": "joncoopertweets",
+				"location": "New York",
+				"description": "Chairman of @TheDemCoalition; formerly LI Campaign Chair for @BarackObama. Any endorsements here reflect my personal opinions. Views=mine #ImpeachmentTaskForce",
+				"url": "https://t.co/mzKvoqQjrq",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/mzKvoqQjrq",
+								"expanded_url": "http://www.DemocraticCoalition.org",
+								"display_url": "DemocraticCoalition.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 393443,
+				"friends_count": 39586,
+				"listed_count": 2239,
+				"created_at": "Sun Mar 29 20:12:52 +0000 2009",
+				"favourites_count": 133869,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 159421,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1203164939147513856/lFG-UGqc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203164939147513856/lFG-UGqc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/27493883/1581178275",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1991,
+			"favorite_count": 5727,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 236,
+		"favorite_count": 5469,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "good lord who gives a shit https://t.co/5H4JIDDsdg"
+	},
+	{
 		"created_at": "Fri Feb 21 06:09:06 +0000 2020",
 		"id": 1230555932398059500,
 		"id_str": "1230736183715495937",
