@@ -1,6 +1,950 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 06 17:26:47 +0000 2020",
+		"id": 1269304979078230000,
+		"id_str": "1269319841040793603",
+		"full_text": "I'm calling on @NYCMayor to strip the NYPD of the authority to issue press credentials.\n\nOur democracy depends on a free, unfettered press.\n\nWe cannot entrust that essential principle to the sole discretion of law enforcement.\n\nhttps://t.co/qQ2QiIIDmg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			251
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NYCMayor",
+					"name": "Mayor Bill de Blasio",
+					"id": 19834403,
+					"id_str": "19834403",
+					"indices": [
+						15,
+						24
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/qQ2QiIIDmg",
+					"expanded_url": "https://comptroller.nyc.gov/newsroom/press-releases/comptroller-stringer-calls-on-mayor-de-blasio-to-transfer-press-credential-issuance-away-from-nypd-and-create-new-application-standards-that-reflect-the-diversity-of-new-york-city-reportage/",
+					"display_url": "comptroller.nyc.gov/newsroom/press…",
+					"indices": [
+						228,
+						251
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 38421062,
+			"id_str": "38421062",
+			"name": "Scott M. Stringer",
+			"screen_name": "NYCComptroller",
+			"location": "New York, NY",
+			"description": "Official account of NYC's Comptroller. Fighting for a fairer, more affordable city. Delivering accountability in gov't. Dad to Max & Miles. Lifelong New Yorker.",
+			"url": "https://t.co/t45Kqt8CCA",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/t45Kqt8CCA",
+							"expanded_url": "http://comptroller.nyc.gov",
+							"display_url": "comptroller.nyc.gov",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 46562,
+			"friends_count": 1425,
+			"listed_count": 866,
+			"created_at": "Thu May 07 12:31:27 +0000 2009",
+			"favourites_count": 1944,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17002,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "131516",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1162505836297641984/8Po7qmnr_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1162505836297641984/8Po7qmnr_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/38421062/1546480777",
+			"profile_link_color": "995400",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1810,
+		"favorite_count": 4585,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I'm calling on @NYCMayor to strip the NYPD of the authority to issue press credentials.\n\nOur democracy depends on a free, unfettered press.\n\nWe cannot entrust that essential principle to the sole discretion of law enforcement.\n\nhttps://t.co/qQ2QiIIDmg"
+	},
+	{
+		"created_at": "Sat Jun 06 14:00:38 +0000 2020",
+		"id": 1269267963171016700,
+		"id_str": "1269267963171016704",
+		"full_text": "“Attack and dethrone god” 😂 https://t.co/aNXL5JRbMs",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aNXL5JRbMs",
+					"expanded_url": "https://twitter.com/andrewfeinberg/status/1269265433624023042",
+					"display_url": "twitter.com/andrewfeinberg…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\" (Editorial Director, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61200,
+			"friends_count": 644,
+			"listed_count": 893,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 79275,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1269265433624023000,
+		"quoted_status_id_str": "1269265433624023042",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aNXL5JRbMs",
+			"expanded": "https://twitter.com/andrewfeinberg/status/1269265433624023042",
+			"display": "twitter.com/andrewfeinberg…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 06 13:50:35 +0000 2020",
+			"id": 1269265433624023000,
+			"id_str": "1269265433624023042",
+			"full_text": "According to @FoxNews, it’s 1973. https://t.co/8jbgUSePFO",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				33
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "FoxNews",
+						"name": "Fox News",
+						"id": 1367531,
+						"id_str": "1367531",
+						"indices": [
+							13,
+							21
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1269265420034494500,
+						"id_str": "1269265420034494466",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/media/EZ1WLLbX0AIKhaL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZ1WLLbX0AIKhaL.jpg",
+						"url": "https://t.co/8jbgUSePFO",
+						"display_url": "pic.twitter.com/8jbgUSePFO",
+						"expanded_url": "https://twitter.com/AndrewFeinberg/status/1269265433624023042/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 315,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1132,
+								"h": 525,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1132,
+								"h": 525,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1269265420034494500,
+						"id_str": "1269265420034494466",
+						"indices": [
+							34,
+							57
+						],
+						"media_url": "http://pbs.twimg.com/media/EZ1WLLbX0AIKhaL.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EZ1WLLbX0AIKhaL.jpg",
+						"url": "https://t.co/8jbgUSePFO",
+						"display_url": "pic.twitter.com/8jbgUSePFO",
+						"expanded_url": "https://twitter.com/AndrewFeinberg/status/1269265433624023042/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 315,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1132,
+								"h": 525,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1132,
+								"h": 525,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2249531,
+				"id_str": "2249531",
+				"name": "Andrew Feinberg",
+				"screen_name": "AndrewFeinberg",
+				"location": "Washington, DC",
+				"description": "Reporter, friend 2 all 🐶 | bylines @Newsweek @Independent, BreakfastMedia etc | tips to andrew @ andrewfeinberg-dotcom | dm 4 Signal/ProtonMail",
+				"url": "https://t.co/86vCCV9eZV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/86vCCV9eZV",
+								"expanded_url": "https://www.muckrack.com/andrewfeinberg",
+								"display_url": "muckrack.com/andrewfeinberg",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 65887,
+				"friends_count": 5878,
+				"listed_count": 702,
+				"created_at": "Mon Mar 26 03:59:32 +0000 2007",
+				"favourites_count": 4458,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 44231,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1188827397073854470/POwzzbMn_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1188827397073854470/POwzzbMn_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2249531/1560960218",
+				"profile_link_color": "273A59",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 187,
+			"favorite_count": 787,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 14,
+		"favorite_count": 144,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“Attack and dethrone god” 😂 https://t.co/aNXL5JRbMs"
+	},
+	{
+		"created_at": "Sat Jun 06 13:54:23 +0000 2020",
+		"id": 1269261337181503500,
+		"id_str": "1269266389212311552",
+		"full_text": "Calls to moderate Trump's tweets tend to overlook the larger ways that social media shapes and distorts our view of the protests and police response. I wrote about why this should be a moment for deeper reflection on what we need from our online platforms. https://t.co/5Sy7f1F5ex",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5Sy7f1F5ex",
+					"expanded_url": "https://onezero.medium.com/how-social-media-is-shaping-the-protests-23c7c68944a0",
+					"display_url": "onezero.medium.com/how-social-med…",
+					"indices": [
+						257,
+						280
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 154016912,
+			"id_str": "154016912",
+			"name": "Will Oremus",
+			"screen_name": "WillOremus",
+			"location": "Newark, DE",
+			"description": "Oh-REE-mus. Senior writer for OneZero (@ozm) covering platforms, algorithms, privacy, and online speech. Raising Delawareness since 2018. DM for Signal.",
+			"url": "https://t.co/gjfobSdNta",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/gjfobSdNta",
+							"expanded_url": "https://medium.com/@WillOremus",
+							"display_url": "medium.com/@WillOremus",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 24337,
+			"friends_count": 2341,
+			"listed_count": 1053,
+			"created_at": "Thu Jun 10 04:23:40 +0000 2010",
+			"favourites_count": 35878,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 26530,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1F3952",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/474947556649099264/U8G5jb54_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/474947556649099264/U8G5jb54_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/154016912/1518568335",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 20,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Calls to moderate Trump's tweets tend to overlook the larger ways that social media shapes and distorts our view of the protests and police response. I wrote about why this should be a moment for deeper reflection on what we need from our online platforms. https://t.co/5Sy7f1F5ex"
+	},
+	{
+		"created_at": "Sat Jun 06 13:51:58 +0000 2020",
+		"id": 1269265778597126100,
+		"id_str": "1269265778597126144",
+		"full_text": "@ncolphillip awwwwwww",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ncolphillip",
+					"name": "Nicole Phillip",
+					"id": 3394395027,
+					"id_str": "3394395027",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1269236012653383700,
+		"in_reply_to_status_id_str": "1269236012653383680",
+		"in_reply_to_user_id": 3394395027,
+		"in_reply_to_user_id_str": "3394395027",
+		"in_reply_to_screen_name": "ncolphillip",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\" (Editorial Director, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 61200,
+			"friends_count": 644,
+			"listed_count": 893,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 79275,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@ncolphillip awwwwwww"
+	},
+	{
+		"created_at": "Sat Jun 06 13:50:36 +0000 2020",
+		"id": 1269099927713521700,
+		"id_str": "1269265438053142528",
+		"full_text": "Still should be a wake-up call that the candidate who led in polls for all of 2019 won the nomination and yet somehow it took many people on this platform totally by surprise. https://t.co/JG9CKS7I6G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			175
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JG9CKS7I6G",
+					"expanded_url": "https://twitter.com/EmmaKinery/status/1269096261208211456",
+					"display_url": "twitter.com/EmmaKinery/sta…",
+					"indices": [
+						176,
+						199
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16017475,
+			"id_str": "16017475",
+			"name": "Nate Silver",
+			"screen_name": "NateSilver538",
+			"location": "New York",
+			"description": "Editor-in-Chief, @FiveThirtyEight. Author, The Signal and the Noise (https://t.co/EYTxvN6BLY). Sports/politics/food geek.",
+			"url": "http://t.co/wNpFg2xg4f",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "http://t.co/wNpFg2xg4f",
+							"expanded_url": "http://fivethirtyeight.com/",
+							"display_url": "fivethirtyeight.com",
+							"indices": [
+								0,
+								22
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/EYTxvN6BLY",
+							"expanded_url": "http://amzn.to/QdyFYV",
+							"display_url": "amzn.to/QdyFYV",
+							"indices": [
+								69,
+								92
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 3325698,
+			"friends_count": 1297,
+			"listed_count": 30790,
+			"created_at": "Wed Aug 27 20:56:45 +0000 2008",
+			"favourites_count": 983,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 30110,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/668814368008708096/5HABV7bJ_normal.png",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/668814368008708096/5HABV7bJ_normal.png",
+			"profile_link_color": "000092",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1269096261208211500,
+		"quoted_status_id_str": "1269096261208211456",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JG9CKS7I6G",
+			"expanded": "https://twitter.com/EmmaKinery/status/1269096261208211456",
+			"display": "twitter.com/EmmaKinery/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Jun 06 02:38:21 +0000 2020",
+			"id": 1269096261208211500,
+			"id_str": "1269096261208211456",
+			"full_text": "Joe Biden has officially garnered the 1,991 delegates needed to secure the Democratic Party’s presidential nomination according to the AP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				137
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 803029068,
+				"id_str": "803029068",
+				"name": "Emma Kinery",
+				"screen_name": "EmmaKinery",
+				"location": "Washington, DC",
+				"description": "National political reporter covering 2020 for Bloomberg @business • send gossip to ekinery@bloomberg.net • Michigander #GoBlue *CAPS = @TheTerminal headline",
+				"url": "https://t.co/jfGBTEbBVm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/jfGBTEbBVm",
+								"expanded_url": "https://www.bloomberg.com/authors/ATsVapI9-sA/emma-kinery",
+								"display_url": "bloomberg.com/authors/ATsVap…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 11896,
+				"friends_count": 1201,
+				"listed_count": 267,
+				"created_at": "Tue Sep 04 19:18:30 +0000 2012",
+				"favourites_count": 17995,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12286,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "A0294C",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1185147596802801671/5Uf_2qHG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1185147596802801671/5Uf_2qHG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/803029068/1581188623",
+				"profile_link_color": "F58EA8",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": {
+				"id": "01fbe706f872cb32",
+				"url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+				"place_type": "city",
+				"name": "Washington",
+				"full_name": "Washington, DC",
+				"country_code": "US",
+				"country": "United States",
+				"contained_within": [],
+				"bounding_box": {
+					"type": "Polygon",
+					"coordinates": [
+						[
+							[
+								-77.119401,
+								38.801826
+							],
+							[
+								-76.909396,
+								38.801826
+							],
+							[
+								-76.909396,
+								38.9953797
+							],
+							[
+								-77.119401,
+								38.9953797
+							]
+						]
+					]
+				},
+				"attributes": {}
+			},
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 280,
+			"favorite_count": 1450,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 810,
+		"favorite_count": 5755,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Still should be a wake-up call that the candidate who led in polls for all of 2019 won the nomination and yet somehow it took many people on this platform totally by surprise. https://t.co/JG9CKS7I6G"
+	},
+	{
+		"created_at": "Sat Jun 06 11:49:19 +0000 2020",
+		"id": 1268656249027080200,
+		"id_str": "1269234915092115456",
+		"full_text": "Law enforcement isn't even in the top ten most dangerous occupations and I'm laughing imagining if like sanitation workers and fishermen had the same victim attitude as cops. A roofer wearing a Thin Black Line t-shirt that says WE KEEP THE RAIN OFF YOUR HEAD",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 147771570,
+			"id_str": "147771570",
+			"name": "mr. nice guy",
+			"screen_name": "alexqarbuckle",
+			"location": "New York, NY",
+			"description": "Apologies Editor at @NYTimes",
+			"url": "https://t.co/0sDVacEL2a",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0sDVacEL2a",
+							"expanded_url": "http://halopedia.org/lettuce",
+							"display_url": "halopedia.org/lettuce",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 49674,
+			"friends_count": 1298,
+			"listed_count": 159,
+			"created_at": "Tue May 25 00:58:15 +0000 2010",
+			"favourites_count": 85935,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 14164,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1267796374017511429/liGAXgJ0_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1267796374017511429/liGAXgJ0_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/147771570/1526606423",
+			"profile_link_color": "B36B00",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 8167,
+		"favorite_count": 35438,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Law enforcement isn't even in the top ten most dangerous occupations and I'm laughing imagining if like sanitation workers and fishermen had the same victim attitude as cops. A roofer wearing a Thin Black Line t-shirt that says WE KEEP THE RAIN OFF YOUR HEAD"
+	},
+	{
 		"created_at": "Fri Jun 05 23:24:54 +0000 2020",
 		"id": 1269047575983898600,
 		"id_str": "1269047575983898625",
