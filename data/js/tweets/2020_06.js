@@ -1,6 +1,189 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Wed Jun 17 14:51:24 +0000 2020",
+		"id": 1273230661013459000,
+		"id_str": "1273267002321190913",
+		"full_text": "Wrote about cruise ships. https://t.co/O8NQnnDcI0 https://t.co/4e4nARZ3CI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/O8NQnnDcI0",
+					"expanded_url": "https://www.motherjones.com/politics/2020/06/cruise-control/",
+					"display_url": "motherjones.com/politics/2020/…",
+					"indices": [
+						26,
+						49
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1273230561952313300,
+					"id_str": "1273230561952313349",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/Eatsc0JWsAUwJnr.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eatsc0JWsAUwJnr.png",
+					"url": "https://t.co/4e4nARZ3CI",
+					"display_url": "pic.twitter.com/4e4nARZ3CI",
+					"expanded_url": "https://twitter.com/timothypmurphy/status/1273230661013458947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1198,
+							"h": 950,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1198,
+							"h": 950,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 539,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1273230561952313300,
+					"id_str": "1273230561952313349",
+					"indices": [
+						50,
+						73
+					],
+					"media_url": "http://pbs.twimg.com/media/Eatsc0JWsAUwJnr.png",
+					"media_url_https": "https://pbs.twimg.com/media/Eatsc0JWsAUwJnr.png",
+					"url": "https://t.co/4e4nARZ3CI",
+					"display_url": "pic.twitter.com/4e4nARZ3CI",
+					"expanded_url": "https://twitter.com/timothypmurphy/status/1273230661013458947/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1198,
+							"h": 950,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1198,
+							"h": 950,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 539,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 17291452,
+			"id_str": "17291452",
+			"name": "Tim Murphy",
+			"screen_name": "timothypmurphy",
+			"location": "NYC",
+			"description": "I write about national politics and sinkholes for @motherjones.   508.308.4715. tmurphy@motherjones.com",
+			"url": "https://t.co/GEPNbka3Hr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/GEPNbka3Hr",
+							"expanded_url": "http://motherjones.com/authors/tim-murphy",
+							"display_url": "motherjones.com/authors/tim-mu…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31762,
+			"friends_count": 552,
+			"listed_count": 1000,
+			"created_at": "Mon Nov 10 18:13:28 +0000 2008",
+			"favourites_count": 5815,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 14140,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1155876384650223616/G33V8dP2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1155876384650223616/G33V8dP2_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 92,
+		"favorite_count": 273,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Wrote about cruise ships. https://t.co/O8NQnnDcI0 https://t.co/4e4nARZ3CI"
+	},
+	{
 		"created_at": "Wed Jun 17 05:54:32 +0000 2020",
 		"id": 1272928407018496000,
 		"id_str": "1273131895472209921",
