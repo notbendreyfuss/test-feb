@@ -1,6 +1,623 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Thu Jun 25 23:02:24 +0000 2020",
+		"id": 1276289669836050400,
+		"id_str": "1276289669836050432",
+		"full_text": "@timmcdonnell @maxjrosenthal @siobhan_ogrady Haha that lobster hed was the first time Tim and I interacted.",
+		"truncated": false,
+		"display_text_range": [
+			45,
+			107
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "timmcdonnell",
+					"name": "Tim McDonnell",
+					"id": 239931382,
+					"id_str": "239931382",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "maxjrosenthal",
+					"name": "Max J. Rosenthal",
+					"id": 60040821,
+					"id_str": "60040821",
+					"indices": [
+						14,
+						28
+					]
+				},
+				{
+					"screen_name": "siobhan_ogrady",
+					"name": "Siobhán O'Grady",
+					"id": 238854978,
+					"id_str": "238854978",
+					"indices": [
+						29,
+						44
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1276257418201227300,
+		"in_reply_to_status_id_str": "1276257418201227264",
+		"in_reply_to_user_id": 239931382,
+		"in_reply_to_user_id_str": "239931382",
+		"in_reply_to_screen_name": "timmcdonnell",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\" (Editorial Director, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60970,
+			"friends_count": 651,
+			"listed_count": 893,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 79156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@timmcdonnell @maxjrosenthal @siobhan_ogrady Haha that lobster hed was the first time Tim and I interacted."
+	},
+	{
+		"created_at": "Thu Jun 25 17:25:29 +0000 2020",
+		"id": 1276204882823909400,
+		"id_str": "1276204882823909376",
+		"full_text": "The way we live now @ Sun Valley, Idaho https://t.co/YpXyKB4jeX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YpXyKB4jeX",
+					"expanded_url": "https://www.instagram.com/p/CB3cptulvnu/?igshid=110x4e4wi4pr9",
+					"display_url": "instagram.com/p/CB3cptulvnu/…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\" (Editorial Director, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60970,
+			"friends_count": 651,
+			"listed_count": 893,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 79156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": {
+			"type": "Point",
+			"coordinates": [
+				43.6805,
+				-114.343
+			]
+		},
+		"coordinates": {
+			"type": "Point",
+			"coordinates": [
+				-114.343,
+				43.6805
+			]
+		},
+		"place": {
+			"id": "4723507d8ce23a60",
+			"url": "https://api.twitter.com/1.1/geo/id/4723507d8ce23a60.json",
+			"place_type": "admin",
+			"name": "Idaho",
+			"full_name": "Idaho, USA",
+			"country_code": "US",
+			"country": "United States",
+			"contained_within": [],
+			"bounding_box": {
+				"type": "Polygon",
+				"coordinates": [
+					[
+						[
+							-117.243028,
+							41.987982
+						],
+						[
+							-111.0434969,
+							41.987982
+						],
+						[
+							-111.0434969,
+							49.001121
+						],
+						[
+							-117.243028,
+							49.001121
+						]
+					]
+				]
+			},
+			"attributes": {}
+		},
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The way we live now @ Sun Valley, Idaho https://t.co/YpXyKB4jeX"
+	},
+	{
+		"created_at": "Thu Jun 25 16:38:40 +0000 2020",
+		"id": 1276193100881211400,
+		"id_str": "1276193100881211392",
+		"full_text": "I love these insane charts so much. “Our forefathers” is definitely my fave bit. https://t.co/oWQAEcEEi1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/oWQAEcEEi1",
+					"expanded_url": "https://twitter.com/ne0liberal/status/1276189486053982209",
+					"display_url": "twitter.com/ne0liberal/sta…",
+					"indices": [
+						81,
+						104
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "\"What did you do during the war, daddy?\" \"Twitter, mostly.\" (Editorial Director, @MotherJones)",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 60970,
+			"friends_count": 651,
+			"listed_count": 893,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 79156,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 139,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/551152004148785152/WavzMR0C_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1276189486053982200,
+		"quoted_status_id_str": "1276189486053982209",
+		"quoted_status_permalink": {
+			"url": "https://t.co/oWQAEcEEi1",
+			"expanded": "https://twitter.com/ne0liberal/status/1276189486053982209",
+			"display": "twitter.com/ne0liberal/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jun 25 16:24:18 +0000 2020",
+			"id": 1276189486053982200,
+			"id_str": "1276189486053982209",
+			"full_text": "I regret to inform you that the political chart makers are at it again https://t.co/Uu1kp32sx0",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				70
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1276189056599232500,
+						"id_str": "1276189056599232512",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/EbXvL3jWkAAgOxa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EbXvL3jWkAAgOxa.jpg",
+						"url": "https://t.co/Uu1kp32sx0",
+						"display_url": "pic.twitter.com/Uu1kp32sx0",
+						"expanded_url": "https://twitter.com/ne0liberal/status/1276189486053982209/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1500,
+								"h": 1000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1276189056599232500,
+						"id_str": "1276189056599232512",
+						"indices": [
+							71,
+							94
+						],
+						"media_url": "http://pbs.twimg.com/media/EbXvL3jWkAAgOxa.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EbXvL3jWkAAgOxa.jpg",
+						"url": "https://t.co/Uu1kp32sx0",
+						"display_url": "pic.twitter.com/Uu1kp32sx0",
+						"expanded_url": "https://twitter.com/ne0liberal/status/1276189486053982209/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1500,
+								"h": 1000,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 865004396681207800,
+				"id_str": "865004396681207809",
+				"name": "Neoliberal 🌐",
+				"screen_name": "ne0liberal",
+				"location": "Washington, DC",
+				"description": "A stream of consciousness from the Neoliberal Project. Consequentialist. Radically pragmatic. Part of @PPI.",
+				"url": "https://t.co/s4XE0gJyEC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/s4XE0gJyEC",
+								"expanded_url": "https://neoliberalproject.org/",
+								"display_url": "neoliberalproject.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 41940,
+				"friends_count": 643,
+				"listed_count": 374,
+				"created_at": "Thu May 18 00:41:33 +0000 2017",
+				"favourites_count": 112614,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4654,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1253731629916475397/-hJXv7BV_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1253731629916475397/-hJXv7BV_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/865004396681207809/1541977916",
+				"profile_link_color": "0E101F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 99,
+			"favorite_count": 1089,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I love these insane charts so much. “Our forefathers” is definitely my fave bit. https://t.co/oWQAEcEEi1"
+	},
+	{
+		"created_at": "Thu Jun 25 16:29:49 +0000 2020",
+		"id": 1276146749170757600,
+		"id_str": "1276190872703401985",
+		"full_text": "I was galled by the fact that no Post journalists have made any public defense of the blackface story. If your institution has a sincere argument that a story is newsworthy, at least one journalist who works there should be willing to say so in public. https://t.co/hALLtzsp3D",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			276
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hALLtzsp3D",
+					"expanded_url": "https://nymag.com/intelligencer/2020/06/why-did-the-washington-post-get-this-woman-fired.html",
+					"display_url": "nymag.com/intelligencer/…",
+					"indices": [
+						253,
+						276
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16244449,
+			"id_str": "16244449",
+			"name": "Josh Barro",
+			"screen_name": "jbarro",
+			"location": "New York, New York",
+			"description": "Business columnist for @NYMag. Host of KCRW's Left, Right & Center. Cohost w/ @popehat of LRC Presents: All the President's Lawyers. Instagram: @ joshbarro",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 260816,
+			"friends_count": 2392,
+			"listed_count": 5323,
+			"created_at": "Thu Sep 11 17:57:48 +0000 2008",
+			"favourites_count": 16848,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 29041,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1207529322862587904/TVlmh58i_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1207529322862587904/TVlmh58i_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16244449/1462471547",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 71,
+		"favorite_count": 337,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I was galled by the fact that no Post journalists have made any public defense of the blackface story. If your institution has a sincere argument that a story is newsworthy, at least one journalist who works there should be willing to say so in public. https://t.co/hALLtzsp3D"
+	},
+	{
 		"created_at": "Thu Jun 25 04:23:30 +0000 2020",
 		"id": 1276008090593194000,
 		"id_str": "1276008090593193984",
