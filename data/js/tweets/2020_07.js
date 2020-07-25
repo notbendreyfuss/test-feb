@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Sat Jul 25 02:33:54 +0000 2020",
+		"id": 1286852063444361200,
+		"id_str": "1286852144512094210",
+		"full_text": "Dog people, please help me. I can’t tell what is normal puppy behavior and what’s a failure of my own.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 83850551,
+			"id_str": "83850551",
+			"name": "𝔄𝔩𝔞𝔫𝔞 ℌ𝔬𝔭𝔢 𝔏𝔢𝔳𝔦𝔫𝔰𝔬𝔫",
+			"screen_name": "alanalevinson",
+			"location": "Los Angeles, CA",
+			"description": "Deputy editor @wearemel. The reason our boys died gladly in the war.",
+			"url": "https://t.co/JhWX8lWS6R",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/JhWX8lWS6R",
+							"expanded_url": "http://www.alanalevinson.com",
+							"display_url": "alanalevinson.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 31106,
+			"friends_count": 2351,
+			"listed_count": 300,
+			"created_at": "Tue Oct 20 14:05:16 +0000 2009",
+			"favourites_count": 68289,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 251,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C6E2EE",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1275442795172356097/A98IY7jn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1275442795172356097/A98IY7jn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/83850551/1544738597",
+			"profile_link_color": "FF24A4",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "29203D",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "Dog people, please help me. I can’t tell what is normal puppy behavior and what’s a failure of my own."
+	},
+	{
 		"created_at": "Fri Jul 24 05:24:07 +0000 2020",
 		"id": 1286532594482458600,
 		"id_str": "1286532594482458625",
