@@ -1,6 +1,180 @@
 Grailbird.data.tweets_2020_10 = 
 [
 	{
+		"created_at": "Fri Oct 09 17:02:14 +0000 2020",
+		"id": 1314536919301345300,
+		"id_str": "1314612143614881793",
+		"full_text": "This paper has been cited 1163 times, except it DOES NOT EXIST. \n\nThis 'paper' was used in a style guide as a citation example, was included in some papers by accident, and then propagated from there, illustrating how some authors don't read *titles* let alone abstracts or papers https://t.co/oJFMVnIYi8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1314532364299755500,
+					"id_str": "1314532364299755525",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej4oOHvXYAU9OVb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej4oOHvXYAU9OVb.jpg",
+					"url": "https://t.co/oJFMVnIYi8",
+					"display_url": "pic.twitter.com/oJFMVnIYi8",
+					"expanded_url": "https://twitter.com/dsquintana/status/1314536919301345280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 956,
+							"h": 174,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 124,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 956,
+							"h": 174,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1314532364299755500,
+					"id_str": "1314532364299755525",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/Ej4oOHvXYAU9OVb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Ej4oOHvXYAU9OVb.jpg",
+					"url": "https://t.co/oJFMVnIYi8",
+					"display_url": "pic.twitter.com/oJFMVnIYi8",
+					"expanded_url": "https://twitter.com/dsquintana/status/1314536919301345280/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 956,
+							"h": 174,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 124,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 956,
+							"h": 174,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 16998179,
+			"id_str": "16998179",
+			"name": "Dan Quintana",
+			"screen_name": "dsquintana",
+			"location": "Oslo, Norway",
+			"description": "Scientist: Oxytocin, heart rate variability, and meta-science @UniOslo | Podcaster: @hertzpodcast & @pb_cast | DMs open | 🇦🇺 🇳🇴",
+			"url": "https://t.co/TywtqjHR6W",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/TywtqjHR6W",
+							"expanded_url": "http://dsquintana.com/publication",
+							"display_url": "dsquintana.com/publication",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 15445,
+			"friends_count": 629,
+			"listed_count": 208,
+			"created_at": "Mon Oct 27 13:33:18 +0000 2008",
+			"favourites_count": 19930,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 19128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1272874451558903808/7ICQAWtn_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1272874451558903808/7ICQAWtn_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/16998179/1583750967",
+			"profile_link_color": "19CF86",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2384,
+		"favorite_count": 8178,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This paper has been cited 1163 times, except it DOES NOT EXIST. \n\nThis 'paper' was used in a style guide as a citation example, was included in some papers by accident, and then propagated from there, illustrating how some authors don't read *titles* let alone abstracts or papers https://t.co/oJFMVnIYi8"
+	},
+	{
 		"created_at": "Fri Oct 09 06:16:47 +0000 2020",
 		"id": 1314449711005270000,
 		"id_str": "1314449711005270020",
