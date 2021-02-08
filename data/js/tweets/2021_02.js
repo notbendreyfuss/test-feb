@@ -1,6 +1,667 @@
 Grailbird.data.tweets_2021_02 = 
 [
 	{
+		"created_at": "Mon Feb 08 04:00:14 +0000 2021",
+		"id": 1358626669913927700,
+		"id_str": "1358626669913927680",
+		"full_text": "People are insane lol https://t.co/ZUllVfiMyI https://t.co/y6gnVeJKze",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZUllVfiMyI",
+					"expanded_url": "https://apple.news/AhEzBORbxTxKC7GD6qgvM2A",
+					"display_url": "apple.news/AhEzBORbxTxKC7…",
+					"indices": [
+						22,
+						45
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1358626666357129200,
+					"id_str": "1358626666357129217",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EtrPwTaXAAEfF4y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtrPwTaXAAEfF4y.jpg",
+					"url": "https://t.co/y6gnVeJKze",
+					"display_url": "pic.twitter.com/y6gnVeJKze",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1358626669913927680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1358626666357129200,
+					"id_str": "1358626666357129217",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EtrPwTaXAAEfF4y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EtrPwTaXAAEfF4y.jpg",
+					"url": "https://t.co/y6gnVeJKze",
+					"display_url": "pic.twitter.com/y6gnVeJKze",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1358626669913927680/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "just trying to get the cats in my brain to stop meowing",
+			"url": "https://t.co/whJ3GyXnVV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/whJ3GyXnVV",
+							"expanded_url": "http://bendreyfuss.com",
+							"display_url": "bendreyfuss.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64277,
+			"friends_count": 774,
+			"listed_count": 922,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 94668,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 120,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "People are insane lol https://t.co/ZUllVfiMyI https://t.co/y6gnVeJKze"
+	},
+	{
+		"created_at": "Mon Feb 08 00:35:32 +0000 2021",
+		"id": 1358476311908483000,
+		"id_str": "1358575152879992832",
+		"full_text": "\"For reporter Donald McNeil to end his long career as a result of a single word, risks sending a chilling message. That the paper apparently altered its course ... as a result of public pressure is a further worrying signal. Pen America weighs in: https://t.co/jFSV8EferG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jFSV8EferG",
+					"expanded_url": "https://pen.org/press-release/pen-america-responds-to-resignation-of-new-york-times-reporter-mcneil/?utm_source=twitter&utm_medium=social&utm_campaign=social-pug",
+					"display_url": "pen.org/press-release/…",
+					"indices": [
+						248,
+						271
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 301012485,
+			"id_str": "301012485",
+			"name": "Michael Powell",
+			"screen_name": "powellnyt",
+			"location": "New York City",
+			"description": "Writing on Free Speech & Intellectual Debate. Former cabbie, tenant organizer & doorman. Brooklyn w 2 boyz. Author of \"Canyon Dreams\" https://t.co/zk666KMxze",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/zk666KMxze",
+							"expanded_url": "http://bit.ly/CanyonDreams",
+							"display_url": "bit.ly/CanyonDreams",
+							"indices": [
+								134,
+								157
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 16492,
+			"friends_count": 4219,
+			"listed_count": 506,
+			"created_at": "Wed May 18 18:40:46 +0000 2011",
+			"favourites_count": 108,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 77420,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1362375048/powell_1__normal.JPG",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1362375048/powell_1__normal.JPG",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/301012485/1573587982",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 285,
+		"favorite_count": 1325,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "\"For reporter Donald McNeil to end his long career as a result of a single word, risks sending a chilling message. That the paper apparently altered its course ... as a result of public pressure is a further worrying signal. Pen America weighs in: https://t.co/jFSV8EferG"
+	},
+	{
+		"created_at": "Mon Feb 08 00:19:27 +0000 2021",
+		"id": 1358571104579842000,
+		"id_str": "1358571104579842054",
+		"full_text": "Tampa Bay is a joke city and a joke bay",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "just trying to get the cats in my brain to stop meowing",
+			"url": "https://t.co/whJ3GyXnVV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/whJ3GyXnVV",
+							"expanded_url": "http://bendreyfuss.com",
+							"display_url": "bendreyfuss.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 64277,
+			"friends_count": 774,
+			"listed_count": 922,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 94668,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 87,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Tampa Bay is a joke city and a joke bay"
+	},
+	{
+		"created_at": "Mon Feb 08 00:17:30 +0000 2021",
+		"id": 1358570128775016400,
+		"id_str": "1358570616710979586",
+		"full_text": "According to this Mother Jones piece, The New York Times never asked Daniel Ellsberg for comment on the posthumous — and sort of shockingly unremorseful — interview it published with Neil Sheehan on the day he died: https://t.co/WDY2IvNAoB https://t.co/A0OvZ0W4GJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			239
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/WDY2IvNAoB",
+					"expanded_url": "https://www.motherjones.com/media/2021/02/consider-the-source/?scrolla=5eb6d68b7fedc32c19ef33b4",
+					"display_url": "motherjones.com/media/2021/02/…",
+					"indices": [
+						216,
+						239
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1358570080385306600,
+					"id_str": "1358570080385306628",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/EtqcSkPXEAQMh6Z.png",
+					"media_url_https": "https://pbs.twimg.com/media/EtqcSkPXEAQMh6Z.png",
+					"url": "https://t.co/A0OvZ0W4GJ",
+					"display_url": "pic.twitter.com/A0OvZ0W4GJ",
+					"expanded_url": "https://twitter.com/jeremymbarr/status/1358570128775016448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 648,
+							"h": 567,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 648,
+							"h": 567,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 648,
+							"h": 567,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1358570080385306600,
+					"id_str": "1358570080385306628",
+					"indices": [
+						240,
+						263
+					],
+					"media_url": "http://pbs.twimg.com/media/EtqcSkPXEAQMh6Z.png",
+					"media_url_https": "https://pbs.twimg.com/media/EtqcSkPXEAQMh6Z.png",
+					"url": "https://t.co/A0OvZ0W4GJ",
+					"display_url": "pic.twitter.com/A0OvZ0W4GJ",
+					"expanded_url": "https://twitter.com/jeremymbarr/status/1358570128775016448/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 648,
+							"h": 567,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 648,
+							"h": 567,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 648,
+							"h": 567,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 227744268,
+			"id_str": "227744268",
+			"name": "Jeremy Barr",
+			"screen_name": "jeremymbarr",
+			"location": "New York, NY",
+			"description": "Media reporting for the @washingtonpost. Formerly with @thr, @politico_media and @adage. Email me (jeremy.barr@washpost.com) or DM me for Signal.",
+			"url": "https://t.co/4hsS35kQ0z",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/4hsS35kQ0z",
+							"expanded_url": "https://www.washingtonpost.com/people/jeremy-barr/",
+							"display_url": "washingtonpost.com/people/jeremy-…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 19912,
+			"friends_count": 4192,
+			"listed_count": 479,
+			"created_at": "Fri Dec 17 17:51:39 +0000 2010",
+			"favourites_count": 24676,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 37437,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "B2DFDA",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/732223200457850881/2t_PSAv4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/732223200457850881/2t_PSAv4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/227744268/1521237929",
+			"profile_link_color": "93A644",
+			"profile_sidebar_border_color": "EEEEEE",
+			"profile_sidebar_fill_color": "FFFFFF",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 25,
+		"favorite_count": 102,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "According to this Mother Jones piece, The New York Times never asked Daniel Ellsberg for comment on the posthumous — and sort of shockingly unremorseful — interview it published with Neil Sheehan on the day he died: https://t.co/WDY2IvNAoB https://t.co/A0OvZ0W4GJ"
+	},
+	{
+		"created_at": "Sun Feb 07 20:53:44 +0000 2021",
+		"id": 1358460167420010500,
+		"id_str": "1358519337854894081",
+		"full_text": "The intent of many in the media today is to humiliate others, strip them of dignity, reveal their pathetic fallibility — all to confirm a worldview in which they are good and their perceived enemies, for reasons personal and political, are bad.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21212087,
+			"id_str": "21212087",
+			"name": "Olivia Nuzzi",
+			"screen_name": "Olivianuzzi",
+			"location": "Washington, DC",
+			"description": "Washington Correspondent, New York Magazine. Writing a book with @RyanLizza for Simon & Schuster’s Avid Reader about 2020. 📩 Olivia.Nuzzi@NYMag.com",
+			"url": "https://t.co/h3Ulh5oQm9",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/h3Ulh5oQm9",
+							"expanded_url": "http://nymag.com",
+							"display_url": "nymag.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 345776,
+			"friends_count": 3992,
+			"listed_count": 4885,
+			"created_at": "Wed Feb 18 16:33:13 +0000 2009",
+			"favourites_count": 381,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 74929,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1337405786109202433/IYi2d3Jz_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1337405786109202433/IYi2d3Jz_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21212087/1453787076",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1578,
+		"favorite_count": 8926,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en",
+		"text": "The intent of many in the media today is to humiliate others, strip them of dignity, reveal their pathetic fallibility — all to confirm a worldview in which they are good and their perceived enemies, for reasons personal and political, are bad."
+	},
+	{
 		"created_at": "Sun Feb 07 06:08:22 +0000 2021",
 		"id": 1358296527370932200,
 		"id_str": "1358296527370932225",
