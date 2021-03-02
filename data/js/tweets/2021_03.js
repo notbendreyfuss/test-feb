@@ -1,6 +1,643 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Mon Mar 01 23:31:17 +0000 2021",
+		"id": 1366214475511169000,
+		"id_str": "1366531516461899780",
+		"full_text": "When you have definitely seen Citizen Kane: https://t.co/rxSJtQJtrJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rxSJtQJtrJ",
+					"expanded_url": "https://twitter.com/goldenglobes/status/1366175938116001796",
+					"display_url": "twitter.com/goldenglobes/s…",
+					"indices": [
+						44,
+						67
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1215628585,
+			"id_str": "1215628585",
+			"name": "ingrid",
+			"screen_name": "happygoingrid",
+			"location": "Boston/Istanbul",
+			"description": "marion cotillard scholar. turkish trans she/he/they | words @thefilmstage @theplaylist @LWLies",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 7753,
+			"friends_count": 813,
+			"listed_count": 71,
+			"created_at": "Sun Feb 24 14:20:12 +0000 2013",
+			"favourites_count": 157264,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 52226,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1362790768570753024/X23UoZjd_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1362790768570753024/X23UoZjd_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1215628585/1602111581",
+			"profile_link_color": "ABB8C2",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1366175938116001800,
+		"quoted_status_id_str": "1366175938116001796",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rxSJtQJtrJ",
+			"expanded": "https://twitter.com/goldenglobes/status/1366175938116001796",
+			"display": "twitter.com/goldenglobes/s…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Feb 28 23:58:20 +0000 2021",
+			"id": 1366175938116001800,
+			"id_str": "1366175938116001796",
+			"full_text": "Step aside, Citizen Kane, there's a new Rosebud in town. @AmandaSeyfried's #GoldenGlobes gown gives homage to the famous sled, and we absolutely love it! https://t.co/KNtVcX3c9F",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				153
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "GoldenGlobes",
+						"indices": [
+							75,
+							88
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AmandaSeyfried",
+						"name": "Amanda Seyfried",
+						"id": 1149386466,
+						"id_str": "1149386466",
+						"indices": [
+							57,
+							72
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1366175846889910300,
+						"id_str": "1366175846889910274",
+						"indices": [
+							154,
+							177
+						],
+						"media_url": "http://pbs.twimg.com/media/EvWhscaXcAIOgxP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EvWhscaXcAIOgxP.jpg",
+						"url": "https://t.co/KNtVcX3c9F",
+						"display_url": "pic.twitter.com/KNtVcX3c9F",
+						"expanded_url": "https://twitter.com/goldenglobes/status/1366175938116001796/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1639,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1366175846889910300,
+						"id_str": "1366175846889910274",
+						"indices": [
+							154,
+							177
+						],
+						"media_url": "http://pbs.twimg.com/media/EvWhscaXcAIOgxP.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/EvWhscaXcAIOgxP.jpg",
+						"url": "https://t.co/KNtVcX3c9F",
+						"display_url": "pic.twitter.com/KNtVcX3c9F",
+						"expanded_url": "https://twitter.com/goldenglobes/status/1366175938116001796/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 544,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1639,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 960,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18667907,
+				"id_str": "18667907",
+				"name": "Golden Globe Awards",
+				"screen_name": "goldenglobes",
+				"location": "Hollywood, California",
+				"description": "The Official Twitter Account for the Hollywood Foreign Press Association (HFPA) and the Golden Globe® Awards. Catch the 78th #GoldenGlobes 2/28 on @nbc!",
+				"url": "https://t.co/l079QFNhrF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/l079QFNhrF",
+								"expanded_url": "http://www.goldenglobes.com",
+								"display_url": "goldenglobes.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1352645,
+				"friends_count": 287,
+				"listed_count": 5358,
+				"created_at": "Tue Jan 06 08:59:41 +0000 2009",
+				"favourites_count": 939,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 12271,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1084164700378521600/K4wEiiR6_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1084164700378521600/K4wEiiR6_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18667907/1614038924",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F3F0D4",
+				"profile_text_color": "444444",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 526,
+			"favorite_count": 3968,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 388,
+		"favorite_count": 4816,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "When you have definitely seen Citizen Kane: https://t.co/rxSJtQJtrJ"
+	},
+	{
+		"created_at": "Mon Mar 01 23:27:43 +0000 2021",
+		"id": 1366530620311171000,
+		"id_str": "1366530620311171074",
+		"full_text": "@passantino Hahaha",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "passantino",
+					"name": "Jon Passantino",
+					"id": 2267241,
+					"id_str": "2267241",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1366529713980780500,
+		"in_reply_to_status_id_str": "1366529713980780544",
+		"in_reply_to_user_id": 2267241,
+		"in_reply_to_user_id_str": "2267241",
+		"in_reply_to_screen_name": "passantino",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "just trying to get the cats in my brain to stop meowing",
+			"url": "https://t.co/whJ3GyXnVV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/whJ3GyXnVV",
+							"expanded_url": "http://bendreyfuss.com",
+							"display_url": "bendreyfuss.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 65293,
+			"friends_count": 774,
+			"listed_count": 930,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 95953,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 470,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tl",
+		"text": "@passantino Hahaha"
+	},
+	{
+		"created_at": "Mon Mar 01 22:04:30 +0000 2021",
+		"id": 1366463513099649000,
+		"id_str": "1366509678889472001",
+		"full_text": "Can we get @neeratanden to tweet the speech so senators become aware of it? https://t.co/3ywUfhDQD2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "neeratanden",
+					"name": "Neera Tanden",
+					"id": 125453969,
+					"id_str": "125453969",
+					"indices": [
+						11,
+						23
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/3ywUfhDQD2",
+					"expanded_url": "https://twitter.com/AnnieGrayerCNN/status/1366462743289675778",
+					"display_url": "twitter.com/AnnieGrayerCNN…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 13524182,
+			"id_str": "13524182",
+			"name": "Dave Weigel",
+			"screen_name": "daveweigel",
+			"location": "Washington, D.C.",
+			"description": "Covering politics for @washingtonpost. daveweigel@gmail.com, 202-334-7387. @CWAUnion member. Buy my book: https://t.co/qbUTkz3CBR (Avatar by @damnyouregis)",
+			"url": "https://t.co/n7WNgqJmRB",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/n7WNgqJmRB",
+							"expanded_url": "https://daveweigel.substack.com/",
+							"display_url": "daveweigel.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/qbUTkz3CBR",
+							"expanded_url": "http://tinyurl.com/h7wyg2c",
+							"display_url": "tinyurl.com/h7wyg2c",
+							"indices": [
+								106,
+								129
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 597204,
+			"friends_count": 11943,
+			"listed_count": 12871,
+			"created_at": "Fri Feb 15 17:58:23 +0000 2008",
+			"favourites_count": 23594,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 242554,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/999649964870451201/-Co_Xkx4_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/999649964870451201/-Co_Xkx4_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/13524182/1604080702",
+			"profile_link_color": "2FC2EF",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1366462743289675800,
+		"quoted_status_id_str": "1366462743289675778",
+		"quoted_status_permalink": {
+			"url": "https://t.co/3ywUfhDQD2",
+			"expanded": "https://twitter.com/AnnieGrayerCNN/status/1366462743289675778",
+			"display": "twitter.com/AnnieGrayerCNN…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Mar 01 18:58:00 +0000 2021",
+			"id": 1366462743289675800,
+			"id_str": "1366462743289675778",
+			"full_text": "“I didn’t see them” @SenTedCruz to me when I asked him to comment on Donald Trump’s comments at CPAC yesterday.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				111
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "SenTedCruz",
+						"name": "Senator Ted Cruz",
+						"id": 1074480192,
+						"id_str": "1074480192",
+						"indices": [
+							20,
+							31
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 890381594170712000,
+				"id_str": "890381594170712064",
+				"name": "Annie Grayer",
+				"screen_name": "AnnieGrayerCNN",
+				"location": "",
+				"description": "Reporter covering Congress for @CNN. Former 2020 embed who crisscrossed the country reporting on @BernieSanders. Email: Annie.Grayer@cnn.com",
+				"url": "https://t.co/BNSwElW6AG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BNSwElW6AG",
+								"expanded_url": "https://www.cnn.com/profiles/annie-grayer",
+								"display_url": "cnn.com/profiles/annie…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 14397,
+				"friends_count": 3733,
+				"listed_count": 298,
+				"created_at": "Thu Jul 27 01:21:29 +0000 2017",
+				"favourites_count": 2261,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 2967,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1069610301845381121/5oaaXX5P_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1069610301845381121/5oaaXX5P_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/890381594170712064/1605803286",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 365,
+			"favorite_count": 1458,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2129,
+		"favorite_count": 14263,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Can we get @neeratanden to tweet the speech so senators become aware of it? https://t.co/3ywUfhDQD2"
+	},
+	{
 		"created_at": "Mon Mar 01 01:18:01 +0000 2021",
 		"id": 1366195990307483600,
 		"id_str": "1366195990307483649",
