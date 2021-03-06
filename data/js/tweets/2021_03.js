@@ -1,6 +1,101 @@
 Grailbird.data.tweets_2021_03 = 
 [
 	{
+		"created_at": "Sat Mar 06 00:06:24 +0000 2021",
+		"id": 1367989761449865200,
+		"id_str": "1367989908795752453",
+		"full_text": "defining jokes of every era\n2011-14 (the Age of Heroes): dog smoking weed steal beams can’t melt \n2015-17 (the age of unrest): my dude looks like if Guy Fieri was a youth pastor\n2018-present (the age of darkness): I have severe mental illness",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 4726207589,
+			"id_str": "4726207589",
+			"name": "Ape’s Delight",
+			"screen_name": "ByYourLogic",
+			"location": "",
+			"description": "I am not a monkey or ape expert. I am simply an enthusiastic fan of them",
+			"url": "https://t.co/lr2w73XcAy",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lr2w73XcAy",
+							"expanded_url": "http://Chapotraphouse.com",
+							"display_url": "Chapotraphouse.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 196880,
+			"friends_count": 2071,
+			"listed_count": 1243,
+			"created_at": "Wed Jan 06 16:24:05 +0000 2016",
+			"favourites_count": 221859,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 64763,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1361486525377220612/O2_pAoVv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1361486525377220612/O2_pAoVv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/4726207589/1561087393",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 288,
+		"favorite_count": 3489,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "defining jokes of every era\n2011-14 (the Age of Heroes): dog smoking weed steal beams can’t melt \n2015-17 (the age of unrest): my dude looks like if Guy Fieri was a youth pastor\n2018-present (the age of darkness): I have severe mental illness"
+	},
+	{
 		"created_at": "Wed Mar 03 22:35:41 +0000 2021",
 		"id": 1367242299592216600,
 		"id_str": "1367242299592216578",
