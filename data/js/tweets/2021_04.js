@@ -1,6 +1,462 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Fri Apr 23 23:05:20 +0000 2021",
+		"id": 1385731544682172400,
+		"id_str": "1385731544682172418",
+		"full_text": "Lol https://t.co/JKQ3UVqWV1 https://t.co/fD6w4f58cU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JKQ3UVqWV1",
+					"expanded_url": "https://apple.news/A8hIypZb8Tkm40mnjkMhpUw",
+					"display_url": "apple.news/A8hIypZb8Tkm40…",
+					"indices": [
+						4,
+						27
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1385731538772447200,
+					"id_str": "1385731538772447232",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EzsbfhqWUAAEItc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzsbfhqWUAAEItc.jpg",
+					"url": "https://t.co/fD6w4f58cU",
+					"display_url": "pic.twitter.com/fD6w4f58cU",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1385731544682172418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 536,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 922,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 922,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1385731538772447200,
+					"id_str": "1385731538772447232",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/EzsbfhqWUAAEItc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzsbfhqWUAAEItc.jpg",
+					"url": "https://t.co/fD6w4f58cU",
+					"display_url": "pic.twitter.com/fD6w4f58cU",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1385731544682172418/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 536,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 922,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 922,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "just trying to get the cats in my brain to stop meowing",
+			"url": "https://t.co/whJ3GyXnVV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/whJ3GyXnVV",
+							"expanded_url": "http://bendreyfuss.com",
+							"display_url": "bendreyfuss.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67033,
+			"friends_count": 797,
+			"listed_count": 952,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 96908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "Lol https://t.co/JKQ3UVqWV1 https://t.co/fD6w4f58cU"
+	},
+	{
+		"created_at": "Fri Apr 23 22:30:21 +0000 2021",
+		"id": 1385722742045954000,
+		"id_str": "1385722742045954053",
+		"full_text": "Babe, I think you know you need to leave him. https://t.co/6rjXBOX1OZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1385722734378901500,
+					"id_str": "1385722734378901512",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EzsTfCvWYAgWaXG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzsTfCvWYAgWaXG.jpg",
+					"url": "https://t.co/6rjXBOX1OZ",
+					"display_url": "pic.twitter.com/6rjXBOX1OZ",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1385722742045954053/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1385722734378901500,
+					"id_str": "1385722734378901512",
+					"indices": [
+						46,
+						69
+					],
+					"media_url": "http://pbs.twimg.com/media/EzsTfCvWYAgWaXG.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EzsTfCvWYAgWaXG.jpg",
+					"url": "https://t.co/6rjXBOX1OZ",
+					"display_url": "pic.twitter.com/6rjXBOX1OZ",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1385722742045954053/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1385721338011164700,
+		"in_reply_to_status_id_str": "1385721338011164673",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "just trying to get the cats in my brain to stop meowing",
+			"url": "https://t.co/whJ3GyXnVV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/whJ3GyXnVV",
+							"expanded_url": "http://bendreyfuss.com",
+							"display_url": "bendreyfuss.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67033,
+			"friends_count": 797,
+			"listed_count": 952,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 96908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Babe, I think you know you need to leave him. https://t.co/6rjXBOX1OZ"
+	},
+	{
+		"created_at": "Fri Apr 23 22:24:47 +0000 2021",
+		"id": 1385721338011164700,
+		"id_str": "1385721338011164673",
+		"full_text": "Seems like the apple news curation editor is in a toxic relationship",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1385721131542270000,
+		"in_reply_to_status_id_str": "1385721131542269952",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "just trying to get the cats in my brain to stop meowing",
+			"url": "https://t.co/whJ3GyXnVV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/whJ3GyXnVV",
+							"expanded_url": "http://bendreyfuss.com",
+							"display_url": "bendreyfuss.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67033,
+			"friends_count": 797,
+			"listed_count": 952,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 96908,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 243,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 50,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Seems like the apple news curation editor is in a toxic relationship"
+	},
+	{
 		"created_at": "Thu Apr 22 16:56:39 +0000 2021",
 		"id": 1385276374722617300,
 		"id_str": "1385276374722617345",
