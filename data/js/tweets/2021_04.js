@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_04 = 
 [
 	{
+		"created_at": "Sun Apr 25 04:05:21 +0000 2021",
+		"id": 1386169435573031000,
+		"id_str": "1386169435573030914",
+		"full_text": "https://t.co/OK6bXVBkNI https://t.co/v7r5tm3lmK",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			23
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/OK6bXVBkNI",
+					"expanded_url": "https://cooking.nytimes.com/recipes/1013999-salsa-its-not-just-for-chips?surface=cooking-carousel&fellback=false&req_id=291053755&algo=cooking_doc2vec_weight_1&variant=0_cooking_doc2vec_weight_1&imp_id=407974896&action=click&module=RecirculationRibbon&pgType=recipedetails&rank=2",
+					"display_url": "cooking.nytimes.com/recipes/101399…",
+					"indices": [
+						0,
+						23
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1386169266123149300,
+					"id_str": "1386169266123149317",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EzypmnHVkAUEACv.png",
+					"media_url_https": "https://pbs.twimg.com/media/EzypmnHVkAUEACv.png",
+					"url": "https://t.co/v7r5tm3lmK",
+					"display_url": "pic.twitter.com/v7r5tm3lmK",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1386169435573030914/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 508,
+							"h": 172,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 508,
+							"h": 172,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 508,
+							"h": 172,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1386169266123149300,
+					"id_str": "1386169266123149317",
+					"indices": [
+						24,
+						47
+					],
+					"media_url": "http://pbs.twimg.com/media/EzypmnHVkAUEACv.png",
+					"media_url_https": "https://pbs.twimg.com/media/EzypmnHVkAUEACv.png",
+					"url": "https://t.co/v7r5tm3lmK",
+					"display_url": "pic.twitter.com/v7r5tm3lmK",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1386169435573030914/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 508,
+							"h": 172,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 508,
+							"h": 172,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 508,
+							"h": 172,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "just trying to get the cats in my brain to stop meowing",
+			"url": "https://t.co/whJ3GyXnVV",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/whJ3GyXnVV",
+							"expanded_url": "http://bendreyfuss.com",
+							"display_url": "bendreyfuss.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 67037,
+			"friends_count": 797,
+			"listed_count": 951,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 96881,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 244,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1498751691",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/OK6bXVBkNI https://t.co/v7r5tm3lmK"
+	},
+	{
 		"created_at": "Fri Apr 23 23:05:20 +0000 2021",
 		"id": 1385731544682172400,
 		"id_str": "1385731544682172418",
