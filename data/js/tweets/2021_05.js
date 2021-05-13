@@ -1,6 +1,1278 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Wed May 12 22:27:13 +0000 2021",
+		"id": 1392606501597028400,
+		"id_str": "1392607323470839810",
+		"full_text": "Ugh, apparently I have to bring a reusable canvas tote EVERYWHERE now https://t.co/rnEB8IxZqO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rnEB8IxZqO",
+					"expanded_url": "https://twitter.com/uscpsc/status/1392482092823502849",
+					"display_url": "twitter.com/uscpsc/status/…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 23480093,
+			"id_str": "23480093",
+			"name": "James Poniewozik",
+			"screen_name": "poniewozik",
+			"location": "Brooklyn",
+			"description": "NYT TV critic and author of AUDIENCE OF ONE, about how TV created Trump. Fussbudget.\n\nOrders:\nhttps://t.co/cNDkaFjLpq",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/cNDkaFjLpq",
+							"expanded_url": "http://audienceofonebook.us",
+							"display_url": "audienceofonebook.us",
+							"indices": [
+								94,
+								117
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 105355,
+			"friends_count": 841,
+			"listed_count": 3129,
+			"created_at": "Mon Mar 09 18:53:28 +0000 2009",
+			"favourites_count": 24689,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 64862,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1090625894211817472/XE8-Q9_v_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1090625894211817472/XE8-Q9_v_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/23480093/1565186408",
+			"profile_link_color": "FA743E",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1392482092823502800,
+		"quoted_status_id_str": "1392482092823502849",
+		"quoted_status_permalink": {
+			"url": "https://t.co/rnEB8IxZqO",
+			"expanded": "https://twitter.com/uscpsc/status/1392482092823502849",
+			"display": "twitter.com/uscpsc/status/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 12 14:09:36 +0000 2021",
+			"id": 1392482092823502800,
+			"id_str": "1392482092823502849",
+			"full_text": "Do not fill plastic bags with gasoline.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				39
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18990471,
+				"id_str": "18990471",
+				"name": "US Consumer Product Safety Commission",
+				"screen_name": "USCPSC",
+				"location": "Bethesda, MD",
+				"description": "Standing for safety since 1972. Recalls, safety alerts and data. RTs, follows are not endorsements. Official account of U.S. Consumer Product Safety Commission.",
+				"url": "https://t.co/SxEZemRJNE",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/SxEZemRJNE",
+								"expanded_url": "http://www.cpsc.gov/",
+								"display_url": "cpsc.gov",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 116465,
+				"friends_count": 2649,
+				"listed_count": 1573,
+				"created_at": "Wed Jan 14 19:16:33 +0000 2009",
+				"favourites_count": 1042,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 16353,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/963793572855087104/HQUeZqPK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/963793572855087104/HQUeZqPK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18990471/1620164093",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "EEEEEE",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 17140,
+			"favorite_count": 63264,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 47,
+		"favorite_count": 401,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Ugh, apparently I have to bring a reusable canvas tote EVERYWHERE now https://t.co/rnEB8IxZqO"
+	},
+	{
+		"created_at": "Wed May 12 22:13:44 +0000 2021",
+		"id": 1392603928794124300,
+		"id_str": "1392603928794124292",
+		"full_text": "@ibflorea It would be funny if he played a nazi in the reboot too",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ibflorea",
+					"name": "Ioana",
+					"id": 30803956,
+					"id_str": "30803956",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1392603866328354800,
+		"in_reply_to_status_id_str": "1392603866328354819",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "just trying to get the cats in my brain to stop meowing",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66933,
+			"friends_count": 804,
+			"listed_count": 955,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 97791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 370,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ibflorea It would be funny if he played a nazi in the reboot too"
+	},
+	{
+		"created_at": "Wed May 12 22:13:29 +0000 2021",
+		"id": 1392603866328354800,
+		"id_str": "1392603866328354819",
+		"full_text": "@ibflorea Don’t 👏leave👏nazi👏actors👏home👏alone",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			45
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ibflorea",
+					"name": "Ioana",
+					"id": 30803956,
+					"id_str": "30803956",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1392603588778729500,
+		"in_reply_to_status_id_str": "1392603588778729473",
+		"in_reply_to_user_id": 30803956,
+		"in_reply_to_user_id_str": "30803956",
+		"in_reply_to_screen_name": "ibflorea",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "just trying to get the cats in my brain to stop meowing",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66933,
+			"friends_count": 804,
+			"listed_count": 955,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 97791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 370,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ibflorea Don’t 👏leave👏nazi👏actors👏home👏alone"
+	},
+	{
+		"created_at": "Wed May 12 22:10:02 +0000 2021",
+		"id": 1392601900219048000,
+		"id_str": "1392602998451359749",
+		"full_text": "this... is actually not a terrible idea https://t.co/sKqyHBzBDo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/sKqyHBzBDo",
+					"expanded_url": "https://twitter.com/Tylerjoelb/status/1392598001005236229",
+					"display_url": "twitter.com/Tylerjoelb/sta…",
+					"indices": [
+						40,
+						63
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1118921162740961300,
+			"id_str": "1118921162740961284",
+			"name": "Sharon Kuruvilla",
+			"screen_name": "Sharon_Kuruvila",
+			"location": "",
+			"description": "Anglican. Left internationalist politics, academics, programming, and theology. \n\n🏳️‍🌈  + ⚢\n\nBylines: @ELaborInstitute @ForeignPolicy @LiberalCurrents",
+			"url": "https://t.co/OtGiGzrxbo",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/OtGiGzrxbo",
+							"expanded_url": "https://curiouscat.me/Sharon_Kuruvila",
+							"display_url": "curiouscat.me/Sharon_Kuruvila",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 6363,
+			"friends_count": 5331,
+			"listed_count": 52,
+			"created_at": "Thu Apr 18 16:56:08 +0000 2019",
+			"favourites_count": 151241,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 98609,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1370424252327985152/3rrWPVwa_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1370424252327985152/3rrWPVwa_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1118921162740961284/1607141651",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1392598001005236200,
+		"quoted_status_id_str": "1392598001005236229",
+		"quoted_status_permalink": {
+			"url": "https://t.co/sKqyHBzBDo",
+			"expanded": "https://twitter.com/Tylerjoelb/status/1392598001005236229",
+			"display": "twitter.com/Tylerjoelb/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 12 21:50:11 +0000 2021",
+			"id": 1392598001005236200,
+			"id_str": "1392598001005236229",
+			"full_text": "Whoa: @GovMikeDeWine just announced Ohio is using federal COVID-19 relief dollars to conduct a $1 million lotto drawing for those who have received the vaccine https://t.co/2TU2ixArT5",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				159
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "GovMikeDeWine",
+						"name": "Governor Mike DeWine",
+						"id": 18820392,
+						"id_str": "18820392",
+						"indices": [
+							6,
+							20
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1392597851042111500,
+						"id_str": "1392597851042111491",
+						"indices": [
+							160,
+							183
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1392597851042111491/pu/img/N5XM5rUYNlSuFYJH.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1392597851042111491/pu/img/N5XM5rUYNlSuFYJH.jpg",
+						"url": "https://t.co/2TU2ixArT5",
+						"display_url": "pic.twitter.com/2TU2ixArT5",
+						"expanded_url": "https://twitter.com/Tylerjoelb/status/1392598001005236229/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1392597851042111500,
+						"id_str": "1392597851042111491",
+						"indices": [
+							160,
+							183
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1392597851042111491/pu/img/N5XM5rUYNlSuFYJH.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1392597851042111491/pu/img/N5XM5rUYNlSuFYJH.jpg",
+						"url": "https://t.co/2TU2ixArT5",
+						"display_url": "pic.twitter.com/2TU2ixArT5",
+						"expanded_url": "https://twitter.com/Tylerjoelb/status/1392598001005236229/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 58400,
+							"variants": [
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1392597851042111491/pu/vid/640x360/zOnbN18B9Lybx2Wu.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1392597851042111491/pu/pl/_LL9BiYM7SWD1x8D.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1392597851042111491/pu/vid/1280x720/k3uIY_pu2GRIDnhz.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1392597851042111491/pu/vid/480x270/u-sj6DZrPvQmFuoB.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 468665640,
+				"id_str": "468665640",
+				"name": "Tyler Buchanan",
+				"screen_name": "Tylerjoelb",
+				"location": "Columbus, OH",
+				"description": "Statehouse/Politics @OhioCapJournal. Former editor @athensmessenger. BGSU grad, @Rangers fan. Contact info + how to send tips: https://t.co/SgYt1etIco",
+				"url": "https://t.co/hYm8MQVOp8",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/hYm8MQVOp8",
+								"expanded_url": "http://www.ohiocapitaljournal.com",
+								"display_url": "ohiocapitaljournal.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/SgYt1etIco",
+								"expanded_url": "http://tinyurl.com/y9cm7lbe",
+								"display_url": "tinyurl.com/y9cm7lbe",
+								"indices": [
+									127,
+									150
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 13546,
+				"friends_count": 4982,
+				"listed_count": 219,
+				"created_at": "Thu Jan 19 19:43:02 +0000 2012",
+				"favourites_count": 35655,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 20449,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1311007711836897284/csuQYSJ7_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311007711836897284/csuQYSJ7_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/468665640/1570676498",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 626,
+			"favorite_count": 2368,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 41,
+		"favorite_count": 438,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this... is actually not a terrible idea https://t.co/sKqyHBzBDo"
+	},
+	{
+		"created_at": "Wed May 12 22:09:08 +0000 2021",
+		"id": 1392602772235817000,
+		"id_str": "1392602772235816960",
+		"full_text": "The most honest way of saying “I laughed” is to type hahahaha but to misspell it bc you are uncontrollably losing it like hahhahhahaaah https://t.co/fGWvIVPWHE",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fGWvIVPWHE",
+					"expanded_url": "https://twitter.com/noahcrothman/status/1392555909432418316",
+					"display_url": "twitter.com/noahcrothman/s…",
+					"indices": [
+						136,
+						159
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "just trying to get the cats in my brain to stop meowing",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66933,
+			"friends_count": 804,
+			"listed_count": 955,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 97791,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 370,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1392555909432418300,
+		"quoted_status_id_str": "1392555909432418316",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fGWvIVPWHE",
+			"expanded": "https://twitter.com/noahcrothman/status/1392555909432418316",
+			"display": "twitter.com/noahcrothman/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 12 19:02:55 +0000 2021",
+			"id": 1392555909432418300,
+			"id_str": "1392555909432418316",
+			"full_text": "\"LOL\" is a worthless convention that should be mothballed. No one who LOLs says LOL, because LOL doesn't mean \"I laughed.\" It is an expression of derision which a more capable writer could express in words. If you find something funny, you give the courtesy of typing out \"laugh.\"",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				280
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 168531961,
+				"id_str": "168531961",
+				"name": "Noah Rothman",
+				"screen_name": "NoahCRothman",
+				"location": "New York City",
+				"description": "Associate Editor @Commentary. MSNBC/NBC News contributor. Author \"Unjust: Social Justice and the Unmaking of America\" https://t.co/8PN276FhoX",
+				"url": "https://t.co/H8DRQ6vyWQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/H8DRQ6vyWQ",
+								"expanded_url": "http://www.commentarymagazine.com",
+								"display_url": "commentarymagazine.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/8PN276FhoX",
+								"expanded_url": "http://bit.ly/NoahRothman",
+								"display_url": "bit.ly/NoahRothman",
+								"indices": [
+									118,
+									141
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 86352,
+				"friends_count": 1860,
+				"listed_count": 1855,
+				"created_at": "Mon Jul 19 16:32:51 +0000 2010",
+				"favourites_count": 44532,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 37639,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1326373260565618688/TSG62Sk9_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1326373260565618688/TSG62Sk9_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/168531961/1548764250",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 21,
+			"favorite_count": 320,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 74,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The most honest way of saying “I laughed” is to type hahahaha but to misspell it bc you are uncontrollably losing it like hahhahhahaaah https://t.co/fGWvIVPWHE"
+	},
+	{
+		"created_at": "Wed May 12 19:52:42 +0000 2021",
+		"id": 1392560820719132700,
+		"id_str": "1392568435268374530",
+		"full_text": "Someone give this man some iron supplements https://t.co/sfD6TyliTL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1392560815241261000,
+					"id_str": "1392560815241261056",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/E1NervCVcAAKlPT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1NervCVcAAKlPT.jpg",
+					"url": "https://t.co/sfD6TyliTL",
+					"display_url": "pic.twitter.com/sfD6TyliTL",
+					"expanded_url": "https://twitter.com/TaylorLorenz/status/1392560820719132674/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 685,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 388,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1241,
+							"h": 708,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1392560815241261000,
+					"id_str": "1392560815241261056",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/E1NervCVcAAKlPT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1NervCVcAAKlPT.jpg",
+					"url": "https://t.co/sfD6TyliTL",
+					"display_url": "pic.twitter.com/sfD6TyliTL",
+					"expanded_url": "https://twitter.com/TaylorLorenz/status/1392560820719132674/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 685,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 388,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1241,
+							"h": 708,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1392560815232884700,
+					"id_str": "1392560815232884738",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/E1NervAVoAIxv5T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1NervAVoAIxv5T.jpg",
+					"url": "https://t.co/sfD6TyliTL",
+					"display_url": "pic.twitter.com/sfD6TyliTL",
+					"expanded_url": "https://twitter.com/TaylorLorenz/status/1392560820719132674/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 619,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1241,
+							"h": 640,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 351,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1392560815694225400,
+					"id_str": "1392560815694225412",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/E1NerwuVIAQmX8w.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1NerwuVIAQmX8w.jpg",
+					"url": "https://t.co/sfD6TyliTL",
+					"display_url": "pic.twitter.com/sfD6TyliTL",
+					"expanded_url": "https://twitter.com/TaylorLorenz/status/1392560820719132674/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 319,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 563,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1241,
+							"h": 582,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1392560816797323300,
+					"id_str": "1392560816797323267",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/E1Ner01VEAMrd39.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E1Ner01VEAMrd39.jpg",
+					"url": "https://t.co/sfD6TyliTL",
+					"display_url": "pic.twitter.com/sfD6TyliTL",
+					"expanded_url": "https://twitter.com/TaylorLorenz/status/1392560820719132674/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1241,
+							"h": 698,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 382,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1392542191835222000,
+		"in_reply_to_status_id_str": "1392542191835222017",
+		"in_reply_to_user_id": 208725869,
+		"in_reply_to_user_id_str": "208725869",
+		"in_reply_to_screen_name": "TaylorLorenz",
+		"user": {
+			"id": 208725869,
+			"id_str": "208725869",
+			"name": "Taylor Lorenz",
+			"screen_name": "TaylorLorenz",
+			"location": "LA / ATL ",
+			"description": "Reporter @NYTStyles ✨ DM me tips on anything related to creators/influencers or the online world✨ FOLLOW ME ON INSTAGRAM: https://t.co/gzdp8M8qn8 #skobuffs",
+			"url": "https://t.co/oirIYN58WN",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/oirIYN58WN",
+							"expanded_url": "http://taylorlorenz.substack.com",
+							"display_url": "taylorlorenz.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/gzdp8M8qn8",
+							"expanded_url": "http://Instagram.com/taylorlorenz",
+							"display_url": "Instagram.com/taylorlorenz",
+							"indices": [
+								122,
+								145
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 237319,
+			"friends_count": 6340,
+			"listed_count": 3090,
+			"created_at": "Wed Oct 27 20:40:40 +0000 2010",
+			"favourites_count": 309816,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 3884,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1242681702725672962/23vStoFY_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1242681702725672962/23vStoFY_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/208725869/1536423037",
+			"profile_link_color": "696969",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 147,
+		"favorite_count": 2047,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Someone give this man some iron supplements https://t.co/sfD6TyliTL"
+	},
+	{
 		"created_at": "Wed May 12 04:36:15 +0000 2021",
 		"id": 1392337802793193500,
 		"id_str": "1392337802793193472",
