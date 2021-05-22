@@ -1,6 +1,1137 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Fri May 21 20:51:49 +0000 2021",
+		"id": 1395844805851295700,
+		"id_str": "1395844805851295753",
+		"full_text": "A lot of questions https://t.co/idsALPLaVn",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1395844797378834400,
+					"id_str": "1395844797378834434",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/E18Jcp1XsAIlbs3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E18Jcp1XsAIlbs3.jpg",
+					"url": "https://t.co/idsALPLaVn",
+					"display_url": "pic.twitter.com/idsALPLaVn",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1395844805851295753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1395844797378834400,
+					"id_str": "1395844797378834434",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/E18Jcp1XsAIlbs3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E18Jcp1XsAIlbs3.jpg",
+					"url": "https://t.co/idsALPLaVn",
+					"display_url": "pic.twitter.com/idsALPLaVn",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1395844805851295753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1395844797395505200,
+					"id_str": "1395844797395505155",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/E18Jcp5WEAMgq7S.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E18Jcp5WEAMgq7S.jpg",
+					"url": "https://t.co/idsALPLaVn",
+					"display_url": "pic.twitter.com/idsALPLaVn",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1395844805851295753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1395844797517246500,
+					"id_str": "1395844797517246464",
+					"indices": [
+						19,
+						42
+					],
+					"media_url": "http://pbs.twimg.com/media/E18JcqWXsAA-K8N.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E18JcqWXsAA-K8N.jpg",
+					"url": "https://t.co/idsALPLaVn",
+					"display_url": "pic.twitter.com/idsALPLaVn",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1395844805851295753/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 900,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 510,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1536,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "just trying to get the cats in my brain to stop meowing",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66861,
+			"friends_count": 810,
+			"listed_count": 947,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 98252,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A lot of questions https://t.co/idsALPLaVn"
+	},
+	{
+		"created_at": "Fri May 21 20:45:49 +0000 2021",
+		"id": 1395843294224175000,
+		"id_str": "1395843294224175115",
+		"full_text": "Donald Trump smells like farts and likes to smell his own farts.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "just trying to get the cats in my brain to stop meowing",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66861,
+			"friends_count": 810,
+			"listed_count": 947,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 98252,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 30,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Donald Trump smells like farts and likes to smell his own farts."
+	},
+	{
+		"created_at": "Fri May 21 20:39:16 +0000 2021",
+		"id": 1395732041891815400,
+		"id_str": "1395841644608491525",
+		"full_text": "Like I understand where you’re coming from here but they very much did kill Socrates https://t.co/mM1l40sPdf",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mM1l40sPdf",
+					"expanded_url": "https://twitter.com/AnthonySabatini/status/1395524167781527552",
+					"display_url": "twitter.com/AnthonySabatin…",
+					"indices": [
+						85,
+						108
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14714760,
+			"id_str": "14714760",
+			"name": "Jess Zimmerman",
+			"screen_name": "j_zimms",
+			"location": "Brooklyn",
+			"description": "Editor-in-chief of @ElectricLit, sad old goth. jess@electricliterature.com. Newsletter: https://t.co/0XikTSigyz Women and Other Monsters: https://t.co/BHGdHUDfVV",
+			"url": "https://t.co/8AvT0qO2cl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/8AvT0qO2cl",
+							"expanded_url": "http://jesszimmerman.com",
+							"display_url": "jesszimmerman.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": [
+						{
+							"url": "https://t.co/0XikTSigyz",
+							"expanded_url": "http://t.ly/i0UD",
+							"display_url": "t.ly/i0UD",
+							"indices": [
+								88,
+								111
+							]
+						},
+						{
+							"url": "https://t.co/BHGdHUDfVV",
+							"expanded_url": "http://t.ly/l5OU",
+							"display_url": "t.ly/l5OU",
+							"indices": [
+								138,
+								161
+							]
+						}
+					]
+				}
+			},
+			"protected": false,
+			"followers_count": 22559,
+			"friends_count": 1044,
+			"listed_count": 427,
+			"created_at": "Fri May 09 15:46:14 +0000 2008",
+			"favourites_count": 50411,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 26549,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/869618972999680000/fC9mWoiv_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/869618972999680000/fC9mWoiv_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14714760/1605889994",
+			"profile_link_color": "000000",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DAECF4",
+			"profile_text_color": "030303",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1395524167781527600,
+		"quoted_status_id_str": "1395524167781527552",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mM1l40sPdf",
+			"expanded": "https://twitter.com/AnthonySabatini/status/1395524167781527552",
+			"display": "twitter.com/AnthonySabatin…"
+		},
+		"quoted_status": {
+			"created_at": "Thu May 20 23:37:43 +0000 2021",
+			"id": 1395524167781527600,
+			"id_str": "1395524167781527552",
+			"full_text": "If Socrates was out philosophizing in American society today, he would be cancelled real quick",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				94
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3231657095,
+				"id_str": "3231657095",
+				"name": "Rep. Anthony Sabatini",
+				"screen_name": "AnthonySabatini",
+				"location": "Lake County, FL",
+				"description": "Candidate for U.S. Congress (FL-11) | State Representative (FL-32) | Veteran | Attorney | UF: BA ‘12 JD ‘17 | #AmericaFirst",
+				"url": "https://t.co/lOzwzCUeSa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lOzwzCUeSa",
+								"expanded_url": "http://SabatiniForCongress.com",
+								"display_url": "SabatiniForCongress.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 56254,
+				"friends_count": 2869,
+				"listed_count": 431,
+				"created_at": "Sun May 03 20:15:19 +0000 2015",
+				"favourites_count": 20491,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 4319,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1315839909077356545/_4x9fbUf_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1315839909077356545/_4x9fbUf_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3231657095/1615742263",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 273,
+			"favorite_count": 1440,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 600,
+		"favorite_count": 3568,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Like I understand where you’re coming from here but they very much did kill Socrates https://t.co/mM1l40sPdf"
+	},
+	{
+		"created_at": "Fri May 21 20:32:27 +0000 2021",
+		"id": 1395839929264054300,
+		"id_str": "1395839929264054281",
+		"full_text": "Ext. Newark Airport\n\nMan gets in taxi.\n\n“Brooklyn, please”\n\n“You’re going to have to pay the tolls on the Verrazano”\n\n“Fuck it. Atlantic City”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "just trying to get the cats in my brain to stop meowing",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66861,
+			"friends_count": 810,
+			"listed_count": 947,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 98252,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Ext. Newark Airport\n\nMan gets in taxi.\n\n“Brooklyn, please”\n\n“You’re going to have to pay the tolls on the Verrazano”\n\n“Fuck it. Atlantic City”"
+	},
+	{
+		"created_at": "Fri May 21 20:26:51 +0000 2021",
+		"id": 1395838520166686700,
+		"id_str": "1395838520166686720",
+		"full_text": "@x_t_pd @Convolutedname Omg this Obama paragraph is insane hahahah",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "x_t_pd",
+					"name": "The Mack Daddy of Bloopo County 🧦🌋",
+					"id": 833497746216742900,
+					"id_str": "833497746216742916",
+					"indices": [
+						0,
+						7
+					]
+				},
+				{
+					"screen_name": "Convolutedname",
+					"name": "prime macpoasting account",
+					"id": 967644630161481700,
+					"id_str": "967644630161481728",
+					"indices": [
+						8,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1395785548908929000,
+		"in_reply_to_status_id_str": "1395785548908929025",
+		"in_reply_to_user_id": 833497746216742900,
+		"in_reply_to_user_id_str": "833497746216742916",
+		"in_reply_to_screen_name": "x_t_pd",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "just trying to get the cats in my brain to stop meowing",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66861,
+			"friends_count": 810,
+			"listed_count": 947,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 98252,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 440,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@x_t_pd @Convolutedname Omg this Obama paragraph is insane hahahah"
+	},
+	{
+		"created_at": "Fri May 21 20:02:23 +0000 2021",
+		"id": 1395832008782188500,
+		"id_str": "1395832362689236998",
+		"full_text": "Everybody who writes that a TV show is no good if it isn't a detailed position paper should be forced to watch The Newsroom Clockwork Orange-style on perpetual loop for a month https://t.co/R0TUSrzbdB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			176
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R0TUSrzbdB",
+					"expanded_url": "https://twitter.com/Convolutedname/status/1395734987035627524",
+					"display_url": "twitter.com/Convolutedname…",
+					"indices": [
+						177,
+						200
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 52253024,
+			"id_str": "52253024",
+			"name": "Scott Lemieux",
+			"screen_name": "LemieuxLGM",
+			"location": "Seattle, WA ",
+			"description": "What used to be is gone and what ought to be ought not to be so hard. Tweets speak for myself only.",
+			"url": "https://t.co/0RgGSvy6Xl",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/0RgGSvy6Xl",
+							"expanded_url": "http://www.lawyersgunsmoneyblog.com/author/Scott-Lemieux/",
+							"display_url": "lawyersgunsmoneyblog.com/author/Scott-L…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 16171,
+			"friends_count": 3063,
+			"listed_count": 349,
+			"created_at": "Tue Jun 30 01:04:55 +0000 2009",
+			"favourites_count": 106315,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 92604,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1380669487481905152/yTuoS7sM_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1380669487481905152/yTuoS7sM_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/52253024/1561683794",
+			"profile_link_color": "FF691F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1395734987035627500,
+		"quoted_status_id_str": "1395734987035627524",
+		"quoted_status_permalink": {
+			"url": "https://t.co/R0TUSrzbdB",
+			"expanded": "https://twitter.com/Convolutedname/status/1395734987035627524",
+			"display": "twitter.com/Convolutedname…"
+		},
+		"quoted_status": {
+			"created_at": "Fri May 21 13:35:27 +0000 2021",
+			"id": 1395734987035627500,
+			"id_str": "1395734987035627524",
+			"full_text": "Wat https://t.co/NYTtUHsx3D",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				3
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1395734975123705900,
+						"id_str": "1395734975123705860",
+						"indices": [
+							4,
+							27
+						],
+						"media_url": "http://pbs.twimg.com/media/E16lkKDWUAQ15FV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E16lkKDWUAQ15FV.jpg",
+						"url": "https://t.co/NYTtUHsx3D",
+						"display_url": "pic.twitter.com/NYTtUHsx3D",
+						"expanded_url": "https://twitter.com/Convolutedname/status/1395734987035627524/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 438,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 773,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1319,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1395734975123705900,
+						"id_str": "1395734975123705860",
+						"indices": [
+							4,
+							27
+						],
+						"media_url": "http://pbs.twimg.com/media/E16lkKDWUAQ15FV.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E16lkKDWUAQ15FV.jpg",
+						"url": "https://t.co/NYTtUHsx3D",
+						"display_url": "pic.twitter.com/NYTtUHsx3D",
+						"expanded_url": "https://twitter.com/Convolutedname/status/1395734987035627524/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 438,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 773,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1319,
+								"h": 2048,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1395734978844151800,
+						"id_str": "1395734978844151808",
+						"indices": [
+							4,
+							27
+						],
+						"media_url": "http://pbs.twimg.com/media/E16lkX6X0AAMRKE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E16lkX6X0AAMRKE.jpg",
+						"url": "https://t.co/NYTtUHsx3D",
+						"display_url": "pic.twitter.com/NYTtUHsx3D",
+						"expanded_url": "https://twitter.com/Convolutedname/status/1395734987035627524/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 374,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1126,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 660,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1395734984720322600,
+						"id_str": "1395734984720322567",
+						"indices": [
+							4,
+							27
+						],
+						"media_url": "http://pbs.twimg.com/media/E16lktzXEAcRMBS.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E16lktzXEAcRMBS.jpg",
+						"url": "https://t.co/NYTtUHsx3D",
+						"display_url": "pic.twitter.com/NYTtUHsx3D",
+						"expanded_url": "https://twitter.com/Convolutedname/status/1395734987035627524/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1307,
+								"h": 2048,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 434,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 766,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 967644630161481700,
+				"id_str": "967644630161481728",
+				"name": "prime macpoasting account",
+				"screen_name": "Convolutedname",
+				"location": "Arlington, VA",
+				"description": "German in the US, posting about veto players a lot.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2572,
+				"friends_count": 297,
+				"listed_count": 16,
+				"created_at": "Sun Feb 25 06:17:12 +0000 2018",
+				"favourites_count": 76494,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 15492,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1345389504073523205/qvjfKxmF_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1345389504073523205/qvjfKxmF_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/967644630161481728/1579038384",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 13,
+			"favorite_count": 185,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 11,
+		"favorite_count": 117,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Everybody who writes that a TV show is no good if it isn't a detailed position paper should be forced to watch The Newsroom Clockwork Orange-style on perpetual loop for a month https://t.co/R0TUSrzbdB"
+	},
+	{
 		"created_at": "Fri May 21 06:02:04 +0000 2021",
 		"id": 1395620891879305200,
 		"id_str": "1395620891879305217",
