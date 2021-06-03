@@ -1,6 +1,213 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 02 21:57:40 +0000 2021",
+		"id": 1400210029563764700,
+		"id_str": "1400210029563764742",
+		"full_text": "This story is wild https://t.co/5N3XDeT8oT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5N3XDeT8oT",
+					"expanded_url": "https://twitter.com/justinjm1/status/1400201552820854793",
+					"display_url": "twitter.com/justinjm1/stat…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "just trying to get the cats in my brain to stop meowing",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76507,
+			"friends_count": 817,
+			"listed_count": 963,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 98951,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 618,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1400201552820854800,
+		"quoted_status_id_str": "1400201552820854793",
+		"quoted_status_permalink": {
+			"url": "https://t.co/5N3XDeT8oT",
+			"expanded": "https://twitter.com/justinjm1/status/1400201552820854793",
+			"display": "twitter.com/justinjm1/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 02 21:23:59 +0000 2021",
+			"id": 1400201552820854800,
+			"id_str": "1400201552820854793",
+			"full_text": "Why is this deli worth $100,000,000? https://t.co/lmB9CrPBIZ",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				60
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/lmB9CrPBIZ",
+						"expanded_url": "https://nymag.com/intelligencer/2021/06/the-usd100-million-new-jersey-deli-a-theory.html",
+						"display_url": "nymag.com/intelligencer/…",
+						"indices": [
+							37,
+							60
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 164397041,
+				"id_str": "164397041",
+				"name": "Justin Miller",
+				"screen_name": "justinjm1",
+				"location": "New York, NY",
+				"description": "News director, @nymag's @Intelligencer",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 63971,
+				"friends_count": 2856,
+				"listed_count": 1463,
+				"created_at": "Thu Jul 08 19:44:58 +0000 2010",
+				"favourites_count": 18510,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 21084,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1387222228761288710/06xQedc__normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1387222228761288710/06xQedc__normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/164397041/1580672502",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This story is wild https://t.co/5N3XDeT8oT"
+	},
+	{
 		"created_at": "Wed Jun 02 06:13:48 +0000 2021",
 		"id": 1399972497068642300,
 		"id_str": "1399972497068642305",
@@ -2615,7 +2822,7 @@ Grailbird.data.tweets_2021_06 =
 			"user_mentions": [
 				{
 					"screen_name": "prettyokdad",
-					"name": "Curtis 🤦‍♂️🤷‍♂️",
+					"name": "Curtis 🤦♂️🤷♂️",
 					"id": 1383916566178275300,
 					"id_str": "1383916566178275345",
 					"indices": [
