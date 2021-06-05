@@ -1,6 +1,191 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Fri Jun 04 07:47:54 +0000 2021",
+		"id": 1400720955270381600,
+		"id_str": "1400720955270381569",
+		"full_text": "How is this grammatically correct? https://t.co/r8fLeejL0l https://t.co/ejwvrstnOG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/r8fLeejL0l",
+					"expanded_url": "https://apple.news/AOSZ4Rfw_Rk-SEWKEYo9Q2Q",
+					"display_url": "apple.news/AOSZ4Rfw_Rk-SE…",
+					"indices": [
+						35,
+						58
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1400720952174989300,
+					"id_str": "1400720952174989314",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/E3BcSN_WUAIM140.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3BcSN_WUAIM140.jpg",
+					"url": "https://t.co/ejwvrstnOG",
+					"display_url": "pic.twitter.com/ejwvrstnOG",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1400720955270381569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1637,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 858,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1400720952174989300,
+					"id_str": "1400720952174989314",
+					"indices": [
+						59,
+						82
+					],
+					"media_url": "http://pbs.twimg.com/media/E3BcSN_WUAIM140.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3BcSN_WUAIM140.jpg",
+					"url": "https://t.co/ejwvrstnOG",
+					"display_url": "pic.twitter.com/ejwvrstnOG",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1400720955270381569/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1637,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 486,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 858,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "just trying to get the cats in my brain to stop meowing",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76470,
+			"friends_count": 816,
+			"listed_count": 961,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 98992,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 562,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How is this grammatically correct? https://t.co/r8fLeejL0l https://t.co/ejwvrstnOG"
+	},
+	{
 		"created_at": "Fri Jun 04 04:24:18 +0000 2021",
 		"id": 1400669717468229600,
 		"id_str": "1400669717468229634",
@@ -2228,7 +2413,7 @@ Grailbird.data.tweets_2021_06 =
 			"user_mentions": [
 				{
 					"screen_name": "zooeymayonnaise",
-					"name": "Zooeymayonnaise 🏴‍☠️",
+					"name": "Zooeymayonnaise 🏴☠️",
 					"id": 1374990481491394600,
 					"id_str": "1374990481491394562",
 					"indices": [
@@ -2855,7 +3040,7 @@ Grailbird.data.tweets_2021_06 =
 				"name": "Prime Video",
 				"screen_name": "PrimeVideo",
 				"location": "",
-				"description": "Mostly posting memes for the girls, gays, and theys. 🏳️‍🌈 Happy Pride Month!",
+				"description": "Mostly posting memes for the girls, gays, and theys. 🏳️🌈 Happy Pride Month!",
 				"url": "https://t.co/JMjXW3HZHg",
 				"entities": {
 					"url": {
@@ -3802,7 +3987,7 @@ Grailbird.data.tweets_2021_06 =
 				"name": "Andrea Nordgren",
 				"screen_name": "AndreaNordgren",
 				"location": "",
-				"description": "Commercial & Film Director, EP, Creative Producer, CD | anti-racist 🏳️‍🌈 | she/her | #womeninfilm",
+				"description": "Commercial & Film Director, EP, Creative Producer, CD | anti-racist 🏳️🌈 | she/her | #womeninfilm",
 				"url": null,
 				"entities": {
 					"description": {
