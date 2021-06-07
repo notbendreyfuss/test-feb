@@ -1,6 +1,357 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Mon Jun 07 04:00:28 +0000 2021",
+		"id": 1401750883684294700,
+		"id_str": "1401750883684294657",
+		"full_text": "@SocelynJeip @BadFilmTakes1 @samodyssey2001 Hahaha",
+		"truncated": false,
+		"display_text_range": [
+			44,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SocelynJeip",
+					"name": "Joe Ingles",
+					"id": 937630582372102100,
+					"id_str": "937630582372102144",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "BadFilmTakes1",
+					"name": "Nuanced Film Takes",
+					"id": 1323395583697068000,
+					"id_str": "1323395583697068033",
+					"indices": [
+						13,
+						27
+					]
+				},
+				{
+					"screen_name": "samodyssey2001",
+					"name": "Sam⍟",
+					"id": 1040866509512482800,
+					"id_str": "1040866509512482816",
+					"indices": [
+						28,
+						43
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1401718685522292700,
+		"in_reply_to_status_id_str": "1401718685522292736",
+		"in_reply_to_user_id": 937630582372102100,
+		"in_reply_to_user_id_str": "937630582372102144",
+		"in_reply_to_screen_name": "SocelynJeip",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "just trying to get the cats in my brain to stop meowing",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76461,
+			"friends_count": 816,
+			"listed_count": 960,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 98966,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tl",
+		"text": "@SocelynJeip @BadFilmTakes1 @samodyssey2001 Hahaha"
+	},
+	{
+		"created_at": "Mon Jun 07 03:59:59 +0000 2021",
+		"id": 1401718685522292700,
+		"id_str": "1401750763148283908",
+		"full_text": "@BadFilmTakes1 @samodyssey2001 my fiancé, crying: please, you can't just call every pair of male characters showing literally any form of intimacy or emotional connection gay \n\nme, pointing at neil and vincent smiling at each other in the diner: gay",
+		"truncated": false,
+		"display_text_range": [
+			31,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BadFilmTakes1",
+					"name": "Nuanced Film Takes",
+					"id": 1323395583697068000,
+					"id_str": "1323395583697068033",
+					"indices": [
+						0,
+						14
+					]
+				},
+				{
+					"screen_name": "samodyssey2001",
+					"name": "Sam⍟",
+					"id": 1040866509512482800,
+					"id_str": "1040866509512482816",
+					"indices": [
+						15,
+						30
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": 1401716573958672400,
+		"in_reply_to_status_id_str": "1401716573958672385",
+		"in_reply_to_user_id": 1323395583697068000,
+		"in_reply_to_user_id_str": "1323395583697068033",
+		"in_reply_to_screen_name": "BadFilmTakes1",
+		"user": {
+			"id": 937630582372102100,
+			"id_str": "937630582372102144",
+			"name": "Joe Ingles",
+			"screen_name": "SocelynJeip",
+			"location": "The Cool Zone",
+			"description": "s̶m̶o̶o̶t̶h̶ ̶b̶r̶a̶i̶n̶ spiky brain. nothing landing on it, absorbing absolutely no new information.",
+			"url": "https://t.co/eJn3JwDIkd",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/eJn3JwDIkd",
+							"expanded_url": "http://letterboxd.com/aussiemandias21",
+							"display_url": "letterboxd.com/aussiemandias21",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1044,
+			"friends_count": 782,
+			"listed_count": 3,
+			"created_at": "Mon Dec 04 10:32:05 +0000 2017",
+			"favourites_count": 276265,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 30936,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1365543613367640068/rq9DDC9q_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1365543613367640068/rq9DDC9q_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/937630582372102144/1606391446",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 19,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "@BadFilmTakes1 @samodyssey2001 my fiancé, crying: please, you can't just call every pair of male characters showing literally any form of intimacy or emotional connection gay \n\nme, pointing at neil and vincent smiling at each other in the diner: gay"
+	},
+	{
+		"created_at": "Mon Jun 07 03:56:04 +0000 2021",
+		"id": 1401749774106247200,
+		"id_str": "1401749774106247172",
+		"full_text": "@mcbc Oh. Wow thanks for your help I’ll get right on deleting this",
+		"truncated": false,
+		"display_text_range": [
+			6,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mcbc",
+					"name": "mcbc 🇺🇸🗽",
+					"id": 15936802,
+					"id_str": "15936802",
+					"indices": [
+						0,
+						5
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1401749173268009000,
+		"in_reply_to_status_id_str": "1401749173268008961",
+		"in_reply_to_user_id": 15936802,
+		"in_reply_to_user_id_str": "15936802",
+		"in_reply_to_screen_name": "mcbc",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "just trying to get the cats in my brain to stop meowing",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76461,
+			"friends_count": 816,
+			"listed_count": 960,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 98966,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 566,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mcbc Oh. Wow thanks for your help I’ll get right on deleting this"
+	},
+	{
 		"created_at": "Fri Jun 04 07:47:54 +0000 2021",
 		"id": 1400720955270381600,
 		"id_str": "1400720955270381569",
