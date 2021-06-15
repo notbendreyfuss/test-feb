@@ -1,6 +1,287 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 15 00:44:24 +0000 2021",
+		"id": 1404600642996478000,
+		"id_str": "1404600642996477954",
+		"full_text": "This AI is the type of out-of-the box thinker that I want on my team. https://t.co/qSHpALzyUx https://t.co/EsIn0QsbRq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qSHpALzyUx",
+					"expanded_url": "https://www.vox.com/future-perfect/2018/12/21/18126576/ai-artificial-intelligence-machine-learning-safety-alignment",
+					"display_url": "vox.com/future-perfect…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1404600638722515000,
+					"id_str": "1404600638722514947",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/E34k1spXoAMmJyD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E34k1spXoAMmJyD.jpg",
+					"url": "https://t.co/EsIn0QsbRq",
+					"display_url": "pic.twitter.com/EsIn0QsbRq",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1404600642996477954/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1398,
+							"h": 380,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 185,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 326,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1404600638722515000,
+					"id_str": "1404600638722514947",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/E34k1spXoAMmJyD.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E34k1spXoAMmJyD.jpg",
+					"url": "https://t.co/EsIn0QsbRq",
+					"display_url": "pic.twitter.com/EsIn0QsbRq",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1404600642996477954/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1398,
+							"h": 380,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 185,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 326,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "“What did you do during the war, daddy?” “Twitter, mostly”",
+			"url": "https://t.co/ZNogBJXIcc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBJXIcc",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76417,
+			"friends_count": 820,
+			"listed_count": 964,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 99633,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 549,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 89,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This AI is the type of out-of-the box thinker that I want on my team. https://t.co/qSHpALzyUx https://t.co/EsIn0QsbRq"
+	},
+	{
+		"created_at": "Mon Jun 14 16:18:06 +0000 2021",
+		"id": 1404460192394272800,
+		"id_str": "1404473229159305217",
+		"full_text": "folks who work in audience-focused roles in newsrooms are very likely to have highly-specialized knowledge and skills and are also very likely to constantly have that knowledge and those skills questioned by colleagues who would never do the same to, say, beat reporters",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14894519,
+			"id_str": "14894519",
+			"name": "Brandon Carter",
+			"screen_name": "brandonetc",
+			"location": "DC/KY",
+			"description": "social producer @NPRPolitics | union punk | @wku alum | KY born and bred",
+			"url": "https://t.co/cvBXy91TFb",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cvBXy91TFb",
+							"expanded_url": "https://www.npr.org/people/599455512/brandon-carter",
+							"display_url": "npr.org/people/5994555…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 3388,
+			"friends_count": 998,
+			"listed_count": 75,
+			"created_at": "Sat May 24 22:53:39 +0000 2008",
+			"favourites_count": 37961,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 10204,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "04151C",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1232781747328299013/2JWLghRI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1232781747328299013/2JWLghRI_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14894519/1549988447",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "5C5555",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 60,
+		"favorite_count": 516,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "folks who work in audience-focused roles in newsrooms are very likely to have highly-specialized knowledge and skills and are also very likely to constantly have that knowledge and those skills questioned by colleagues who would never do the same to, say, beat reporters"
+	},
+	{
 		"created_at": "Mon Jun 14 06:07:57 +0000 2021",
 		"id": 1404319681553571800,
 		"id_str": "1404319681553571842",
