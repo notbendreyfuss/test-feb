@@ -1,6 +1,1187 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Thu Jun 17 03:10:37 +0000 2021",
+		"id": 1405048693481382000,
+		"id_str": "1405362216078032898",
+		"full_text": "https://t.co/Cia1JYvFaZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1405048691308646400,
+					"id_str": "1405048691308646401",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E3-8VymUUAEPHYK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3-8VymUUAEPHYK.jpg",
+					"url": "https://t.co/Cia1JYvFaZ",
+					"display_url": "pic.twitter.com/Cia1JYvFaZ",
+					"expanded_url": "https://twitter.com/papagarbage1/status/1405048693481381890/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 806,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 457,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 806,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1405048691308646400,
+					"id_str": "1405048691308646401",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/E3-8VymUUAEPHYK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E3-8VymUUAEPHYK.jpg",
+					"url": "https://t.co/Cia1JYvFaZ",
+					"display_url": "pic.twitter.com/Cia1JYvFaZ",
+					"expanded_url": "https://twitter.com/papagarbage1/status/1405048693481381890/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 806,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 457,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 806,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1290778408423575600,
+			"id_str": "1290778408423575553",
+			"name": "garbagio",
+			"screen_name": "papagarbage1",
+			"location": "",
+			"description": "AnarchoSyndicalist\nBiFuckingSexual\nNoPronounPreference\nPostersUnionLocal#69420",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1198,
+			"friends_count": 977,
+			"listed_count": 0,
+			"created_at": "Tue Aug 04 22:35:47 +0000 2020",
+			"favourites_count": 80653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 19357,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1403344012665245696/so6ftSNE_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1403344012665245696/so6ftSNE_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1290778408423575553/1619486361",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5408,
+		"favorite_count": 55570,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "und",
+		"text": "https://t.co/Cia1JYvFaZ"
+	},
+	{
+		"created_at": "Wed Jun 16 23:21:50 +0000 2021",
+		"id": 1405302273765482500,
+		"id_str": "1405304641248714756",
+		"full_text": "this is Common Core erasure https://t.co/hWlJIJ7XUv",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hWlJIJ7XUv",
+					"expanded_url": "https://twitter.com/radleybalko/status/1404899948089446402",
+					"display_url": "twitter.com/radleybalko/st…",
+					"indices": [
+						28,
+						51
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 60040821,
+			"id_str": "60040821",
+			"name": "Space Laserman, j.g.",
+			"screen_name": "maxjrosenthal",
+			"location": "DC",
+			"description": "Former journalist. Current refugee hype man. Son Heung-min enthusiast. #COYS",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10185,
+			"friends_count": 802,
+			"listed_count": 315,
+			"created_at": "Sat Jul 25 11:44:59 +0000 2009",
+			"favourites_count": 65956,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 98629,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1329223214095085569/Z4A139-2_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1329223214095085569/Z4A139-2_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/60040821/1611254266",
+			"profile_link_color": "1B95E0",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1404899948089446400,
+		"quoted_status_id_str": "1404899948089446402",
+		"quoted_status_permalink": {
+			"url": "https://t.co/hWlJIJ7XUv",
+			"expanded": "https://twitter.com/radleybalko/status/1404899948089446402",
+			"display": "twitter.com/radleybalko/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue Jun 15 20:33:44 +0000 2021",
+			"id": 1404899948089446400,
+			"id_str": "1404899948089446402",
+			"full_text": "https://t.co/7r4i3BlTzq",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				0
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1404899943391846400,
+						"id_str": "1404899943391846402",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/E381DhbWYAIA5s-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E381DhbWYAIA5s-.jpg",
+						"url": "https://t.co/7r4i3BlTzq",
+						"display_url": "pic.twitter.com/7r4i3BlTzq",
+						"expanded_url": "https://twitter.com/radleybalko/status/1404899948089446402/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 500,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1404899943391846400,
+						"id_str": "1404899943391846402",
+						"indices": [
+							0,
+							23
+						],
+						"media_url": "http://pbs.twimg.com/media/E381DhbWYAIA5s-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E381DhbWYAIA5s-.jpg",
+						"url": "https://t.co/7r4i3BlTzq",
+						"display_url": "pic.twitter.com/7r4i3BlTzq",
+						"expanded_url": "https://twitter.com/radleybalko/status/1404899948089446402/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 500,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 750,
+								"h": 500,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15816595,
+				"id_str": "15816595",
+				"name": "Radley Balko",
+				"screen_name": "radleybalko",
+				"location": "Nashville, TN",
+				"description": "Opinion journalist, Washington Post. Author of Rise of the Warrior Cop, and The Cadaver King and the Country Dentist. Honorary Duckmaster (3/24/18).",
+				"url": "https://t.co/VmgMuTHRL5",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VmgMuTHRL5",
+								"expanded_url": "https://www.amazon.com/Cadaver-King-Country-Dentist-Injustice/dp/161039691X",
+								"display_url": "amazon.com/Cadaver-King-C…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 101897,
+				"friends_count": 2404,
+				"listed_count": 2677,
+				"created_at": "Tue Aug 12 01:08:06 +0000 2008",
+				"favourites_count": 19073,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 54650,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "745354",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1343328837246054400/ATz6bLic_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1343328837246054400/ATz6bLic_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15816595/1613582474",
+				"profile_link_color": "A0ADB0",
+				"profile_sidebar_border_color": "0E1A1B",
+				"profile_sidebar_fill_color": "6C8BB2",
+				"profile_text_color": "2D2438",
+				"profile_use_background_image": false,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2464,
+			"favorite_count": 11922,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "und"
+		},
+		"retweet_count": 11,
+		"favorite_count": 73,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "this is Common Core erasure https://t.co/hWlJIJ7XUv"
+	},
+	{
+		"created_at": "Wed Jun 16 22:42:35 +0000 2021",
+		"id": 1405294764057059300,
+		"id_str": "1405294764057059333",
+		"full_text": ":blinks repeatedly: https://t.co/Kfxwe4Lrl7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Kfxwe4Lrl7",
+					"expanded_url": "https://twitter.com/JasonSCampbell/status/1405281246620512261",
+					"display_url": "twitter.com/JasonSCampbell…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "“What did you do during the war, daddy?” “Twitter, mostly”",
+			"url": "https://t.co/ZNogBJXIcc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBJXIcc",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76412,
+			"friends_count": 819,
+			"listed_count": 961,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 99629,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1405281246620512300,
+		"quoted_status_id_str": "1405281246620512261",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Kfxwe4Lrl7",
+			"expanded": "https://twitter.com/JasonSCampbell/status/1405281246620512261",
+			"display": "twitter.com/JasonSCampbell…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 16 21:48:52 +0000 2021",
+			"id": 1405281246620512300,
+			"id_str": "1405281246620512261",
+			"full_text": "Rep Madison Cawthorn: \"If anybody ever wants to say 'oh, well you know what, citizens with a few small arms fire would never be able to stop the federal government' - I absolutely disagree. Ask the Viet Cong how they handled the Marines and the Army in Vietnam\" https://t.co/BPqn3d9Rsx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				261
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1405281121420468200,
+						"id_str": "1405281121420468224",
+						"indices": [
+							262,
+							285
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1405281121420468224/pu/img/qx_0HsdS_9o3h12T.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1405281121420468224/pu/img/qx_0HsdS_9o3h12T.jpg",
+						"url": "https://t.co/BPqn3d9Rsx",
+						"display_url": "pic.twitter.com/BPqn3d9Rsx",
+						"expanded_url": "https://twitter.com/JasonSCampbell/status/1405281246620512261/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1405281121420468200,
+						"id_str": "1405281121420468224",
+						"indices": [
+							262,
+							285
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1405281121420468224/pu/img/qx_0HsdS_9o3h12T.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1405281121420468224/pu/img/qx_0HsdS_9o3h12T.jpg",
+						"url": "https://t.co/BPqn3d9Rsx",
+						"display_url": "pic.twitter.com/BPqn3d9Rsx",
+						"expanded_url": "https://twitter.com/JasonSCampbell/status/1405281246620512261/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 60928,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1405281121420468224/pu/pl/ZpZ6zsRoNl1KcbFp.m3u8?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1405281121420468224/pu/vid/480x270/RbmtBx9GfAmi9MW3.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1405281121420468224/pu/vid/640x360/sBQrDGL4qddlet9H.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1405281121420468224/pu/vid/1280x720/lZYZRbg0zUvK0MXv.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 325716763,
+				"id_str": "325716763",
+				"name": "Jason Campbell",
+				"screen_name": "JasonSCampbell",
+				"location": "Washington, DC",
+				"description": "Researcher @mmfa (tweets are my own) | Recovering Philosopher | An “evil piece of garbage” and one of the “undesirables over at Media Matters” - Ben Shapiro",
+				"url": "https://t.co/LZgIXNxYYm",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/LZgIXNxYYm",
+								"expanded_url": "https://www.mediamatters.org/author/jason-campbell",
+								"display_url": "mediamatters.org/author/jason-c…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 32566,
+				"friends_count": 1267,
+				"listed_count": 352,
+				"created_at": "Tue Jun 28 19:11:07 +0000 2011",
+				"favourites_count": 11623,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 19941,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1141876115763601409/FhIl1_IT_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1141876115763601409/FhIl1_IT_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/325716763/1542314230",
+				"profile_link_color": "DD2E44",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 335,
+			"favorite_count": 1144,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 7,
+		"favorite_count": 117,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": ":blinks repeatedly: https://t.co/Kfxwe4Lrl7"
+	},
+	{
+		"created_at": "Wed Jun 16 20:15:06 +0000 2021",
+		"id": 1405257600468410400,
+		"id_str": "1405257647767556099",
+		"full_text": "Manchin wins over @rickhasen. https://t.co/ZpSZMFRiP0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rickhasen",
+					"name": "Rick Hasen",
+					"id": 47034524,
+					"id_str": "47034524",
+					"indices": [
+						18,
+						28
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ZpSZMFRiP0",
+					"expanded_url": "https://slate.com/news-and-politics/2021/06/democrats-should-take-joe-manchin-deal.html",
+					"display_url": "slate.com/news-and-polit…",
+					"indices": [
+						30,
+						53
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 21696279,
+			"id_str": "21696279",
+			"name": "Brian Beutler",
+			"screen_name": "brianbeutler",
+			"location": "Washington, DC",
+			"description": "@crookedmedia Editor in Chief. Politics. Writing. Intermittent podcasting. Gun-assault survivor. bbeutler@protonmail.com",
+			"url": "https://t.co/3lEYbOVvhR",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/3lEYbOVvhR",
+							"expanded_url": "http://crooked.com/bigtent",
+							"display_url": "crooked.com/bigtent",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 180427,
+			"friends_count": 887,
+			"listed_count": 3757,
+			"created_at": "Mon Feb 23 21:31:16 +0000 2009",
+			"favourites_count": 18112,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 157105,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/529336683838181376/WvGs7dTV_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/529336683838181376/WvGs7dTV_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/21696279/1507396769",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 42,
+		"favorite_count": 170,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Manchin wins over @rickhasen. https://t.co/ZpSZMFRiP0"
+	},
+	{
+		"created_at": "Wed Jun 16 20:08:38 +0000 2021",
+		"id": 1405256020809683000,
+		"id_str": "1405256020809682945",
+		"full_text": "The response this person gets from Slate is just straight out looney tunes . https://t.co/KJm2sr3EsP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/KJm2sr3EsP",
+					"expanded_url": "https://twitter.com/NateSilver538/status/1405237900539748352",
+					"display_url": "twitter.com/NateSilver538/…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "“What did you do during the war, daddy?” “Twitter, mostly”",
+			"url": "https://t.co/ZNogBJXIcc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBJXIcc",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76412,
+			"friends_count": 819,
+			"listed_count": 961,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 99629,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 341,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1405237900539748400,
+		"quoted_status_id_str": "1405237900539748352",
+		"quoted_status_permalink": {
+			"url": "https://t.co/KJm2sr3EsP",
+			"expanded": "https://twitter.com/NateSilver538/status/1405237900539748352",
+			"display": "twitter.com/NateSilver538/…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jun 16 18:56:38 +0000 2021",
+			"id": 1405237900539748400,
+			"id_str": "1405237900539748352",
+			"full_text": "If I were *fully vaccinated* and my parents didn't let me go to summer camp after I'd had a lonely and \"terrible\" school year by their own admission, I wouldn't *never* forgive them but I'd be mad about it for a long, long time.\n\nhttps://t.co/OSF9A4ftim https://t.co/Muer4OaO7i",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				253
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/OSF9A4ftim",
+						"expanded_url": "https://slate.com/human-interest/2021/06/teen-parent-cant-agree-safety-covid-care-and-feeding.html",
+						"display_url": "slate.com/human-interest…",
+						"indices": [
+							230,
+							253
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1405237146412150800,
+						"id_str": "1405237146412150784",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/media/E4BnvUkUcAAsA35.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4BnvUkUcAAsA35.jpg",
+						"url": "https://t.co/Muer4OaO7i",
+						"display_url": "pic.twitter.com/Muer4OaO7i",
+						"expanded_url": "https://twitter.com/NateSilver538/status/1405237900539748352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1079,
+								"h": 1221,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1060,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 601,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1405237146412150800,
+						"id_str": "1405237146412150784",
+						"indices": [
+							254,
+							277
+						],
+						"media_url": "http://pbs.twimg.com/media/E4BnvUkUcAAsA35.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/E4BnvUkUcAAsA35.jpg",
+						"url": "https://t.co/Muer4OaO7i",
+						"display_url": "pic.twitter.com/Muer4OaO7i",
+						"expanded_url": "https://twitter.com/NateSilver538/status/1405237900539748352/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1079,
+								"h": 1221,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1060,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 601,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16017475,
+				"id_str": "16017475",
+				"name": "Nate Silver",
+				"screen_name": "NateSilver538",
+				"location": "New York",
+				"description": "Founder, EIC @FiveThirtyEight. Author, The Signal and the Noise (https://t.co/v6tgsFf8gD). Sports/politics/food geek. Not a virologist.",
+				"url": "https://t.co/uHPuJrkd4V",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/uHPuJrkd4V",
+								"expanded_url": "http://fivethirtyeight.com/",
+								"display_url": "fivethirtyeight.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/v6tgsFf8gD",
+								"expanded_url": "http://amzn.to/QdyFYV",
+								"display_url": "amzn.to/QdyFYV",
+								"indices": [
+									65,
+									88
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 3604462,
+				"friends_count": 1407,
+				"listed_count": 35459,
+				"created_at": "Wed Aug 27 20:56:45 +0000 2008",
+				"favourites_count": 1825,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 35687,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1359552173873524736/T1wEBXtD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1359552173873524736/T1wEBXtD_normal.jpg",
+				"profile_link_color": "000092",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 368,
+			"favorite_count": 4770,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 9,
+		"favorite_count": 153,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The response this person gets from Slate is just straight out looney tunes . https://t.co/KJm2sr3EsP"
+	},
+	{
 		"created_at": "Tue Jun 15 22:08:14 +0000 2021",
 		"id": 1404923730569085000,
 		"id_str": "1404923730569084928",
