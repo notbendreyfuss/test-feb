@@ -1,6 +1,1315 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Fri Jul 16 00:53:14 +0000 2021",
+		"id": 1415836892939972600,
+		"id_str": "1415836892939972613",
+		"full_text": "The Good Fight today had a storyline where they make fun of overbearing HR/cancel culture hehe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "“What did you do during the war, daddy?” “Twitter, mostly”",
+			"url": "https://t.co/ZNogBJXIcc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBJXIcc",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76260,
+			"friends_count": 829,
+			"listed_count": 964,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 99901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "The Good Fight today had a storyline where they make fun of overbearing HR/cancel culture hehe"
+	},
+	{
+		"created_at": "Thu Jul 15 18:47:43 +0000 2021",
+		"id": 1415744905108881400,
+		"id_str": "1415744905108881410",
+		"full_text": "@lachlan Lolll",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lachlan",
+					"name": "Lachlan Markay",
+					"id": 15742985,
+					"id_str": "15742985",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1415744685662945300,
+		"in_reply_to_status_id_str": "1415744685662945280",
+		"in_reply_to_user_id": 15742985,
+		"in_reply_to_user_id_str": "15742985",
+		"in_reply_to_screen_name": "lachlan",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "“What did you do during the war, daddy?” “Twitter, mostly”",
+			"url": "https://t.co/ZNogBJXIcc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBJXIcc",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76260,
+			"friends_count": 829,
+			"listed_count": 964,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 99901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@lachlan Lolll"
+	},
+	{
+		"created_at": "Thu Jul 15 17:42:20 +0000 2021",
+		"id": 1415728452104167400,
+		"id_str": "1415728452104167426",
+		"full_text": "The story itself is interesting and has good reporting about the push and pull in the party but it just seems weird to frame it like the Dems have been clinging to Obamacare for lack of any new ideas. It isn’t the Democrats who have been dragging the Obamacare fight out.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			271
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1415727815295594500,
+		"in_reply_to_status_id_str": "1415727815295594496",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "“What did you do during the war, daddy?” “Twitter, mostly”",
+			"url": "https://t.co/ZNogBJXIcc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBJXIcc",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76260,
+			"friends_count": 829,
+			"listed_count": 964,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 99901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "The story itself is interesting and has good reporting about the push and pull in the party but it just seems weird to frame it like the Dems have been clinging to Obamacare for lack of any new ideas. It isn’t the Democrats who have been dragging the Obamacare fight out."
+	},
+	{
+		"created_at": "Thu Jul 15 17:39:48 +0000 2021",
+		"id": 1415727815295594500,
+		"id_str": "1415727815295594496",
+		"full_text": "The framing of this story is a little weird to me. The only reason Democrats have made Obamacare a centerpiece of their last few campaign cycles is because the GOP has continued trying to dismantle it https://t.co/jEPLwKTXiY https://t.co/G7ZBzHKMEx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jEPLwKTXiY",
+					"expanded_url": "https://apple.news/ARwPq_QljS4CVrdP3HGl2KQ",
+					"display_url": "apple.news/ARwPq_QljS4CVr…",
+					"indices": [
+						201,
+						224
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1415727810216304600,
+					"id_str": "1415727810216304640",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/E6Ws8UqVoAA5PxK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6Ws8UqVoAA5PxK.jpg",
+					"url": "https://t.co/G7ZBzHKMEx",
+					"display_url": "pic.twitter.com/G7ZBzHKMEx",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1415727815295594496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 449,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 773,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 773,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415727810216304600,
+					"id_str": "1415727810216304640",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/E6Ws8UqVoAA5PxK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6Ws8UqVoAA5PxK.jpg",
+					"url": "https://t.co/G7ZBzHKMEx",
+					"display_url": "pic.twitter.com/G7ZBzHKMEx",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1415727815295594496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 449,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 773,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 773,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1415727810212032500,
+					"id_str": "1415727810212032514",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/E6Ws8UpUcAI3cb-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6Ws8UpUcAI3cb-.jpg",
+					"url": "https://t.co/G7ZBzHKMEx",
+					"display_url": "pic.twitter.com/G7ZBzHKMEx",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1415727815295594496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 1191,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 668,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1191,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1415727810207838200,
+					"id_str": "1415727810207838214",
+					"indices": [
+						225,
+						248
+					],
+					"media_url": "http://pbs.twimg.com/media/E6Ws8UoUcAYOW2H.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6Ws8UoUcAYOW2H.jpg",
+					"url": "https://t.co/G7ZBzHKMEx",
+					"display_url": "pic.twitter.com/G7ZBzHKMEx",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1415727815295594496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 509,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 876,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 876,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "“What did you do during the war, daddy?” “Twitter, mostly”",
+			"url": "https://t.co/ZNogBJXIcc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBJXIcc",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76260,
+			"friends_count": 829,
+			"listed_count": 964,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 99901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 25,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The framing of this story is a little weird to me. The only reason Democrats have made Obamacare a centerpiece of their last few campaign cycles is because the GOP has continued trying to dismantle it https://t.co/jEPLwKTXiY https://t.co/G7ZBzHKMEx"
+	},
+	{
+		"created_at": "Thu Jul 15 17:16:14 +0000 2021",
+		"id": 1415716054328758300,
+		"id_str": "1415721882737725440",
+		"full_text": "Exactly the same playbook. https://t.co/j0rCypYkpX https://t.co/UJuIHX4urc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/j0rCypYkpX",
+					"expanded_url": "https://twitter.com/rebeccaballhaus/status/1415706170388537347",
+					"display_url": "twitter.com/rebeccaballhau…",
+					"indices": [
+						27,
+						50
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1415716052168712200,
+					"id_str": "1415716052168712192",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/E6WiP6hVoAAn4yt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6WiP6hVoAAn4yt.jpg",
+					"url": "https://t.co/UJuIHX4urc",
+					"display_url": "pic.twitter.com/UJuIHX4urc",
+					"expanded_url": "https://twitter.com/austinflack/status/1415716054328758277/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1092,
+							"h": 604,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1092,
+							"h": 604,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 376,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415716052168712200,
+					"id_str": "1415716052168712192",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/E6WiP6hVoAAn4yt.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6WiP6hVoAAn4yt.jpg",
+					"url": "https://t.co/UJuIHX4urc",
+					"display_url": "pic.twitter.com/UJuIHX4urc",
+					"expanded_url": "https://twitter.com/austinflack/status/1415716054328758277/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1092,
+							"h": 604,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1092,
+							"h": 604,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 376,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 155058199,
+			"id_str": "155058199",
+			"name": "Austin Flack",
+			"screen_name": "austinflack",
+			"location": "Los Angeles, CA",
+			"description": "Co-Executive Producer, Catfish: The TV Show. Washingtonian in Exile.",
+			"url": "https://t.co/bhMkgPqlDJ",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/bhMkgPqlDJ",
+							"expanded_url": "http://www.telegramfilm.com/resume",
+							"display_url": "telegramfilm.com/resume",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 857,
+			"friends_count": 762,
+			"listed_count": 27,
+			"created_at": "Sun Jun 13 01:01:55 +0000 2010",
+			"favourites_count": 202578,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 57788,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1203560076209840128/Uk1kvEkO_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1203560076209840128/Uk1kvEkO_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/155058199/1507080366",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1415706170388537300,
+		"quoted_status_id_str": "1415706170388537347",
+		"quoted_status_permalink": {
+			"url": "https://t.co/j0rCypYkpX",
+			"expanded": "https://twitter.com/rebeccaballhaus/status/1415706170388537347",
+			"display": "twitter.com/rebeccaballhau…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 15 16:13:48 +0000 2021",
+			"id": 1415706170388537300,
+			"id_str": "1415706170388537347",
+			"full_text": "Trump says he never threatened a coup and that “if I was going to do a coup, one of the last people I would want to do it with is General Mark Milley,” in not the most persuasive rebuttal of a report that Milley feared Trump would attempt a coup.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				246
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 705706292,
+				"id_str": "705706292",
+				"name": "Rebecca Ballhaus",
+				"screen_name": "rebeccaballhaus",
+				"location": "New York",
+				"description": "@WSJ investigative reporter. Previously covered the White House and money in politics. DM for Signal.",
+				"url": "https://t.co/BzzVgFj1vG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/BzzVgFj1vG",
+								"expanded_url": "https://www.wsj.com/news/author/7537",
+								"display_url": "wsj.com/news/author/75…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 109344,
+				"friends_count": 1947,
+				"listed_count": 2188,
+				"created_at": "Thu Jul 19 20:12:07 +0000 2012",
+				"favourites_count": 5203,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 22054,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FF6699",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1311431712694468614/A6Hcvd0U_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1311431712694468614/A6Hcvd0U_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/705706292/1601504864",
+				"profile_link_color": "B40B43",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "F6FFD1",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 814,
+			"favorite_count": 6202,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Exactly the same playbook. https://t.co/j0rCypYkpX https://t.co/UJuIHX4urc"
+	},
+	{
+		"created_at": "Thu Jul 15 17:13:39 +0000 2021",
+		"id": 1415721234768171000,
+		"id_str": "1415721234768171008",
+		"full_text": "This really is the same defense as “look, honey, I’d never cheat on you and if I were going to cheat on you I wouldn’t cheat on you with her”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1415720528040452000,
+		"in_reply_to_status_id_str": "1415720528040452096",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "“What did you do during the war, daddy?” “Twitter, mostly”",
+			"url": "https://t.co/ZNogBJXIcc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBJXIcc",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76260,
+			"friends_count": 829,
+			"listed_count": 964,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 99901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "This really is the same defense as “look, honey, I’d never cheat on you and if I were going to cheat on you I wouldn’t cheat on you with her”"
+	},
+	{
+		"created_at": "Thu Jul 15 17:10:51 +0000 2021",
+		"id": 1415720528040452000,
+		"id_str": "1415720528040452096",
+		"full_text": "“I would never commit crimes in an organized fashion and if I was going to commit crimes in an organized fashion I would never do it with Joe Valachi” https://t.co/mj2s6DKZ1J",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mj2s6DKZ1J",
+					"expanded_url": "https://twitter.com/peterbakernyt/status/1415711167796895748",
+					"display_url": "twitter.com/peterbakernyt/…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "“What did you do during the war, daddy?” “Twitter, mostly”",
+			"url": "https://t.co/ZNogBJXIcc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBJXIcc",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76260,
+			"friends_count": 829,
+			"listed_count": 964,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 99901,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 509,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1415711167796895700,
+		"quoted_status_id_str": "1415711167796895748",
+		"quoted_status_permalink": {
+			"url": "https://t.co/mj2s6DKZ1J",
+			"expanded": "https://twitter.com/peterbakernyt/status/1415711167796895748",
+			"display": "twitter.com/peterbakernyt/…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Jul 15 16:33:39 +0000 2021",
+			"id": 1415711167796895700,
+			"id_str": "1415711167796895748",
+			"full_text": "Trump denies contemplating a coup but adds that \"if I was going to do a coup, one of the last people I would want to do it with is General Mark Milley.\"",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				152
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 123327472,
+				"id_str": "123327472",
+				"name": "Peter Baker",
+				"screen_name": "peterbakernyt",
+				"location": "",
+				"description": "Chief White House Correspondent for The New York Times and MSNBC analyst. Husband and co-author with @sbg1 of \"THE MAN WHO RAN WASHINGTON.\"",
+				"url": "https://t.co/twDPJCPoPs",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/twDPJCPoPs",
+								"expanded_url": "https://www.amazon.com/Man-Who-Ran-Washington-Times/dp/0385540558",
+								"display_url": "amazon.com/Man-Who-Ran-Wa…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 575989,
+				"friends_count": 3153,
+				"listed_count": 6357,
+				"created_at": "Mon Mar 15 18:55:27 +0000 2010",
+				"favourites_count": 5839,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 31137,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "08090A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/821603222544596994/VlQaklD5_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/821603222544596994/VlQaklD5_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/123327472/1601381216",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1020,
+			"favorite_count": 6646,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“I would never commit crimes in an organized fashion and if I was going to commit crimes in an organized fashion I would never do it with Joe Valachi” https://t.co/mj2s6DKZ1J"
+	},
+	{
+		"created_at": "Thu Jul 15 17:04:01 +0000 2021",
+		"id": 1415718343542247400,
+		"id_str": "1415718808640131074",
+		"full_text": "This is a Hall of Fame Trump quote here:\n\n\"Many say I am the greatest star-maker of all time. But some of the stars I produced are actually made of garbage.\" https://t.co/64LybuyPYc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1415718294686945300,
+					"id_str": "1415718294686945289",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/E6WkScjWUAk07xN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6WkScjWUAk07xN.jpg",
+					"url": "https://t.co/64LybuyPYc",
+					"display_url": "pic.twitter.com/64LybuyPYc",
+					"expanded_url": "https://twitter.com/Bencjacobs/status/1415718343542247432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 282,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1454,
+							"h": 602,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 497,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1415718294686945300,
+					"id_str": "1415718294686945289",
+					"indices": [
+						158,
+						181
+					],
+					"media_url": "http://pbs.twimg.com/media/E6WkScjWUAk07xN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E6WkScjWUAk07xN.jpg",
+					"url": "https://t.co/64LybuyPYc",
+					"display_url": "pic.twitter.com/64LybuyPYc",
+					"expanded_url": "https://twitter.com/Bencjacobs/status/1415718343542247432/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 282,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1454,
+							"h": 602,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 497,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 218325695,
+			"id_str": "218325695",
+			"name": "Ben Jacobs",
+			"screen_name": "Bencjacobs",
+			"location": "Washington, DC",
+			"description": "",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 194180,
+			"friends_count": 1343,
+			"listed_count": 3483,
+			"created_at": "Mon Nov 22 01:29:40 +0000 2010",
+			"favourites_count": 2,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 167952,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1169027409678610432/Khz1zWfB_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1169027409678610432/Khz1zWfB_normal.jpg",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 375,
+		"favorite_count": 1871,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is a Hall of Fame Trump quote here:\n\n\"Many say I am the greatest star-maker of all time. But some of the stars I produced are actually made of garbage.\" https://t.co/64LybuyPYc"
+	},
+	{
 		"created_at": "Thu Jul 15 01:10:46 +0000 2021",
 		"id": 1415478914583994400,
 		"id_str": "1415478914583994371",
