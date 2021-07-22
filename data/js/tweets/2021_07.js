@@ -1,6 +1,1354 @@
 Grailbird.data.tweets_2021_07 = 
 [
 	{
+		"created_at": "Wed Jul 21 22:39:04 +0000 2021",
+		"id": 1417977454602461200,
+		"id_str": "1417977454602461188",
+		"full_text": "I seriously can’t stop giggling about a producer forcing the chef to say “so we hopped into the TOYOTA AVALON” no one on earth has ever felt enough pride about their Toyota Avalon to name drop it in casual conversation.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			219
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1417976767600541700,
+		"in_reply_to_status_id_str": "1417976767600541699",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "“What did you do during the war, daddy?” “Twitter, mostly”",
+			"url": "https://t.co/ZNogBJXIcc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBJXIcc",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76228,
+			"friends_count": 838,
+			"listed_count": 965,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 99917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 191,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I seriously can’t stop giggling about a producer forcing the chef to say “so we hopped into the TOYOTA AVALON” no one on earth has ever felt enough pride about their Toyota Avalon to name drop it in casual conversation."
+	},
+	{
+		"created_at": "Wed Jul 21 22:36:20 +0000 2021",
+		"id": 1417976767600541700,
+		"id_str": "1417976767600541699",
+		"full_text": "“Hey chef do you mind saying the thing you said about going to the store again, but this time mention it’s a Toyota Avalon and that the store is Whole Foods and that it can hold a lot of San Pellegrino? Thanks”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1417976508371521500,
+		"in_reply_to_status_id_str": "1417976508371521538",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "“What did you do during the war, daddy?” “Twitter, mostly”",
+			"url": "https://t.co/ZNogBJXIcc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBJXIcc",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76228,
+			"friends_count": 838,
+			"listed_count": 965,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 99917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 191,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "“Hey chef do you mind saying the thing you said about going to the store again, but this time mention it’s a Toyota Avalon and that the store is Whole Foods and that it can hold a lot of San Pellegrino? Thanks”"
+	},
+	{
+		"created_at": "Wed Jul 21 22:35:18 +0000 2021",
+		"id": 1417976508371521500,
+		"id_str": "1417976508371521538",
+		"full_text": "I love on Top Chef when the contestants are forced to say things that include product placement like “we all hopped into to the Toyota Avalon to run to Whole Foods. The best thing about the Toyota Avalon, aside from the style, is how many bottles of San Pellegrino it can hold.”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "“What did you do during the war, daddy?” “Twitter, mostly”",
+			"url": "https://t.co/ZNogBJXIcc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBJXIcc",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76228,
+			"friends_count": 838,
+			"listed_count": 965,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 99917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 191,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 75,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I love on Top Chef when the contestants are forced to say things that include product placement like “we all hopped into to the Toyota Avalon to run to Whole Foods. The best thing about the Toyota Avalon, aside from the style, is how many bottles of San Pellegrino it can hold.”"
+	},
+	{
+		"created_at": "Wed Jul 21 22:23:53 +0000 2021",
+		"id": 1417973635252252700,
+		"id_str": "1417973635252252673",
+		"full_text": "My two favorite Top Chef champs are @ChefBrookeW and @ChefMelissaKing and I’d love to watch a Top Chef: Champions League season because I think one of them could pull it off.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ChefBrookeW",
+					"name": "Brooke Williamson",
+					"id": 820429639,
+					"id_str": "820429639",
+					"indices": [
+						36,
+						48
+					]
+				},
+				{
+					"screen_name": "ChefMelissaKing",
+					"name": "Melissa King",
+					"id": 110625764,
+					"id_str": "110625764",
+					"indices": [
+						53,
+						69
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1417911199950205000,
+		"in_reply_to_status_id_str": "1417911199950204928",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "“What did you do during the war, daddy?” “Twitter, mostly”",
+			"url": "https://t.co/ZNogBJXIcc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBJXIcc",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76228,
+			"friends_count": 838,
+			"listed_count": 965,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 99917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 191,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "My two favorite Top Chef champs are @ChefBrookeW and @ChefMelissaKing and I’d love to watch a Top Chef: Champions League season because I think one of them could pull it off."
+	},
+	{
+		"created_at": "Wed Jul 21 22:10:51 +0000 2021",
+		"id": 1417970355113644000,
+		"id_str": "1417970355113644042",
+		"full_text": "@jaredbkeller Cc @swin24",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jaredbkeller",
+					"name": "Jared Keller",
+					"id": 53429839,
+					"id_str": "53429839",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "swin24",
+					"name": "Asawin Suebsaeng",
+					"id": 44688778,
+					"id_str": "44688778",
+					"indices": [
+						17,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1417970086774775800,
+		"in_reply_to_status_id_str": "1417970086774775812",
+		"in_reply_to_user_id": 53429839,
+		"in_reply_to_user_id_str": "53429839",
+		"in_reply_to_screen_name": "jaredbkeller",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "“What did you do during the war, daddy?” “Twitter, mostly”",
+			"url": "https://t.co/ZNogBJXIcc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBJXIcc",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76228,
+			"friends_count": 838,
+			"listed_count": 965,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 99917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 191,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@jaredbkeller Cc @swin24"
+	},
+	{
+		"created_at": "Wed Jul 21 21:17:35 +0000 2021",
+		"id": 1417956946561302500,
+		"id_str": "1417956946561302528",
+		"full_text": "Inevitably there will be catastrophic failures in the suborbital space tourism industry and people will die, and this sentence will stop being true. https://t.co/eEHcuXyVQ0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/eEHcuXyVQ0",
+					"expanded_url": "https://twitter.com/adamserwer/status/1417901448608817153",
+					"display_url": "twitter.com/adamserwer/sta…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "“What did you do during the war, daddy?” “Twitter, mostly”",
+			"url": "https://t.co/ZNogBJXIcc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBJXIcc",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76228,
+			"friends_count": 838,
+			"listed_count": 965,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 99917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 191,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1417901448608817200,
+		"quoted_status_id_str": "1417901448608817153",
+		"quoted_status_permalink": {
+			"url": "https://t.co/eEHcuXyVQ0",
+			"expanded": "https://twitter.com/adamserwer/status/1417901448608817153",
+			"display": "twitter.com/adamserwer/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 21 17:37:03 +0000 2021",
+			"id": 1417901448608817200,
+			"id_str": "1417901448608817153",
+			"full_text": "\"It is literally safer to be shot into outer space with new technology never before tried out on humans than it is to work in one of Bezos’s warehouses.\"  https://t.co/QxJwwL3MMt",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				178
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/QxJwwL3MMt",
+						"expanded_url": "https://newrepublic.com/article/163020/jeff-bezos-space-marxist?utm_medium=Social&utm_campaign=EB_TNR&utm_source=Twitter#Echobox=1626887816",
+						"display_url": "newrepublic.com/article/163020…",
+						"indices": [
+							155,
+							178
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 16326882,
+				"id_str": "16326882",
+				"name": "Adam Serwer 🍝",
+				"screen_name": "AdamSerwer",
+				"location": "Texas, USA",
+				"description": "Staff Writer, @TheAtlantic Ideas. adam@theatlantic.com Preorder THE CRUELTY IS THE POINT out June 29, 2021 here: https://t.co/JryuLIO8yR",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/JryuLIO8yR",
+								"expanded_url": "http://bit.ly/3psRSrr",
+								"display_url": "bit.ly/3psRSrr",
+								"indices": [
+									113,
+									136
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 348691,
+				"friends_count": 2258,
+				"listed_count": 5153,
+				"created_at": "Wed Sep 17 12:10:49 +0000 2008",
+				"favourites_count": 67721,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 27052,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1414698441293316096/Nx5LfyHH_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1414698441293316096/Nx5LfyHH_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/16326882/1621365654",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "BDDCAD",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 183,
+			"favorite_count": 846,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Inevitably there will be catastrophic failures in the suborbital space tourism industry and people will die, and this sentence will stop being true. https://t.co/eEHcuXyVQ0"
+	},
+	{
+		"created_at": "Wed Jul 21 20:14:55 +0000 2021",
+		"id": 1417913454179008500,
+		"id_str": "1417941175873335297",
+		"full_text": "We would love it, not sure all winners would agree to participate https://t.co/N6BaNpjnyJ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N6BaNpjnyJ",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1417911199950204928",
+					"display_url": "twitter.com/bendreyfuss/st…",
+					"indices": [
+						66,
+						89
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 103130238,
+			"id_str": "103130238",
+			"name": "Tom Colicchio",
+			"screen_name": "tomcolicchio",
+			"location": "ÜT: 41.071143,-71.932959",
+			"description": "Chef, food activist, gardener, fishing fanatic & father to three. Simpsonized",
+			"url": "https://t.co/1cc8trgYA1",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/1cc8trgYA1",
+							"expanded_url": "https://linktr.ee/tomcolicchio",
+							"display_url": "linktr.ee/tomcolicchio",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 921059,
+			"friends_count": 1410,
+			"listed_count": 6977,
+			"created_at": "Sat Jan 09 00:33:36 +0000 2010",
+			"favourites_count": 8840,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 43757,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1197563496206143489/qqfcFYCh_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1197563496206143489/qqfcFYCh_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/103130238/1529430751",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1417911199950205000,
+		"quoted_status_id_str": "1417911199950204928",
+		"quoted_status_permalink": {
+			"url": "https://t.co/N6BaNpjnyJ",
+			"expanded": "https://twitter.com/bendreyfuss/status/1417911199950204928",
+			"display": "twitter.com/bendreyfuss/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Jul 21 18:15:48 +0000 2021",
+			"id": 1417911199950205000,
+			"id_str": "1417911199950204928",
+			"full_text": "For season 20 of Top Chef, @tomcolicchio should give us what we all want: a season where the previous 19 winners all compete for Top Most Chef",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				142
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "tomcolicchio",
+						"name": "Tom Colicchio",
+						"id": 103130238,
+						"id_str": "103130238",
+						"indices": [
+							27,
+							40
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18269124,
+				"id_str": "18269124",
+				"name": "Ben Dreyfuss",
+				"screen_name": "bendreyfuss",
+				"location": "New York, NY",
+				"description": "“What did you do during the war, daddy?” “Twitter, mostly”",
+				"url": "https://t.co/ZNogBJXIcc",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/ZNogBJXIcc",
+								"expanded_url": "http://bendreyfuss.substack.com",
+								"display_url": "bendreyfuss.substack.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 76228,
+				"friends_count": 838,
+				"listed_count": 965,
+				"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+				"favourites_count": 99917,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 191,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 120,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 370,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "We would love it, not sure all winners would agree to participate https://t.co/N6BaNpjnyJ"
+	},
+	{
+		"created_at": "Wed Jul 21 19:38:50 +0000 2021",
+		"id": 1417932098388693000,
+		"id_str": "1417932098388692995",
+		"full_text": "Me and @DrewBJones and Harry (who doesn’t have Twitter) having a Fun Time™ in Sun Valley https://t.co/twSlfe1EJI",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrewBJones",
+					"name": "Drew Brandon Jones",
+					"id": 707648668766179300,
+					"id_str": "707648668766179328",
+					"indices": [
+						7,
+						18
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1417932086367821800,
+					"id_str": "1417932086367821824",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/E62BuFOVIAAMKsB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E62BuFOVIAAMKsB.jpg",
+					"url": "https://t.co/twSlfe1EJI",
+					"display_url": "pic.twitter.com/twSlfe1EJI",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1417932098388692995/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1417932086367821800,
+					"id_str": "1417932086367821824",
+					"indices": [
+						89,
+						112
+					],
+					"media_url": "http://pbs.twimg.com/media/E62BuFOVIAAMKsB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E62BuFOVIAAMKsB.jpg",
+					"url": "https://t.co/twSlfe1EJI",
+					"display_url": "pic.twitter.com/twSlfe1EJI",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1417932098388692995/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 1536,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "“What did you do during the war, daddy?” “Twitter, mostly”",
+			"url": "https://t.co/ZNogBJXIcc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBJXIcc",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76228,
+			"friends_count": 838,
+			"listed_count": 965,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 99917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 191,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Me and @DrewBJones and Harry (who doesn’t have Twitter) having a Fun Time™ in Sun Valley https://t.co/twSlfe1EJI"
+	},
+	{
+		"created_at": "Wed Jul 21 18:15:48 +0000 2021",
+		"id": 1417911199950205000,
+		"id_str": "1417911199950204928",
+		"full_text": "For season 20 of Top Chef, @tomcolicchio should give us what we all want: a season where the previous 19 winners all compete for Top Most Chef",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tomcolicchio",
+					"name": "Tom Colicchio",
+					"id": 103130238,
+					"id_str": "103130238",
+					"indices": [
+						27,
+						40
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "“What did you do during the war, daddy?” “Twitter, mostly”",
+			"url": "https://t.co/ZNogBJXIcc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBJXIcc",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76228,
+			"friends_count": 838,
+			"listed_count": 965,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 99917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 191,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 120,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "For season 20 of Top Chef, @tomcolicchio should give us what we all want: a season where the previous 19 winners all compete for Top Most Chef"
+	},
+	{
+		"created_at": "Wed Jul 21 16:24:52 +0000 2021",
+		"id": 1417883284684492800,
+		"id_str": "1417883284684492807",
+		"full_text": "Like, I get it. Don’t call the police for no reason! But this article details public battery and domestic abuse which are very good reasons to call the police!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1417883004580495400,
+		"in_reply_to_status_id_str": "1417883004580495360",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "New York, NY",
+			"description": "“What did you do during the war, daddy?” “Twitter, mostly”",
+			"url": "https://t.co/ZNogBJXIcc",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBJXIcc",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76228,
+			"friends_count": 838,
+			"listed_count": 965,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 99917,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 191,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 52,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Like, I get it. Don’t call the police for no reason! But this article details public battery and domestic abuse which are very good reasons to call the police!"
+	},
+	{
 		"created_at": "Wed Jul 21 04:32:11 +0000 2021",
 		"id": 1417703929324839000,
 		"id_str": "1417703929324838913",
