@@ -1,6 +1,641 @@
 Grailbird.data.tweets_2021_08 = 
 [
 	{
+		"created_at": "Sat Aug 28 23:22:42 +0000 2021",
+		"id": 1431759174870855700,
+		"id_str": "1431759174870855681",
+		"full_text": "@nycsouthpaw Lmaooooo",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nycsouthpaw",
+					"name": "southpaw",
+					"id": 22429979,
+					"id_str": "22429979",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1431758176039456800,
+		"in_reply_to_status_id_str": "1431758176039456774",
+		"in_reply_to_user_id": 22429979,
+		"in_reply_to_user_id_str": "22429979",
+		"in_reply_to_screen_name": "nycsouthpaw",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "been around the world & i i i",
+			"description": "please subscribe to my substack so that the cats in my brain will stop meowing.",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76542,
+			"friends_count": 859,
+			"listed_count": 965,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 101396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "ht",
+		"text": "@nycsouthpaw Lmaooooo"
+	},
+	{
+		"created_at": "Sat Aug 28 20:58:58 +0000 2021",
+		"id": 1431723000236155000,
+		"id_str": "1431723000236154880",
+		"full_text": "I was ready to give Rudy Giuliani the benefit of the doubt here since this is a delta crown room and not, like, a real restaurant but the fact that when it zooms in there is some poor dude eating soup right next to him changed my mind. Sicko! https://t.co/djHV3v7iuR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			242
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/djHV3v7iuR",
+					"expanded_url": "https://twitter.com/AdamParkhomenko/status/1429859816218968064",
+					"display_url": "twitter.com/AdamParkhomenk…",
+					"indices": [
+						243,
+						266
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "been around the world & i i i",
+			"description": "please subscribe to my substack so that the cats in my brain will stop meowing.",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76542,
+			"friends_count": 859,
+			"listed_count": 965,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 101396,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 128,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1358100185751166977/aD_Lh5yJ_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1429859816218968000,
+		"quoted_status_id_str": "1429859816218968064",
+		"quoted_status_permalink": {
+			"url": "https://t.co/djHV3v7iuR",
+			"expanded": "https://twitter.com/AdamParkhomenko/status/1429859816218968064",
+			"display": "twitter.com/AdamParkhomenk…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Aug 23 17:35:20 +0000 2021",
+			"id": 1429859816218968000,
+			"id_str": "1429859816218968064",
+			"full_text": "Rudy Giuliani shaving at a table in a restaurant. The @MichaelRapaport coverage of the event is classic. https://t.co/sNvsP9xvNE",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				128
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MichaelRapaport",
+						"name": "MichaelRapaport",
+						"id": 241204643,
+						"id_str": "241204643",
+						"indices": [
+							54,
+							70
+						]
+					}
+				],
+				"urls": [],
+				"media": [
+					{
+						"id": 1429839973147099100,
+						"id_str": "1429839973147099136",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1429839973147099136/pu/img/14EmC_nlsSNHyxVd.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1429839973147099136/pu/img/14EmC_nlsSNHyxVd.jpg",
+						"url": "https://t.co/sNvsP9xvNE",
+						"display_url": "pic.twitter.com/sNvsP9xvNE",
+						"expanded_url": "https://twitter.com/MichaelRapaport/status/1429840097621561346/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1429840097621561300,
+						"source_status_id_str": "1429840097621561346",
+						"source_user_id": 241204643,
+						"source_user_id_str": "241204643"
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1429839973147099100,
+						"id_str": "1429839973147099136",
+						"indices": [
+							105,
+							128
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1429839973147099136/pu/img/14EmC_nlsSNHyxVd.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1429839973147099136/pu/img/14EmC_nlsSNHyxVd.jpg",
+						"url": "https://t.co/sNvsP9xvNE",
+						"display_url": "pic.twitter.com/sNvsP9xvNE",
+						"expanded_url": "https://twitter.com/MichaelRapaport/status/1429840097621561346/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 720,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"source_status_id": 1429840097621561300,
+						"source_status_id_str": "1429840097621561346",
+						"source_user_id": 241204643,
+						"source_user_id_str": "241204643",
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 28400,
+							"variants": [
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1429839973147099136/pu/pl/hqsSrU9PSFLYGqM8.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1429839973147099136/pu/vid/320x320/T_pmdN8DDWTmyg6M.mp4?tag=12"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1429839973147099136/pu/vid/720x720/9W_zeXkrsjEPohPV.mp4?tag=12"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1429839973147099136/pu/vid/540x540/LDFKXDi1KY2vhOq1.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false,
+							"source_user": {
+								"id": 241204643,
+								"id_str": "241204643",
+								"name": "MichaelRapaport",
+								"screen_name": "MichaelRapaport",
+								"location": "Where Disrpution Breathes",
+								"description": "Actor/Comedian/Director/Disruptor/Podcaster https://t.co/4PpdtWStGE🎙Making Weekly Podcast History @iamrapaport WORLDWIDE 📡",
+								"url": "https://t.co/1IvTv3OynE",
+								"entities": {
+									"url": {
+										"urls": [
+											{
+												"url": "https://t.co/1IvTv3OynE",
+												"expanded_url": "https://podcasts.apple.com/us/podcast/i-am-rapaport-stereo-podcast/id923017367?i=1000531161871",
+												"display_url": "podcasts.apple.com/us/podcast/i-a…",
+												"indices": [
+													0,
+													23
+												]
+											}
+										]
+									},
+									"description": {
+										"urls": [
+											{
+												"url": "https://t.co/4PpdtWStGE",
+												"expanded_url": "http://MichaelRapaportComedy.com",
+												"display_url": "MichaelRapaportComedy.com",
+												"indices": [
+													44,
+													67
+												]
+											}
+										]
+									}
+								},
+								"protected": false,
+								"followers_count": 637515,
+								"friends_count": 3348,
+								"listed_count": 2138,
+								"created_at": "Fri Jan 21 18:20:19 +0000 2011",
+								"favourites_count": 45043,
+								"utc_offset": null,
+								"time_zone": null,
+								"geo_enabled": true,
+								"verified": true,
+								"statuses_count": 86430,
+								"lang": null,
+								"contributors_enabled": false,
+								"is_translator": false,
+								"is_translation_enabled": false,
+								"profile_background_color": "9266CC",
+								"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+								"profile_background_tile": true,
+								"profile_image_url": "http://pbs.twimg.com/profile_images/1378568119690489857/UTPv2NmW_normal.jpg",
+								"profile_image_url_https": "https://pbs.twimg.com/profile_images/1378568119690489857/UTPv2NmW_normal.jpg",
+								"profile_banner_url": "https://pbs.twimg.com/profile_banners/241204643/1628208709",
+								"profile_link_color": "FA743E",
+								"profile_sidebar_border_color": "FFFFFF",
+								"profile_sidebar_fill_color": "DDEEF6",
+								"profile_text_color": "333333",
+								"profile_use_background_image": true,
+								"has_extended_profile": true,
+								"default_profile": false,
+								"default_profile_image": false,
+								"following": false,
+								"follow_request_sent": false,
+								"notifications": false,
+								"translator_type": "none",
+								"withheld_in_countries": []
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18382184,
+				"id_str": "18382184",
+				"name": "Adam Parkhomenko",
+				"screen_name": "AdamParkhomenko",
+				"location": "McLean, VA",
+				"description": "Dem Strategist & Consultant, Dad. Ukrainian-American. Whatever order, son Cameron's my life. Senior Advisor, @KShivs20, @MeidasTouch among many other things.",
+				"url": "https://t.co/Mxq26EfkxP",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/Mxq26EfkxP",
+								"expanded_url": "http://instagram.com/adamparkhomenko",
+								"display_url": "instagram.com/adamparkhomenko",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 536610,
+				"friends_count": 90014,
+				"listed_count": 3020,
+				"created_at": "Fri Dec 26 01:30:43 +0000 2008",
+				"favourites_count": 112414,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 103228,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1137428935850045440/jelXJ_pv_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1137428935850045440/jelXJ_pv_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18382184/1550122438",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 3040,
+			"favorite_count": 14298,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I was ready to give Rudy Giuliani the benefit of the doubt here since this is a delta crown room and not, like, a real restaurant but the fact that when it zooms in there is some poor dude eating soup right next to him changed my mind. Sicko! https://t.co/djHV3v7iuR"
+	},
+	{
+		"created_at": "Sat Aug 28 18:57:33 +0000 2021",
+		"id": 1427825931834495000,
+		"id_str": "1431692445675245572",
+		"full_text": "An honest, unflinching assessment of the human condition here by @bendreyfuss. All I would add is that Jesus loves the real you and the real me. https://t.co/LKWynFuY2B",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			168
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bendreyfuss",
+					"name": "Ben Dreyfuss",
+					"id": 18269124,
+					"id_str": "18269124",
+					"indices": [
+						65,
+						77
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/LKWynFuY2B",
+					"expanded_url": "https://bendreyfuss.substack.com/p/there-is-no-real-you-there-is-only",
+					"display_url": "bendreyfuss.substack.com/p/there-is-no-…",
+					"indices": [
+						145,
+						168
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 479568408,
+			"id_str": "479568408",
+			"name": "Jeryl Bier",
+			"screen_name": "JerylBier",
+			"location": "jerylbier@protonmail.com",
+			"description": "Editor of Pluribus, an online project exploring the rising tide of illiberalism and its recent progeny, cancel culture.\nAlso, freelance writer, accountant, etc.",
+			"url": "https://t.co/pZbyLC7iJO",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/pZbyLC7iJO",
+							"expanded_url": "http://pluri.blog",
+							"display_url": "pluri.blog",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 10151,
+			"friends_count": 108,
+			"listed_count": 145,
+			"created_at": "Tue Jan 31 14:36:30 +0000 2012",
+			"favourites_count": 8182,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 105651,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1366589023754604545/a_hIHGQb_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1366589023754604545/a_hIHGQb_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/479568408/1528996380",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 8,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "An honest, unflinching assessment of the human condition here by @bendreyfuss. All I would add is that Jesus loves the real you and the real me. https://t.co/LKWynFuY2B"
+	},
+	{
 		"created_at": "Sat Aug 28 06:15:00 +0000 2021",
 		"id": 1431500545508798500,
 		"id_str": "1431500545508798465",
