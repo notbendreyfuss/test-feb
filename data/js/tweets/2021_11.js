@@ -1,6 +1,343 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Sat Nov 06 16:56:19 +0000 2021",
+		"id": 1457029087214518300,
+		"id_str": "1457029087214518274",
+		"full_text": "@julie719 You came to visit me from Chicago and had all these fucking large rabbit rescue things on like pet finder or some shut and they were all in New Jersey",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "julie719",
+					"name": "julie",
+					"id": 16931962,
+					"id_str": "16931962",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1456970689064444000,
+		"in_reply_to_status_id_str": "1456970689064443904",
+		"in_reply_to_user_id": 16931962,
+		"in_reply_to_user_id_str": "16931962",
+		"in_reply_to_screen_name": "julie719",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "been around the world & i i i",
+			"description": "please subscribe to my substack so that the cats in my brain will stop meowing.",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75567,
+			"friends_count": 876,
+			"listed_count": 974,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 105211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1320,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@julie719 You came to visit me from Chicago and had all these fucking large rabbit rescue things on like pet finder or some shut and they were all in New Jersey"
+	},
+	{
+		"created_at": "Sat Nov 06 11:04:47 +0000 2021",
+		"id": 1456940620828737500,
+		"id_str": "1456940620828737537",
+		"full_text": "Doesn’t bode well for my proposed Stakeout reboot. https://t.co/omZMwk5HMU",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/omZMwk5HMU",
+					"expanded_url": "https://twitter.com/vulture/status/1456838239218774021",
+					"display_url": "twitter.com/vulture/status…",
+					"indices": [
+						51,
+						74
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "been around the world & i i i",
+			"description": "please subscribe to my substack so that the cats in my brain will stop meowing.",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75567,
+			"friends_count": 876,
+			"listed_count": 974,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 105211,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1320,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1456838239218774000,
+		"quoted_status_id_str": "1456838239218774021",
+		"quoted_status_permalink": {
+			"url": "https://t.co/omZMwk5HMU",
+			"expanded": "https://twitter.com/vulture/status/1456838239218774021",
+			"display": "twitter.com/vulture/status…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Nov 06 04:17:57 +0000 2021",
+			"id": 1456838239218774000,
+			"id_str": "1456838239218774021",
+			"full_text": "Emilio Estevez is not coming back to The Mighty Ducks, reportedly because of vaccine requirements https://t.co/5cwt0YE7E9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				121
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5cwt0YE7E9",
+						"expanded_url": "https://vult.re/3EMQU1q",
+						"display_url": "vult.re/3EMQU1q",
+						"indices": [
+							98,
+							121
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 24216951,
+				"id_str": "24216951",
+				"name": "Vulture",
+				"screen_name": "vulture",
+				"location": "New York, NY",
+				"description": "Devouring culture. \nFind us on Instagram: @Vulture \nGet Vulture's daily newsletter: https://t.co/53G4SuuNKV",
+				"url": "https://t.co/qNorW8vjej",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/qNorW8vjej",
+								"expanded_url": "http://vulture.com",
+								"display_url": "vulture.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/53G4SuuNKV",
+								"expanded_url": "http://nym.ag/39gtEv0",
+								"display_url": "nym.ag/39gtEv0",
+								"indices": [
+									84,
+									107
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 511723,
+				"friends_count": 999,
+				"listed_count": 7433,
+				"created_at": "Fri Mar 13 18:04:12 +0000 2009",
+				"favourites_count": 27122,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 222583,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1F638A",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1455148562610860042/ScuZFWRr_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1455148562610860042/ScuZFWRr_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/24216951/1543260670",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 14,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 61,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Doesn’t bode well for my proposed Stakeout reboot. https://t.co/omZMwk5HMU"
+	},
+	{
 		"created_at": "Sat Nov 06 06:16:43 +0000 2021",
 		"id": 1456868128781070300,
 		"id_str": "1456868128781070343",
@@ -1204,7 +1541,7 @@ Grailbird.data.tweets_2021_11 =
 			"created_at": "Fri Nov 05 16:12:59 +0000 2021",
 			"id": 1456655795022561300,
 			"id_str": "1456655795022561283",
-			"full_text": "Sitting at a coffee shop with ⁦@bendreyfuss⁩  and several others waiting to be kicked out for being too loud and laughing incessantly https://t.co/LJZFsrRvAw",
+			"full_text": "Sitting at a coffee shop with @bendreyfuss  and several others waiting to be kicked out for being too loud and laughing incessantly https://t.co/LJZFsrRvAw",
 			"truncated": false,
 			"display_text_range": [
 				0,
@@ -2108,7 +2445,7 @@ Grailbird.data.tweets_2021_11 =
 				"name": "laura olin",
 				"screen_name": "lauraolin",
 				"location": "Brooklyn",
-				"description": "🤷🏻‍♀️",
+				"description": "🤷🏻♀️",
 				"url": "https://t.co/kqGuOxFNNg",
 				"entities": {
 					"url": {
@@ -12646,7 +12983,7 @@ Grailbird.data.tweets_2021_11 =
 		"created_at": "Fri Nov 05 17:29:27 +0000 2021",
 		"id": 1456673245852098600,
 		"id_str": "1456675036635430918",
-		"full_text": "“Twitter is a place where Occam doesn’t have a razor and if he did, he’d be planning something devious with it.” - ⁦@bendreyfuss⁩  https://t.co/ocJzafD4Ow",
+		"full_text": "“Twitter is a place where Occam doesn’t have a razor and if he did, he’d be planning something devious with it.” - @bendreyfuss  https://t.co/ocJzafD4Ow",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -12745,7 +13082,7 @@ Grailbird.data.tweets_2021_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "“Twitter is a place where Occam doesn’t have a razor and if he did, he’d be planning something devious with it.” - ⁦@bendreyfuss⁩  https://t.co/ocJzafD4Ow"
+		"text": "“Twitter is a place where Occam doesn’t have a razor and if he did, he’d be planning something devious with it.” - @bendreyfuss  https://t.co/ocJzafD4Ow"
 	},
 	{
 		"created_at": "Fri Nov 05 17:04:34 +0000 2021",
@@ -13496,7 +13833,7 @@ Grailbird.data.tweets_2021_11 =
 		"created_at": "Fri Nov 05 16:35:40 +0000 2021",
 		"id": 1456655795022561300,
 		"id_str": "1456661504502091780",
-		"full_text": "Sitting at a coffee shop with ⁦@bendreyfuss⁩  and several others waiting to be kicked out for being too loud and laughing incessantly https://t.co/LJZFsrRvAw",
+		"full_text": "Sitting at a coffee shop with @bendreyfuss  and several others waiting to be kicked out for being too loud and laughing incessantly https://t.co/LJZFsrRvAw",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -13676,7 +14013,7 @@ Grailbird.data.tweets_2021_11 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Sitting at a coffee shop with ⁦@bendreyfuss⁩  and several others waiting to be kicked out for being too loud and laughing incessantly https://t.co/LJZFsrRvAw"
+		"text": "Sitting at a coffee shop with @bendreyfuss  and several others waiting to be kicked out for being too loud and laughing incessantly https://t.co/LJZFsrRvAw"
 	},
 	{
 		"created_at": "Fri Nov 05 13:48:21 +0000 2021",
