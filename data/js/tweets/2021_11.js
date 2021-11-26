@@ -1,6 +1,1052 @@
 Grailbird.data.tweets_2021_11 = 
 [
 	{
+		"created_at": "Fri Nov 26 03:22:42 +0000 2021",
+		"id": 1464072092815483000,
+		"id_str": "1464072092815482887",
+		"full_text": "If your family likes talking about politics, talk about politics. If your family likes talking about history, talk about it. Everyone should talk about what they want to talk about! The weirdos are the ones trying to get people to talk about stuff they don’t want to talk about",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1464069831292952600,
+		"in_reply_to_status_id_str": "1464069831292952576",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "been around the world & i i i",
+			"description": "please subscribe to my substack so that the cats in my brain will stop meowing.",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75391,
+			"friends_count": 886,
+			"listed_count": 978,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 106360,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1996,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 112,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "If your family likes talking about politics, talk about politics. If your family likes talking about history, talk about it. Everyone should talk about what they want to talk about! The weirdos are the ones trying to get people to talk about stuff they don’t want to talk about"
+	},
+	{
+		"created_at": "Fri Nov 26 03:17:11 +0000 2021",
+		"id": 1464070704136028200,
+		"id_str": "1464070704136028175",
+		"full_text": "@rev_avocado The readings are the worst part of pesach and the people who insist on talking about after they’re over are the worst attendees at those dinners.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "rev_avocado",
+					"name": "Leonid Baezhnev 🔥",
+					"id": 1416105282,
+					"id_str": "1416105282",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1464070294239424500,
+		"in_reply_to_status_id_str": "1464070294239424538",
+		"in_reply_to_user_id": 1416105282,
+		"in_reply_to_user_id_str": "1416105282",
+		"in_reply_to_screen_name": "rev_avocado",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "been around the world & i i i",
+			"description": "please subscribe to my substack so that the cats in my brain will stop meowing.",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75391,
+			"friends_count": 886,
+			"listed_count": 978,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 106360,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1996,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@rev_avocado The readings are the worst part of pesach and the people who insist on talking about after they’re over are the worst attendees at those dinners."
+	},
+	{
+		"created_at": "Fri Nov 26 03:13:43 +0000 2021",
+		"id": 1464069831292952600,
+		"id_str": "1464069831292952576",
+		"full_text": "Had a lovely thanksgiving. The highlight was the 90 minutes at the beginning when we went through the history of US relations with native Americans. It was tough—Uncle Joe couldn’t get the projector to work and most of the speeches were prepared to accompany PowerPoints—but I thi https://t.co/muHmYxLATP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/muHmYxLATP",
+					"expanded_url": "https://twitter.com/wesyang/status/1463589003798749184",
+					"display_url": "twitter.com/wesyang/status…",
+					"indices": [
+						281,
+						304
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "been around the world & i i i",
+			"description": "please subscribe to my substack so that the cats in my brain will stop meowing.",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75391,
+			"friends_count": 886,
+			"listed_count": 978,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 106360,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1996,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1463589003798749200,
+		"quoted_status_id_str": "1463589003798749184",
+		"quoted_status_permalink": {
+			"url": "https://t.co/muHmYxLATP",
+			"expanded": "https://twitter.com/wesyang/status/1463589003798749184",
+			"display": "twitter.com/wesyang/status…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Nov 24 19:23:05 +0000 2021",
+			"id": 1463589003798749200,
+			"id_str": "1463589003798749184",
+			"full_text": "Chancellor of DC public schools shares resources to decolonize Thanksgiving, including link to instructing readers to “use terms like genocide, ethnic cleansing, stolen land, and forced removal”. \n\nCloses by wishing “joyful start to holiday season.” https://t.co/BuY3W8ibDx https://t.co/wVMIlfE8A9",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				273
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/BuY3W8ibDx",
+						"expanded_url": "https://dcpsreopenstrong.com/articles/sharing-my-gratitude/",
+						"display_url": "dcpsreopenstrong.com/articles/shari…",
+						"indices": [
+							250,
+							273
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1463589000250286000,
+						"id_str": "1463589000250286088",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/FE-2cPkWYAgJG6o.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FE-2cPkWYAgJG6o.jpg",
+						"url": "https://t.co/wVMIlfE8A9",
+						"display_url": "pic.twitter.com/wVMIlfE8A9",
+						"expanded_url": "https://twitter.com/wesyang/status/1463589003798749184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1463589000250286000,
+						"id_str": "1463589000250286088",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/FE-2cPkWYAgJG6o.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FE-2cPkWYAgJG6o.jpg",
+						"url": "https://t.co/wVMIlfE8A9",
+						"display_url": "pic.twitter.com/wVMIlfE8A9",
+						"expanded_url": "https://twitter.com/wesyang/status/1463589003798749184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1463589000434888700,
+						"id_str": "1463589000434888712",
+						"indices": [
+							274,
+							297
+						],
+						"media_url": "http://pbs.twimg.com/media/FE-2cQQXMAgtgW5.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FE-2cQQXMAgtgW5.jpg",
+						"url": "https://t.co/wVMIlfE8A9",
+						"display_url": "pic.twitter.com/wVMIlfE8A9",
+						"expanded_url": "https://twitter.com/wesyang/status/1463589003798749184/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 10904832,
+				"id_str": "10904832",
+				"name": "Wesley Yang",
+				"screen_name": "wesyang",
+				"location": "",
+				"description": "Writing on Substack. Author https://t.co/XpCqfzGhUI. Tips accepted here: https://t.co/7EBYUGT2Ok",
+				"url": "https://t.co/VSVhSbj2fQ",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VSVhSbj2fQ",
+								"expanded_url": "https://wesleyyang.substack.com/",
+								"display_url": "wesleyyang.substack.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/XpCqfzGhUI",
+								"expanded_url": "http://amzn.to/2IxVwv4",
+								"display_url": "amzn.to/2IxVwv4",
+								"indices": [
+									28,
+									51
+								]
+							},
+							{
+								"url": "https://t.co/7EBYUGT2Ok",
+								"expanded_url": "https://paypal.me/wesyang74?country.x=US&locale.x=en_US",
+								"display_url": "paypal.me/wesyang74?coun…",
+								"indices": [
+									73,
+									96
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 68855,
+				"friends_count": 7061,
+				"listed_count": 647,
+				"created_at": "Thu Dec 06 14:57:49 +0000 2007",
+				"favourites_count": 9563,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 39686,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1452142093435080709/0A-AMbQn_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1452142093435080709/0A-AMbQn_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/10904832/1542324391",
+				"profile_link_color": "FF691F",
+				"profile_sidebar_border_color": "87BC44",
+				"profile_sidebar_fill_color": "E0FF92",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 479,
+			"favorite_count": 1462,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 30,
+		"favorite_count": 225,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Had a lovely thanksgiving. The highlight was the 90 minutes at the beginning when we went through the history of US relations with native Americans. It was tough—Uncle Joe couldn’t get the projector to work and most of the speeches were prepared to accompany PowerPoints—but I thi https://t.co/muHmYxLATP"
+	},
+	{
+		"created_at": "Fri Nov 26 02:37:56 +0000 2021",
+		"id": 1464060827401523200,
+		"id_str": "1464060827401523203",
+		"full_text": "@KatieBeaman It’s cause the app alerts me when I left the lights on!",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KatieBeaman",
+					"name": "Katie Beaman",
+					"id": 1913223673,
+					"id_str": "1913223673",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1464038483866103800,
+		"in_reply_to_status_id_str": "1464038483866103814",
+		"in_reply_to_user_id": 1913223673,
+		"in_reply_to_user_id_str": "1913223673",
+		"in_reply_to_screen_name": "KatieBeaman",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "been around the world & i i i",
+			"description": "please subscribe to my substack so that the cats in my brain will stop meowing.",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75391,
+			"friends_count": 886,
+			"listed_count": 978,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 106360,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1996,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KatieBeaman It’s cause the app alerts me when I left the lights on!"
+	},
+	{
+		"created_at": "Fri Nov 26 00:33:46 +0000 2021",
+		"id": 1464029576741277700,
+		"id_str": "1464029576741277697",
+		"full_text": "The Simpsons, 90210, and Melrose Place.\n\nI was a big fan of the Fox network in the early 90s https://t.co/Yzra7hiV1Q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			92
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Yzra7hiV1Q",
+					"expanded_url": "https://twitter.com/markofthed/status/1463941065438863366",
+					"display_url": "twitter.com/markofthed/sta…",
+					"indices": [
+						93,
+						116
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "been around the world & i i i",
+			"description": "please subscribe to my substack so that the cats in my brain will stop meowing.",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75391,
+			"friends_count": 886,
+			"listed_count": 978,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 106360,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1996,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1463941065438863400,
+		"quoted_status_id_str": "1463941065438863366",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Yzra7hiV1Q",
+			"expanded": "https://twitter.com/markofthed/status/1463941065438863366",
+			"display": "twitter.com/markofthed/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Nov 25 18:42:03 +0000 2021",
+			"id": 1463941065438863400,
+			"id_str": "1463941065438863366",
+			"full_text": "Tell me the first TV show that you actually properly enjoyed and looked forward to the next episode?\nDoesn't matter how young you were. \n\nAt 6 years old it was either Worzel Gummidge or the muppet show.\nYou???",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				209
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 868438459287040000,
+				"id_str": "868438459287040000",
+				"name": "Dr Mark D'Arcy",
+				"screen_name": "markoftheD",
+				"location": "England, United Kingdom",
+				"description": "A Dr in molecular biology and a university lecturer. I am also an advocate of science and critical thinking and run the Science on the Edge podcast series",
+				"url": "https://t.co/OYUzXZarhG",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/OYUzXZarhG",
+								"expanded_url": "http://scienceontheedge.com",
+								"display_url": "scienceontheedge.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 23700,
+				"friends_count": 15133,
+				"listed_count": 83,
+				"created_at": "Sat May 27 12:07:18 +0000 2017",
+				"favourites_count": 58053,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 47022,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1101912928272437249/BtSuefCa_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1101912928272437249/BtSuefCa_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 7,
+			"favorite_count": 116,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Simpsons, 90210, and Melrose Place.\n\nI was a big fan of the Fox network in the early 90s https://t.co/Yzra7hiV1Q"
+	},
+	{
+		"created_at": "Fri Nov 26 00:32:33 +0000 2021",
+		"id": 1464029270427115500,
+		"id_str": "1464029270427115524",
+		"full_text": "Thank you, car manufacturer https://t.co/Ratmthcotx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1464029268103426000,
+					"id_str": "1464029268103426050",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/FFFG3NIUcAIEuFi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFFG3NIUcAIEuFi.jpg",
+					"url": "https://t.co/Ratmthcotx",
+					"display_url": "pic.twitter.com/Ratmthcotx",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1464029270427115524/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 131,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 225,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 225,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1464029268103426000,
+					"id_str": "1464029268103426050",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/FFFG3NIUcAIEuFi.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FFFG3NIUcAIEuFi.jpg",
+					"url": "https://t.co/Ratmthcotx",
+					"display_url": "pic.twitter.com/Ratmthcotx",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1464029270427115524/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 131,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 225,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 225,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "been around the world & i i i",
+			"description": "please subscribe to my substack so that the cats in my brain will stop meowing.",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 75391,
+			"friends_count": 886,
+			"listed_count": 978,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 106360,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1996,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 74,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thank you, car manufacturer https://t.co/Ratmthcotx"
+	},
+	{
 		"created_at": "Thu Nov 25 03:37:12 +0000 2021",
 		"id": 1463713354267054000,
 		"id_str": "1463713354267054082",
