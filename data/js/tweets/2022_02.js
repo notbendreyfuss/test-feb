@@ -1,6 +1,198 @@
 Grailbird.data.tweets_2022_02 = 
 [
 	{
+		"created_at": "Wed Feb 16 17:22:45 +0000 2022",
+		"id": 1493999302045319200,
+		"id_str": "1493999302045319172",
+		"full_text": "Very strange institution",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1493999237721632800,
+		"in_reply_to_status_id_str": "1493999237721632768",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "your “bad tweets” are bad because you’re evil. my “bad tweets” are bad because you’re not smart enough to find them funny.",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76410,
+			"friends_count": 855,
+			"listed_count": 984,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 110439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Very strange institution"
+	},
+	{
+		"created_at": "Wed Feb 16 17:22:30 +0000 2022",
+		"id": 1493999237721632800,
+		"id_str": "1493999237721632768",
+		"full_text": "And Sandra Day O’Connor was on the court herself for almost 25 years, the first decade which she spent as the sole woman on the court. Like, they decided to break the barrier but then waited like 12 years to nominate another woman.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			231
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1493998532755402800,
+		"in_reply_to_status_id_str": "1493998532755402752",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "your “bad tweets” are bad because you’re evil. my “bad tweets” are bad because you’re not smart enough to find them funny.",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 76410,
+			"friends_count": 855,
+			"listed_count": 984,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 110439,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3030,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "And Sandra Day O’Connor was on the court herself for almost 25 years, the first decade which she spent as the sole woman on the court. Like, they decided to break the barrier but then waited like 12 years to nominate another woman."
+	},
+	{
 		"created_at": "Wed Feb 16 00:55:24 +0000 2022",
 		"id": 1493750827244155000,
 		"id_str": "1493750827244154881",
@@ -6281,7 +6473,7 @@ Grailbird.data.tweets_2022_02 =
 		"created_at": "Tue Feb 15 22:15:50 +0000 2022",
 		"id": 1493710537263251500,
 		"id_str": "1493710669849321474",
-		"full_text": "“I have rewritten lots of stories as an editor and undoubtedly I have introduced errors into some of them. This is never intentional. I also know it is close to the worst thing I could do while editing someone else’s story.” \n\nVia ⁦@bendreyfuss⁩ https://t.co/6cUMYnF43Z",
+		"full_text": "“I have rewritten lots of stories as an editor and undoubtedly I have introduced errors into some of them. This is never intentional. I also know it is close to the worst thing I could do while editing someone else’s story.” \n\nVia @bendreyfuss https://t.co/6cUMYnF43Z",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -6393,7 +6585,7 @@ Grailbird.data.tweets_2022_02 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "“I have rewritten lots of stories as an editor and undoubtedly I have introduced errors into some of them. This is never intentional. I also know it is close to the worst thing I could do while editing someone else’s story.” \n\nVia ⁦@bendreyfuss⁩ https://t.co/6cUMYnF43Z"
+		"text": "“I have rewritten lots of stories as an editor and undoubtedly I have introduced errors into some of them. This is never intentional. I also know it is close to the worst thing I could do while editing someone else’s story.” \n\nVia @bendreyfuss https://t.co/6cUMYnF43Z"
 	},
 	{
 		"created_at": "Tue Feb 15 22:12:33 +0000 2022",
