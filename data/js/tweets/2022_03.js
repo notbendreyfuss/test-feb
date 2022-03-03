@@ -1,6 +1,99 @@
 Grailbird.data.tweets_2022_03 = 
 [
 	{
+		"created_at": "Wed Mar 02 20:35:05 +0000 2022",
+		"id": 1499118085512609800,
+		"id_str": "1499121133165109253",
+		"full_text": "Based on all the reporting from Congress and the White House, no one is seriously engaging with Manchin on passing any part of Build Back Better (even as he's repeatedly said he's willing to talk). I don't understand what Democrats are doing. https://t.co/aeD2Ltc4pl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			266
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aeD2Ltc4pl",
+					"expanded_url": "https://www.politico.com/news/2022/03/02/joe-manchin-democrat-bill-taxes-00013246",
+					"display_url": "politico.com/news/2022/03/0…",
+					"indices": [
+						243,
+						266
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 64197283,
+			"id_str": "64197283",
+			"name": "German Lopez",
+			"screen_name": "germanrlopez",
+			"location": "Cincinnati, OH",
+			"description": "Writer for The Morning at @NYTimes",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 27965,
+			"friends_count": 619,
+			"listed_count": 712,
+			"created_at": "Sun Aug 09 15:57:40 +0000 2009",
+			"favourites_count": 53,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": true,
+			"statuses_count": 127,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "003366",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1489329734999805959/rObEMg6O_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1489329734999805959/rObEMg6O_normal.jpg",
+			"profile_link_color": "003366",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "66B5FF",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 66,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Based on all the reporting from Congress and the White House, no one is seriously engaging with Manchin on passing any part of Build Back Better (even as he's repeatedly said he's willing to talk). I don't understand what Democrats are doing. https://t.co/aeD2Ltc4pl"
+	},
+	{
 		"created_at": "Wed Mar 02 03:22:48 +0000 2022",
 		"id": 1498861353657933800,
 		"id_str": "1498861353657933834",
