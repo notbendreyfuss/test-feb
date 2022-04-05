@@ -1,6 +1,1027 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Tue Apr 05 01:34:10 +0000 2022",
+		"id": 1511155199712268300,
+		"id_str": "1511155199712268288",
+		"full_text": "@timmarchman It’s almost like it’s not some strategic play for engagement and I’m actually just sending random thoughts that come into my brain.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			144
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "timmarchman",
+					"name": "Tim Marchman",
+					"id": 561516199,
+					"id_str": "561516199",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1511121752939708400,
+		"in_reply_to_status_id_str": "1511121752939708416",
+		"in_reply_to_user_id": 561516199,
+		"in_reply_to_user_id_str": "561516199",
+		"in_reply_to_screen_name": "timmarchman",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "your “bad tweets” are bad because you’re evil. my “bad tweets” are bad because you’re not smart enough to find them funny.",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77832,
+			"friends_count": 868,
+			"listed_count": 976,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 112786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1948,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@timmarchman It’s almost like it’s not some strategic play for engagement and I’m actually just sending random thoughts that come into my brain."
+	},
+	{
+		"created_at": "Mon Apr 04 21:17:51 +0000 2022",
+		"id": 1511090697419456500,
+		"id_str": "1511090697419456513",
+		"full_text": "“Don’t Look Up? More like don’t look up…if you were in Hiroshima in august of 1945 when the US dropped on atomic bomb on you.” Ma’am what are you talking about",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			159
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1511090353473929200,
+		"in_reply_to_status_id_str": "1511090353473929218",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "your “bad tweets” are bad because you’re evil. my “bad tweets” are bad because you’re not smart enough to find them funny.",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77832,
+			"friends_count": 868,
+			"listed_count": 976,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 112786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1948,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 109,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "“Don’t Look Up? More like don’t look up…if you were in Hiroshima in august of 1945 when the US dropped on atomic bomb on you.” Ma’am what are you talking about"
+	},
+	{
+		"created_at": "Mon Apr 04 21:16:29 +0000 2022",
+		"id": 1511090353473929200,
+		"id_str": "1511090353473929218",
+		"full_text": "I don’t really get this joke. 1. It wasn’t a shotgun. 2. What does does it have to do with Don’t Look Up? https://t.co/JesLdO29UX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JesLdO29UX",
+					"expanded_url": "https://twitter.com/discussingfilm/status/1511029832611778564",
+					"display_url": "twitter.com/discussingfilm…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "your “bad tweets” are bad because you’re evil. my “bad tweets” are bad because you’re not smart enough to find them funny.",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77832,
+			"friends_count": 868,
+			"listed_count": 976,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 112786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1948,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1511029832611778600,
+		"quoted_status_id_str": "1511029832611778564",
+		"quoted_status_permalink": {
+			"url": "https://t.co/JesLdO29UX",
+			"expanded": "https://twitter.com/discussingfilm/status/1511029832611778564",
+			"display": "twitter.com/discussingfilm…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 04 17:16:00 +0000 2022",
+			"id": 1511029832611778600,
+			"id_str": "1511029832611778564",
+			"full_text": "Amy Schumer reveals one Oscars joke she wasn’t allowed to say — “Don’t Look Up is the name of a movie? More like don’t look down the barrel of Alec Baldwin’s shotgun”\n\n“I wasn’t allowed to say any of that, but you can just come up &amp; [slap] someone”\n\n(via: https://t.co/CNCvOREO3Y) https://t.co/5DopXv1hhP",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				284
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/CNCvOREO3Y",
+						"expanded_url": "http://variety.com/2022/film/news/amy-schumer-oscars-alec-baldwin-rust-shooting-joke-1235224032/",
+						"display_url": "variety.com/2022/film/news…",
+						"indices": [
+							260,
+							283
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1511029829122105300,
+						"id_str": "1511029829122105347",
+						"indices": [
+							285,
+							308
+						],
+						"media_url": "http://pbs.twimg.com/media/FPhBn7HXoAM0xa4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FPhBn7HXoAM0xa4.jpg",
+						"url": "https://t.co/5DopXv1hhP",
+						"display_url": "pic.twitter.com/5DopXv1hhP",
+						"expanded_url": "https://twitter.com/DiscussingFilm/status/1511029832611778564/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1284,
+								"h": 856,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1511029829122105300,
+						"id_str": "1511029829122105347",
+						"indices": [
+							285,
+							308
+						],
+						"media_url": "http://pbs.twimg.com/media/FPhBn7HXoAM0xa4.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FPhBn7HXoAM0xa4.jpg",
+						"url": "https://t.co/5DopXv1hhP",
+						"display_url": "pic.twitter.com/5DopXv1hhP",
+						"expanded_url": "https://twitter.com/DiscussingFilm/status/1511029832611778564/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1284,
+								"h": 856,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 453,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 780460754910732300,
+				"id_str": "780460754910732288",
+				"name": "DiscussingFilm",
+				"screen_name": "DiscussingFilm",
+				"location": "",
+				"description": "Your leading source in quick reliable news and one of a kind content. Home for healthy and liberating discussion on all things pop culture.",
+				"url": "https://t.co/0MY9TuyVQR",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/0MY9TuyVQR",
+								"expanded_url": "http://discussingfilm.net/",
+								"display_url": "discussingfilm.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 386812,
+				"friends_count": 811,
+				"listed_count": 1699,
+				"created_at": "Mon Sep 26 17:35:19 +0000 2016",
+				"favourites_count": 2887,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 36109,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1478853769710510080/FAP8TTPR_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478853769710510080/FAP8TTPR_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/780460754910732288/1641421190",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1172,
+			"favorite_count": 14653,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 134,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I don’t really get this joke. 1. It wasn’t a shotgun. 2. What does does it have to do with Don’t Look Up? https://t.co/JesLdO29UX"
+	},
+	{
+		"created_at": "Mon Apr 04 20:50:59 +0000 2022",
+		"id": 1511083935203139600,
+		"id_str": "1511083935203139584",
+		"full_text": "@annehelen There are still some in Idaho!",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "annehelen",
+					"name": "Anne Helen Petersen",
+					"id": 16714443,
+					"id_str": "16714443",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1511083296926494700,
+		"in_reply_to_status_id_str": "1511083296926494720",
+		"in_reply_to_user_id": 16714443,
+		"in_reply_to_user_id_str": "16714443",
+		"in_reply_to_screen_name": "annehelen",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "your “bad tweets” are bad because you’re evil. my “bad tweets” are bad because you’re not smart enough to find them funny.",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77832,
+			"friends_count": 868,
+			"listed_count": 976,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 112786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1948,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@annehelen There are still some in Idaho!"
+	},
+	{
+		"created_at": "Mon Apr 04 20:34:20 +0000 2022",
+		"id": 1511079747635273700,
+		"id_str": "1511079747635273729",
+		"full_text": "This quote is so funny. “Look, this flight can hardly get any worse”  https://t.co/3acscAQfWJ https://t.co/h9uhlF97zy",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/3acscAQfWJ",
+					"expanded_url": "https://www.thedailybeast.com/southwest-passenger-antonio-sherrodd-mcgarity-arrested-for-masturbating-during-flight-from-seattle-to-phoenix",
+					"display_url": "thedailybeast.com/southwest-pass…",
+					"indices": [
+						70,
+						93
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1511079743944228900,
+					"id_str": "1511079743944228864",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/FPhvBWUVgAAvl7d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPhvBWUVgAAvl7d.jpg",
+					"url": "https://t.co/h9uhlF97zy",
+					"display_url": "pic.twitter.com/h9uhlF97zy",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1511079747635273729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1606,
+							"h": 685,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 290,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1511079743944228900,
+					"id_str": "1511079743944228864",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/FPhvBWUVgAAvl7d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPhvBWUVgAAvl7d.jpg",
+					"url": "https://t.co/h9uhlF97zy",
+					"display_url": "pic.twitter.com/h9uhlF97zy",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1511079747635273729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1606,
+							"h": 685,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 290,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1511079743944155100,
+					"id_str": "1511079743944155136",
+					"indices": [
+						94,
+						117
+					],
+					"media_url": "http://pbs.twimg.com/media/FPhvBWUUYAAOqwy.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FPhvBWUUYAAOqwy.jpg",
+					"url": "https://t.co/h9uhlF97zy",
+					"display_url": "pic.twitter.com/h9uhlF97zy",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1511079747635273729/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1580,
+							"h": 216,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 164,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 93,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "your “bad tweets” are bad because you’re evil. my “bad tweets” are bad because you’re not smart enough to find them funny.",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77832,
+			"friends_count": 868,
+			"listed_count": 976,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 112786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1948,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This quote is so funny. “Look, this flight can hardly get any worse”  https://t.co/3acscAQfWJ https://t.co/h9uhlF97zy"
+	},
+	{
+		"created_at": "Mon Apr 04 20:19:42 +0000 2022",
+		"id": 1511076063509680000,
+		"id_str": "1511076063509680136",
+		"full_text": "After Thomas (73) and Alito (72), there is a pretty big gap until Roberts and Sotomayor (both 67) and then after them it’s an even bigger gap to Kagan who is only 61",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			165
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1511073014573584400,
+		"in_reply_to_status_id_str": "1511073014573584386",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "your “bad tweets” are bad because you’re evil. my “bad tweets” are bad because you’re not smart enough to find them funny.",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77832,
+			"friends_count": 868,
+			"listed_count": 976,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 112786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1948,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "After Thomas (73) and Alito (72), there is a pretty big gap until Roberts and Sotomayor (both 67) and then after them it’s an even bigger gap to Kagan who is only 61"
+	},
+	{
+		"created_at": "Mon Apr 04 20:07:35 +0000 2022",
+		"id": 1511073014573584400,
+		"id_str": "1511073014573584386",
+		"full_text": "It feels like there have been so many confirmation battles over the last few years that it’s pretty wild to think about not having another one for years. Obviously actuarial tables aren’t destiny and people could retire, but it still surprised me.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1511072483859959800,
+		"in_reply_to_status_id_str": "1511072483859959814",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "your “bad tweets” are bad because you’re evil. my “bad tweets” are bad because you’re not smart enough to find them funny.",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77832,
+			"friends_count": 868,
+			"listed_count": 976,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 112786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 1948,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "It feels like there have been so many confirmation battles over the last few years that it’s pretty wild to think about not having another one for years. Obviously actuarial tables aren’t destiny and people could retire, but it still surprised me."
+	},
+	{
 		"created_at": "Sun Apr 03 20:30:20 +0000 2022",
 		"id": 1510716351819575300,
 		"id_str": "1510716351819575296",
@@ -3125,7 +4146,7 @@ Grailbird.data.tweets_2022_04 =
 			"user_mentions": [
 				{
 					"screen_name": "_SamBosworth",
-					"name": "Sam Bosworth ♿🏳️‍🌈",
+					"name": "Sam Bosworth ♿🏳️🌈",
 					"id": 3296465291,
 					"id_str": "3296465291",
 					"indices": [
@@ -3232,7 +4253,7 @@ Grailbird.data.tweets_2022_04 =
 			"user_mentions": [
 				{
 					"screen_name": "_SamBosworth",
-					"name": "Sam Bosworth ♿🏳️‍🌈",
+					"name": "Sam Bosworth ♿🏳️🌈",
 					"id": 3296465291,
 					"id_str": "3296465291",
 					"indices": [
@@ -3339,7 +4360,7 @@ Grailbird.data.tweets_2022_04 =
 			"user_mentions": [
 				{
 					"screen_name": "_SamBosworth",
-					"name": "Sam Bosworth ♿🏳️‍🌈",
+					"name": "Sam Bosworth ♿🏳️🌈",
 					"id": 3296465291,
 					"id_str": "3296465291",
 					"indices": [
@@ -3446,7 +4467,7 @@ Grailbird.data.tweets_2022_04 =
 			"user_mentions": [
 				{
 					"screen_name": "_SamBosworth",
-					"name": "Sam Bosworth ♿🏳️‍🌈",
+					"name": "Sam Bosworth ♿🏳️🌈",
 					"id": 3296465291,
 					"id_str": "3296465291",
 					"indices": [
@@ -3553,7 +4574,7 @@ Grailbird.data.tweets_2022_04 =
 			"user_mentions": [
 				{
 					"screen_name": "_SamBosworth",
-					"name": "Sam Bosworth ♿🏳️‍🌈",
+					"name": "Sam Bosworth ♿🏳️🌈",
 					"id": 3296465291,
 					"id_str": "3296465291",
 					"indices": [
@@ -3660,7 +4681,7 @@ Grailbird.data.tweets_2022_04 =
 			"user_mentions": [
 				{
 					"screen_name": "_SamBosworth",
-					"name": "Sam Bosworth ♿🏳️‍🌈",
+					"name": "Sam Bosworth ♿🏳️🌈",
 					"id": 3296465291,
 					"id_str": "3296465291",
 					"indices": [
@@ -3767,7 +4788,7 @@ Grailbird.data.tweets_2022_04 =
 			"user_mentions": [
 				{
 					"screen_name": "_SamBosworth",
-					"name": "Sam Bosworth ♿🏳️‍🌈",
+					"name": "Sam Bosworth ♿🏳️🌈",
 					"id": 3296465291,
 					"id_str": "3296465291",
 					"indices": [
@@ -3874,7 +4895,7 @@ Grailbird.data.tweets_2022_04 =
 			"user_mentions": [
 				{
 					"screen_name": "_SamBosworth",
-					"name": "Sam Bosworth ♿🏳️‍🌈",
+					"name": "Sam Bosworth ♿🏳️🌈",
 					"id": 3296465291,
 					"id_str": "3296465291",
 					"indices": [
@@ -3981,7 +5002,7 @@ Grailbird.data.tweets_2022_04 =
 			"user_mentions": [
 				{
 					"screen_name": "_SamBosworth",
-					"name": "Sam Bosworth ♿🏳️‍🌈",
+					"name": "Sam Bosworth ♿🏳️🌈",
 					"id": 3296465291,
 					"id_str": "3296465291",
 					"indices": [
@@ -4088,7 +5109,7 @@ Grailbird.data.tweets_2022_04 =
 			"user_mentions": [
 				{
 					"screen_name": "_SamBosworth",
-					"name": "Sam Bosworth ♿🏳️‍🌈",
+					"name": "Sam Bosworth ♿🏳️🌈",
 					"id": 3296465291,
 					"id_str": "3296465291",
 					"indices": [
@@ -4195,7 +5216,7 @@ Grailbird.data.tweets_2022_04 =
 			"user_mentions": [
 				{
 					"screen_name": "_SamBosworth",
-					"name": "Sam Bosworth ♿🏳️‍🌈",
+					"name": "Sam Bosworth ♿🏳️🌈",
 					"id": 3296465291,
 					"id_str": "3296465291",
 					"indices": [
