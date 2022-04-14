@@ -1,6 +1,226 @@
 Grailbird.data.tweets_2022_04 = 
 [
 	{
+		"created_at": "Wed Apr 13 23:22:50 +0000 2022",
+		"id": 1514383641824006100,
+		"id_str": "1514383641824006145",
+		"full_text": "For most of these audience people it would definitely be a demotion to become a reporter https://t.co/kVBg8h9Tan",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/kVBg8h9Tan",
+					"expanded_url": "https://twitter.com/timothynoah1/status/1514276439692087304",
+					"display_url": "twitter.com/timothynoah1/s…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "your “bad tweets” are bad because you’re evil. my “bad tweets” are bad because you’re not smart enough to find them funny.",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 77890,
+			"friends_count": 871,
+			"listed_count": 973,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 113144,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2344,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1514276439692087300,
+		"quoted_status_id_str": "1514276439692087304",
+		"quoted_status_permalink": {
+			"url": "https://t.co/kVBg8h9Tan",
+			"expanded": "https://twitter.com/timothynoah1/status/1514276439692087304",
+			"display": "twitter.com/timothynoah1/s…"
+		},
+		"quoted_status": {
+			"created_at": "Wed Apr 13 16:16:51 +0000 2022",
+			"id": 1514276439692087300,
+			"id_str": "1514276439692087304",
+			"full_text": "Interesting. The Post hires lots of newsroom employees in areas like “audience,” whatever that is, who resent not getting promoted to reporter, for which being an audience, uh, whatever, is lousy training. https://t.co/VNeBy998Us",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				229
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/VNeBy998Us",
+						"expanded_url": "https://postguild.org/2022-pay-study-testimonials/",
+						"display_url": "postguild.org/2022-pay-study…",
+						"indices": [
+							206,
+							229
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 437019753,
+				"id_str": "437019753",
+				"name": "Timothy Noah",
+				"screen_name": "TimothyNoah1",
+				"location": "Washington, D.C.",
+				"description": "Staff writer, New Republic. Author, The Great Divergence. Prev. Politico, Slate, WSJ. Email: tnoah@tnr.com.",
+				"url": "https://t.co/wUb7n9oQh4",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wUb7n9oQh4",
+								"expanded_url": "http://timothynoah.com",
+								"display_url": "timothynoah.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 21563,
+				"friends_count": 3272,
+				"listed_count": 718,
+				"created_at": "Wed Dec 14 21:28:48 +0000 2011",
+				"favourites_count": 19491,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 39408,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1410380889406816256/7AIj7Lq2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1410380889406816256/7AIj7Lq2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/437019753/1647812919",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 30,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "For most of these audience people it would definitely be a demotion to become a reporter https://t.co/kVBg8h9Tan"
+	},
+	{
 		"created_at": "Wed Apr 13 05:02:16 +0000 2022",
 		"id": 1514106673866035200,
 		"id_str": "1514106673866035207",
