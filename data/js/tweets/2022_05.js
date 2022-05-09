@@ -1,6 +1,371 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 09 03:04:50 +0000 2022",
+		"id": 1522974001458462700,
+		"id_str": "1523499204026400769",
+		"full_text": "I mean, it’s eight new escalators, Michael. What could it cost, 62.2 million dollars? https://t.co/INef23GRDB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1522973994097561600,
+					"id_str": "1522973994097561602",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/FSKwx1BX0AI1era.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSKwx1BX0AI1era.jpg",
+					"url": "https://t.co/INef23GRDB",
+					"display_url": "pic.twitter.com/INef23GRDB",
+					"expanded_url": "https://twitter.com/GoodGuyGuaranty/status/1522974001458462720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 425,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1281,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 751,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1522973994097561600,
+					"id_str": "1522973994097561602",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/FSKwx1BX0AI1era.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSKwx1BX0AI1era.jpg",
+					"url": "https://t.co/INef23GRDB",
+					"display_url": "pic.twitter.com/INef23GRDB",
+					"expanded_url": "https://twitter.com/GoodGuyGuaranty/status/1522974001458462720/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 425,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1281,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 751,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 1277713645036810200,
+			"id_str": "1277713645036810240",
+			"name": "Repositioning Play",
+			"screen_name": "GoodGuyGuaranty",
+			"location": "New York, NY",
+			"description": "Adding value. CRE, mostly NY, sometimes elsewhere. All gains are unrealized.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 9047,
+			"friends_count": 468,
+			"listed_count": 261,
+			"created_at": "Mon Jun 29 21:20:51 +0000 2020",
+			"favourites_count": 27238,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 7904,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "F5F8FA",
+			"profile_background_image_url": null,
+			"profile_background_image_url_https": null,
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1458515958612602880/4ntVtkkk_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1458515958612602880/4ntVtkkk_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/1277713645036810240/1651321731",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 891,
+		"favorite_count": 12198,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I mean, it’s eight new escalators, Michael. What could it cost, 62.2 million dollars? https://t.co/INef23GRDB"
+	},
+	{
+		"created_at": "Mon May 09 02:21:23 +0000 2022",
+		"id": 1523488272504160300,
+		"id_str": "1523488272504160256",
+		"full_text": "Putting cheese in a soup is the type of gratuitous consumption that inspires revolutions. Who are you, Uday Hussein?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			116
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "your “bad tweets” are bad because you’re evil. my “bad tweets” are bad because you’re not smart enough to find them funny.",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78921,
+			"friends_count": 890,
+			"listed_count": 979,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 114786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3821,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Putting cheese in a soup is the type of gratuitous consumption that inspires revolutions. Who are you, Uday Hussein?"
+	},
+	{
+		"created_at": "Sun May 08 14:41:28 +0000 2022",
+		"id": 1523312132611215400,
+		"id_str": "1523312132611215360",
+		"full_text": "@amandamull ❤️❤️❤️",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amandamull",
+					"name": "Amanda Mull",
+					"id": 25198779,
+					"id_str": "25198779",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1522632861853044700,
+		"in_reply_to_status_id_str": "1522632861853044738",
+		"in_reply_to_user_id": 25198779,
+		"in_reply_to_user_id_str": "25198779",
+		"in_reply_to_screen_name": "amandamull",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "your “bad tweets” are bad because you’re evil. my “bad tweets” are bad because you’re not smart enough to find them funny.",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 78921,
+			"friends_count": 890,
+			"listed_count": 979,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 114786,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3821,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@amandamull ❤️❤️❤️"
+	},
+	{
 		"created_at": "Sun May 08 02:12:48 +0000 2022",
 		"id": 1523123722898448400,
 		"id_str": "1523123722898448386",
@@ -5267,7 +5632,7 @@ Grailbird.data.tweets_2022_05 =
 			"user_mentions": [
 				{
 					"screen_name": "loud_trash420",
-					"name": "😶‍🌫️ Gumbo Slave 😶‍🌫️",
+					"name": "😶🌫️ Gumbo Slave 😶🌫️",
 					"id": 1207892465761448000,
 					"id_str": "1207892465761447942",
 					"indices": [
@@ -5973,7 +6338,7 @@ Grailbird.data.tweets_2022_05 =
 			"user_mentions": [
 				{
 					"screen_name": "mommyca20",
-					"name": "Dr MonicaCh 🇺🇸🇦🇷🧉👩🏻‍💻 💉",
+					"name": "Dr MonicaCh 🇺🇸🇦🇷🧉👩🏻💻 💉",
 					"id": 720786617288495100,
 					"id_str": "720786617288495105",
 					"indices": [
