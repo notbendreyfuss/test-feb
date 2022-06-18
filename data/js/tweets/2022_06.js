@@ -1,6 +1,1713 @@
 Grailbird.data.tweets_2022_06 = 
 [
 	{
+		"created_at": "Sat Jun 18 06:19:15 +0000 2022",
+		"id": 1538043645466665000,
+		"id_str": "1538043645466664961",
+		"full_text": "I dated some chick with “big tits” once and I loved her (for her personality) and she constantly mentioned her tits to me and I was always like “haha yeah look at the sunset isn’t it  lovely” because her large tits were actually the worst thing about her yuck",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			259
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1538042282179301400,
+		"in_reply_to_status_id_str": "1538042282179301376",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "your “bad tweets” are bad because you’re evil. my “bad tweets” are bad because you’re not smart enough to find them funny.",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79525,
+			"friends_count": 899,
+			"listed_count": 978,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 116409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I dated some chick with “big tits” once and I loved her (for her personality) and she constantly mentioned her tits to me and I was always like “haha yeah look at the sunset isn’t it  lovely” because her large tits were actually the worst thing about her yuck"
+	},
+	{
+		"created_at": "Sat Jun 18 06:13:50 +0000 2022",
+		"id": 1538042282179301400,
+		"id_str": "1538042282179301376",
+		"full_text": "I’ve never liked large tits and when I was growing up it just was a normal thing I’d get teased about. But nowadays I’d have a parade for me or whatever.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			153
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1538038164182315000,
+		"in_reply_to_status_id_str": "1538038164182315008",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "your “bad tweets” are bad because you’re evil. my “bad tweets” are bad because you’re not smart enough to find them funny.",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79525,
+			"friends_count": 899,
+			"listed_count": 978,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 116409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I’ve never liked large tits and when I was growing up it just was a normal thing I’d get teased about. But nowadays I’d have a parade for me or whatever."
+	},
+	{
+		"created_at": "Sat Jun 18 06:03:20 +0000 2022",
+		"id": 1538039643026796500,
+		"id_str": "1538039643026796544",
+		"full_text": "@lankylenks Yeah I guess that is exacerbating the whole thing",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lankylenks",
+					"name": "Lenks 🕊",
+					"id": 182286782,
+					"id_str": "182286782",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1538038985200652300,
+		"in_reply_to_status_id_str": "1538038985200652288",
+		"in_reply_to_user_id": 182286782,
+		"in_reply_to_user_id_str": "182286782",
+		"in_reply_to_screen_name": "lankylenks",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "your “bad tweets” are bad because you’re evil. my “bad tweets” are bad because you’re not smart enough to find them funny.",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79525,
+			"friends_count": 899,
+			"listed_count": 978,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 116409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@lankylenks Yeah I guess that is exacerbating the whole thing"
+	},
+	{
+		"created_at": "Sat Jun 18 05:58:53 +0000 2022",
+		"id": 1538038519628632000,
+		"id_str": "1538038519628632065",
+		"full_text": "These breasts are not going to age well!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			40
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1538038164182315000,
+		"in_reply_to_status_id_str": "1538038164182315008",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "your “bad tweets” are bad because you’re evil. my “bad tweets” are bad because you’re not smart enough to find them funny.",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79525,
+			"friends_count": 899,
+			"listed_count": 978,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 116409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "These breasts are not going to age well!"
+	},
+	{
+		"created_at": "Sat Jun 18 05:57:28 +0000 2022",
+		"id": 1538038164182315000,
+		"id_str": "1538038164182315008",
+		"full_text": "I mean, I’m not crazy, these are some massive knockers! Is this how all cartoon women were drawn when I was growing up? https://t.co/OFf8poHxCP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1538038160034123800,
+					"id_str": "1538038160034123777",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FVg1jsPUUAEFBFx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVg1jsPUUAEFBFx.jpg",
+					"url": "https://t.co/OFf8poHxCP",
+					"display_url": "pic.twitter.com/OFf8poHxCP",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1538038164182315008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 533,
+							"h": 361,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 533,
+							"h": 361,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 533,
+							"h": 361,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538038160034123800,
+					"id_str": "1538038160034123777",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FVg1jsPUUAEFBFx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVg1jsPUUAEFBFx.jpg",
+					"url": "https://t.co/OFf8poHxCP",
+					"display_url": "pic.twitter.com/OFf8poHxCP",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1538038164182315008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 533,
+							"h": 361,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 533,
+							"h": 361,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 533,
+							"h": 361,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1538038160046772200,
+					"id_str": "1538038160046772224",
+					"indices": [
+						120,
+						143
+					],
+					"media_url": "http://pbs.twimg.com/media/FVg1jsSVUAAkyhb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVg1jsSVUAAkyhb.jpg",
+					"url": "https://t.co/OFf8poHxCP",
+					"display_url": "pic.twitter.com/OFf8poHxCP",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1538038164182315008/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 360,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1538036370366529500,
+		"in_reply_to_status_id_str": "1538036370366529536",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "your “bad tweets” are bad because you’re evil. my “bad tweets” are bad because you’re not smart enough to find them funny.",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79525,
+			"friends_count": 899,
+			"listed_count": 978,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 116409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I mean, I’m not crazy, these are some massive knockers! Is this how all cartoon women were drawn when I was growing up? https://t.co/OFf8poHxCP"
+	},
+	{
+		"created_at": "Sat Jun 18 05:53:02 +0000 2022",
+		"id": 1538037049504059400,
+		"id_str": "1538037049504059392",
+		"full_text": "@Phila_Mino Haha",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Phila_Mino",
+					"name": "Minnow",
+					"id": 16826897,
+					"id_str": "16826897",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1538036944386531300,
+		"in_reply_to_status_id_str": "1538036944386531328",
+		"in_reply_to_user_id": 16826897,
+		"in_reply_to_user_id_str": "16826897",
+		"in_reply_to_screen_name": "Phila_Mino",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "your “bad tweets” are bad because you’re evil. my “bad tweets” are bad because you’re not smart enough to find them funny.",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79525,
+			"friends_count": 899,
+			"listed_count": 978,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 116409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tl",
+		"text": "@Phila_Mino Haha"
+	},
+	{
+		"created_at": "Sat Jun 18 05:50:20 +0000 2022",
+		"id": 1538036370366529500,
+		"id_str": "1538036370366529536",
+		"full_text": "https://t.co/pvHpK1VDTi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1538036367942250500,
+					"id_str": "1538036367942250497",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FVgz7YLUcAEFa1c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVgz7YLUcAEFa1c.jpg",
+					"url": "https://t.co/pvHpK1VDTi",
+					"display_url": "pic.twitter.com/pvHpK1VDTi",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1538036370366529536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 330,
+							"h": 235,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 330,
+							"h": 235,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 330,
+							"h": 235,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538036367942250500,
+					"id_str": "1538036367942250497",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FVgz7YLUcAEFa1c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVgz7YLUcAEFa1c.jpg",
+					"url": "https://t.co/pvHpK1VDTi",
+					"display_url": "pic.twitter.com/pvHpK1VDTi",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1538036370366529536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 330,
+							"h": 235,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 330,
+							"h": 235,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 330,
+							"h": 235,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1538036367938097200,
+					"id_str": "1538036367938097152",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FVgz7YKVEAADFxA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVgz7YKVEAADFxA.jpg",
+					"url": "https://t.co/pvHpK1VDTi",
+					"display_url": "pic.twitter.com/pvHpK1VDTi",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1538036370366529536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 350,
+							"h": 290,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 350,
+							"h": 290,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 350,
+							"h": 290,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1538036367938056200,
+					"id_str": "1538036367938056192",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FVgz7YKUcAAJ9zX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVgz7YKUcAAJ9zX.jpg",
+					"url": "https://t.co/pvHpK1VDTi",
+					"display_url": "pic.twitter.com/pvHpK1VDTi",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1538036370366529536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 384,
+							"h": 288,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 384,
+							"h": 288,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 384,
+							"h": 288,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1538036282135580700,
+		"in_reply_to_status_id_str": "1538036282135580673",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "your “bad tweets” are bad because you’re evil. my “bad tweets” are bad because you’re not smart enough to find them funny.",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79525,
+			"friends_count": 899,
+			"listed_count": 978,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 116409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/pvHpK1VDTi"
+	},
+	{
+		"created_at": "Sat Jun 18 05:49:59 +0000 2022",
+		"id": 1538036282135580700,
+		"id_str": "1538036282135580673",
+		"full_text": "Apple TV suggested I watch the Teenage Mutant Ninja Turtles cartoon from 1987 and I was like “sure” but my first question is “why does the reporter lady have such huge tits?” https://t.co/9cQrlB4AT6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1538036278746157000,
+					"id_str": "1538036278746157056",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FVgz2L5UEAAFdKz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVgz2L5UEAAFdKz.jpg",
+					"url": "https://t.co/9cQrlB4AT6",
+					"display_url": "pic.twitter.com/9cQrlB4AT6",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1538036282135580673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1195,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1195,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1538036278746157000,
+					"id_str": "1538036278746157056",
+					"indices": [
+						175,
+						198
+					],
+					"media_url": "http://pbs.twimg.com/media/FVgz2L5UEAAFdKz.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FVgz2L5UEAAFdKz.jpg",
+					"url": "https://t.co/9cQrlB4AT6",
+					"display_url": "pic.twitter.com/9cQrlB4AT6",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1538036282135580673/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1195,
+							"h": 900,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1195,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "your “bad tweets” are bad because you’re evil. my “bad tweets” are bad because you’re not smart enough to find them funny.",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79525,
+			"friends_count": 899,
+			"listed_count": 978,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 116409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Apple TV suggested I watch the Teenage Mutant Ninja Turtles cartoon from 1987 and I was like “sure” but my first question is “why does the reporter lady have such huge tits?” https://t.co/9cQrlB4AT6"
+	},
+	{
+		"created_at": "Sat Jun 18 02:49:17 +0000 2022",
+		"id": 1537990808686559200,
+		"id_str": "1537990808686559236",
+		"full_text": "@OrrChris @ClaraJeffery @emmaogreen @AlyssaRosenberg The 20 year anniversary is coming, Chris!",
+		"truncated": false,
+		"display_text_range": [
+			53,
+			94
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OrrChris",
+					"name": "Christopher Orr",
+					"id": 241271040,
+					"id_str": "241271040",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "ClaraJeffery",
+					"name": "Clara Jeffery",
+					"id": 43412697,
+					"id_str": "43412697",
+					"indices": [
+						10,
+						23
+					]
+				},
+				{
+					"screen_name": "emmaogreen",
+					"name": "Emma Green",
+					"id": 1511299686,
+					"id_str": "1511299686",
+					"indices": [
+						24,
+						35
+					]
+				},
+				{
+					"screen_name": "AlyssaRosenberg",
+					"name": "Alyssa Rosenberg",
+					"id": 17174089,
+					"id_str": "17174089",
+					"indices": [
+						36,
+						52
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1537982222459805700,
+		"in_reply_to_status_id_str": "1537982222459805698",
+		"in_reply_to_user_id": 241271040,
+		"in_reply_to_user_id_str": "241271040",
+		"in_reply_to_screen_name": "OrrChris",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "your “bad tweets” are bad because you’re evil. my “bad tweets” are bad because you’re not smart enough to find them funny.",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79525,
+			"friends_count": 899,
+			"listed_count": 978,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 116409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@OrrChris @ClaraJeffery @emmaogreen @AlyssaRosenberg The 20 year anniversary is coming, Chris!"
+	},
+	{
+		"created_at": "Sat Jun 18 02:48:47 +0000 2022",
+		"id": 1537990682291212300,
+		"id_str": "1537990682291212288",
+		"full_text": "If you spend money buying “digital clothes” for your Meta avatar, you should get mugged and tossed in a ditch.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1537990303805628400,
+		"in_reply_to_status_id_str": "1537990303805628417",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "your “bad tweets” are bad because you’re evil. my “bad tweets” are bad because you’re not smart enough to find them funny.",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79525,
+			"friends_count": 899,
+			"listed_count": 978,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 116409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 7,
+		"favorite_count": 105,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "If you spend money buying “digital clothes” for your Meta avatar, you should get mugged and tossed in a ditch."
+	},
+	{
+		"created_at": "Sat Jun 18 02:47:17 +0000 2022",
+		"id": 1537990303805628400,
+		"id_str": "1537990303805628417",
+		"full_text": "I have a general pro-FB bias that means any negative thing I see I deduct 50% from it because people are hysterical and insane about FB. But in this case I do think everyone who buys these should be forced to live in camps. https://t.co/s0T8bsBT1x",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/s0T8bsBT1x",
+					"expanded_url": "https://twitter.com/metanewsroom/status/1537885268757188610",
+					"display_url": "twitter.com/metanewsroom/s…",
+					"indices": [
+						224,
+						247
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "your “bad tweets” are bad because you’re evil. my “bad tweets” are bad because you’re not smart enough to find them funny.",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79525,
+			"friends_count": 899,
+			"listed_count": 978,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 116409,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 2441,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1537885268757188600,
+		"quoted_status_id_str": "1537885268757188610",
+		"quoted_status_permalink": {
+			"url": "https://t.co/s0T8bsBT1x",
+			"expanded": "https://twitter.com/metanewsroom/status/1537885268757188610",
+			"display": "twitter.com/metanewsroom/s…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jun 17 19:49:55 +0000 2022",
+			"id": 1537885268757188600,
+			"id_str": "1537885268757188610",
+			"full_text": "Need a fresh fit for your avatar? We're launching our Avatars Store on Facebook, Instagram and Messenger so you can buy digital clothes. Mark Zuckerberg and @evachen212 tried out new looks from @BALENCIAGA @Prada @ThomBrowne ✨\n\nhttps://t.co/7SN0hdYz2D https://t.co/Bp9zeK2ZNl",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				251
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "evachen212",
+						"name": "Eva Chen",
+						"id": 92577188,
+						"id_str": "92577188",
+						"indices": [
+							157,
+							168
+						]
+					},
+					{
+						"screen_name": "BALENCIAGA",
+						"name": "Balenciaga",
+						"id": 180124279,
+						"id_str": "180124279",
+						"indices": [
+							194,
+							205
+						]
+					},
+					{
+						"screen_name": "Prada",
+						"name": "PRADA",
+						"id": 1156866230,
+						"id_str": "1156866230",
+						"indices": [
+							206,
+							212
+						]
+					},
+					{
+						"screen_name": "ThomBrowne",
+						"name": "Thom Browne",
+						"id": 87485794,
+						"id_str": "87485794",
+						"indices": [
+							213,
+							224
+						]
+					}
+				],
+				"urls": [
+					{
+						"url": "https://t.co/7SN0hdYz2D",
+						"expanded_url": "https://www.instagram.com/p/Ce6yFgbptyM/",
+						"display_url": "instagram.com/p/Ce6yFgbptyM/",
+						"indices": [
+							228,
+							251
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1537885125878263800,
+						"id_str": "1537885125878263808",
+						"indices": [
+							252,
+							275
+						],
+						"media_url": "http://pbs.twimg.com/media/FVeqX7lUsAAaPo7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FVeqX7lUsAAaPo7.jpg",
+						"url": "https://t.co/Bp9zeK2ZNl",
+						"display_url": "pic.twitter.com/Bp9zeK2ZNl",
+						"expanded_url": "https://twitter.com/MetaNewsroom/status/1537885268757188610/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1440,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1537885125878263800,
+						"id_str": "1537885125878263808",
+						"indices": [
+							252,
+							275
+						],
+						"media_url": "http://pbs.twimg.com/media/FVeqX7lUsAAaPo7.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FVeqX7lUsAAaPo7.jpg",
+						"url": "https://t.co/Bp9zeK2ZNl",
+						"display_url": "pic.twitter.com/Bp9zeK2ZNl",
+						"expanded_url": "https://twitter.com/MetaNewsroom/status/1537885268757188610/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1440,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 900,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 163723677,
+				"id_str": "163723677",
+				"name": "Meta Newsroom",
+				"screen_name": "MetaNewsroom",
+				"location": "",
+				"description": "News and press statements from Meta's communications team. Send media inquiries to press@fb.com",
+				"url": "https://t.co/HXv0ouLLBa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/HXv0ouLLBa",
+								"expanded_url": "https://about.fb.com/news/",
+								"display_url": "about.fb.com/news/",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 207894,
+				"friends_count": 325,
+				"listed_count": 1975,
+				"created_at": "Wed Jul 07 03:30:51 +0000 2010",
+				"favourites_count": 9,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 1189,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1455242126275526659/zNCAAELg_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1455242126275526659/zNCAAELg_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/163723677/1635791735",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 34,
+			"favorite_count": 85,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 60,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I have a general pro-FB bias that means any negative thing I see I deduct 50% from it because people are hysterical and insane about FB. But in this case I do think everyone who buys these should be forced to live in camps. https://t.co/s0T8bsBT1x"
+	},
+	{
 		"created_at": "Fri Jun 17 04:58:26 +0000 2022",
 		"id": 1537660922637918200,
 		"id_str": "1537660922637918213",
