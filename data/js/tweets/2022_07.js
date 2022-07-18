@@ -1,6 +1,123 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Sun Jul 17 17:36:21 +0000 2022",
+		"id": 1548723290797006800,
+		"id_str": "1548723290797006848",
+		"full_text": "@juliaioffe @ericowensdc Me",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "juliaioffe",
+					"name": "Julia Ioffe",
+					"id": 71048726,
+					"id_str": "71048726",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "ericowensdc",
+					"name": "Eric Owens",
+					"id": 801367260,
+					"id_str": "801367260",
+					"indices": [
+						12,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1548717871865397200,
+		"in_reply_to_status_id_str": "1548717871865397250",
+		"in_reply_to_user_id": 71048726,
+		"in_reply_to_user_id_str": "71048726",
+		"in_reply_to_screen_name": "juliaioffe",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "calm down",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79298,
+			"friends_count": 910,
+			"listed_count": 974,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 117585,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3819,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@juliaioffe @ericowensdc Me"
+	},
+	{
 		"created_at": "Sun Jul 17 04:48:04 +0000 2022",
 		"id": 1548529946926059500,
 		"id_str": "1548529946926059520",
@@ -6983,7 +7100,7 @@ Grailbird.data.tweets_2022_07 =
 			"name": "Socialistlyawkward",
 			"screen_name": "mck05002",
 			"location": "",
-			"description": "“Whiny little person on Tiktok”- Pastor Joe/RN /🏳️‍🌈🏳️‍⚧️ /Exmo/Calling out radicalism in ID/92k+ on Tiktok",
+			"description": "“Whiny little person on Tiktok”- Pastor Joe/RN /🏳️🌈🏳️⚧️ /Exmo/Calling out radicalism in ID/92k+ on Tiktok",
 			"url": null,
 			"entities": {
 				"description": {
