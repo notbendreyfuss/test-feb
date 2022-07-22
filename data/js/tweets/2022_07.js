@@ -1,6 +1,181 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Thu Jul 21 16:59:31 +0000 2022",
+		"id": 1550163575808725000,
+		"id_str": "1550163575808724992",
+		"full_text": "Electric kettles are for prison inmates, college students, and Europeans https://t.co/qqRstJUd8h",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1550163572465942500,
+					"id_str": "1550163572465942533",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/FYNJjliVQAUrTA4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYNJjliVQAUrTA4.jpg",
+					"url": "https://t.co/qqRstJUd8h",
+					"display_url": "pic.twitter.com/qqRstJUd8h",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1550163575808724992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1385,
+							"h": 1412,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1177,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 667,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1550163572465942500,
+					"id_str": "1550163572465942533",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/FYNJjliVQAUrTA4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYNJjliVQAUrTA4.jpg",
+					"url": "https://t.co/qqRstJUd8h",
+					"display_url": "pic.twitter.com/qqRstJUd8h",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1550163575808724992/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1385,
+							"h": 1412,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1177,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 667,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "calm down",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79516,
+			"friends_count": 911,
+			"listed_count": 975,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 117808,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 3995,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 153,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Electric kettles are for prison inmates, college students, and Europeans https://t.co/qqRstJUd8h"
+	},
+	{
 		"created_at": "Thu Jul 21 03:40:28 +0000 2022",
 		"id": 1549962488338256000,
 		"id_str": "1549962488338255872",
@@ -7649,7 +7824,7 @@ Grailbird.data.tweets_2022_07 =
 			"user": {
 				"id": 1393315777890160600,
 				"id_str": "1393315777890160640",
-				"name": "🏳️‍⚧️ kytty🏳️‍⚧️ COMMS OPEN LOOK AT MY PINNED",
+				"name": "🏳️⚧️ kytty🏳️⚧️ COMMS OPEN LOOK AT MY PINNED",
 				"screen_name": "femmekyttymusic",
 				"location": "mew/mews",
 				"description": "KYTTY / trans, queer, disabled, autistic!, adult, catgirl, musican / black trans lives matter / ACAB / b:me  / p:@are0su / @tcg57 ❤️ / tá mé ag foghlaim Gaeilge",
