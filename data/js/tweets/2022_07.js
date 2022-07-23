@@ -1,6 +1,1334 @@
 Grailbird.data.tweets_2022_07 = 
 [
 	{
+		"created_at": "Fri Jul 22 19:07:02 +0000 2022",
+		"id": 1550558051475656700,
+		"id_str": "1550558051475656704",
+		"full_text": "“It all started like a normal day. We bought 15 rats and named them. We then placed the rats in a terrarium and most of the staff went to lunch. When we returned, the rats were dead and smothered in maggots. The only person in the office was Jeff. But Jeff plead ignorance.” https://t.co/Q30soTBPc3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/Q30soTBPc3",
+					"expanded_url": "https://twitter.com/dylanmatt/status/1550337893520007175",
+					"display_url": "twitter.com/dylanmatt/stat…",
+					"indices": [
+						275,
+						298
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "calm down",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79547,
+			"friends_count": 912,
+			"listed_count": 976,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 117813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1550337893520007200,
+		"quoted_status_id_str": "1550337893520007175",
+		"quoted_status_permalink": {
+			"url": "https://t.co/Q30soTBPc3",
+			"expanded": "https://twitter.com/dylanmatt/status/1550337893520007175",
+			"display": "twitter.com/dylanmatt/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 22 04:32:12 +0000 2022",
+			"id": 1550337893520007200,
+			"id_str": "1550337893520007175",
+			"full_text": "Excuse me?\n\nhttps://t.co/SZt91ZEwNa https://t.co/zPVqCY7C00",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				35
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SZt91ZEwNa",
+						"expanded_url": "https://www.nytimes.com/wirecutter/reviews/the-best-bug-killing-gear/",
+						"display_url": "nytimes.com/wirecutter/rev…",
+						"indices": [
+							12,
+							35
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1550337808035987500,
+						"id_str": "1550337808035987456",
+						"indices": [
+							36,
+							59
+						],
+						"media_url": "http://pbs.twimg.com/media/FYPoBbnXwAAuwI0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FYPoBbnXwAAuwI0.jpg",
+						"url": "https://t.co/zPVqCY7C00",
+						"display_url": "pic.twitter.com/zPVqCY7C00",
+						"expanded_url": "https://twitter.com/dylanmatt/status/1550337893520007175/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1550337808035987500,
+						"id_str": "1550337808035987456",
+						"indices": [
+							36,
+							59
+						],
+						"media_url": "http://pbs.twimg.com/media/FYPoBbnXwAAuwI0.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FYPoBbnXwAAuwI0.jpg",
+						"url": "https://t.co/zPVqCY7C00",
+						"display_url": "pic.twitter.com/zPVqCY7C00",
+						"expanded_url": "https://twitter.com/dylanmatt/status/1550337893520007175/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 750,
+								"h": 1334,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 675,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 382,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15950086,
+				"id_str": "15950086",
+				"name": "dylan matthews",
+				"screen_name": "dylanmatt",
+				"location": "Washington, DC",
+				"description": "I've been eating lasagna and muffins every day of my life for 40 years and I feel terrible.",
+				"url": "https://t.co/cbWZzFKfhM",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cbWZzFKfhM",
+								"expanded_url": "https://www.vox.com/authors/dylan",
+								"display_url": "vox.com/authors/dylan",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 66627,
+				"friends_count": 1,
+				"listed_count": 1491,
+				"created_at": "Fri Aug 22 20:54:19 +0000 2008",
+				"favourites_count": 43546,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 247,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1A1B1F",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1536358661387390976/yJWvS7NI_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1536358661387390976/yJWvS7NI_normal.jpg",
+				"profile_link_color": "6E6C70",
+				"profile_sidebar_border_color": "181A1E",
+				"profile_sidebar_fill_color": "252429",
+				"profile_text_color": "666666",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 62,
+			"favorite_count": 1098,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 31,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "“It all started like a normal day. We bought 15 rats and named them. We then placed the rats in a terrarium and most of the staff went to lunch. When we returned, the rats were dead and smothered in maggots. The only person in the office was Jeff. But Jeff plead ignorance.” https://t.co/Q30soTBPc3"
+	},
+	{
+		"created_at": "Fri Jul 22 19:01:41 +0000 2022",
+		"id": 1550337893520007200,
+		"id_str": "1550556707289346048",
+		"full_text": "Excuse me?\n\nhttps://t.co/SZt91ZEwNa https://t.co/zPVqCY7C00",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			35
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/SZt91ZEwNa",
+					"expanded_url": "https://www.nytimes.com/wirecutter/reviews/the-best-bug-killing-gear/",
+					"display_url": "nytimes.com/wirecutter/rev…",
+					"indices": [
+						12,
+						35
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1550337808035987500,
+					"id_str": "1550337808035987456",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/FYPoBbnXwAAuwI0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYPoBbnXwAAuwI0.jpg",
+					"url": "https://t.co/zPVqCY7C00",
+					"display_url": "pic.twitter.com/zPVqCY7C00",
+					"expanded_url": "https://twitter.com/dylanmatt/status/1550337893520007175/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1550337808035987500,
+					"id_str": "1550337808035987456",
+					"indices": [
+						36,
+						59
+					],
+					"media_url": "http://pbs.twimg.com/media/FYPoBbnXwAAuwI0.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYPoBbnXwAAuwI0.jpg",
+					"url": "https://t.co/zPVqCY7C00",
+					"display_url": "pic.twitter.com/zPVqCY7C00",
+					"expanded_url": "https://twitter.com/dylanmatt/status/1550337893520007175/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 750,
+							"h": 1334,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 675,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 382,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 15950086,
+			"id_str": "15950086",
+			"name": "dylan matthews",
+			"screen_name": "dylanmatt",
+			"location": "Washington, DC",
+			"description": "I've been eating lasagna and muffins every day of my life for 40 years and I feel terrible.",
+			"url": "https://t.co/cbWZzFKfhM",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/cbWZzFKfhM",
+							"expanded_url": "https://www.vox.com/authors/dylan",
+							"display_url": "vox.com/authors/dylan",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 66627,
+			"friends_count": 1,
+			"listed_count": 1491,
+			"created_at": "Fri Aug 22 20:54:19 +0000 2008",
+			"favourites_count": 43546,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 247,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "1A1B1F",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1536358661387390976/yJWvS7NI_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1536358661387390976/yJWvS7NI_normal.jpg",
+			"profile_link_color": "6E6C70",
+			"profile_sidebar_border_color": "181A1E",
+			"profile_sidebar_fill_color": "252429",
+			"profile_text_color": "666666",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 62,
+		"favorite_count": 1098,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Excuse me?\n\nhttps://t.co/SZt91ZEwNa https://t.co/zPVqCY7C00"
+	},
+	{
+		"created_at": "Fri Jul 22 18:57:16 +0000 2022",
+		"id": 1550555597023502300,
+		"id_str": "1550555597023502336",
+		"full_text": "@EyesOnTheRight Same. I guess it’s minimum 2 months, maximum 2 years https://t.co/nWvL2ZGEEK",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EyesOnTheRight",
+					"name": "Eyes on the Right",
+					"id": 724282165178032100,
+					"id_str": "724282165178032131",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/nWvL2ZGEEK",
+					"expanded_url": "https://twitter.com/joshuagreen/status/1550554747890958336",
+					"display_url": "twitter.com/joshuagreen/st…",
+					"indices": [
+						69,
+						92
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1550555050132603000,
+		"in_reply_to_status_id_str": "1550555050132602880",
+		"in_reply_to_user_id": 724282165178032100,
+		"in_reply_to_user_id_str": "724282165178032131",
+		"in_reply_to_screen_name": "EyesOnTheRight",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "calm down",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79547,
+			"friends_count": 912,
+			"listed_count": 976,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 117813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1550554747890958300,
+		"quoted_status_id_str": "1550554747890958336",
+		"quoted_status_permalink": {
+			"url": "https://t.co/nWvL2ZGEEK",
+			"expanded": "https://twitter.com/joshuagreen/status/1550554747890958336",
+			"display": "twitter.com/joshuagreen/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jul 22 18:53:54 +0000 2022",
+			"id": 1550554747890958300,
+			"id_str": "1550554747890958336",
+			"full_text": "Bannon guilty on both counts of contempt of Congress. Each carries minimum 30 day sentence, maximum one year.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				109
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17044233,
+				"id_str": "17044233",
+				"name": "Joshua Green",
+				"screen_name": "JoshuaGreen",
+				"location": "Washington, DC",
+				"description": "Author #1 NYT bestseller DEVIL'S BARGAIN (https://t.co/5LP2q3UG5c) @BW national correspondent",
+				"url": "https://t.co/wY02v3ggEu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wY02v3ggEu",
+								"expanded_url": "http://www.businessweek.com/",
+								"display_url": "businessweek.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/5LP2q3UG5c",
+								"expanded_url": "https://www.amazon.com/Devils-Bargain-Bannon-Storming-Presidency/dp/0735225028/",
+								"display_url": "amazon.com/Devils-Bargain…",
+								"indices": [
+									42,
+									65
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 53719,
+				"friends_count": 699,
+				"listed_count": 1621,
+				"created_at": "Wed Oct 29 16:04:23 +0000 2008",
+				"favourites_count": 10848,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 22360,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/697511640443523073/bVkod6Xo_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/697511640443523073/bVkod6Xo_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17044233/1515452482",
+				"profile_link_color": "E81C4F",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 16,
+			"favorite_count": 37,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@EyesOnTheRight Same. I guess it’s minimum 2 months, maximum 2 years https://t.co/nWvL2ZGEEK"
+	},
+	{
+		"created_at": "Fri Jul 22 18:38:50 +0000 2022",
+		"id": 1550550957578014700,
+		"id_str": "1550550957578014721",
+		"full_text": "Democrats Are Losing Because Happy Days Isn’t On TV Anymore",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			59
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1550550160366719000,
+		"in_reply_to_status_id_str": "1550550160366718977",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "calm down",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79547,
+			"friends_count": 912,
+			"listed_count": 976,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 117813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 33,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Democrats Are Losing Because Happy Days Isn’t On TV Anymore"
+	},
+	{
+		"created_at": "Fri Jul 22 18:35:40 +0000 2022",
+		"id": 1550550160366719000,
+		"id_str": "1550550160366718977",
+		"full_text": "Haha what does any of this have to do with the headline of this column? https://t.co/RHL8P6MU5R",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1550550156927307800,
+					"id_str": "1550550156927307777",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FYSpJw4UEAEpdSq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYSpJw4UEAEpdSq.jpg",
+					"url": "https://t.co/RHL8P6MU5R",
+					"display_url": "pic.twitter.com/RHL8P6MU5R",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1550550160366718977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 355,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 201,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1389,
+							"h": 411,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1550550156927307800,
+					"id_str": "1550550156927307777",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FYSpJw4UEAEpdSq.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYSpJw4UEAEpdSq.jpg",
+					"url": "https://t.co/RHL8P6MU5R",
+					"display_url": "pic.twitter.com/RHL8P6MU5R",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1550550160366718977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 355,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 201,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1389,
+							"h": 411,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1550550156751212500,
+					"id_str": "1550550156751212544",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/FYSpJwOVEAAm81V.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FYSpJwOVEAAm81V.jpg",
+					"url": "https://t.co/RHL8P6MU5R",
+					"display_url": "pic.twitter.com/RHL8P6MU5R",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1550550160366718977/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 263,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 2048,
+							"h": 448,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 149,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1550548233121714200,
+		"in_reply_to_status_id_str": "1550548233121714176",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "calm down",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79547,
+			"friends_count": 912,
+			"listed_count": 976,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 117813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Haha what does any of this have to do with the headline of this column? https://t.co/RHL8P6MU5R"
+	},
+	{
+		"created_at": "Fri Jul 22 18:31:54 +0000 2022",
+		"id": 1550549210742661000,
+		"id_str": "1550549210742661120",
+		"full_text": "@JHWeissmann Oh right, I guess he’s talking about Mickey Mouse and stuff",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JHWeissmann",
+					"name": "Jordan Weissmann",
+					"id": 47526275,
+					"id_str": "47526275",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1550548931435790300,
+		"in_reply_to_status_id_str": "1550548931435790337",
+		"in_reply_to_user_id": 47526275,
+		"in_reply_to_user_id_str": "47526275",
+		"in_reply_to_screen_name": "JHWeissmann",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "calm down",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79547,
+			"friends_count": 912,
+			"listed_count": 976,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 117813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JHWeissmann Oh right, I guess he’s talking about Mickey Mouse and stuff"
+	},
+	{
+		"created_at": "Fri Jul 22 18:30:00 +0000 2022",
+		"id": 1550548732684341200,
+		"id_str": "1550548732684341248",
+		"full_text": "@team_chao Ohhhh I guess yes that one rapist was a pedophile, but it doesn’t seem like an epidemic of pedophilia is happening",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "team_chao",
+					"name": "guava",
+					"id": 1038249403482427400,
+					"id_str": "1038249403482427392",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1550548506330271700,
+		"in_reply_to_status_id_str": "1550548506330271744",
+		"in_reply_to_user_id": 1038249403482427400,
+		"in_reply_to_user_id_str": "1038249403482427392",
+		"in_reply_to_screen_name": "team_chao",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "calm down",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79547,
+			"friends_count": 912,
+			"listed_count": 976,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 117813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@team_chao Ohhhh I guess yes that one rapist was a pedophile, but it doesn’t seem like an epidemic of pedophilia is happening"
+	},
+	{
+		"created_at": "Fri Jul 22 18:28:01 +0000 2022",
+		"id": 1550548233121714200,
+		"id_str": "1550548233121714176",
+		"full_text": "Have I been missing some news stories? Is this the Summer Of Pedophiles?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1550547947355394000,
+		"in_reply_to_status_id_str": "1550547947355394048",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "calm down",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 79547,
+			"friends_count": 912,
+			"listed_count": 976,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 117813,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4004,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Have I been missing some news stories? Is this the Summer Of Pedophiles?"
+	},
+	{
 		"created_at": "Thu Jul 21 16:59:31 +0000 2022",
 		"id": 1550163575808725000,
 		"id_str": "1550163575808724992",
