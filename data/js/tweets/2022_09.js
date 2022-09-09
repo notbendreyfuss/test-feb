@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Thu Sep 08 18:27:28 +0000 2022",
+		"id": 1567942713814962200,
+		"id_str": "1567942713814962176",
+		"full_text": "Queen Elizabeth was also probably the last queen of the United Kingdom. Next you get Charles and he’s got a couple of years, then William and he’ll get a couple of decades, then Archie and he’s good for a few more decades. After that? The AI apocalypse is going to have happened.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "calm down",
+			"url": "https://t.co/ZNogBKfj3K",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/ZNogBKfj3K",
+							"expanded_url": "http://bendreyfuss.substack.com",
+							"display_url": "bendreyfuss.substack.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80057,
+			"friends_count": 906,
+			"listed_count": 977,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 121187,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4025,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 319,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Queen Elizabeth was also probably the last queen of the United Kingdom. Next you get Charles and he’s got a couple of years, then William and he’ll get a couple of decades, then Archie and he’s good for a few more decades. After that? The AI apocalypse is going to have happened."
+	},
+	{
 		"created_at": "Thu Sep 08 04:51:44 +0000 2022",
 		"id": 1567705968363856000,
 		"id_str": "1567737426910773253",
@@ -510,7 +606,7 @@ Grailbird.data.tweets_2022_09 =
 		"created_at": "Thu Sep 08 00:26:20 +0000 2022",
 		"id": 1567670147053195300,
 		"id_str": "1567670635249430530",
-		"full_text": "Wow, ⁦@bendreyfuss⁩ says people should calm down about literally every problem plaguing society https://t.co/3Bluo7L3SP",
+		"full_text": "Wow, @bendreyfuss says people should calm down about literally every problem plaguing society https://t.co/3Bluo7L3SP",
 		"truncated": false,
 		"display_text_range": [
 			0,
@@ -622,7 +718,7 @@ Grailbird.data.tweets_2022_09 =
 		"retweeted": true,
 		"possibly_sensitive": false,
 		"lang": "en",
-		"text": "Wow, ⁦@bendreyfuss⁩ says people should calm down about literally every problem plaguing society https://t.co/3Bluo7L3SP"
+		"text": "Wow, @bendreyfuss says people should calm down about literally every problem plaguing society https://t.co/3Bluo7L3SP"
 	},
 	{
 		"created_at": "Thu Sep 08 00:20:27 +0000 2022",
