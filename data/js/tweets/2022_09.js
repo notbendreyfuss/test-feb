@@ -1,6 +1,1785 @@
 Grailbird.data.tweets_2022_09 = 
 [
 	{
+		"created_at": "Sat Sep 10 23:06:07 +0000 2022",
+		"id": 1568737615117156400,
+		"id_str": "1568737615117156353",
+		"full_text": "@KFILE Yeah he looks unwell but he will have the entire British state trying to keep him alive. I’m sure Samuel L Jackson also has enough money to afford the best care in his 90s. Whereas if John Bolton falls he’s gonna be relying on his Apple Watch to call 911.",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KFILE",
+					"name": "andrew kaczynski",
+					"id": 326255267,
+					"id_str": "326255267",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1568736983656145000,
+		"in_reply_to_status_id_str": "1568736983656144896",
+		"in_reply_to_user_id": 326255267,
+		"in_reply_to_user_id_str": "326255267",
+		"in_reply_to_screen_name": "KFILE",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "calm down",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80069,
+			"friends_count": 906,
+			"listed_count": 975,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 121188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KFILE Yeah he looks unwell but he will have the entire British state trying to keep him alive. I’m sure Samuel L Jackson also has enough money to afford the best care in his 90s. Whereas if John Bolton falls he’s gonna be relying on his Apple Watch to call 911."
+	},
+	{
+		"created_at": "Sat Sep 10 23:02:22 +0000 2022",
+		"id": 1568736670912249900,
+		"id_str": "1568736670912249856",
+		"full_text": "This is outrageous. They should have built parking GARAGES! Utilize that empty airspace!!! https://t.co/aI4Ns1JiBz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			90
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/aI4Ns1JiBz",
+					"expanded_url": "https://twitter.com/sam_d_1995/status/1568695344501866498",
+					"display_url": "twitter.com/sam_d_1995/sta…",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "calm down",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80069,
+			"friends_count": 906,
+			"listed_count": 975,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 121188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1568695344501866500,
+		"quoted_status_id_str": "1568695344501866498",
+		"quoted_status_permalink": {
+			"url": "https://t.co/aI4Ns1JiBz",
+			"expanded": "https://twitter.com/sam_d_1995/status/1568695344501866498",
+			"display": "twitter.com/sam_d_1995/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 10 20:18:09 +0000 2022",
+			"id": 1568695344501866500,
+			"id_str": "1568695344501866498",
+			"full_text": "we bulldozed our cities and replaced them with parking lots\n\nhere’s denver in the 1920s vs. the 1970s https://t.co/zQuPcgAz6K https://t.co/cax4IDEn1l",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				125
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/zQuPcgAz6K",
+						"expanded_url": "https://twitter.com/IsaacRowlett/status/1568353257499787264",
+						"display_url": "twitter.com/IsaacRowlett/s…",
+						"indices": [
+							102,
+							125
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1568695014238060500,
+						"id_str": "1568695014238060544",
+						"indices": [
+							126,
+							149
+						],
+						"media_url": "http://pbs.twimg.com/media/FcUfzdyWAAA6RTO.png",
+						"media_url_https": "https://pbs.twimg.com/media/FcUfzdyWAAA6RTO.png",
+						"url": "https://t.co/cax4IDEn1l",
+						"display_url": "pic.twitter.com/cax4IDEn1l",
+						"expanded_url": "https://twitter.com/sam_d_1995/status/1568695344501866498/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 479,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 705,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 705,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1568695014238060500,
+						"id_str": "1568695014238060544",
+						"indices": [
+							126,
+							149
+						],
+						"media_url": "http://pbs.twimg.com/media/FcUfzdyWAAA6RTO.png",
+						"media_url_https": "https://pbs.twimg.com/media/FcUfzdyWAAA6RTO.png",
+						"url": "https://t.co/cax4IDEn1l",
+						"display_url": "pic.twitter.com/cax4IDEn1l",
+						"expanded_url": "https://twitter.com/sam_d_1995/status/1568695344501866498/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 479,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1000,
+								"h": 705,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1000,
+								"h": 705,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					},
+					{
+						"id": 1568695190600163300,
+						"id_str": "1568695190600163329",
+						"indices": [
+							126,
+							149
+						],
+						"media_url": "http://pbs.twimg.com/media/FcUf9uyWIAEKgC3.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FcUf9uyWIAEKgC3.jpg",
+						"url": "https://t.co/cax4IDEn1l",
+						"display_url": "pic.twitter.com/cax4IDEn1l",
+						"expanded_url": "https://twitter.com/sam_d_1995/status/1568695344501866498/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1024,
+								"h": 685,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1024,
+								"h": 685,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 455,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 188103539,
+				"id_str": "188103539",
+				"name": "sam",
+				"screen_name": "sam_d_1995",
+				"location": "Boston, MA",
+				"description": "Better cities and transit are possible 🚇🚞",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 28859,
+				"friends_count": 996,
+				"listed_count": 313,
+				"created_at": "Tue Sep 07 23:00:34 +0000 2010",
+				"favourites_count": 481750,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 27641,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "1987BC",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1284959395449671680/2x4Ns5ly_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1284959395449671680/2x4Ns5ly_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/188103539/1605312933",
+				"profile_link_color": "A60000",
+				"profile_sidebar_border_color": "7D7D87",
+				"profile_sidebar_fill_color": "D7D7D8",
+				"profile_text_color": "000000",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1568353257499787300,
+			"quoted_status_id_str": "1568353257499787264",
+			"quoted_status_permalink": {
+				"url": "https://t.co/zQuPcgAz6K",
+				"expanded": "https://twitter.com/IsaacRowlett/status/1568353257499787264",
+				"display": "twitter.com/IsaacRowlett/s…"
+			},
+			"retweet_count": 135,
+			"favorite_count": 959,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is outrageous. They should have built parking GARAGES! Utilize that empty airspace!!! https://t.co/aI4Ns1JiBz"
+	},
+	{
+		"created_at": "Sat Sep 10 22:57:43 +0000 2022",
+		"id": 1568735500546224000,
+		"id_str": "1568735500546224129",
+		"full_text": "@JackJackington I mean charles’ parents lived to be like a trillion",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JackJackington",
+					"name": "Reese",
+					"id": 361063416,
+					"id_str": "361063416",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1568734985795899400,
+		"in_reply_to_status_id_str": "1568734985795899392",
+		"in_reply_to_user_id": 361063416,
+		"in_reply_to_user_id_str": "361063416",
+		"in_reply_to_screen_name": "JackJackington",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "calm down",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80069,
+			"friends_count": 906,
+			"listed_count": 975,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 121188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JackJackington I mean charles’ parents lived to be like a trillion"
+	},
+	{
+		"created_at": "Sat Sep 10 22:56:04 +0000 2022",
+		"id": 1568735083070394400,
+		"id_str": "1568735083070394369",
+		"full_text": "Samuel L Jackson looks amazing for 73!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			38
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1568734854170448000,
+		"in_reply_to_status_id_str": "1568734854170447872",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "calm down",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80069,
+			"friends_count": 906,
+			"listed_count": 975,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 121188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Samuel L Jackson looks amazing for 73!"
+	},
+	{
+		"created_at": "Sat Sep 10 22:55:09 +0000 2022",
+		"id": 1568734854170448000,
+		"id_str": "1568734854170447872",
+		"full_text": "These people were all born within a few months of each other. Who will live the longest?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "calm down",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80069,
+			"friends_count": 906,
+			"listed_count": 975,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 121188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "These people were all born within a few months of each other. Who will live the longest?"
+	},
+	{
+		"created_at": "Sat Sep 10 21:41:35 +0000 2022",
+		"id": 1568716341166874600,
+		"id_str": "1568716341166874625",
+		"full_text": "Setting the STEM part of this screenshot aside, my favorite part is the idea that before 1991 everyone in America were social democrats committed to equality. https://t.co/1tYkkoeHaz",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			158
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1tYkkoeHaz",
+					"expanded_url": "https://twitter.com/jessesingal/status/1568710124516085760",
+					"display_url": "twitter.com/jessesingal/st…",
+					"indices": [
+						159,
+						182
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "calm down",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80069,
+			"friends_count": 906,
+			"listed_count": 975,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 121188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1568710124516085800,
+		"quoted_status_id_str": "1568710124516085760",
+		"quoted_status_permalink": {
+			"url": "https://t.co/1tYkkoeHaz",
+			"expanded": "https://twitter.com/jessesingal/status/1568710124516085760",
+			"display": "twitter.com/jessesingal/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Sep 10 21:16:53 +0000 2022",
+			"id": 1568710124516085800,
+			"id_str": "1568710124516085760",
+			"full_text": "One of the reasons academic controversies get so intense and toxic is that many academics in relatively niche areas have a view of themselves and their work so overinflated it verges on Trumpian https://t.co/19kBbXE1bS",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				194
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1568709951119319000,
+						"id_str": "1568709951119319041",
+						"indices": [
+							195,
+							218
+						],
+						"media_url": "http://pbs.twimg.com/media/FcUtY6AWYAEeP_F.png",
+						"media_url_https": "https://pbs.twimg.com/media/FcUtY6AWYAEeP_F.png",
+						"url": "https://t.co/19kBbXE1bS",
+						"display_url": "pic.twitter.com/19kBbXE1bS",
+						"expanded_url": "https://twitter.com/jessesingal/status/1568710124516085760/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 511,
+								"h": 214,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 511,
+								"h": 214,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 511,
+								"h": 214,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1568709951119319000,
+						"id_str": "1568709951119319041",
+						"indices": [
+							195,
+							218
+						],
+						"media_url": "http://pbs.twimg.com/media/FcUtY6AWYAEeP_F.png",
+						"media_url_https": "https://pbs.twimg.com/media/FcUtY6AWYAEeP_F.png",
+						"url": "https://t.co/19kBbXE1bS",
+						"display_url": "pic.twitter.com/19kBbXE1bS",
+						"expanded_url": "https://twitter.com/jessesingal/status/1568710124516085760/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 511,
+								"h": 214,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 511,
+								"h": 214,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 511,
+								"h": 214,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 214337395,
+				"id_str": "214337395",
+				"name": "Jesse Singal",
+				"screen_name": "jessesingal",
+				"location": "Brooklyn (insufferable part)",
+				"description": "I make text and voice words. @fsgbooks, former @NYMag. Cohost @TheBARPod, the first-ever podcast: https://t.co/rtdlJHb4CE * jesse.r.singal@gmail.com",
+				"url": "https://t.co/b0QfUiRVia",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/b0QfUiRVia",
+								"expanded_url": "https://jessesingal.substack.com/about",
+								"display_url": "jessesingal.substack.com/about",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/rtdlJHb4CE",
+								"expanded_url": "http://www.blockedandreported.org",
+								"display_url": "blockedandreported.org",
+								"indices": [
+									98,
+									121
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 133895,
+				"friends_count": 2892,
+				"listed_count": 1516,
+				"created_at": "Thu Nov 11 04:35:40 +0000 2010",
+				"favourites_count": 57084,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 139208,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1055673387174019074/DR9CawFY_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1055673387174019074/DR9CawFY_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/214337395/1511319238",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 42,
+			"favorite_count": 771,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 4,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Setting the STEM part of this screenshot aside, my favorite part is the idea that before 1991 everyone in America were social democrats committed to equality. https://t.co/1tYkkoeHaz"
+	},
+	{
+		"created_at": "Sat Sep 10 21:37:49 +0000 2022",
+		"id": 1568715392784433200,
+		"id_str": "1568715392784433153",
+		"full_text": "@DKThomp @jessesingal Also the idea that there are more Americans with retroactive hard right views today than before 1992 is ridiculous",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			136
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DKThomp",
+					"name": "Derek Thompson",
+					"id": 37723353,
+					"id_str": "37723353",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "jessesingal",
+					"name": "Jesse Singal",
+					"id": 214337395,
+					"id_str": "214337395",
+					"indices": [
+						9,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1568712706735149000,
+		"in_reply_to_status_id_str": "1568712706735149058",
+		"in_reply_to_user_id": 37723353,
+		"in_reply_to_user_id_str": "37723353",
+		"in_reply_to_screen_name": "DKThomp",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "calm down",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80069,
+			"friends_count": 906,
+			"listed_count": 975,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 121188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DKThomp @jessesingal Also the idea that there are more Americans with retroactive hard right views today than before 1992 is ridiculous"
+	},
+	{
+		"created_at": "Sat Sep 10 17:56:36 +0000 2022",
+		"id": 1568659721581904000,
+		"id_str": "1568659721581903873",
+		"full_text": "@apokerplayer Indeed! This is one of the posts that people got the most annoyed at me for https://t.co/6xanZfBclh",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			113
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "apokerplayer",
+					"name": "Zachary Elwood",
+					"id": 191697965,
+					"id_str": "191697965",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6xanZfBclh",
+					"expanded_url": "https://bendreyfuss.substack.com/p/opinions-are-bad-criteria-for-friendship",
+					"display_url": "bendreyfuss.substack.com/p/opinions-are…",
+					"indices": [
+						90,
+						113
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1568658110591692800,
+		"in_reply_to_status_id_str": "1568658110591692800",
+		"in_reply_to_user_id": 191697965,
+		"in_reply_to_user_id_str": "191697965",
+		"in_reply_to_screen_name": "apokerplayer",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "calm down",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80069,
+			"friends_count": 906,
+			"listed_count": 975,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 121188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@apokerplayer Indeed! This is one of the posts that people got the most annoyed at me for https://t.co/6xanZfBclh"
+	},
+	{
+		"created_at": "Sat Sep 10 17:45:36 +0000 2022",
+		"id": 1568656951403516000,
+		"id_str": "1568656951403515904",
+		"full_text": "The best coffee? Coffee with a little bit of milk.\n\nBlack coffee is for psychopaths and coffee with sugar is for sickos",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1568655548018720800,
+		"in_reply_to_status_id_str": "1568655548018720769",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "calm down",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80069,
+			"friends_count": 906,
+			"listed_count": 975,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 121188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "The best coffee? Coffee with a little bit of milk.\n\nBlack coffee is for psychopaths and coffee with sugar is for sickos"
+	},
+	{
+		"created_at": "Sat Sep 10 17:43:48 +0000 2022",
+		"id": 1568656498745823200,
+		"id_str": "1568656498745823232",
+		"full_text": "@Baileymoon15 I can’t find it but this reminds me of one of my favorite @Kappa_Kappa tweets which was like “scrolling through pornhub for 326 pages until I find just the right video”",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Baileymoon15",
+					"name": "bailey moon",
+					"id": 405114203,
+					"id_str": "405114203",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "Kappa_Kappa",
+					"name": "your own personal jesus",
+					"id": 49317590,
+					"id_str": "49317590",
+					"indices": [
+						72,
+						84
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1568655540473012200,
+		"in_reply_to_status_id_str": "1568655540473012224",
+		"in_reply_to_user_id": 405114203,
+		"in_reply_to_user_id_str": "405114203",
+		"in_reply_to_screen_name": "Baileymoon15",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "calm down",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80069,
+			"friends_count": 906,
+			"listed_count": 975,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 121188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Baileymoon15 I can’t find it but this reminds me of one of my favorite @Kappa_Kappa tweets which was like “scrolling through pornhub for 326 pages until I find just the right video”"
+	},
+	{
+		"created_at": "Sat Sep 10 17:41:13 +0000 2022",
+		"id": 1568655850771980300,
+		"id_str": "1568655850771980288",
+		"full_text": "@jbarro Elephant and the rider! Elephant and the rider! That’s just your elephant talking Josh because of the Boston tea party!!!",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			129
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jbarro",
+					"name": "Josh Barro",
+					"id": 16244449,
+					"id_str": "16244449",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1568655470327660500,
+		"in_reply_to_status_id_str": "1568655470327660544",
+		"in_reply_to_user_id": 16244449,
+		"in_reply_to_user_id_str": "16244449",
+		"in_reply_to_screen_name": "jbarro",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "calm down",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80069,
+			"friends_count": 906,
+			"listed_count": 975,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 121188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jbarro Elephant and the rider! Elephant and the rider! That’s just your elephant talking Josh because of the Boston tea party!!!"
+	},
+	{
+		"created_at": "Sat Sep 10 17:40:01 +0000 2022",
+		"id": 1568655548018720800,
+		"id_str": "1568655548018720769",
+		"full_text": "I too prefer coffee to tea but I have a soft spot for tea and like a cup every once in a while.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1568655005598761000,
+		"in_reply_to_status_id_str": "1568655005598760962",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "calm down",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80069,
+			"friends_count": 906,
+			"listed_count": 975,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 121188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I too prefer coffee to tea but I have a soft spot for tea and like a cup every once in a while."
+	},
+	{
+		"created_at": "Sat Sep 10 17:37:52 +0000 2022",
+		"id": 1568655005598761000,
+		"id_str": "1568655005598760962",
+		"full_text": "You do not prefer coffee to tea because it is better than tea. You prefer it because of the Boston Tea Party.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			109
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1568654576441782300,
+		"in_reply_to_status_id_str": "1568654576441782273",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "calm down",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 80069,
+			"friends_count": 906,
+			"listed_count": 975,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 121188,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 4073,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1620155559",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 46,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "You do not prefer coffee to tea because it is better than tea. You prefer it because of the Boston Tea Party."
+	},
+	{
 		"created_at": "Sat Sep 10 03:48:46 +0000 2022",
 		"id": 1568446355613556700,
 		"id_str": "1568446355613556737",
