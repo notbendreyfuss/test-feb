@@ -1,6 +1,102 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Wed Jan 04 06:17:36 +0000 2023",
+		"id": 1610520802688106500,
+		"id_str": "1610520802688106498",
+		"full_text": "In the show “1923,” Helen Mirren says “one day women will be shaving between their legs because a razor company told them to.”\n\nWhat the fuck? Did they not do that in 1923????\n\nThe world was such an awful place not that long ago!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			229
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82376,
+			"friends_count": 971,
+			"listed_count": 1018,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 129653,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14713,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "In the show “1923,” Helen Mirren says “one day women will be shaving between their legs because a razor company told them to.”\n\nWhat the fuck? Did they not do that in 1923????\n\nThe world was such an awful place not that long ago!"
+	},
+	{
 		"created_at": "Tue Jan 03 04:42:57 +0000 2023",
 		"id": 1610134595986673700,
 		"id_str": "1610134595986673666",
@@ -14800,7 +14896,7 @@ Grailbird.data.tweets_2023_01 =
 			"user_mentions": [
 				{
 					"screen_name": "tearsintherain1",
-					"name": "Boudicca Zeb D’Estoville 🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿 🏴‍☠️",
+					"name": "Boudicca Zeb D’Estoville 🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿 🏴☠️",
 					"id": 496949253,
 					"id_str": "496949253",
 					"indices": [
@@ -14907,7 +15003,7 @@ Grailbird.data.tweets_2023_01 =
 			"user_mentions": [
 				{
 					"screen_name": "tearsintherain1",
-					"name": "Boudicca Zeb D’Estoville 🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿 🏴‍☠️",
+					"name": "Boudicca Zeb D’Estoville 🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿 🏴☠️",
 					"id": 496949253,
 					"id_str": "496949253",
 					"indices": [
