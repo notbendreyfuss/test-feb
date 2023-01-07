@@ -1,6 +1,648 @@
 Grailbird.data.tweets_2023_01 = 
 [
 	{
+		"created_at": "Fri Jan 06 23:55:10 +0000 2023",
+		"id": 1611511725291077600,
+		"id_str": "1611511725291077634",
+		"full_text": "Premium Rush is a movie that is way better than it deserves to be but I truly genuinely like.\n\nIt is also primarily about how bicyclists are a menace to society. https://t.co/bwNPLuAUpm",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			161
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bwNPLuAUpm",
+					"expanded_url": "https://twitter.com/janecoaston/status/1611495759743959041",
+					"display_url": "twitter.com/janecoaston/st…",
+					"indices": [
+						162,
+						185
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82346,
+			"friends_count": 970,
+			"listed_count": 1019,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 129763,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14830,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1611495759743959000,
+		"quoted_status_id_str": "1611495759743959041",
+		"quoted_status_permalink": {
+			"url": "https://t.co/bwNPLuAUpm",
+			"expanded": "https://twitter.com/janecoaston/status/1611495759743959041",
+			"display": "twitter.com/janecoaston/st…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 06 22:51:43 +0000 2023",
+			"id": 1611495759743959000,
+			"id_str": "1611495759743959041",
+			"full_text": "There’s a bicycle messenger movie (yes a bicycle messenger movie) called Premium Rush and he kills in it https://t.co/9Owrzytnrx",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				104
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/9Owrzytnrx",
+						"expanded_url": "https://twitter.com/scott_radcliffe/status/1611495520161218560",
+						"display_url": "twitter.com/scott_radcliff…",
+						"indices": [
+							105,
+							128
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 15195539,
+				"id_str": "15195539",
+				"name": "Jane Coaston",
+				"screen_name": "janecoaston",
+				"location": "Washington, DC",
+				"description": "now: @nytimes. Host of The Argument. Previously: @voxdotcom. Go Blue.",
+				"url": "https://t.co/VewOUIradg",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/VewOUIradg",
+								"expanded_url": "https://www.nytimes.com/column/the-argument",
+								"display_url": "nytimes.com/column/the-arg…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 139034,
+				"friends_count": 688,
+				"listed_count": 1990,
+				"created_at": "Sun Jun 22 06:19:07 +0000 2008",
+				"favourites_count": 30351,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 178101,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "9AE4E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1066095972068020229/-LEeA5LN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1066095972068020229/-LEeA5LN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/15195539/1422286446",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDFFCC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": true,
+			"quoted_status_id": 1611495520161218600,
+			"quoted_status_id_str": "1611495520161218560",
+			"quoted_status_permalink": {
+				"url": "https://t.co/9Owrzytnrx",
+				"expanded": "https://twitter.com/scott_radcliffe/status/1611495520161218560",
+				"display": "twitter.com/scott_radcliff…"
+			},
+			"retweet_count": 0,
+			"favorite_count": 53,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Premium Rush is a movie that is way better than it deserves to be but I truly genuinely like.\n\nIt is also primarily about how bicyclists are a menace to society. https://t.co/bwNPLuAUpm"
+	},
+	{
+		"created_at": "Fri Jan 06 22:40:59 +0000 2023",
+		"id": 1611493055705800700,
+		"id_str": "1611493055705800704",
+		"full_text": "“It’s supposed to be the war to end all wars!”\n\nThanks, one-eyed Christian Bale",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1611492752822534100,
+		"in_reply_to_status_id_str": "1611492752822534146",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82346,
+			"friends_count": 970,
+			"listed_count": 1019,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 129763,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14830,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "“It’s supposed to be the war to end all wars!”\n\nThanks, one-eyed Christian Bale"
+	},
+	{
+		"created_at": "Fri Jan 06 22:39:47 +0000 2023",
+		"id": 1611492752822534100,
+		"id_str": "1611492752822534146",
+		"full_text": "Haha I didn’t get far enough into this film to see this scene but lmao https://t.co/x6OmtrzF4U",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			70
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/x6OmtrzF4U",
+					"expanded_url": "https://twitter.com/beanwalrus/status/1611164193482493952",
+					"display_url": "twitter.com/beanwalrus/sta…",
+					"indices": [
+						71,
+						94
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82346,
+			"friends_count": 970,
+			"listed_count": 1019,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 129763,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14830,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1611164193482494000,
+		"quoted_status_id_str": "1611164193482493952",
+		"quoted_status_permalink": {
+			"url": "https://t.co/x6OmtrzF4U",
+			"expanded": "https://twitter.com/beanwalrus/status/1611164193482493952",
+			"display": "twitter.com/beanwalrus/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Fri Jan 06 00:54:12 +0000 2023",
+			"id": 1611164193482494000,
+			"id_str": "1611164193482493952",
+			"full_text": "I'm absolutely obsessed with this scene in Amsterdam where they talk about World War 2 as if they know the future, and are also all weird robots https://t.co/5zsGASHq3o",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				144
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1611163911650443300,
+						"id_str": "1611163911650443266",
+						"indices": [
+							145,
+							168
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1611163911650443266/pu/img/XVxwgz-rYvVvTTYH.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1611163911650443266/pu/img/XVxwgz-rYvVvTTYH.jpg",
+						"url": "https://t.co/5zsGASHq3o",
+						"display_url": "pic.twitter.com/5zsGASHq3o",
+						"expanded_url": "https://twitter.com/BeanWalrus/status/1611164193482493952/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1611163911650443300,
+						"id_str": "1611163911650443266",
+						"indices": [
+							145,
+							168
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1611163911650443266/pu/img/XVxwgz-rYvVvTTYH.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1611163911650443266/pu/img/XVxwgz-rYvVvTTYH.jpg",
+						"url": "https://t.co/5zsGASHq3o",
+						"display_url": "pic.twitter.com/5zsGASHq3o",
+						"expanded_url": "https://twitter.com/BeanWalrus/status/1611164193482493952/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 29763,
+							"variants": [
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1611163911650443266/pu/vid/480x270/mNXXB6abTPHspkZu.mp4?tag=12"
+								},
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1611163911650443266/pu/vid/1280x720/IDo905EpICkT8G_P.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1611163911650443266/pu/pl/pvFV1LKDIwZhH-Tu.m3u8?tag=12&container=fmp4"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1611163911650443266/pu/vid/640x360/ZagywlG8BNAHImNO.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 328224427,
+				"id_str": "328224427",
+				"name": "Daniel Galleghost 👻",
+				"screen_name": "BeanWalrus",
+				"location": "Albuquerque, NM",
+				"description": "God's perfect beautiful disaster. Filmmaker, animator, editor, video put-togetherer for Gameranx. He/Him",
+				"url": "https://t.co/7MhMZjUU59",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/7MhMZjUU59",
+								"expanded_url": "http://www.youtube.com/beanwalrus",
+								"display_url": "youtube.com/beanwalrus",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 535,
+				"friends_count": 1265,
+				"listed_count": 5,
+				"created_at": "Sat Jul 02 23:58:51 +0000 2011",
+				"favourites_count": 363428,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 11211,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1610840646457380865/HKxMbC2u_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1610840646457380865/HKxMbC2u_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/328224427/1637307486",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 444,
+			"favorite_count": 6776,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Haha I didn’t get far enough into this film to see this scene but lmao https://t.co/x6OmtrzF4U"
+	},
+	{
 		"created_at": "Fri Jan 06 03:39:03 +0000 2023",
 		"id": 1611205680492576800,
 		"id_str": "1611205680492576770",
