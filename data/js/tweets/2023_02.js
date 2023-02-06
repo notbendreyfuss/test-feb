@@ -1,6 +1,217 @@
 Grailbird.data.tweets_2023_02 = 
 [
 	{
+		"created_at": "Sun Feb 05 22:59:43 +0000 2023",
+		"id": 1622369405903712300,
+		"id_str": "1622369405903712257",
+		"full_text": "In Britain, where have crooked teeth and don’t talk properly they call where’s Waldo where’s Wally! Disgusting.\n\nIn Germany, they are very stern and Prussian and call him Walter. \n\nAnd in France where they only work like 20 hours a week and take many lovers they call him Charlie. https://t.co/rjW79LiBKe",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1622369401688424400,
+					"id_str": "1622369401688424448",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FoPQYAoaAAAg3mc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FoPQYAoaAAAg3mc.jpg",
+					"url": "https://t.co/rjW79LiBKe",
+					"display_url": "pic.twitter.com/rjW79LiBKe",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1622369405903712257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1622369401688424400,
+					"id_str": "1622369401688424448",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FoPQYAoaAAAg3mc.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FoPQYAoaAAAg3mc.jpg",
+					"url": "https://t.co/rjW79LiBKe",
+					"display_url": "pic.twitter.com/rjW79LiBKe",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1622369405903712257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1622369401692627000,
+					"id_str": "1622369401692626952",
+					"indices": [
+						281,
+						304
+					],
+					"media_url": "http://pbs.twimg.com/media/FoPQYApaIAgSA2E.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FoPQYApaIAgSA2E.jpg",
+					"url": "https://t.co/rjW79LiBKe",
+					"display_url": "pic.twitter.com/rjW79LiBKe",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1622369405903712257/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82209,
+			"friends_count": 979,
+			"listed_count": 1067,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 131815,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 17283,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In Britain, where have crooked teeth and don’t talk properly they call where’s Waldo where’s Wally! Disgusting.\n\nIn Germany, they are very stern and Prussian and call him Walter. \n\nAnd in France where they only work like 20 hours a week and take many lovers they call him Charlie. https://t.co/rjW79LiBKe"
+	},
+	{
 		"created_at": "Sat Feb 04 23:49:10 +0000 2023",
 		"id": 1622019464941428700,
 		"id_str": "1622019464941428736",
