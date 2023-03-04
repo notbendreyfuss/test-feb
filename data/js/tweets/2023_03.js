@@ -1,6 +1,929 @@
 Grailbird.data.tweets_2023_03 = 
 [
 	{
+		"created_at": "Sat Mar 04 06:18:47 +0000 2023",
+		"id": 1631901988022808600,
+		"id_str": "1631901988022808578",
+		"full_text": "@NoneAnonymously Haha seriously. Just cashing some checks I guess",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "NoneAnonymously",
+					"name": "None",
+					"id": 1615565675820376000,
+					"id_str": "1615565675820376064",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1631899739573584000,
+		"in_reply_to_status_id_str": "1631899739573583874",
+		"in_reply_to_user_id": 1615565675820376000,
+		"in_reply_to_user_id_str": "1615565675820376064",
+		"in_reply_to_screen_name": "NoneAnonymously",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82204,
+			"friends_count": 982,
+			"listed_count": 1060,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 132220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14669,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@NoneAnonymously Haha seriously. Just cashing some checks I guess"
+	},
+	{
+		"created_at": "Sat Mar 04 06:12:55 +0000 2023",
+		"id": 1631900509702422500,
+		"id_str": "1631900509702422529",
+		"full_text": "At least it isn’t possible on iPhones. Maybe there is a way of doing it on Android?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1631900030889238500,
+		"in_reply_to_status_id_str": "1631900030889238528",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82204,
+			"friends_count": 982,
+			"listed_count": 1060,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 132220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14669,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "At least it isn’t possible on iPhones. Maybe there is a way of doing it on Android?"
+	},
+	{
+		"created_at": "Sat Mar 04 06:11:01 +0000 2023",
+		"id": 1631900030889238500,
+		"id_str": "1631900030889238528",
+		"full_text": "(I’m watching the show The Consultant and it happens in this show, but it also happens in lots of other shows and movies)",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			121
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1631899836302913500,
+		"in_reply_to_status_id_str": "1631899836302913536",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82204,
+			"friends_count": 982,
+			"listed_count": 1060,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 132220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14669,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "(I’m watching the show The Consultant and it happens in this show, but it also happens in lots of other shows and movies)"
+	},
+	{
+		"created_at": "Sat Mar 04 06:10:14 +0000 2023",
+		"id": 1631899836302913500,
+		"id_str": "1631899836302913536",
+		"full_text": "In film and TV, characters constantly receive a text from “private number” and then engage in a back and forth conversation, but I don’t that is possible. Like, the phone needs to know what number to reply to. I know there are ways of sending anon texts but you can’t reply",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82204,
+			"friends_count": 982,
+			"listed_count": 1060,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 132220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14669,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "In film and TV, characters constantly receive a text from “private number” and then engage in a back and forth conversation, but I don’t that is possible. Like, the phone needs to know what number to reply to. I know there are ways of sending anon texts but you can’t reply"
+	},
+	{
+		"created_at": "Sat Mar 04 06:06:02 +0000 2023",
+		"id": 1631898777987735600,
+		"id_str": "1631898777987735552",
+		"full_text": "This tweet needs a bird note! Alaska Daily is the worst show in the world! It is far from the best new drama!!! https://t.co/coUhBaRypP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/coUhBaRypP",
+					"expanded_url": "https://twitter.com/alaskadailyabc/status/1631202685147021312",
+					"display_url": "twitter.com/alaskadailyabc…",
+					"indices": [
+						112,
+						135
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82204,
+			"friends_count": 982,
+			"listed_count": 1060,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 132220,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 14669,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1631202685147021300,
+		"quoted_status_id_str": "1631202685147021312",
+		"quoted_status_permalink": {
+			"url": "https://t.co/coUhBaRypP",
+			"expanded": "https://twitter.com/alaskadailyabc/status/1631202685147021312",
+			"display": "twitter.com/alaskadailyabc…"
+		},
+		"quoted_status": {
+			"created_at": "Thu Mar 02 08:00:01 +0000 2023",
+			"id": 1631202685147021300,
+			"id_str": "1631202685147021312",
+			"full_text": "TV's best new drama is BACK! Don't miss the return of #AlaskaDaily TONIGHT at 10/9c on ABC &amp; Stream on Hulu. https://t.co/HdsU9GqhFC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				112
+			],
+			"entities": {
+				"hashtags": [
+					{
+						"text": "AlaskaDaily",
+						"indices": [
+							54,
+							66
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1630379012689375200,
+						"id_str": "1630379012689375232",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/FqBGL_kaUAELJFm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FqBGL_kaUAELJFm.jpg",
+						"url": "https://t.co/HdsU9GqhFC",
+						"display_url": "pic.twitter.com/HdsU9GqhFC",
+						"expanded_url": "https://twitter.com/AlaskaDailyABC/status/1631202685147021312/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1630379012689375200,
+						"id_str": "1630379012689375232",
+						"indices": [
+							113,
+							136
+						],
+						"media_url": "http://pbs.twimg.com/media/FqBGL_kaUAELJFm.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FqBGL_kaUAELJFm.jpg",
+						"url": "https://t.co/HdsU9GqhFC",
+						"display_url": "pic.twitter.com/HdsU9GqhFC",
+						"expanded_url": "https://twitter.com/AlaskaDailyABC/status/1631202685147021312/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1080,
+								"h": 1080,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								1,
+								1
+							],
+							"duration_millis": 30030,
+							"variants": [
+								{
+									"bitrate": 432000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1630379012689375232/vid/320x320/-y2pPCKxDlZSFouz.mp4?tag=16"
+								},
+								{
+									"bitrate": 1280000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1630379012689375232/vid/720x720/hJ_eODZwjDbt1XgQ.mp4?tag=16"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1630379012689375232/vid/540x540/ArMn4B7Ikqwv43jb.mp4?tag=16"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/amplify_video/1630379012689375232/pl/ihc2oFc6YpUakDhh.m3u8?tag=16&container=fmp4"
+								},
+								{
+									"bitrate": 8768000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/amplify_video/1630379012689375232/vid/1080x1080/rlALt5mGOEAFadFS.mp4?tag=16"
+								}
+							]
+						},
+						"additional_media_info": {
+							"title": "",
+							"description": "",
+							"embeddable": true,
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1535078415006462000,
+				"id_str": "1535078415006461953",
+				"name": "Alaska Daily",
+				"screen_name": "AlaskaDailyABC",
+				"location": "",
+				"description": "@ABCNetwork's new drama series, #AlaskaDaily starring Oscar® winner @HilarySwank | Stream on Hulu.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2948,
+				"friends_count": 9,
+				"listed_count": 23,
+				"created_at": "Fri Jun 10 01:58:29 +0000 2022",
+				"favourites_count": 347,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": true,
+				"statuses_count": 545,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1557813454223724544/UoxtS9sm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1557813454223724544/UoxtS9sm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1535078415006461953/1665155502",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 97,
+			"favorite_count": 1011,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This tweet needs a bird note! Alaska Daily is the worst show in the world! It is far from the best new drama!!! https://t.co/coUhBaRypP"
+	},
+	{
+		"created_at": "Sat Mar 04 05:11:32 +0000 2023",
+		"id": 1630467220026556400,
+		"id_str": "1631885064501092359",
+		"full_text": "Our guy Sizemore https://t.co/jXYGyxPYVT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			16
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1630467168470200300,
+					"id_str": "1630467168470200321",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1630467168470200321/pu/img/wGoX6f0HGWtEY0Sk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1630467168470200321/pu/img/wGoX6f0HGWtEY0Sk.jpg",
+					"url": "https://t.co/jXYGyxPYVT",
+					"display_url": "pic.twitter.com/jXYGyxPYVT",
+					"expanded_url": "https://twitter.com/BillSimmons/status/1630467220026556416/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1630467168470200300,
+					"id_str": "1630467168470200321",
+					"indices": [
+						17,
+						40
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1630467168470200321/pu/img/wGoX6f0HGWtEY0Sk.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1630467168470200321/pu/img/wGoX6f0HGWtEY0Sk.jpg",
+					"url": "https://t.co/jXYGyxPYVT",
+					"display_url": "pic.twitter.com/jXYGyxPYVT",
+					"expanded_url": "https://twitter.com/BillSimmons/status/1630467220026556416/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							16,
+							9
+						],
+						"duration_millis": 15745,
+						"variants": [
+							{
+								"bitrate": 256000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1630467168470200321/pu/vid/480x270/W5KhAaElxryEqQAE.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1630467168470200321/pu/vid/1280x720/yhzFbVd4SPjHsYo1.mp4?tag=12"
+							},
+							{
+								"bitrate": 832000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1630467168470200321/pu/vid/640x360/Ms-x_kCMTOr2GyoE.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1630467168470200321/pu/pl/xRKJ9DWuU8bfKxV5.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 32765534,
+			"id_str": "32765534",
+			"name": "Bill Simmons",
+			"screen_name": "BillSimmons",
+			"location": "LA (via Boston)",
+			"description": "@ringer (founder) @spotify + The BS Podcast + @therewatchables + @BookoBasketball + Music Box series on @hbo ... Past Life: @grantland33 @30for30",
+			"url": "https://t.co/AgwukDDj3b",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/AgwukDDj3b",
+							"expanded_url": "https://www.theringer.com/bill-simmons",
+							"display_url": "theringer.com/bill-simmons",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 5634496,
+			"friends_count": 806,
+			"listed_count": 33367,
+			"created_at": "Sat Apr 18 03:37:31 +0000 2009",
+			"favourites_count": 69,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 34679,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": true,
+			"profile_background_color": "8B542B",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/645990884165578753/moYctN8w_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/645990884165578753/moYctN8w_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/32765534/1547448637",
+			"profile_link_color": "9D582E",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "EADEAA",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 182,
+		"favorite_count": 2216,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our guy Sizemore https://t.co/jXYGyxPYVT"
+	},
+	{
 		"created_at": "Fri Mar 03 04:37:25 +0000 2023",
 		"id": 1631514088051466200,
 		"id_str": "1631514088051466240",
@@ -1686,7 +2609,7 @@ Grailbird.data.tweets_2023_03 =
 			"created_at": "Thu Mar 02 11:46:09 +0000 2023",
 			"id": 1631259594239426600,
 			"id_str": "1631259594239426561",
-			"full_text": "If the US REALLY wants war, let's just say my bets are on the Russians. 🤷‍♂️ https://t.co/pN58O3RYQw",
+			"full_text": "If the US REALLY wants war, let's just say my bets are on the Russians. 🤷♂️ https://t.co/pN58O3RYQw",
 			"truncated": false,
 			"display_text_range": [
 				0,
@@ -2590,7 +3513,7 @@ Grailbird.data.tweets_2023_03 =
 				"name": "Lincoln Michel",
 				"screen_name": "TheLincoln",
 				"location": "NYC",
-				"description": "Unreal recognize unreal. \n\nSF noir novel! 🤖🕵️‍♂️🧬 https://t.co/oyYFEwZLhW\n\nNewsletter: https://t.co/pq4n08sJOR",
+				"description": "Unreal recognize unreal. \n\nSF noir novel! 🤖🕵️♂️🧬 https://t.co/oyYFEwZLhW\n\nNewsletter: https://t.co/pq4n08sJOR",
 				"url": "https://t.co/tZZBWayN5E",
 				"entities": {
 					"url": {
@@ -2908,7 +3831,7 @@ Grailbird.data.tweets_2023_03 =
 				"name": "Lincoln Michel",
 				"screen_name": "TheLincoln",
 				"location": "NYC",
-				"description": "Unreal recognize unreal. \n\nSF noir novel! 🤖🕵️‍♂️🧬 https://t.co/oyYFEwZLhW\n\nNewsletter: https://t.co/pq4n08sJOR",
+				"description": "Unreal recognize unreal. \n\nSF noir novel! 🤖🕵️♂️🧬 https://t.co/oyYFEwZLhW\n\nNewsletter: https://t.co/pq4n08sJOR",
 				"url": "https://t.co/tZZBWayN5E",
 				"entities": {
 					"url": {
@@ -3109,7 +4032,7 @@ Grailbird.data.tweets_2023_03 =
 			"name": "Lincoln Michel",
 			"screen_name": "TheLincoln",
 			"location": "NYC",
-			"description": "Unreal recognize unreal. \n\nSF noir novel! 🤖🕵️‍♂️🧬 https://t.co/oyYFEwZLhW\n\nNewsletter: https://t.co/pq4n08sJOR",
+			"description": "Unreal recognize unreal. \n\nSF noir novel! 🤖🕵️♂️🧬 https://t.co/oyYFEwZLhW\n\nNewsletter: https://t.co/pq4n08sJOR",
 			"url": "https://t.co/tZZBWayN5E",
 			"entities": {
 				"url": {
