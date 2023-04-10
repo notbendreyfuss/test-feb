@@ -1,6 +1,21686 @@
 Grailbird.data.tweets_2023_04 = 
 [
 	{
+		"created_at": "Mon Apr 10 06:16:14 +0000 2023",
+		"id": 1645309695471546400,
+		"id_str": "1645309695471546369",
+		"full_text": "Or Iraq. What about Iraq? They’d probably love Foxconn Kirkuk",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645309267006611500,
+		"in_reply_to_status_id_str": "1645309267006611456",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Or Iraq. What about Iraq? They’d probably love Foxconn Kirkuk"
+	},
+	{
+		"created_at": "Mon Apr 10 06:14:32 +0000 2023",
+		"id": 1645309267006611500,
+		"id_str": "1645309267006611456",
+		"full_text": "What about England? They aren’t in any position to negotiate.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645308923031830500,
+		"in_reply_to_status_id_str": "1645308923031830528",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "What about England? They aren’t in any position to negotiate."
+	},
+	{
+		"created_at": "Mon Apr 10 06:13:10 +0000 2023",
+		"id": 1645308923031830500,
+		"id_str": "1645308923031830528",
+		"full_text": "I’m not suggesting we actually pay more for our products. I’m just saying maybe we get American companies to underpay people in friendlier countries.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			149
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645308604063395800,
+		"in_reply_to_status_id_str": "1645308604063395841",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I’m not suggesting we actually pay more for our products. I’m just saying maybe we get American companies to underpay people in friendlier countries."
+	},
+	{
+		"created_at": "Mon Apr 10 06:11:54 +0000 2023",
+		"id": 1645308604063395800,
+		"id_str": "1645308604063395841",
+		"full_text": "The Chinese government is “not great” and the post-cold war world order is threatened by the country’s emergence as a serious threat to American hegemony.\n\nCan’t we find some other country to outsource our slave labor to? https://t.co/fHU1EZMYKd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fHU1EZMYKd",
+					"expanded_url": "https://twitter.com/nytimes/status/1645305650371608577",
+					"display_url": "twitter.com/nytimes/status…",
+					"indices": [
+						222,
+						245
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1645305650371608600,
+		"quoted_status_id_str": "1645305650371608577",
+		"quoted_status_permalink": {
+			"url": "https://t.co/fHU1EZMYKd",
+			"expanded": "https://twitter.com/nytimes/status/1645305650371608577",
+			"display": "twitter.com/nytimes/status…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 10 06:00:10 +0000 2023",
+			"id": 1645305650371608600,
+			"id_str": "1645305650371608577",
+			"full_text": "Elon Musk announced that Tesla would build a factory in Shanghai with the aim to assemble 10,000 giant batteries annually for electric producers and distributors. https://t.co/InXQbKliW3",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				186
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/InXQbKliW3",
+						"expanded_url": "https://nyti.ms/3KMtY8r",
+						"display_url": "nyti.ms/3KMtY8r",
+						"indices": [
+							163,
+							186
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 807095,
+				"id_str": "807095",
+				"name": "The New York Times",
+				"screen_name": "nytimes",
+				"location": "New York City",
+				"description": "News tips? Share them here: https://t.co/ghL9OoYKMM",
+				"url": "http://t.co/ahvuWqicF9",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/ahvuWqicF9",
+								"expanded_url": "http://www.nytimes.com/",
+								"display_url": "nytimes.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/ghL9OoYKMM",
+								"expanded_url": "http://nyti.ms/2FVHq9v",
+								"display_url": "nyti.ms/2FVHq9v",
+								"indices": [
+									28,
+									51
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 55025103,
+				"friends_count": 873,
+				"listed_count": 217945,
+				"created_at": "Fri Mar 02 20:41:42 +0000 2007",
+				"favourites_count": 18754,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 505078,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "131516",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1098244578472280064/gjkVMelR_normal.png",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1584666392",
+				"profile_link_color": "607696",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "EFEFEF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 39,
+			"favorite_count": 101,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Chinese government is “not great” and the post-cold war world order is threatened by the country’s emergence as a serious threat to American hegemony.\n\nCan’t we find some other country to outsource our slave labor to? https://t.co/fHU1EZMYKd"
+	},
+	{
+		"created_at": "Mon Apr 10 05:55:00 +0000 2023",
+		"id": 1645304352238891000,
+		"id_str": "1645304352238891008",
+		"full_text": "@gabrielmalor *cough*\nHomo\n*cough*",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gabrielmalor",
+					"name": "Gabriel Malor",
+					"id": 24212955,
+					"id_str": "24212955",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1644979876720418800,
+		"in_reply_to_status_id_str": "1644979876720418818",
+		"in_reply_to_user_id": 24212955,
+		"in_reply_to_user_id_str": "24212955",
+		"in_reply_to_screen_name": "gabrielmalor",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@gabrielmalor *cough*\nHomo\n*cough*"
+	},
+	{
+		"created_at": "Mon Apr 10 05:54:08 +0000 2023",
+		"id": 1645304135171080200,
+		"id_str": "1645304135171080192",
+		"full_text": "@mikehandles1313 @ThinSkinFatDude Eh, I’m confident it will be fine",
+		"truncated": false,
+		"display_text_range": [
+			34,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mikehandles1313",
+					"name": "my candles",
+					"id": 1579281964015636500,
+					"id_str": "1579281964015636480",
+					"indices": [
+						0,
+						16
+					]
+				},
+				{
+					"screen_name": "ThinSkinFatDude",
+					"name": "THE Spencer #1",
+					"id": 1037834911560998900,
+					"id_str": "1037834911560998912",
+					"indices": [
+						17,
+						33
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645296624535732200,
+		"in_reply_to_status_id_str": "1645296624535732228",
+		"in_reply_to_user_id": 1579281964015636500,
+		"in_reply_to_user_id_str": "1579281964015636480",
+		"in_reply_to_screen_name": "mikehandles1313",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mikehandles1313 @ThinSkinFatDude Eh, I’m confident it will be fine"
+	},
+	{
+		"created_at": "Mon Apr 10 05:49:41 +0000 2023",
+		"id": 1645303012238450700,
+		"id_str": "1645303012238450688",
+		"full_text": "@LondonToastof It’s definitely more effective than “capitalist”!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "LondonToastof",
+					"name": "Clem Fandango",
+					"id": 1308552979180449800,
+					"id_str": "1308552979180449792",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645302654162337800,
+		"in_reply_to_status_id_str": "1645302654162337792",
+		"in_reply_to_user_id": 1308552979180449800,
+		"in_reply_to_user_id_str": "1308552979180449792",
+		"in_reply_to_screen_name": "LondonToastof",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@LondonToastof It’s definitely more effective than “capitalist”!"
+	},
+	{
+		"created_at": "Mon Apr 10 05:43:05 +0000 2023",
+		"id": 1645301352090984400,
+		"id_str": "1645301352090984448",
+		"full_text": "No one who hasn’t spent time in a Marxist bathhouse finds that language compelling!!!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645300944824045600,
+		"in_reply_to_status_id_str": "1645300944824045568",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "No one who hasn’t spent time in a Marxist bathhouse finds that language compelling!!!"
+	},
+	{
+		"created_at": "Mon Apr 10 05:41:28 +0000 2023",
+		"id": 1645300944824045600,
+		"id_str": "1645300944824045568",
+		"full_text": "What is wrong with you lunatics? Stop taking about “capitalists”. It makes you sound like psychopaths. In America we have spent decades and decades talking about communists are bad and capitalism is good. Stop using those terms!!! Say “rich mean coal baron” or whatever.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			270
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645300549699653600,
+		"in_reply_to_status_id_str": "1645300549699653632",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "What is wrong with you lunatics? Stop taking about “capitalists”. It makes you sound like psychopaths. In America we have spent decades and decades talking about communists are bad and capitalism is good. Stop using those terms!!! Say “rich mean coal baron” or whatever."
+	},
+	{
+		"created_at": "Mon Apr 10 05:39:53 +0000 2023",
+		"id": 1645300549699653600,
+		"id_str": "1645300549699653632",
+		"full_text": "I literally cannot get through tweets like this where someone refers to “a capitalist.”\n\nBitch, welcome to America. It’s capitalists as far as you can see https://t.co/gKWr5vVGX5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1645300545782169600,
+					"id_str": "1645300545782169601",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FtVIIRQaQAEVD43.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtVIIRQaQAEVD43.jpg",
+					"url": "https://t.co/gKWr5vVGX5",
+					"display_url": "pic.twitter.com/gKWr5vVGX5",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645300549699653632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1158,
+							"h": 1608,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 490,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1645300545782169600,
+					"id_str": "1645300545782169601",
+					"indices": [
+						155,
+						178
+					],
+					"media_url": "http://pbs.twimg.com/media/FtVIIRQaQAEVD43.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtVIIRQaQAEVD43.jpg",
+					"url": "https://t.co/gKWr5vVGX5",
+					"display_url": "pic.twitter.com/gKWr5vVGX5",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645300549699653632/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1158,
+							"h": 1608,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 490,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 864,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 61,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I literally cannot get through tweets like this where someone refers to “a capitalist.”\n\nBitch, welcome to America. It’s capitalists as far as you can see https://t.co/gKWr5vVGX5"
+	},
+	{
+		"created_at": "Mon Apr 10 05:34:41 +0000 2023",
+		"id": 1645299241181679600,
+		"id_str": "1645299241181679616",
+		"full_text": "@Ogiel23 Whoah whoah what do you mean are you suggesting the Michelle Obama 2024 bus I bought was not a good investment",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			119
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ogiel23",
+					"name": "Ogiel (Moe Lane)",
+					"id": 702478958294466600,
+					"id_str": "702478958294466560",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645298114905907200,
+		"in_reply_to_status_id_str": "1645298114905907200",
+		"in_reply_to_user_id": 702478958294466600,
+		"in_reply_to_user_id_str": "702478958294466560",
+		"in_reply_to_screen_name": "Ogiel23",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Ogiel23 Whoah whoah what do you mean are you suggesting the Michelle Obama 2024 bus I bought was not a good investment"
+	},
+	{
+		"created_at": "Mon Apr 10 05:25:13 +0000 2023",
+		"id": 1645296857537708000,
+		"id_str": "1645296857537708032",
+		"full_text": "I’m sorry they cancelled Bat Girl or whatever but grow up.\n\nI liked Elizabeth Warren back in the day when she first entered the senate but I got a bit worried about her as she started running for president and now it seems like she has an incurable case of Poster’s Disease",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645296047638585300,
+		"in_reply_to_status_id_str": "1645296047638585346",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I’m sorry they cancelled Bat Girl or whatever but grow up.\n\nI liked Elizabeth Warren back in the day when she first entered the senate but I got a bit worried about her as she started running for president and now it seems like she has an incurable case of Poster’s Disease"
+	},
+	{
+		"created_at": "Mon Apr 10 05:22:00 +0000 2023",
+		"id": 1645296047638585300,
+		"id_str": "1645296047638585346",
+		"full_text": "No kidding https://t.co/53FRVLTinl https://t.co/OHmGWsnz3v",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/53FRVLTinl",
+					"expanded_url": "https://www.latimes.com/entertainment-arts/business/story/2023-04-07/doj-asked-to-review-warner-bros-discovery-merger",
+					"display_url": "latimes.com/entertainment-…",
+					"indices": [
+						11,
+						34
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1645296045008769000,
+					"id_str": "1645296045008769024",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/FtVECSkaUAAWvnv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtVECSkaUAAWvnv.jpg",
+					"url": "https://t.co/OHmGWsnz3v",
+					"display_url": "pic.twitter.com/OHmGWsnz3v",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645296047638585346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 362,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 622,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 622,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1645296045008769000,
+					"id_str": "1645296045008769024",
+					"indices": [
+						35,
+						58
+					],
+					"media_url": "http://pbs.twimg.com/media/FtVECSkaUAAWvnv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtVECSkaUAAWvnv.jpg",
+					"url": "https://t.co/OHmGWsnz3v",
+					"display_url": "pic.twitter.com/OHmGWsnz3v",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645296047638585346/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 362,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 622,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 622,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645295711301566500,
+		"in_reply_to_status_id_str": "1645295711301566464",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "No kidding https://t.co/53FRVLTinl https://t.co/OHmGWsnz3v"
+	},
+	{
+		"created_at": "Mon Apr 10 05:20:40 +0000 2023",
+		"id": 1645295711301566500,
+		"id_str": "1645295711301566464",
+		"full_text": "This is so stupid. https://t.co/53FRVLTinl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/53FRVLTinl",
+					"expanded_url": "https://www.latimes.com/entertainment-arts/business/story/2023-04-07/doj-asked-to-review-warner-bros-discovery-merger",
+					"display_url": "latimes.com/entertainment-…",
+					"indices": [
+						19,
+						42
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is so stupid. https://t.co/53FRVLTinl"
+	},
+	{
+		"created_at": "Mon Apr 10 05:12:26 +0000 2023",
+		"id": 1645293641286692900,
+		"id_str": "1645293641286692866",
+		"full_text": "Not looking good for Michelle Obama’s nascent primary challenge to Biden. https://t.co/ONOfB3T946",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ONOfB3T946",
+					"expanded_url": "https://twitter.com/politics_polls/status/1645292293446877187",
+					"display_url": "twitter.com/politics_polls…",
+					"indices": [
+						74,
+						97
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1645292293446877200,
+		"quoted_status_id_str": "1645292293446877187",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ONOfB3T946",
+			"expanded": "https://twitter.com/politics_polls/status/1645292293446877187",
+			"display": "twitter.com/politics_polls…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 10 05:07:05 +0000 2023",
+			"id": 1645292293446877200,
+			"id_str": "1645292293446877187",
+			"full_text": "2024 National Democratic Primary:\n\nBiden 39%\nM. Obama 8%\nHarris 7%\nSanders 7%\nButtigieg 5%\nClinton 4%\nOcasio-Cortez 4%\nWarren 4%\nNewsom 3%\nKaine 2%\nKlobuchar 2%\nGillibrand 1%\nManchin 1%\nPolis 1%\n\nI&amp;I/TIPP, 662 RV, 3/29-31\nhttps://t.co/5oGRUpcmyq https://t.co/KyPQVSP5Bz",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				249
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/5oGRUpcmyq",
+						"expanded_url": "https://issuesinsights.com/2023/04/10/can-anyone-beat-biden-or-trump-in-2024-primaries-ii-tipp-poll/",
+						"display_url": "issuesinsights.com/2023/04/10/can…",
+						"indices": [
+							226,
+							249
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 1645292288187285500,
+						"id_str": "1645292288187285506",
+						"indices": [
+							250,
+							273
+						],
+						"media_url": "http://pbs.twimg.com/media/FtVAnnUXwAIIsZN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FtVAnnUXwAIIsZN.jpg",
+						"url": "https://t.co/KyPQVSP5Bz",
+						"display_url": "pic.twitter.com/KyPQVSP5Bz",
+						"expanded_url": "https://twitter.com/Politics_Polls/status/1645292293446877187/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 740,
+								"h": 555,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 740,
+								"h": 555,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1645292288187285500,
+						"id_str": "1645292288187285506",
+						"indices": [
+							250,
+							273
+						],
+						"media_url": "http://pbs.twimg.com/media/FtVAnnUXwAIIsZN.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FtVAnnUXwAIIsZN.jpg",
+						"url": "https://t.co/KyPQVSP5Bz",
+						"display_url": "pic.twitter.com/KyPQVSP5Bz",
+						"expanded_url": "https://twitter.com/Politics_Polls/status/1645292293446877187/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 510,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 740,
+								"h": 555,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 740,
+								"h": 555,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1903105045,
+				"id_str": "1903105045",
+				"name": "Political Polls",
+				"screen_name": "Politics_Polls",
+				"location": "",
+				"description": "Posting all Political Polls 📢 Advertise With Us 💬 DM or Email politicspollsads@gmail.com for more details",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 311306,
+				"friends_count": 311,
+				"listed_count": 3670,
+				"created_at": "Wed Sep 25 06:22:22 +0000 2013",
+				"favourites_count": 1998,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 34765,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/879203541289717760/qw0an2wG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/879203541289717760/qw0an2wG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1903105045/1498455589",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 8,
+			"favorite_count": 50,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Not looking good for Michelle Obama’s nascent primary challenge to Biden. https://t.co/ONOfB3T946"
+	},
+	{
+		"created_at": "Mon Apr 10 05:10:47 +0000 2023",
+		"id": 1645293224213512200,
+		"id_str": "1645293224213512193",
+		"full_text": "@shoutingboy Haha that guy is a lawyer and I think this crackhead chick is a teacher!",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shoutingboy",
+					"name": "Andrew S.",
+					"id": 8000812,
+					"id_str": "8000812",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645292882511925200,
+		"in_reply_to_status_id_str": "1645292882511925248",
+		"in_reply_to_user_id": 8000812,
+		"in_reply_to_user_id_str": "8000812",
+		"in_reply_to_screen_name": "shoutingboy",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@shoutingboy Haha that guy is a lawyer and I think this crackhead chick is a teacher!"
+	},
+	{
+		"created_at": "Mon Apr 10 05:09:01 +0000 2023",
+		"id": 1645292781425000400,
+		"id_str": "1645292781425000448",
+		"full_text": "@SnoKingDale Exactly. This was exactly her position. I am so happy you have confirmed the foilees phenomenon. Because sometimes I tell this humorous (loving!) story and people think I’m a psychotic",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SnoKingDale",
+					"name": "Dale",
+					"id": 785341417182810100,
+					"id_str": "785341417182810112",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645292455972208600,
+		"in_reply_to_status_id_str": "1645292455972208640",
+		"in_reply_to_user_id": 785341417182810100,
+		"in_reply_to_user_id_str": "785341417182810112",
+		"in_reply_to_screen_name": "SnoKingDale",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SnoKingDale Exactly. This was exactly her position. I am so happy you have confirmed the foilees phenomenon. Because sometimes I tell this humorous (loving!) story and people think I’m a psychotic"
+	},
+	{
+		"created_at": "Mon Apr 10 05:06:00 +0000 2023",
+		"id": 1645292019412263000,
+		"id_str": "1645292019412262913",
+		"full_text": "@SnoKingDale Literally she was like “no I don’t know crack. I like foilees.” And then I pulled up the ingredients of crack on my phone and she was very accepting of the similarity",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			179
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SnoKingDale",
+					"name": "Dale",
+					"id": 785341417182810100,
+					"id_str": "785341417182810112",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645291786741629000,
+		"in_reply_to_status_id_str": "1645291786741628928",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SnoKingDale Literally she was like “no I don’t know crack. I like foilees.” And then I pulled up the ingredients of crack on my phone and she was very accepting of the similarity"
+	},
+	{
+		"created_at": "Mon Apr 10 05:05:04 +0000 2023",
+		"id": 1645291786741629000,
+		"id_str": "1645291786741628928",
+		"full_text": "@SnoKingDale Foilees is exactly what she told me they were called!!!!",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SnoKingDale",
+					"name": "Dale",
+					"id": 785341417182810100,
+					"id_str": "785341417182810112",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645291576195973000,
+		"in_reply_to_status_id_str": "1645291576195973121",
+		"in_reply_to_user_id": 785341417182810100,
+		"in_reply_to_user_id_str": "785341417182810112",
+		"in_reply_to_screen_name": "SnoKingDale",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SnoKingDale Foilees is exactly what she told me they were called!!!!"
+	},
+	{
+		"created_at": "Mon Apr 10 05:03:11 +0000 2023",
+		"id": 1645291312542019600,
+		"id_str": "1645291312542019584",
+		"full_text": "@ThinSkinFatDude look, im not saying she was going to age well.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ThinSkinFatDude",
+					"name": "THE Spencer #1",
+					"id": 1037834911560998900,
+					"id_str": "1037834911560998912",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1645290795556036600,
+		"in_reply_to_status_id_str": "1645290795556036609",
+		"in_reply_to_user_id": 1037834911560998900,
+		"in_reply_to_user_id_str": "1037834911560998912",
+		"in_reply_to_screen_name": "ThinSkinFatDude",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ThinSkinFatDude look, im not saying she was going to age well."
+	},
+	{
+		"created_at": "Mon Apr 10 05:02:36 +0000 2023",
+		"id": 1645291163430293500,
+		"id_str": "1645291163430293505",
+		"full_text": "really beautiful woman though. you'd have 'yes and'd her crack problem too.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1645290552446046200,
+		"in_reply_to_status_id_str": "1645290552446046208",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 53,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "really beautiful woman though. you'd have 'yes and'd her crack problem too."
+	},
+	{
+		"created_at": "Mon Apr 10 05:00:41 +0000 2023",
+		"id": 1645290683958452200,
+		"id_str": "1645290683958452224",
+		"full_text": "@ThinSkinFatDude she was very pretty",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			36
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ThinSkinFatDude",
+					"name": "THE Spencer #1",
+					"id": 1037834911560998900,
+					"id_str": "1037834911560998912",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1645290410732920800,
+		"in_reply_to_status_id_str": "1645290410732920834",
+		"in_reply_to_user_id": 1037834911560998900,
+		"in_reply_to_user_id_str": "1037834911560998912",
+		"in_reply_to_screen_name": "ThinSkinFatDude",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ThinSkinFatDude she was very pretty"
+	},
+	{
+		"created_at": "Mon Apr 10 05:00:10 +0000 2023",
+		"id": 1645290552446046200,
+		"id_str": "1645290552446046208",
+		"full_text": "that conversation happened friday afternoon as we drove on the 10 out of Los Angeles. You will perhaps be unsurprised to learn that the romantic weekend in the desert did not go terribly well.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			192
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1645290186866307000,
+		"in_reply_to_status_id_str": "1645290186866307073",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 44,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "that conversation happened friday afternoon as we drove on the 10 out of Los Angeles. You will perhaps be unsurprised to learn that the romantic weekend in the desert did not go terribly well."
+	},
+	{
+		"created_at": "Mon Apr 10 04:58:43 +0000 2023",
+		"id": 1645290186866307000,
+		"id_str": "1645290186866307073",
+		"full_text": "i once went on a romantic weekend with this chick and she told me she liked smoking cocaine with baking powder off tinfoil and i was like \"so crack\" and she said \"no, not crack\" and i showed her on my phone the definition of crack and she said \"huh, ok, well i guess i like crack\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 100,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "i once went on a romantic weekend with this chick and she told me she liked smoking cocaine with baking powder off tinfoil and i was like \"so crack\" and she said \"no, not crack\" and i showed her on my phone the definition of crack and she said \"huh, ok, well i guess i like crack\""
+	},
+	{
+		"created_at": "Mon Apr 10 04:51:40 +0000 2023",
+		"id": 1645288415666266000,
+		"id_str": "1645288415666266114",
+		"full_text": "why would i ever get a boy dog? i dont need some dumbass walking around my house showing off his STEM skills, barking at me until i drive him to space camp.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			156
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1645287491791118300,
+		"in_reply_to_status_id_str": "1645287491791118337",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 21,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "why would i ever get a boy dog? i dont need some dumbass walking around my house showing off his STEM skills, barking at me until i drive him to space camp."
+	},
+	{
+		"created_at": "Mon Apr 10 04:48:00 +0000 2023",
+		"id": 1645287491791118300,
+		"id_str": "1645287491791118337",
+		"full_text": "i hate when people call my dog a \"good boy.\" She is a girl. She likes Barbie dolls and  getting makeovers. The only post-secondary education she is considering is doing a six week course at Vidal Sassoon https://t.co/GVSw3dRLUw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			203
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1645287347804831700,
+					"id_str": "1645287347804831745",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FtU8IC9aAAEEWxX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtU8IC9aAAEEWxX.jpg",
+					"url": "https://t.co/GVSw3dRLUw",
+					"display_url": "pic.twitter.com/GVSw3dRLUw",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645287491791118337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 504,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1518,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 889,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1645287347804831700,
+					"id_str": "1645287347804831745",
+					"indices": [
+						204,
+						227
+					],
+					"media_url": "http://pbs.twimg.com/media/FtU8IC9aAAEEWxX.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtU8IC9aAAEEWxX.jpg",
+					"url": "https://t.co/GVSw3dRLUw",
+					"display_url": "pic.twitter.com/GVSw3dRLUw",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645287491791118337/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 504,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1518,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 889,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 42,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "i hate when people call my dog a \"good boy.\" She is a girl. She likes Barbie dolls and  getting makeovers. The only post-secondary education she is considering is doing a six week course at Vidal Sassoon https://t.co/GVSw3dRLUw"
+	},
+	{
+		"created_at": "Mon Apr 10 04:36:51 +0000 2023",
+		"id": 1645284687210860500,
+		"id_str": "1645284687210860545",
+		"full_text": "The world needs car salesmen too.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			33
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645284548559741000,
+		"in_reply_to_status_id_str": "1645284548559740929",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "The world needs car salesmen too."
+	},
+	{
+		"created_at": "Mon Apr 10 04:36:18 +0000 2023",
+		"id": 1645284548559741000,
+		"id_str": "1645284548559740929",
+		"full_text": "Maybe you should all just turn in your guns and acknowledge that you’re unqualified to wear a badge and that no system of justice should be built around your opinions.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645283894374154200,
+		"in_reply_to_status_id_str": "1645283894374154242",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Maybe you should all just turn in your guns and acknowledge that you’re unqualified to wear a badge and that no system of justice should be built around your opinions."
+	},
+	{
+		"created_at": "Mon Apr 10 04:33:42 +0000 2023",
+		"id": 1645283894374154200,
+		"id_str": "1645283894374154242",
+		"full_text": "Twitter reminds me a bit of the deranged Italian cops who put Amanda Knox away just because she didn’t demonstrate grief the right way.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			135
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Twitter reminds me a bit of the deranged Italian cops who put Amanda Knox away just because she didn’t demonstrate grief the right way."
+	},
+	{
+		"created_at": "Mon Apr 10 04:26:02 +0000 2023",
+		"id": 1645281961546506200,
+		"id_str": "1645281961546506240",
+		"full_text": "@JYFboy The dude I bought her from also accepted my payment through Venmo which makes me doubt his commitment to the Amish life!",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JYFboy",
+					"name": "Janet Yellen's Fboy",
+					"id": 1016899397513334800,
+					"id_str": "1016899397513334785",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645281087277478000,
+		"in_reply_to_status_id_str": "1645281087277477891",
+		"in_reply_to_user_id": 1016899397513334800,
+		"in_reply_to_user_id_str": "1016899397513334785",
+		"in_reply_to_screen_name": "JYFboy",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@JYFboy The dude I bought her from also accepted my payment through Venmo which makes me doubt his commitment to the Amish life!"
+	},
+	{
+		"created_at": "Mon Apr 10 04:24:03 +0000 2023",
+		"id": 1645281464517271600,
+		"id_str": "1645281464517271554",
+		"full_text": "@BadLegalTakes Haha what",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BadLegalTakes",
+					"name": "Bad Legal Takes",
+					"id": 1180871463395455000,
+					"id_str": "1180871463395454979",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645281315686862800,
+		"in_reply_to_status_id_str": "1645281315686862849",
+		"in_reply_to_user_id": 1180871463395455000,
+		"in_reply_to_user_id_str": "1180871463395454979",
+		"in_reply_to_screen_name": "BadLegalTakes",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BadLegalTakes Haha what"
+	},
+	{
+		"created_at": "Mon Apr 10 04:22:27 +0000 2023",
+		"id": 1645281060220022800,
+		"id_str": "1645281060220022788",
+		"full_text": "@EggerDC @DodgersFanPG Sorry sorry",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			34
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EggerDC",
+					"name": "Andrew Egger",
+					"id": 2393507119,
+					"id_str": "2393507119",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "DodgersFanPG",
+					"name": "Dodgers Fan Pablo G",
+					"id": 1177581854213529600,
+					"id_str": "1177581854213529606",
+					"indices": [
+						9,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645280841134645200,
+		"in_reply_to_status_id_str": "1645280841134645249",
+		"in_reply_to_user_id": 2393507119,
+		"in_reply_to_user_id_str": "2393507119",
+		"in_reply_to_screen_name": "EggerDC",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@EggerDC @DodgersFanPG Sorry sorry"
+	},
+	{
+		"created_at": "Mon Apr 10 04:20:23 +0000 2023",
+		"id": 1645280540163965000,
+		"id_str": "1645280540163964929",
+		"full_text": "@DodgersFanPG @EggerDC Oh please. You’ve just lost your sense of humor because you’re being a little baby who needs his bottle. Only the pathetic people on earth accuse other people of being “edgy”",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			197
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DodgersFanPG",
+					"name": "Dodgers Fan Pablo G",
+					"id": 1177581854213529600,
+					"id_str": "1177581854213529606",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "EggerDC",
+					"name": "Andrew Egger",
+					"id": 2393507119,
+					"id_str": "2393507119",
+					"indices": [
+						14,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645280235003289600,
+		"in_reply_to_status_id_str": "1645280235003289603",
+		"in_reply_to_user_id": 1177581854213529600,
+		"in_reply_to_user_id_str": "1177581854213529606",
+		"in_reply_to_screen_name": "DodgersFanPG",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DodgersFanPG @EggerDC Oh please. You’ve just lost your sense of humor because you’re being a little baby who needs his bottle. Only the pathetic people on earth accuse other people of being “edgy”"
+	},
+	{
+		"created_at": "Mon Apr 10 04:17:58 +0000 2023",
+		"id": 1645279932962992000,
+		"id_str": "1645279932962992128",
+		"full_text": "Have to walk on egg shells around someone who makes a joke that bad",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645279603802488800,
+		"in_reply_to_status_id_str": "1645279603802488833",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Have to walk on egg shells around someone who makes a joke that bad"
+	},
+	{
+		"created_at": "Mon Apr 10 04:17:07 +0000 2023",
+		"id": 1645279721108676600,
+		"id_str": "1645279721108676608",
+		"full_text": "@DodgersFanPG @EggerDC All of that is true but you can’t accuse me of being basic!",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DodgersFanPG",
+					"name": "Dodgers Fan Pablo G",
+					"id": 1177581854213529600,
+					"id_str": "1177581854213529606",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "EggerDC",
+					"name": "Andrew Egger",
+					"id": 2393507119,
+					"id_str": "2393507119",
+					"indices": [
+						14,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645279207851794400,
+		"in_reply_to_status_id_str": "1645279207851794433",
+		"in_reply_to_user_id": 1177581854213529600,
+		"in_reply_to_user_id_str": "1177581854213529606",
+		"in_reply_to_screen_name": "DodgersFanPG",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DodgersFanPG @EggerDC All of that is true but you can’t accuse me of being basic!"
+	},
+	{
+		"created_at": "Mon Apr 10 04:16:40 +0000 2023",
+		"id": 1645279603802488800,
+		"id_str": "1645279603802488833",
+		"full_text": "It is such a bad joke that I’m worried if I mock them for it they’ll either kill themselves or shoot up a school or something. “Titter” is a cry for help. https://t.co/MGywVE6rQ7",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			154
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/MGywVE6rQ7",
+					"expanded_url": "https://twitter.com/joshpetri/status/1645278453854519302",
+					"display_url": "twitter.com/joshpetri/stat…",
+					"indices": [
+						155,
+						178
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1645278453854519300,
+		"quoted_status_id_str": "1645278453854519302",
+		"quoted_status_permalink": {
+			"url": "https://t.co/MGywVE6rQ7",
+			"expanded": "https://twitter.com/joshpetri/status/1645278453854519302",
+			"display": "twitter.com/joshpetri/stat…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 10 04:12:05 +0000 2023",
+			"id": 1645278453854519300,
+			"id_str": "1645278453854519302",
+			"full_text": "\"titter\" is a joke so bad it wouldn't have been written for chevy chase in one of the seasons of \"community\" when the whole cast and crew hated him",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				147
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 363368593,
+				"id_str": "363368593",
+				"name": "Josh Petri",
+				"screen_name": "joshpetri",
+				"location": "Portland, OR",
+				"description": "Outdoor industry person. Formerly @Business. He/Him/His.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4242,
+				"friends_count": 1129,
+				"listed_count": 160,
+				"created_at": "Sun Aug 28 00:02:07 +0000 2011",
+				"favourites_count": 6761,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 151,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "022330",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1354112431232929792/S6BoZt06_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1354112431232929792/S6BoZt06_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/363368593/1611681368",
+				"profile_link_color": "0084B4",
+				"profile_sidebar_border_color": "A8C7F7",
+				"profile_sidebar_fill_color": "C0DFEC",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 6,
+			"favorite_count": 52,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 8,
+		"favorite_count": 47,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It is such a bad joke that I’m worried if I mock them for it they’ll either kill themselves or shoot up a school or something. “Titter” is a cry for help. https://t.co/MGywVE6rQ7"
+	},
+	{
+		"created_at": "Mon Apr 10 04:14:30 +0000 2023",
+		"id": 1645279060526858200,
+		"id_str": "1645279060526858241",
+		"full_text": "@OculusAutemDei Yeah she was literally 10 weeks old when I got her, which apparently is the earliest they can be sold. I am her sun and moon.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			141
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "OculusAutemDei",
+					"name": "Eye of God",
+					"id": 1124322277670162400,
+					"id_str": "1124322277670162435",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645278359545421800,
+		"in_reply_to_status_id_str": "1645278359545421824",
+		"in_reply_to_user_id": 1124322277670162400,
+		"in_reply_to_user_id_str": "1124322277670162435",
+		"in_reply_to_screen_name": "OculusAutemDei",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@OculusAutemDei Yeah she was literally 10 weeks old when I got her, which apparently is the earliest they can be sold. I am her sun and moon."
+	},
+	{
+		"created_at": "Mon Apr 10 04:13:17 +0000 2023",
+		"id": 1645278753600467000,
+		"id_str": "1645278753600466945",
+		"full_text": "@joshpetri For real. It’s so embarrassing that i feel weird even teasing them about it",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			86
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joshpetri",
+					"name": "Josh Petri",
+					"id": 363368593,
+					"id_str": "363368593",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645278453854519300,
+		"in_reply_to_status_id_str": "1645278453854519302",
+		"in_reply_to_user_id": 363368593,
+		"in_reply_to_user_id_str": "363368593",
+		"in_reply_to_screen_name": "joshpetri",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@joshpetri For real. It’s so embarrassing that i feel weird even teasing them about it"
+	},
+	{
+		"created_at": "Mon Apr 10 04:12:04 +0000 2023",
+		"id": 1645278447441416200,
+		"id_str": "1645278447441416192",
+		"full_text": "@DodgersFanPG @EggerDC Well you’re a basic bitch",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DodgersFanPG",
+					"name": "Dodgers Fan Pablo G",
+					"id": 1177581854213529600,
+					"id_str": "1177581854213529606",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "EggerDC",
+					"name": "Andrew Egger",
+					"id": 2393507119,
+					"id_str": "2393507119",
+					"indices": [
+						14,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645277890794201000,
+		"in_reply_to_status_id_str": "1645277890794201088",
+		"in_reply_to_user_id": 1177581854213529600,
+		"in_reply_to_user_id_str": "1177581854213529606",
+		"in_reply_to_screen_name": "DodgersFanPG",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DodgersFanPG @EggerDC Well you’re a basic bitch"
+	},
+	{
+		"created_at": "Mon Apr 10 04:06:38 +0000 2023",
+		"id": 1645277082296123400,
+		"id_str": "1645277082296123392",
+		"full_text": "I bought Hadley at the beginning of the pandemic from an Amish puppy mill and then lied for about a year about her being a rescue. Then when I finally came clean and admitted the truth every single person said “yeah we sort of figured.”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645276013549752300,
+		"in_reply_to_status_id_str": "1645276013549752320",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 37,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I bought Hadley at the beginning of the pandemic from an Amish puppy mill and then lied for about a year about her being a rescue. Then when I finally came clean and admitted the truth every single person said “yeah we sort of figured.”"
+	},
+	{
+		"created_at": "Mon Apr 10 04:02:24 +0000 2023",
+		"id": 1645276013549752300,
+		"id_str": "1645276013549752320",
+		"full_text": "I love this stupid dog so much it is ridiculous https://t.co/ky0C8B2KaO",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			47
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1645275988966912000,
+					"id_str": "1645275988966912001",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1645275988966912001/pu/img/mNCxLrS7BYkcyW46.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1645275988966912001/pu/img/mNCxLrS7BYkcyW46.jpg",
+					"url": "https://t.co/ky0C8B2KaO",
+					"display_url": "pic.twitter.com/ky0C8B2KaO",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645276013549752320/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 922,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 922,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 531,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1645275988966912000,
+					"id_str": "1645275988966912001",
+					"indices": [
+						48,
+						71
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1645275988966912001/pu/img/mNCxLrS7BYkcyW46.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1645275988966912001/pu/img/mNCxLrS7BYkcyW46.jpg",
+					"url": "https://t.co/ky0C8B2KaO",
+					"display_url": "pic.twitter.com/ky0C8B2KaO",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645276013549752320/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 720,
+							"h": 922,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 720,
+							"h": 922,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 531,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							360,
+							461
+						],
+						"duration_millis": 4818,
+						"variants": [
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1645275988966912001/pu/vid/720x922/8ZN4fXe4W4AE-Uuu.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1645275988966912001/pu/vid/320x408/uwPIXs4UB5pu_UQ-.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1645275988966912001/pu/pl/gZ2B6-wxIFyXYEXu.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1645275988966912001/pu/vid/480x614/m6C8bRTZ6_mGTODX.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I love this stupid dog so much it is ridiculous https://t.co/ky0C8B2KaO"
+	},
+	{
+		"created_at": "Mon Apr 10 03:55:38 +0000 2023",
+		"id": 1645274310708457500,
+		"id_str": "1645274310708457473",
+		"full_text": "“Smart people” are so annoying. Chop em up and feed them to the dumb, I say.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645273457767370800,
+		"in_reply_to_status_id_str": "1645273457767370752",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 18,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "“Smart people” are so annoying. Chop em up and feed them to the dumb, I say."
+	},
+	{
+		"created_at": "Mon Apr 10 03:52:14 +0000 2023",
+		"id": 1645273457767370800,
+		"id_str": "1645273457767370752",
+		"full_text": "Reading in public and forcing people to hear your inane thoughts about Absalom, Absalom is the literary equivalent of a new money mistake.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645272893406969900,
+		"in_reply_to_status_id_str": "1645272893406969856",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Reading in public and forcing people to hear your inane thoughts about Absalom, Absalom is the literary equivalent of a new money mistake."
+	},
+	{
+		"created_at": "Mon Apr 10 03:50:00 +0000 2023",
+		"id": 1645272893406969900,
+		"id_str": "1645272893406969856",
+		"full_text": "All these fucking loser bums who went to the second best college in western Wyoming are all like “blah blah look at me! I read books! Have sex with me please!” \n\nI was raised to believe that only try hard losers with something to prove flaunt their education.  So excuse meeeee",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645270583624765400,
+		"in_reply_to_status_id_str": "1645270583624765441",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "All these fucking loser bums who went to the second best college in western Wyoming are all like “blah blah look at me! I read books! Have sex with me please!” \n\nI was raised to believe that only try hard losers with something to prove flaunt their education.  So excuse meeeee"
+	},
+	{
+		"created_at": "Mon Apr 10 03:47:02 +0000 2023",
+		"id": 1645272148351783000,
+		"id_str": "1645272148351782912",
+		"full_text": "@KFoleyFL I graduated cum laude with a degree in literature. There is a reason my writing is peppered with obscure references and quotes.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			137
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KFoleyFL",
+					"name": "Kyle Foley",
+					"id": 490013684,
+					"id_str": "490013684",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645271432249630700,
+		"in_reply_to_status_id_str": "1645271432249630720",
+		"in_reply_to_user_id": 490013684,
+		"in_reply_to_user_id_str": "490013684",
+		"in_reply_to_screen_name": "KFoleyFL",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KFoleyFL I graduated cum laude with a degree in literature. There is a reason my writing is peppered with obscure references and quotes."
+	},
+	{
+		"created_at": "Mon Apr 10 03:44:42 +0000 2023",
+		"id": 1645271561526714400,
+		"id_str": "1645271561526714368",
+		"full_text": "@nyttypos @nytimes Tough tits. Write a letter, put it in a bottle, and throw it into the Hudson if you don’t like it.",
+		"truncated": false,
+		"display_text_range": [
+			19,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nyttypos",
+					"name": "Typos of the New York Times",
+					"id": 1173796947347611600,
+					"id_str": "1173796947347611648",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						10,
+						18
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645268285535973400,
+		"in_reply_to_status_id_str": "1645268285535973377",
+		"in_reply_to_user_id": 1173796947347611600,
+		"in_reply_to_user_id_str": "1173796947347611648",
+		"in_reply_to_screen_name": "nyttypos",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@nyttypos @nytimes Tough tits. Write a letter, put it in a bottle, and throw it into the Hudson if you don’t like it."
+	},
+	{
+		"created_at": "Mon Apr 10 03:43:24 +0000 2023",
+		"id": 1645271233297256400,
+		"id_str": "1645271233297256449",
+		"full_text": "@WaltHickey you brought this on yourself!",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WaltHickey",
+					"name": "Walter Hickey",
+					"id": 235700566,
+					"id_str": "235700566",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645270591530827800,
+		"in_reply_to_status_id_str": "1645270591530827777",
+		"in_reply_to_user_id": 235700566,
+		"in_reply_to_user_id_str": "235700566",
+		"in_reply_to_screen_name": "WaltHickey",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@WaltHickey you brought this on yourself!"
+	},
+	{
+		"created_at": "Mon Apr 10 03:41:16 +0000 2023",
+		"id": 1645270698854867000,
+		"id_str": "1645270698854866944",
+		"full_text": "@CartoonessToo Maybe because you have a really good sense of humor!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			67
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "CartoonessToo",
+					"name": "Donna Barstow",
+					"id": 1020607197787508700,
+					"id_str": "1020607197787508737",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645270467790651400,
+		"in_reply_to_status_id_str": "1645270467790651392",
+		"in_reply_to_user_id": 1020607197787508700,
+		"in_reply_to_user_id_str": "1020607197787508737",
+		"in_reply_to_screen_name": "CartoonessToo",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@CartoonessToo Maybe because you have a really good sense of humor!"
+	},
+	{
+		"created_at": "Mon Apr 10 03:40:49 +0000 2023",
+		"id": 1645270583624765400,
+		"id_str": "1645270583624765441",
+		"full_text": "As far as you’re concerned, my web-footed friend, I enjoy reading the finest nonfiction books about failed business mergers and systemic risk.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645270013828550700,
+		"in_reply_to_status_id_str": "1645270013828550657",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "As far as you’re concerned, my web-footed friend, I enjoy reading the finest nonfiction books about failed business mergers and systemic risk."
+	},
+	{
+		"created_at": "Mon Apr 10 03:38:33 +0000 2023",
+		"id": 1645270013828550700,
+		"id_str": "1645270013828550657",
+		"full_text": "I don’t like to talk about the novels I enjoy because I don’t want to be thought of as some bespectacled cry baby who sits in the park wondering why reality isn’t neat and perfect, but I do actually read fiction. But it’s none of your business to be honest",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			256
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I don’t like to talk about the novels I enjoy because I don’t want to be thought of as some bespectacled cry baby who sits in the park wondering why reality isn’t neat and perfect, but I do actually read fiction. But it’s none of your business to be honest"
+	},
+	{
+		"created_at": "Mon Apr 10 03:33:46 +0000 2023",
+		"id": 1645268253013426200,
+		"id_str": "1645268809924886528",
+		"full_text": "@bendreyfuss This immediately reminded me of this piece from 20+ years ago, when @TheOnion was funny:\n\nhttps://t.co/ahOMnInWWU",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			126
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bendreyfuss",
+					"name": "Ben Dreyfuss",
+					"id": 18269124,
+					"id_str": "18269124",
+					"indices": [
+						0,
+						12
+					]
+				},
+				{
+					"screen_name": "TheOnion",
+					"name": "The Onion",
+					"id": 14075928,
+					"id_str": "14075928",
+					"indices": [
+						81,
+						90
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ahOMnInWWU",
+					"expanded_url": "https://www.theonion.com/european-men-are-so-much-more-romantic-than-american-me-1819594261",
+					"display_url": "theonion.com/european-men-a…",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+		"in_reply_to_status_id": 1645267624450994200,
+		"in_reply_to_status_id_str": "1645267624450994177",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 588548745,
+			"id_str": "588548745",
+			"name": "Dr. Chaffs",
+			"screen_name": "DrChaffs",
+			"location": "Philadelphia",
+			"description": "Pursuing God, Beauty, Truth, and +EV. Psychologist, Gentleman Gambler, and Raconteur.",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 33,
+			"friends_count": 195,
+			"listed_count": 0,
+			"created_at": "Wed May 23 18:01:29 +0000 2012",
+			"favourites_count": 2825,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 2319,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1609898568969601026/9jwZIY3C_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1609898568969601026/9jwZIY3C_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/588548745/1670442245",
+			"profile_link_color": "1DA1F2",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": true,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 42,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@bendreyfuss This immediately reminded me of this piece from 20+ years ago, when @TheOnion was funny:\n\nhttps://t.co/ahOMnInWWU"
+	},
+	{
+		"created_at": "Mon Apr 10 03:33:27 +0000 2023",
+		"id": 1645268731638198300,
+		"id_str": "1645268731638198274",
+		"full_text": "@wheeliemum Well sure but the beginning of a relationship is dating which is another way of saying casual sex. Casual sex is the Ellis island of a relationship.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			160
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "wheeliemum",
+					"name": "Begone Musk",
+					"id": 41839575,
+					"id_str": "41839575",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645268336308281300,
+		"in_reply_to_status_id_str": "1645268336308281344",
+		"in_reply_to_user_id": 41839575,
+		"in_reply_to_user_id_str": "41839575",
+		"in_reply_to_screen_name": "wheeliemum",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@wheeliemum Well sure but the beginning of a relationship is dating which is another way of saying casual sex. Casual sex is the Ellis island of a relationship."
+	},
+	{
+		"created_at": "Mon Apr 10 03:29:03 +0000 2023",
+		"id": 1645267624450994200,
+		"id_str": "1645267624450994177",
+		"full_text": "I don’t want to read this article but it is funny to imagine how this would be framed if it were about men going abroad in search of casual sex https://t.co/F69KozlQkC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1645267620181209000,
+					"id_str": "1645267620181209088",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FtUqLv1acAAb0o1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtUqLv1acAAb0o1.jpg",
+					"url": "https://t.co/F69KozlQkC",
+					"display_url": "pic.twitter.com/F69KozlQkC",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645267624450994177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1645267620181209000,
+					"id_str": "1645267620181209088",
+					"indices": [
+						144,
+						167
+					],
+					"media_url": "http://pbs.twimg.com/media/FtUqLv1acAAb0o1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtUqLv1acAAb0o1.jpg",
+					"url": "https://t.co/F69KozlQkC",
+					"display_url": "pic.twitter.com/F69KozlQkC",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645267624450994177/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 97,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I don’t want to read this article but it is funny to imagine how this would be framed if it were about men going abroad in search of casual sex https://t.co/F69KozlQkC"
+	},
+	{
+		"created_at": "Mon Apr 10 03:27:00 +0000 2023",
+		"id": 1645267106659979300,
+		"id_str": "1645267106659979267",
+		"full_text": "@nytimes Oh, are the men in Eastern Europe “less uptight and stuck up”?",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "nytimes",
+					"name": "The New York Times",
+					"id": 807095,
+					"id_str": "807095",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645266628186128400,
+		"in_reply_to_status_id_str": "1645266628186128386",
+		"in_reply_to_user_id": 807095,
+		"in_reply_to_user_id_str": "807095",
+		"in_reply_to_screen_name": "nytimes",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 83,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@nytimes Oh, are the men in Eastern Europe “less uptight and stuck up”?"
+	},
+	{
+		"created_at": "Mon Apr 10 03:25:44 +0000 2023",
+		"id": 1645266786731044900,
+		"id_str": "1645266786731044864",
+		"full_text": "@elonmusk Wow congrats. Glad to see the brain trust has their eye on the ball.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "elonmusk",
+					"name": "Elon Musk",
+					"id": 44196397,
+					"id_str": "44196397",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645266104351178800,
+		"in_reply_to_status_id_str": "1645266104351178752",
+		"in_reply_to_user_id": 44196397,
+		"in_reply_to_user_id_str": "44196397",
+		"in_reply_to_screen_name": "elonmusk",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 253,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@elonmusk Wow congrats. Glad to see the brain trust has their eye on the ball."
+	},
+	{
+		"created_at": "Mon Apr 10 03:20:52 +0000 2023",
+		"id": 1645265565307785200,
+		"id_str": "1645265565307785216",
+		"full_text": "@alex_abads I love Brideshead Revisited and the fact that the impossibly smart but also destined-for-sexless-unhappiness sister is named Cordelia has always made me laugh",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			170
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alex_abads",
+					"name": "alex",
+					"id": 36651066,
+					"id_str": "36651066",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645264855199543300,
+		"in_reply_to_status_id_str": "1645264855199543297",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@alex_abads I love Brideshead Revisited and the fact that the impossibly smart but also destined-for-sexless-unhappiness sister is named Cordelia has always made me laugh"
+	},
+	{
+		"created_at": "Mon Apr 10 03:18:03 +0000 2023",
+		"id": 1645264855199543300,
+		"id_str": "1645264855199543297",
+		"full_text": "@alex_abads Cordelia is a very good name. That’s probably why he married her.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alex_abads",
+					"name": "alex",
+					"id": 36651066,
+					"id_str": "36651066",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645264304789233700,
+		"in_reply_to_status_id_str": "1645264304789233668",
+		"in_reply_to_user_id": 36651066,
+		"in_reply_to_user_id_str": "36651066",
+		"in_reply_to_screen_name": "alex_abads",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@alex_abads Cordelia is a very good name. That’s probably why he married her."
+	},
+	{
+		"created_at": "Mon Apr 10 03:15:48 +0000 2023",
+		"id": 1645264287202680800,
+		"id_str": "1645264287202680832",
+		"full_text": "@alex_abads I mean ok. And the other monster sister has a nice husband but I mean…none of them are really people you’d want to pop out of fiction and run for office in real life",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alex_abads",
+					"name": "alex",
+					"id": 36651066,
+					"id_str": "36651066",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645263829016641500,
+		"in_reply_to_status_id_str": "1645263829016641537",
+		"in_reply_to_user_id": 36651066,
+		"in_reply_to_user_id_str": "36651066",
+		"in_reply_to_screen_name": "alex_abads",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@alex_abads I mean ok. And the other monster sister has a nice husband but I mean…none of them are really people you’d want to pop out of fiction and run for office in real life"
+	},
+	{
+		"created_at": "Mon Apr 10 03:13:08 +0000 2023",
+		"id": 1645263615661072400,
+		"id_str": "1645263615661072384",
+		"full_text": "@alex_abads I mean, not a ton of lovely characters in king Lear either tbh",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alex_abads",
+					"name": "alex",
+					"id": 36651066,
+					"id_str": "36651066",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645263032715563000,
+		"in_reply_to_status_id_str": "1645263032715563010",
+		"in_reply_to_user_id": 36651066,
+		"in_reply_to_user_id_str": "36651066",
+		"in_reply_to_screen_name": "alex_abads",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@alex_abads I mean, not a ton of lovely characters in king Lear either tbh"
+	},
+	{
+		"created_at": "Mon Apr 10 03:08:21 +0000 2023",
+		"id": 1645262414936703000,
+		"id_str": "1645262414936702976",
+		"full_text": "@alex_abads Remember Me : BlackBerry \nSuccession : Apple",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			56
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alex_abads",
+					"name": "alex",
+					"id": 36651066,
+					"id_str": "36651066",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645241290861207600,
+		"in_reply_to_status_id_str": "1645241290861207555",
+		"in_reply_to_user_id": 36651066,
+		"in_reply_to_user_id_str": "36651066",
+		"in_reply_to_screen_name": "alex_abads",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@alex_abads Remember Me : BlackBerry \nSuccession : Apple"
+	},
+	{
+		"created_at": "Mon Apr 10 03:00:03 +0000 2023",
+		"id": 1645260326429134800,
+		"id_str": "1645260326429134848",
+		"full_text": "@motelsiren Same actually lol. I was dating this chick once though who was on it and while she and I were on a date Jeremy Piven wouldn’t stop messaging her.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "motelsiren",
+					"name": "lauren badillo milici",
+					"id": 14204492,
+					"id_str": "14204492",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645259832348360700,
+		"in_reply_to_status_id_str": "1645259832348360707",
+		"in_reply_to_user_id": 14204492,
+		"in_reply_to_user_id_str": "14204492",
+		"in_reply_to_screen_name": "motelsiren",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@motelsiren Same actually lol. I was dating this chick once though who was on it and while she and I were on a date Jeremy Piven wouldn’t stop messaging her."
+	},
+	{
+		"created_at": "Mon Apr 10 02:58:55 +0000 2023",
+		"id": 1645260041275216000,
+		"id_str": "1645260041275215872",
+		"full_text": "Jeremy Piven has probably sent him a friend request so that they can paint the town in Vegas.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			93
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645259551200149500,
+		"in_reply_to_status_id_str": "1645259551200149504",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Jeremy Piven has probably sent him a friend request so that they can paint the town in Vegas."
+	},
+	{
+		"created_at": "Mon Apr 10 02:56:59 +0000 2023",
+		"id": 1645259551200149500,
+		"id_str": "1645259551200149504",
+		"full_text": "He’s probably chatting up Sophia Bush or some shit on Raya right now",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645259358748672000,
+		"in_reply_to_status_id_str": "1645259358748672001",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "He’s probably chatting up Sophia Bush or some shit on Raya right now"
+	},
+	{
+		"created_at": "Mon Apr 10 02:56:13 +0000 2023",
+		"id": 1645259358748672000,
+		"id_str": "1645259358748672001",
+		"full_text": "I felt bad for Joe Alwyn for a minute when I was thinking about him getting tossed back in the anonymity pond but the fact is once you have been in a romantic relationship with a huge celebrity, you end up getting to date other lesser celebrities.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I felt bad for Joe Alwyn for a minute when I was thinking about him getting tossed back in the anonymity pond but the fact is once you have been in a romantic relationship with a huge celebrity, you end up getting to date other lesser celebrities."
+	},
+	{
+		"created_at": "Mon Apr 10 02:53:51 +0000 2023",
+		"id": 1645258762566123500,
+		"id_str": "1645258762566123520",
+		"full_text": "@ibflorea Joe Alwyn is probably on Raya right now chatting up the third female lead of a CBS procedural",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ibflorea",
+					"name": "Ioana",
+					"id": 30803956,
+					"id_str": "30803956",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645091070647124000,
+		"in_reply_to_status_id_str": "1645091070647123969",
+		"in_reply_to_user_id": 30803956,
+		"in_reply_to_user_id_str": "30803956",
+		"in_reply_to_screen_name": "ibflorea",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ibflorea Joe Alwyn is probably on Raya right now chatting up the third female lead of a CBS procedural"
+	},
+	{
+		"created_at": "Mon Apr 10 02:49:15 +0000 2023",
+		"id": 1645257608062967800,
+		"id_str": "1645257608062967811",
+		"full_text": "Anyway I think we should all have a drink and toast Kendall. He was a whiny bitch but when he died it did make me sad.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			118
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645253876621414400,
+		"in_reply_to_status_id_str": "1645253876621414400",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Anyway I think we should all have a drink and toast Kendall. He was a whiny bitch but when he died it did make me sad."
+	},
+	{
+		"created_at": "Mon Apr 10 02:47:19 +0000 2023",
+		"id": 1645257118935597000,
+		"id_str": "1645257118935597056",
+		"full_text": "@jbillinson Same. And thinking about that final scene from last week.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jbillinson",
+					"name": "Josh Billinson",
+					"id": 437737633,
+					"id_str": "437737633",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645256901108564000,
+		"in_reply_to_status_id_str": "1645256901108563968",
+		"in_reply_to_user_id": 437737633,
+		"in_reply_to_user_id_str": "437737633",
+		"in_reply_to_screen_name": "jbillinson",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jbillinson Same. And thinking about that final scene from last week."
+	},
+	{
+		"created_at": "Mon Apr 10 02:34:26 +0000 2023",
+		"id": 1645253876621414400,
+		"id_str": "1645253876621414400",
+		"full_text": "Pretty impressed that they pulled this off without me having an inkling it was coming so soon. I figured it might happen later in the season but I did not think about this happening for even one second over the last 7 days",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			222
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645252851298603000,
+		"in_reply_to_status_id_str": "1645252851298603009",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Pretty impressed that they pulled this off without me having an inkling it was coming so soon. I figured it might happen later in the season but I did not think about this happening for even one second over the last 7 days"
+	},
+	{
+		"created_at": "Mon Apr 10 02:30:21 +0000 2023",
+		"id": 1645252851298603000,
+		"id_str": "1645252851298603009",
+		"full_text": "I think one reason this episode is so moving is because this show’s appeal and reputation are not emotional. It’s a comedy played as a drama, and nothing ever happens. And now something has happened and it was more effective than some Judging Amy heartstring pulling sadness slut",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			279
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645252630338494500,
+		"in_reply_to_status_id_str": "1645252630338494465",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 38,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I think one reason this episode is so moving is because this show’s appeal and reputation are not emotional. It’s a comedy played as a drama, and nothing ever happens. And now something has happened and it was more effective than some Judging Amy heartstring pulling sadness slut"
+	},
+	{
+		"created_at": "Mon Apr 10 02:29:29 +0000 2023",
+		"id": 1645252630338494500,
+		"id_str": "1645252630338494465",
+		"full_text": "I don’t want to be too precious about this television show I love because it is just some dumbass television show but I will say it made me very sad and made me think about my own life and made me write a nice letter to my family members.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 96,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I don’t want to be too precious about this television show I love because it is just some dumbass television show but I will say it made me very sad and made me think about my own life and made me write a nice letter to my family members."
+	},
+	{
+		"created_at": "Mon Apr 10 02:25:17 +0000 2023",
+		"id": 1645251575726895000,
+		"id_str": "1645251575726895105",
+		"full_text": "@motelsiren Yeah I’m going to give people about 5 more minutes before I stop caring and just talk about the details of the episode lol",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			134
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "motelsiren",
+					"name": "lauren badillo milici",
+					"id": 14204492,
+					"id_str": "14204492",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645249690059808800,
+		"in_reply_to_status_id_str": "1645249690059808768",
+		"in_reply_to_user_id": 14204492,
+		"in_reply_to_user_id_str": "14204492",
+		"in_reply_to_screen_name": "motelsiren",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@motelsiren Yeah I’m going to give people about 5 more minutes before I stop caring and just talk about the details of the episode lol"
+	},
+	{
+		"created_at": "Mon Apr 10 02:24:02 +0000 2023",
+		"id": 1645249690059808800,
+		"id_str": "1645251261892292610",
+		"full_text": "hey guys, if you haven’t seen tonight’s episode of succession this is your sign from god to CLOSE THE TWITTER APP RIGHT NOW or LOG OFF or THROW YOUR PHONE IN A RIVER before you read spoilers, get pissed off, and effectively ruin yr sunday\n\nyou’re welcome",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			254
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14204492,
+			"id_str": "14204492",
+			"name": "lauren badillo milici",
+			"screen_name": "motelsiren",
+			"location": "she/they ",
+			"description": "violent, femme 🪩 / senior tv & film writer @gamesradar / 💌: lauren.milici@futurenet.com / SAD SEXY CATHOLIC (@CLASHbooks 2023) 💒 🇵🇷",
+			"url": "https://t.co/DKoKx83Llq",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/DKoKx83Llq",
+							"expanded_url": "http://linktr.ee/motelsiren",
+							"display_url": "linktr.ee/motelsiren",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 12693,
+			"friends_count": 1578,
+			"listed_count": 85,
+			"created_at": "Mon Mar 24 00:34:34 +0000 2008",
+			"favourites_count": 163014,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 106805,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1644878830333485057/bDpzc-Yx_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1644878830333485057/bDpzc-Yx_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14204492/1669134164",
+			"profile_link_color": "E81C4F",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "615F61",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 33,
+		"favorite_count": 155,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "hey guys, if you haven’t seen tonight’s episode of succession this is your sign from god to CLOSE THE TWITTER APP RIGHT NOW or LOG OFF or THROW YOUR PHONE IN A RIVER before you read spoilers, get pissed off, and effectively ruin yr sunday\n\nyou’re welcome"
+	},
+	{
+		"created_at": "Mon Apr 10 02:23:38 +0000 2023",
+		"id": 1645251160872484900,
+		"id_str": "1645251160872484864",
+		"full_text": "@iambradk @jeramiedreyfuss Good. She is a girl and she likes Barbie dolls and pillow fights. She might not be good at STEM but she has superior emotional intelligence.",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			167
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iambradk",
+					"name": "Brad Knollenberg",
+					"id": 55150841,
+					"id_str": "55150841",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "jeramiedreyfuss",
+					"name": "Jeramie Rain",
+					"id": 1521208898,
+					"id_str": "1521208898",
+					"indices": [
+						10,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645250835490775000,
+		"in_reply_to_status_id_str": "1645250835490775040",
+		"in_reply_to_user_id": 55150841,
+		"in_reply_to_user_id_str": "55150841",
+		"in_reply_to_screen_name": "iambradk",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@iambradk @jeramiedreyfuss Good. She is a girl and she likes Barbie dolls and pillow fights. She might not be good at STEM but she has superior emotional intelligence."
+	},
+	{
+		"created_at": "Mon Apr 10 02:21:22 +0000 2023",
+		"id": 1645250590610702300,
+		"id_str": "1645250590610702337",
+		"full_text": "@iambradk @jeramiedreyfuss No like Bridget Jones she is perfect just as she is",
+		"truncated": false,
+		"display_text_range": [
+			27,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iambradk",
+					"name": "Brad Knollenberg",
+					"id": 55150841,
+					"id_str": "55150841",
+					"indices": [
+						0,
+						9
+					]
+				},
+				{
+					"screen_name": "jeramiedreyfuss",
+					"name": "Jeramie Rain",
+					"id": 1521208898,
+					"id_str": "1521208898",
+					"indices": [
+						10,
+						26
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645250300872208400,
+		"in_reply_to_status_id_str": "1645250300872208385",
+		"in_reply_to_user_id": 55150841,
+		"in_reply_to_user_id_str": "55150841",
+		"in_reply_to_screen_name": "iambradk",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@iambradk @jeramiedreyfuss No like Bridget Jones she is perfect just as she is"
+	},
+	{
+		"created_at": "Mon Apr 10 02:20:34 +0000 2023",
+		"id": 1645250390110404600,
+		"id_str": "1645250390110404608",
+		"full_text": "@lisatozzi @sepinwall She was really good in that scene. Pretty strong Emmy submission.",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "lisatozzi",
+					"name": "Lisa Tozzi",
+					"id": 22260999,
+					"id_str": "22260999",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "sepinwall",
+					"name": "Alan Sepinwall",
+					"id": 18840445,
+					"id_str": "18840445",
+					"indices": [
+						11,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645249910445338600,
+		"in_reply_to_status_id_str": "1645249910445338625",
+		"in_reply_to_user_id": 22260999,
+		"in_reply_to_user_id_str": "22260999",
+		"in_reply_to_screen_name": "lisatozzi",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@lisatozzi @sepinwall She was really good in that scene. Pretty strong Emmy submission."
+	},
+	{
+		"created_at": "Mon Apr 10 02:15:49 +0000 2023",
+		"id": 1645249191504121900,
+		"id_str": "1645249191504121857",
+		"full_text": "Good, at least Tom is sad. Two faced bitch.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645248819062534100,
+		"in_reply_to_status_id_str": "1645248819062534144",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 13,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Good, at least Tom is sad. Two faced bitch."
+	},
+	{
+		"created_at": "Mon Apr 10 02:15:10 +0000 2023",
+		"id": 1645249029432021000,
+		"id_str": "1645249029432020992",
+		"full_text": "@ASFleischman Haha",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ASFleischman",
+					"name": "Andrew Fleischman",
+					"id": 3461132476,
+					"id_str": "3461132476",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645248965074354200,
+		"in_reply_to_status_id_str": "1645248965074354176",
+		"in_reply_to_user_id": 3461132476,
+		"in_reply_to_user_id_str": "3461132476",
+		"in_reply_to_screen_name": "ASFleischman",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tl",
+		"text": "@ASFleischman Haha"
+	},
+	{
+		"created_at": "Mon Apr 10 02:14:20 +0000 2023",
+		"id": 1645248819062534100,
+		"id_str": "1645248819062534144",
+		"full_text": "Don’t like these assholes on this plane not being sad!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645245014145130500,
+		"in_reply_to_status_id_str": "1645245014145130497",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Don’t like these assholes on this plane not being sad!"
+	},
+	{
+		"created_at": "Mon Apr 10 01:59:13 +0000 2023",
+		"id": 1645245014145130500,
+		"id_str": "1645245014145130497",
+		"full_text": "Oh man, succession has been my favorite show since the pilot but until this episode it had never made me cry 😭",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 62,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Oh man, succession has been my favorite show since the pilot but until this episode it had never made me cry 😭"
+	},
+	{
+		"created_at": "Mon Apr 10 01:47:00 +0000 2023",
+		"id": 1645241942077509600,
+		"id_str": "1645241942077509632",
+		"full_text": "@GrahamVyse I don’t think it’s melodramatic! You’re right! It combined both a terrible and disappointing viewing experience with a terrible and disappointing aftertaste because you were like “wait why did I care about any of these fucking characters over the last 40 years?”",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GrahamVyse",
+					"name": "Graham Vyse",
+					"id": 618359906,
+					"id_str": "618359906",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645240081463013400,
+		"in_reply_to_status_id_str": "1645240081463013376",
+		"in_reply_to_user_id": 618359906,
+		"in_reply_to_user_id_str": "618359906",
+		"in_reply_to_screen_name": "GrahamVyse",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 100,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GrahamVyse I don’t think it’s melodramatic! You’re right! It combined both a terrible and disappointing viewing experience with a terrible and disappointing aftertaste because you were like “wait why did I care about any of these fucking characters over the last 40 years?”"
+	},
+	{
+		"created_at": "Mon Apr 10 01:19:24 +0000 2023",
+		"id": 1645234995592851500,
+		"id_str": "1645234995592851456",
+		"full_text": "@shoutingboy I think I have blocked that out lol",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			48
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "shoutingboy",
+					"name": "Andrew S.",
+					"id": 8000812,
+					"id_str": "8000812",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645234870644506600,
+		"in_reply_to_status_id_str": "1645234870644506625",
+		"in_reply_to_user_id": 8000812,
+		"in_reply_to_user_id_str": "8000812",
+		"in_reply_to_screen_name": "shoutingboy",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@shoutingboy I think I have blocked that out lol"
+	},
+	{
+		"created_at": "Mon Apr 10 01:17:51 +0000 2023",
+		"id": 1645234606885716000,
+		"id_str": "1645234606885715968",
+		"full_text": "I liked the first two of the new trilogy to be honest they were enjoyable even if I didn’t love ever single choice. But they really really REALLY shit the bed with that final one. Awful, just awful.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645233576500420600,
+		"in_reply_to_status_id_str": "1645233576500420608",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 202,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I liked the first two of the new trilogy to be honest they were enjoyable even if I didn’t love ever single choice. But they really really REALLY shit the bed with that final one. Awful, just awful."
+	},
+	{
+		"created_at": "Mon Apr 10 01:16:19 +0000 2023",
+		"id": 1645234219550126000,
+		"id_str": "1645234219550126080",
+		"full_text": "@WJHayesJr Hahaha",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "WJHayesJr",
+					"name": "W J Hayes 🐼",
+					"id": 185487699,
+					"id_str": "185487699",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645234119381532700,
+		"in_reply_to_status_id_str": "1645234119381532680",
+		"in_reply_to_user_id": 185487699,
+		"in_reply_to_user_id_str": "185487699",
+		"in_reply_to_screen_name": "WJHayesJr",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tl",
+		"text": "@WJHayesJr Hahaha"
+	},
+	{
+		"created_at": "Mon Apr 10 01:16:07 +0000 2023",
+		"id": 1645234168887115800,
+		"id_str": "1645234168887115777",
+		"full_text": "@sbwnhtx Holy shit, for real? I definitely didn’t get that",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			58
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "sbwnhtx",
+					"name": "Scott",
+					"id": 14865781,
+					"id_str": "14865781",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645234035856212000,
+		"in_reply_to_status_id_str": "1645234035856211968",
+		"in_reply_to_user_id": 14865781,
+		"in_reply_to_user_id_str": "14865781",
+		"in_reply_to_screen_name": "sbwnhtx",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@sbwnhtx Holy shit, for real? I definitely didn’t get that"
+	},
+	{
+		"created_at": "Mon Apr 10 01:13:46 +0000 2023",
+		"id": 1645233576500420600,
+		"id_str": "1645233576500420608",
+		"full_text": "I don’t really remember how it ended after they revealed that the emperor was living in a cave on some moon the whole time. Ghost Harrison ford came back and I think Adam Driver might have sacrificed himself for Daisy Riddle. But maybe they’re like dating through the force?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			274
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645232863011573800,
+		"in_reply_to_status_id_str": "1645232863011573761",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 152,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I don’t really remember how it ended after they revealed that the emperor was living in a cave on some moon the whole time. Ghost Harrison ford came back and I think Adam Driver might have sacrificed himself for Daisy Riddle. But maybe they’re like dating through the force?"
+	},
+	{
+		"created_at": "Mon Apr 10 01:10:56 +0000 2023",
+		"id": 1645232863011573800,
+		"id_str": "1645232863011573761",
+		"full_text": "Maybe instead of making a sequel to The Rise of Skywalker they should pretend Rise of a Skywalker never happened and give ending the Skywalker saga a second try because Rise of Skywalker was the most unwatchable piece of shit to ever walk the sky.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 41,
+		"favorite_count": 763,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Maybe instead of making a sequel to The Rise of Skywalker they should pretend Rise of a Skywalker never happened and give ending the Skywalker saga a second try because Rise of Skywalker was the most unwatchable piece of shit to ever walk the sky."
+	},
+	{
+		"created_at": "Mon Apr 10 00:58:45 +0000 2023",
+		"id": 1645229796950175700,
+		"id_str": "1645229796950175744",
+		"full_text": "Decline is a choice https://t.co/0WBEkG6397",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			19
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0WBEkG6397",
+					"expanded_url": "https://twitter.com/dcexaminer/status/1645226263605288961",
+					"display_url": "twitter.com/dcexaminer/sta…",
+					"indices": [
+						20,
+						43
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1645226263605289000,
+		"quoted_status_id_str": "1645226263605288961",
+		"quoted_status_permalink": {
+			"url": "https://t.co/0WBEkG6397",
+			"expanded": "https://twitter.com/dcexaminer/status/1645226263605288961",
+			"display": "twitter.com/dcexaminer/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Mon Apr 10 00:44:42 +0000 2023",
+			"id": 1645226263605289000,
+			"id_str": "1645226263605288961",
+			"full_text": "The Air Force is reportedly loosening its body composition requirements and allowing recruits to have higher percentages of body fat due to a shortage of pilots.\n\nhttps://t.co/ZaPtSlTNNN",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				186
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ZaPtSlTNNN",
+						"expanded_url": "https://trib.al/sO1Ss1Q",
+						"display_url": "trib.al/sO1Ss1Q",
+						"indices": [
+							163,
+							186
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18956073,
+				"id_str": "18956073",
+				"name": "Washington Examiner",
+				"screen_name": "dcexaminer",
+				"location": "Washington, DC",
+				"description": "Political news and commentary from the Washington Examiner. https://t.co/IV2haseKib\n\n#RestoringAmerica",
+				"url": "https://t.co/rUG6hFZCFo",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/rUG6hFZCFo",
+								"expanded_url": "https://www.washingtonexaminer.com",
+								"display_url": "washingtonexaminer.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/IV2haseKib",
+								"expanded_url": "http://washingtonexaminer.com",
+								"display_url": "washingtonexaminer.com",
+								"indices": [
+									60,
+									83
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 333426,
+				"friends_count": 419,
+				"listed_count": 4190,
+				"created_at": "Tue Jan 13 22:16:00 +0000 2009",
+				"favourites_count": 707,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 667376,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1049003685639081986/zX2rN7zN_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1049003685639081986/zX2rN7zN_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18956073/1551308627",
+				"profile_link_color": "CA0613",
+				"profile_sidebar_border_color": "D9B17E",
+				"profile_sidebar_fill_color": "EADEAA",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 9,
+			"favorite_count": 20,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 2,
+		"favorite_count": 65,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Decline is a choice https://t.co/0WBEkG6397"
+	},
+	{
+		"created_at": "Sun Apr 09 23:53:39 +0000 2023",
+		"id": 1645213414309134300,
+		"id_str": "1645213414309134338",
+		"full_text": "Ever year when I do my taxes I check that little box that says “donate $5 to support USA Today”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645212636358000600,
+		"in_reply_to_status_id_str": "1645212636358000643",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Ever year when I do my taxes I check that little box that says “donate $5 to support USA Today”"
+	},
+	{
+		"created_at": "Sun Apr 09 23:52:05 +0000 2023",
+		"id": 1645213022410129400,
+		"id_str": "1645213022410129408",
+		"full_text": "@jao_1989 It was more than a few weeks but in my defense it was never “look at Elon he is a good and handsome man!” But I admit he has proved more incompetent and self-destructive than I expected",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			195
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jao_1989",
+					"name": "JAO",
+					"id": 559097648,
+					"id_str": "559097648",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645212488286236700,
+		"in_reply_to_status_id_str": "1645212488286236674",
+		"in_reply_to_user_id": 559097648,
+		"in_reply_to_user_id_str": "559097648",
+		"in_reply_to_screen_name": "jao_1989",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jao_1989 It was more than a few weeks but in my defense it was never “look at Elon he is a good and handsome man!” But I admit he has proved more incompetent and self-destructive than I expected"
+	},
+	{
+		"created_at": "Sun Apr 09 23:50:33 +0000 2023",
+		"id": 1645212636358000600,
+		"id_str": "1645212636358000643",
+		"full_text": "The ABA failed because American basketball fans just couldn’t stomach socialism.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645212213328871400,
+		"in_reply_to_status_id_str": "1645212213328871424",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 104,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "The ABA failed because American basketball fans just couldn’t stomach socialism."
+	},
+	{
+		"created_at": "Sun Apr 09 23:49:51 +0000 2023",
+		"id": 1645212460281106400,
+		"id_str": "1645212460281106432",
+		"full_text": "@BoydRBurke Or American Airlines! Or Bank of America!",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BoydRBurke",
+					"name": "[placeholder name]",
+					"id": 823319676591538200,
+					"id_str": "823319676591538176",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645212366706217000,
+		"in_reply_to_status_id_str": "1645212366706216961",
+		"in_reply_to_user_id": 823319676591538200,
+		"in_reply_to_user_id_str": "823319676591538176",
+		"in_reply_to_screen_name": "BoydRBurke",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@BoydRBurke Or American Airlines! Or Bank of America!"
+	},
+	{
+		"created_at": "Sun Apr 09 23:48:52 +0000 2023",
+		"id": 1645212213328871400,
+		"id_str": "1645212213328871424",
+		"full_text": "The are lots of companies with the word america in their names that are not in fact owned and operated by the US government",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			123
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645211876593369000,
+		"in_reply_to_status_id_str": "1645211876593369088",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 140,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "The are lots of companies with the word america in their names that are not in fact owned and operated by the US government"
+	},
+	{
+		"created_at": "Sun Apr 09 23:47:32 +0000 2023",
+		"id": 1645211876593369000,
+		"id_str": "1645211876593369088",
+		"full_text": "I’m sorry but this might be Elon’s stupidest tweet yet https://t.co/4fSqKKoYvc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1645211873036619800,
+					"id_str": "1645211873036619776",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/FtT3e1iaUAAjkDb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtT3e1iaUAAjkDb.jpg",
+					"url": "https://t.co/4fSqKKoYvc",
+					"display_url": "pic.twitter.com/4fSqKKoYvc",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645211876593369088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1645211873036619800,
+					"id_str": "1645211873036619776",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/FtT3e1iaUAAjkDb.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtT3e1iaUAAjkDb.jpg",
+					"url": "https://t.co/4fSqKKoYvc",
+					"display_url": "pic.twitter.com/4fSqKKoYvc",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645211876593369088/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 16,
+		"favorite_count": 363,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I’m sorry but this might be Elon’s stupidest tweet yet https://t.co/4fSqKKoYvc"
+	},
+	{
+		"created_at": "Sun Apr 09 23:46:32 +0000 2023",
+		"id": 1645211625115492400,
+		"id_str": "1645211625115492352",
+		"full_text": "@Alex_Z_01 That makes more sense but it still seems like even in that case it would be possible once in awhile to actually give someone a freebie if they keep their mouth shut about it",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			184
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Alex_Z_01",
+					"name": "Alex",
+					"id": 1247927756,
+					"id_str": "1247927756",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645210896342425600,
+		"in_reply_to_status_id_str": "1645210896342425600",
+		"in_reply_to_user_id": 1247927756,
+		"in_reply_to_user_id_str": "1247927756",
+		"in_reply_to_screen_name": "Alex_Z_01",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Alex_Z_01 That makes more sense but it still seems like even in that case it would be possible once in awhile to actually give someone a freebie if they keep their mouth shut about it"
+	},
+	{
+		"created_at": "Sun Apr 09 23:41:59 +0000 2023",
+		"id": 1645210481043607600,
+		"id_str": "1645210481043607553",
+		"full_text": "@Nelsonish Haha",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Nelsonish",
+					"name": "Scott Nelson",
+					"id": 21819716,
+					"id_str": "21819716",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645210412583927800,
+		"in_reply_to_status_id_str": "1645210412583927809",
+		"in_reply_to_user_id": 21819716,
+		"in_reply_to_user_id_str": "21819716",
+		"in_reply_to_screen_name": "Nelsonish",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tl",
+		"text": "@Nelsonish Haha"
+	},
+	{
+		"created_at": "Sun Apr 09 23:41:14 +0000 2023",
+		"id": 1645210290370523100,
+		"id_str": "1645210290370523136",
+		"full_text": "@Nelsonish Why would I delete it? Am I going to activate the Now That’s What I Call Music Volume 16 hive?",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Nelsonish",
+					"name": "Scott Nelson",
+					"id": 21819716,
+					"id_str": "21819716",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645209753293865000,
+		"in_reply_to_status_id_str": "1645209753293864960",
+		"in_reply_to_user_id": 21819716,
+		"in_reply_to_user_id_str": "21819716",
+		"in_reply_to_screen_name": "Nelsonish",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Nelsonish Why would I delete it? Am I going to activate the Now That’s What I Call Music Volume 16 hive?"
+	},
+	{
+		"created_at": "Sun Apr 09 23:38:47 +0000 2023",
+		"id": 1645209673392623600,
+		"id_str": "1645209673392623619",
+		"full_text": "Song ain’t make no sense!! Fucking Hollywood",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			44
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645209550537244700,
+		"in_reply_to_status_id_str": "1645209550537244672",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Song ain’t make no sense!! Fucking Hollywood"
+	},
+	{
+		"created_at": "Sun Apr 09 23:38:18 +0000 2023",
+		"id": 1645209550537244700,
+		"id_str": "1645209550537244672",
+		"full_text": "“My milkshakes bring all the boys to the yard, damn right, it’s better than yours, I could teach you but I’d have to charge”\n\nOh really? You’d have to charge? Couldn’t comp me? If you really wanted to comp me, you couldn’t? Who won’t let you? Your boss at the milkshake academy?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			278
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 55,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "“My milkshakes bring all the boys to the yard, damn right, it’s better than yours, I could teach you but I’d have to charge”\n\nOh really? You’d have to charge? Couldn’t comp me? If you really wanted to comp me, you couldn’t? Who won’t let you? Your boss at the milkshake academy?"
+	},
+	{
+		"created_at": "Sun Apr 09 22:39:35 +0000 2023",
+		"id": 1645194777602982000,
+		"id_str": "1645194777602981889",
+		"full_text": "You shouldn’t name your son Alan because the first thing people think of when they hear that name is an Allen wrench and those are the easiest tools to lose and you are constantly replacing them so if your son’s name is Alan everyone’s gonna assume he’s a flaky unreliable dipshit",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			280
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "You shouldn’t name your son Alan because the first thing people think of when they hear that name is an Allen wrench and those are the easiest tools to lose and you are constantly replacing them so if your son’s name is Alan everyone’s gonna assume he’s a flaky unreliable dipshit"
+	},
+	{
+		"created_at": "Sun Apr 09 21:45:10 +0000 2023",
+		"id": 1645181081673662500,
+		"id_str": "1645181081673662466",
+		"full_text": "Now they gonna think you were gonna say you love them but technically you never did that and depending on how they act in the minutes, hours, days, and weeks following you can decide if you want to tell them you love them or if you love them at all.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			249
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645181079379406800,
+		"in_reply_to_status_id_str": "1645181079379406849",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 17,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Now they gonna think you were gonna say you love them but technically you never did that and depending on how they act in the minutes, hours, days, and weeks following you can decide if you want to tell them you love them or if you love them at all."
+	},
+	{
+		"created_at": "Sun Apr 09 21:45:09 +0000 2023",
+		"id": 1645181079379406800,
+		"id_str": "1645181079379406849",
+		"full_text": "Then you say “respect you? I fucking lo…” and you stop right after pronouncing the L. You act flustered for just half a second then go “I mean I respect you a lot”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			163
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645181077491953700,
+		"in_reply_to_status_id_str": "1645181077491953665",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Then you say “respect you? I fucking lo…” and you stop right after pronouncing the L. You act flustered for just half a second then go “I mean I respect you a lot”"
+	},
+	{
+		"created_at": "Sun Apr 09 21:45:09 +0000 2023",
+		"id": 1645181077491953700,
+		"id_str": "1645181077491953665",
+		"full_text": "One day you’ll be having some dumb argument about what restaurant to go to or what to do for the holidays or whatever and your partner is going to say some some generalized complaint like “you don’t listen to me” or “you don’t respect me” or something like that…",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			262
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645181075499651000,
+		"in_reply_to_status_id_str": "1645181075499651073",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "One day you’ll be having some dumb argument about what restaurant to go to or what to do for the holidays or whatever and your partner is going to say some some generalized complaint like “you don’t listen to me” or “you don’t respect me” or something like that…"
+	},
+	{
+		"created_at": "Sun Apr 09 21:45:09 +0000 2023",
+		"id": 1645181075499651000,
+		"id_str": "1645181075499651073",
+		"full_text": "Pro-tip: before you tell a romantic partner that you love them you should do some light reconnoissance by pulling a little tiny con on them. Ok? Here’s what you do…",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			164
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645177470461837300,
+		"in_reply_to_status_id_str": "1645177470461837314",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Pro-tip: before you tell a romantic partner that you love them you should do some light reconnoissance by pulling a little tiny con on them. Ok? Here’s what you do…"
+	},
+	{
+		"created_at": "Sun Apr 09 21:30:49 +0000 2023",
+		"id": 1645177470461837300,
+		"id_str": "1645177470461837314",
+		"full_text": "If you meet someone and instantly feel like you love them and they are amazing you should talk to a therapist and if you can’t get an appointment quick enough you should at least keep your delusional thoughts to yourself https://t.co/BlPIuMyurZ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			220
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BlPIuMyurZ",
+					"expanded_url": "https://twitter.com/imdatfeminist/status/1644884101650870272",
+					"display_url": "twitter.com/imdatfeminist/…",
+					"indices": [
+						221,
+						244
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1644884101650870300,
+		"quoted_status_id_str": "1644884101650870272",
+		"quoted_status_permalink": {
+			"url": "https://t.co/BlPIuMyurZ",
+			"expanded": "https://twitter.com/imdatfeminist/status/1644884101650870272",
+			"display": "twitter.com/imdatfeminist/…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 09 02:05:04 +0000 2023",
+			"id": 1644884101650870300,
+			"id_str": "1644884101650870272",
+			"full_text": "Love-bombing is real and toxic af. There’s no reason someone who just met you should be telling you that you're so amazing, they want to be with you forever and they love you. They know nothing about you. It’s not genuine. It’s toxic and they want you attached to them QUICK.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				275
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1123762667812945900,
+				"id_str": "1123762667812945921",
+				"name": "Halima B. 🐆",
+				"screen_name": "imdatfeminist",
+				"location": "United States",
+				"description": "💘⚡️☔️🙅‍♀️ Let’s talk about toxic relationships. Reachable at: imdatfeminist@gmail.com 🪄🦋💅🌱 insta 📸: https://t.co/qQnLoNtJHt",
+				"url": "https://t.co/XMZo8Y8Ed7",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/XMZo8Y8Ed7",
+								"expanded_url": "https://www.nbcnews.com/news/amp/ncna1135781",
+								"display_url": "nbcnews.com/news/amp/ncna1…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/qQnLoNtJHt",
+								"expanded_url": "http://www.instagram.com/imdatfeminist",
+								"display_url": "instagram.com/imdatfeminist",
+								"indices": [
+									100,
+									123
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 56988,
+				"friends_count": 94,
+				"listed_count": 82,
+				"created_at": "Thu May 02 01:34:33 +0000 2019",
+				"favourites_count": 40462,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 14470,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1632806900067713026/pL5ROy6E_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1632806900067713026/pL5ROy6E_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1123762667812945921/1679952013",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4323,
+			"favorite_count": 18566,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 3,
+		"favorite_count": 94,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "If you meet someone and instantly feel like you love them and they are amazing you should talk to a therapist and if you can’t get an appointment quick enough you should at least keep your delusional thoughts to yourself https://t.co/BlPIuMyurZ"
+	},
+	{
+		"created_at": "Sun Apr 09 21:07:08 +0000 2023",
+		"id": 1645171510032867300,
+		"id_str": "1645171510032867328",
+		"full_text": "@GothamGirlBlue They should definitely be prepared so explain it. And should probably be aware of how if you’re really just a collector of old historical WW2 you’re walking a fine line that people are gonna have questions about",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			227
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GothamGirlBlue",
+					"name": "Kaitlin Byrd: Renaissance Maiden",
+					"id": 1167735445,
+					"id_str": "1167735445",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645170697994399700,
+		"in_reply_to_status_id_str": "1645170697994399746",
+		"in_reply_to_user_id": 1167735445,
+		"in_reply_to_user_id_str": "1167735445",
+		"in_reply_to_screen_name": "GothamGirlBlue",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GothamGirlBlue They should definitely be prepared so explain it. And should probably be aware of how if you’re really just a collector of old historical WW2 you’re walking a fine line that people are gonna have questions about"
+	},
+	{
+		"created_at": "Sun Apr 09 21:00:48 +0000 2023",
+		"id": 1645169917585670100,
+		"id_str": "1645169917585670144",
+		"full_text": "@GothamGirlBlue Yeah I’m only talking about the general principle, not defending him specifically",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			97
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GothamGirlBlue",
+					"name": "Kaitlin Byrd: Renaissance Maiden",
+					"id": 1167735445,
+					"id_str": "1167735445",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645169581227487200,
+		"in_reply_to_status_id_str": "1645169581227487233",
+		"in_reply_to_user_id": 1167735445,
+		"in_reply_to_user_id_str": "1167735445",
+		"in_reply_to_screen_name": "GothamGirlBlue",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GothamGirlBlue Yeah I’m only talking about the general principle, not defending him specifically"
+	},
+	{
+		"created_at": "Sun Apr 09 20:57:23 +0000 2023",
+		"id": 1645169057879179300,
+		"id_str": "1645169057879179264",
+		"full_text": "@GothamGirlBlue Haha yes agreed. You should know what you’re getting into when you decide on this hobby.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GothamGirlBlue",
+					"name": "Kaitlin Byrd: Renaissance Maiden",
+					"id": 1167735445,
+					"id_str": "1167735445",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1645167802364338200,
+		"in_reply_to_status_id_str": "1645167802364338178",
+		"in_reply_to_user_id": 1167735445,
+		"in_reply_to_user_id_str": "1167735445",
+		"in_reply_to_screen_name": "GothamGirlBlue",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GothamGirlBlue Haha yes agreed. You should know what you’re getting into when you decide on this hobby."
+	},
+	{
+		"created_at": "Sun Apr 09 20:25:29 +0000 2023",
+		"id": 1645161027158573000,
+		"id_str": "1645161027158573056",
+		"full_text": "@Mithrandir48 i learned about both those things in high school",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Mithrandir48",
+					"name": "Jeff A 🧙‍♂️",
+					"id": 174047741,
+					"id_str": "174047741",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1645160805862654000,
+		"in_reply_to_status_id_str": "1645160805862653953",
+		"in_reply_to_user_id": 174047741,
+		"in_reply_to_user_id_str": "174047741",
+		"in_reply_to_screen_name": "Mithrandir48",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Mithrandir48 i learned about both those things in high school"
+	},
+	{
+		"created_at": "Sun Apr 09 20:24:54 +0000 2023",
+		"id": 1645160879812677600,
+		"id_str": "1645160879812677632",
+		"full_text": "teach \"alien vs predator\" in the schools!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1645159990846709800,
+		"in_reply_to_status_id_str": "1645159990846709761",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "teach \"alien vs predator\" in the schools!"
+	},
+	{
+		"created_at": "Sun Apr 09 20:21:22 +0000 2023",
+		"id": 1645159990846709800,
+		"id_str": "1645159990846709761",
+		"full_text": "Stalin was a bad man who, all things considered, was basically just as evil as Hitler  but it was still ok to root for him against Hitler in the context of the Eastern Front. https://t.co/N5xAtely5z",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/N5xAtely5z",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645155331658641408",
+					"display_url": "twitter.com/bendreyfuss/st…",
+					"indices": [
+						175,
+						198
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1645155331658641400,
+		"quoted_status_id_str": "1645155331658641408",
+		"quoted_status_permalink": {
+			"url": "https://t.co/N5xAtely5z",
+			"expanded": "https://twitter.com/bendreyfuss/status/1645155331658641408",
+			"display": "twitter.com/bendreyfuss/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 09 20:02:51 +0000 2023",
+			"id": 1645155331658641400,
+			"id_str": "1645155331658641408",
+			"full_text": "@AsteadWH i think people are conflating \"rooting for [character] to win the battle for the business that is one of the show's central conflicts\" with \"rooting for [character] to escape the fictional world of television and run for president in real life\"",
+			"truncated": false,
+			"display_text_range": [
+				10,
+				254
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "AsteadWH",
+						"name": "Astead",
+						"id": 362111287,
+						"id_str": "362111287",
+						"indices": [
+							0,
+							9
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+			"in_reply_to_status_id": 1645153694156038100,
+			"in_reply_to_status_id_str": "1645153694156038145",
+			"in_reply_to_user_id": 362111287,
+			"in_reply_to_user_id_str": "362111287",
+			"in_reply_to_screen_name": "AsteadWH",
+			"user": {
+				"id": 18269124,
+				"id_str": "18269124",
+				"name": "Ben Dreyfuss",
+				"screen_name": "bendreyfuss",
+				"location": "United States",
+				"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+				"url": "https://t.co/lZNMDnDERH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lZNMDnDERH",
+								"expanded_url": "http://www.calmdownben.com",
+								"display_url": "calmdownben.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 82870,
+				"friends_count": 964,
+				"listed_count": 1068,
+				"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+				"favourites_count": 136624,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 15175,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 43,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 6,
+		"favorite_count": 116,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Stalin was a bad man who, all things considered, was basically just as evil as Hitler  but it was still ok to root for him against Hitler in the context of the Eastern Front. https://t.co/N5xAtely5z"
+	},
+	{
+		"created_at": "Sun Apr 09 20:12:32 +0000 2023",
+		"id": 1645157768742178800,
+		"id_str": "1645157768742178816",
+		"full_text": "\"i am worried that other people are not sophisticated enough to notice what I have noticed: aquaman would be a lot less imposing in the desert where there is less water\"",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			169
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1645157016913215500,
+		"in_reply_to_status_id_str": "1645157016913215488",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 77,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "\"i am worried that other people are not sophisticated enough to notice what I have noticed: aquaman would be a lot less imposing in the desert where there is less water\""
+	},
+	{
+		"created_at": "Sun Apr 09 20:09:33 +0000 2023",
+		"id": 1645157016913215500,
+		"id_str": "1645157016913215488",
+		"full_text": "kill me https://t.co/L5u7XsLSQQ",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1645157009225035800,
+					"id_str": "1645157009225035776",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/FtTFlV6aMAAyivN.png",
+					"media_url_https": "https://pbs.twimg.com/media/FtTFlV6aMAAyivN.png",
+					"url": "https://t.co/L5u7XsLSQQ",
+					"display_url": "pic.twitter.com/L5u7XsLSQQ",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645157016913215488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 496,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 496,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 496,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1645157009225035800,
+					"id_str": "1645157009225035776",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/FtTFlV6aMAAyivN.png",
+					"media_url_https": "https://pbs.twimg.com/media/FtTFlV6aMAAyivN.png",
+					"url": "https://t.co/L5u7XsLSQQ",
+					"display_url": "pic.twitter.com/L5u7XsLSQQ",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645157016913215488/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 496,
+							"h": 576,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 496,
+							"h": 576,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 496,
+							"h": 576,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "kill me https://t.co/L5u7XsLSQQ"
+	},
+	{
+		"created_at": "Sun Apr 09 20:07:47 +0000 2023",
+		"id": 1645156575089410000,
+		"id_str": "1645156575089410048",
+		"full_text": "@tomabella @AsteadWH i mean you can root for the hamlet option which honestly doesn't seem impossibly unlikely",
+		"truncated": false,
+		"display_text_range": [
+			21,
+			110
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tomabella",
+					"name": "Moves Product",
+					"id": 18205068,
+					"id_str": "18205068",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "AsteadWH",
+					"name": "Astead",
+					"id": 362111287,
+					"id_str": "362111287",
+					"indices": [
+						11,
+						20
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1645156058229358600,
+		"in_reply_to_status_id_str": "1645156058229358593",
+		"in_reply_to_user_id": 18205068,
+		"in_reply_to_user_id_str": "18205068",
+		"in_reply_to_screen_name": "tomabella",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 10,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@tomabella @AsteadWH i mean you can root for the hamlet option which honestly doesn't seem impossibly unlikely"
+	},
+	{
+		"created_at": "Sun Apr 09 20:02:51 +0000 2023",
+		"id": 1645155331658641400,
+		"id_str": "1645155331658641408",
+		"full_text": "@AsteadWH i think people are conflating \"rooting for [character] to win the battle for the business that is one of the show's central conflicts\" with \"rooting for [character] to escape the fictional world of television and run for president in real life\"",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			254
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AsteadWH",
+					"name": "Astead",
+					"id": 362111287,
+					"id_str": "362111287",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1645153694156038100,
+		"in_reply_to_status_id_str": "1645153694156038145",
+		"in_reply_to_user_id": 362111287,
+		"in_reply_to_user_id_str": "362111287",
+		"in_reply_to_screen_name": "AsteadWH",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 43,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AsteadWH i think people are conflating \"rooting for [character] to win the battle for the business that is one of the show's central conflicts\" with \"rooting for [character] to escape the fictional world of television and run for president in real life\""
+	},
+	{
+		"created_at": "Sun Apr 09 19:56:53 +0000 2023",
+		"id": 1645153832295342000,
+		"id_str": "1645153832295342082",
+		"full_text": "@oneunderscore__ but now he's one degree away and there is no compulsion to like \"give him a piece of my mind!\"",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			111
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "oneunderscore__",
+					"name": "Ben Collins",
+					"id": 102594136,
+					"id_str": "102594136",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1645153513281044500,
+		"in_reply_to_status_id_str": "1645153513281044481",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@oneunderscore__ but now he's one degree away and there is no compulsion to like \"give him a piece of my mind!\""
+	},
+	{
+		"created_at": "Sun Apr 09 19:55:37 +0000 2023",
+		"id": 1645153513281044500,
+		"id_str": "1645153513281044481",
+		"full_text": "@oneunderscore__ like, one thing that made every idiot tweet of his such a discourse market maker was that lots of people wanted to tell him to go fuck himself and though he almost certainly wouldn't he technically could see it.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			228
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "oneunderscore__",
+					"name": "Ben Collins",
+					"id": 102594136,
+					"id_str": "102594136",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1645152933221388300,
+		"in_reply_to_status_id_str": "1645152933221388288",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@oneunderscore__ like, one thing that made every idiot tweet of his such a discourse market maker was that lots of people wanted to tell him to go fuck himself and though he almost certainly wouldn't he technically could see it."
+	},
+	{
+		"created_at": "Sun Apr 09 19:53:19 +0000 2023",
+		"id": 1645152933221388300,
+		"id_str": "1645152933221388288",
+		"full_text": "@oneunderscore__ i hope and wish that to be true but i also think some of it is probably that he is off doing it on Truth which only lunatics and some reporters check out. If he were on Twitter, he'd be getting more attention.",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			226
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "oneunderscore__",
+					"name": "Ben Collins",
+					"id": 102594136,
+					"id_str": "102594136",
+					"indices": [
+						0,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1645143343683313700,
+		"in_reply_to_status_id_str": "1645143343683313664",
+		"in_reply_to_user_id": 102594136,
+		"in_reply_to_user_id_str": "102594136",
+		"in_reply_to_screen_name": "oneunderscore__",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@oneunderscore__ i hope and wish that to be true but i also think some of it is probably that he is off doing it on Truth which only lunatics and some reporters check out. If he were on Twitter, he'd be getting more attention."
+	},
+	{
+		"created_at": "Sun Apr 09 19:48:00 +0000 2023",
+		"id": 1645151595980791800,
+		"id_str": "1645151595980791808",
+		"full_text": "@neontaster @GenePark Just wait for the porn parody",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "neontaster",
+					"name": "Noam Blum",
+					"id": 19217369,
+					"id_str": "19217369",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "GenePark",
+					"name": "Gene Park",
+					"id": 15100219,
+					"id_str": "15100219",
+					"indices": [
+						12,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645150705773158400,
+		"in_reply_to_status_id_str": "1645150705773158407",
+		"in_reply_to_user_id": 19217369,
+		"in_reply_to_user_id_str": "19217369",
+		"in_reply_to_screen_name": "neontaster",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@neontaster @GenePark Just wait for the porn parody"
+	},
+	{
+		"created_at": "Sun Apr 09 19:45:34 +0000 2023",
+		"id": 1645150984782635000,
+		"id_str": "1645150984782635008",
+		"full_text": "@mattyglesias @lkmcgann *takes a drag of a Juul*\n“Maybe prison would be the distraction-free situation I need to stop procrastinating and finish some of my long form ideas”",
+		"truncated": false,
+		"display_text_range": [
+			24,
+			172
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mattyglesias",
+					"name": "Matthew Yglesias",
+					"id": 15446531,
+					"id_str": "15446531",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "lkmcgann",
+					"name": "Laura McGann",
+					"id": 14949858,
+					"id_str": "14949858",
+					"indices": [
+						14,
+						23
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645150431855648800,
+		"in_reply_to_status_id_str": "1645150431855648771",
+		"in_reply_to_user_id": 15446531,
+		"in_reply_to_user_id_str": "15446531",
+		"in_reply_to_screen_name": "mattyglesias",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mattyglesias @lkmcgann *takes a drag of a Juul*\n“Maybe prison would be the distraction-free situation I need to stop procrastinating and finish some of my long form ideas”"
+	},
+	{
+		"created_at": "Sun Apr 09 19:36:41 +0000 2023",
+		"id": 1645148748547502000,
+		"id_str": "1645148748547502080",
+		"full_text": "@alex_abads A girl once booty call texted me wanting to come meet me and I was all “sure I’m at a party in Wburg though” “I don’t mind” and then she came and discovered that by “party” I meant hanging out with a bunch of gays doing cocaine in the open and she fled and never spoke to me again",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			292
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alex_abads",
+					"name": "alex",
+					"id": 36651066,
+					"id_str": "36651066",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645119494086434800,
+		"in_reply_to_status_id_str": "1645119494086434823",
+		"in_reply_to_user_id": 36651066,
+		"in_reply_to_user_id_str": "36651066",
+		"in_reply_to_screen_name": "alex_abads",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@alex_abads A girl once booty call texted me wanting to come meet me and I was all “sure I’m at a party in Wburg though” “I don’t mind” and then she came and discovered that by “party” I meant hanging out with a bunch of gays doing cocaine in the open and she fled and never spoke to me again"
+	},
+	{
+		"created_at": "Sun Apr 09 19:30:02 +0000 2023",
+		"id": 1645147075368345600,
+		"id_str": "1645147075368345600",
+		"full_text": "@alex_abads Also I mean this outdoor bar does look like a total shithole lol https://t.co/ok530Cz9ma",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "alex_abads",
+					"name": "alex",
+					"id": 36651066,
+					"id_str": "36651066",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/ok530Cz9ma",
+					"expanded_url": "https://twitter.com/claaaarke_/status/1645007277642903554",
+					"display_url": "twitter.com/claaaarke_/sta…",
+					"indices": [
+						77,
+						100
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645119494086434800,
+		"in_reply_to_status_id_str": "1645119494086434823",
+		"in_reply_to_user_id": 36651066,
+		"in_reply_to_user_id_str": "36651066",
+		"in_reply_to_screen_name": "alex_abads",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1645007277642903600,
+		"quoted_status_id_str": "1645007277642903554",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ok530Cz9ma",
+			"expanded": "https://twitter.com/claaaarke_/status/1645007277642903554",
+			"display": "twitter.com/claaaarke_/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 09 10:14:32 +0000 2023",
+			"id": 1645007277642903600,
+			"id_str": "1645007277642903554",
+			"full_text": "so sorry I just have to add that this is the “nice outdoor section” that I should travel an hour by train or $100+ round trip by Uber for. and on that note… I’m going back to sleep https://t.co/I3MbgR6Zxi",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				180
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1645007272081346600,
+						"id_str": "1645007272081346561",
+						"indices": [
+							181,
+							204
+						],
+						"media_url": "http://pbs.twimg.com/media/FtQ9ZflX0AEzdkX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FtQ9ZflX0AEzdkX.jpg",
+						"url": "https://t.co/I3MbgR6Zxi",
+						"display_url": "pic.twitter.com/I3MbgR6Zxi",
+						"expanded_url": "https://twitter.com/claaaarke_/status/1645007277642903554/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 515,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 910,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1290,
+								"h": 1702,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1645007272081346600,
+						"id_str": "1645007272081346561",
+						"indices": [
+							181,
+							204
+						],
+						"media_url": "http://pbs.twimg.com/media/FtQ9ZflX0AEzdkX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FtQ9ZflX0AEzdkX.jpg",
+						"url": "https://t.co/I3MbgR6Zxi",
+						"display_url": "pic.twitter.com/I3MbgR6Zxi",
+						"expanded_url": "https://twitter.com/claaaarke_/status/1645007277642903554/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 515,
+								"h": 680,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 910,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1290,
+								"h": 1702,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1645007272098033700,
+						"id_str": "1645007272098033665",
+						"indices": [
+							181,
+							204
+						],
+						"media_url": "http://pbs.twimg.com/media/FtQ9ZfpWcAEqg9s.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FtQ9ZfpWcAEqg9s.jpg",
+						"url": "https://t.co/I3MbgR6Zxi",
+						"display_url": "pic.twitter.com/I3MbgR6Zxi",
+						"expanded_url": "https://twitter.com/claaaarke_/status/1645007277642903554/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 510,
+								"h": 680,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1290,
+								"h": 1719,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 901,
+								"h": 1200,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1645007272093921300,
+						"id_str": "1645007272093921281",
+						"indices": [
+							181,
+							204
+						],
+						"media_url": "http://pbs.twimg.com/media/FtQ9ZfoXsAER0Xo.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FtQ9ZfoXsAER0Xo.jpg",
+						"url": "https://t.co/I3MbgR6Zxi",
+						"display_url": "pic.twitter.com/I3MbgR6Zxi",
+						"expanded_url": "https://twitter.com/claaaarke_/status/1645007277642903554/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 906,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 513,
+								"h": 680,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1290,
+								"h": 1709,
+								"resize": "fit"
+							}
+						}
+					},
+					{
+						"id": 1645007272093839400,
+						"id_str": "1645007272093839364",
+						"indices": [
+							181,
+							204
+						],
+						"media_url": "http://pbs.twimg.com/media/FtQ9ZfoWcAQF5QE.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FtQ9ZfoWcAQF5QE.jpg",
+						"url": "https://t.co/I3MbgR6Zxi",
+						"display_url": "pic.twitter.com/I3MbgR6Zxi",
+						"expanded_url": "https://twitter.com/claaaarke_/status/1645007277642903554/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 888,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1290,
+								"h": 955,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 503,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1644781419607072800,
+			"in_reply_to_status_id_str": "1644781419607072771",
+			"in_reply_to_user_id": 1326176739354095600,
+			"in_reply_to_user_id_str": "1326176739354095622",
+			"in_reply_to_screen_name": "claaaarke_",
+			"user": {
+				"id": 1326176739354095600,
+				"id_str": "1326176739354095622",
+				"name": "clarke",
+				"screen_name": "claaaarke_",
+				"location": "New York, NY",
+				"description": "learning how to use this - IG @clarkepeoples | shop my 2023 digital planner at my website 🫶🏾",
+				"url": "https://t.co/2I2ln2WUcr",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/2I2ln2WUcr",
+								"expanded_url": "http://clarkepeoples.com",
+								"display_url": "clarkepeoples.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 16861,
+				"friends_count": 32,
+				"listed_count": 16,
+				"created_at": "Tue Nov 10 14:55:55 +0000 2020",
+				"favourites_count": 736,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 786,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1576657688397856768/R7r4ZZcG_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1576657688397856768/R7r4ZZcG_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1326176739354095622/1639424265",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 213,
+			"favorite_count": 4263,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@alex_abads Also I mean this outdoor bar does look like a total shithole lol https://t.co/ok530Cz9ma"
+	},
+	{
+		"created_at": "Sun Apr 09 19:23:39 +0000 2023",
+		"id": 1645145465963573200,
+		"id_str": "1645145465963573248",
+		"full_text": "@IMAO_ Ok sheeple https://t.co/bN3QWbSzn3",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			17
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "IMAO_",
+					"name": "Frank J. Fleming",
+					"id": 18677260,
+					"id_str": "18677260",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1645145462037713000,
+					"id_str": "1645145462037712898",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/FtS7FNSakAIZLse.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtS7FNSakAIZLse.jpg",
+					"url": "https://t.co/bN3QWbSzn3",
+					"display_url": "pic.twitter.com/bN3QWbSzn3",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645145465963573248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 576,
+							"h": 411,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 576,
+							"h": 411,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 411,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1645145462037713000,
+					"id_str": "1645145462037712898",
+					"indices": [
+						18,
+						41
+					],
+					"media_url": "http://pbs.twimg.com/media/FtS7FNSakAIZLse.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtS7FNSakAIZLse.jpg",
+					"url": "https://t.co/bN3QWbSzn3",
+					"display_url": "pic.twitter.com/bN3QWbSzn3",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645145465963573248/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 576,
+							"h": 411,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 576,
+							"h": 411,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 576,
+							"h": 411,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645143140980932600,
+		"in_reply_to_status_id_str": "1645143140980932610",
+		"in_reply_to_user_id": 18677260,
+		"in_reply_to_user_id_str": "18677260",
+		"in_reply_to_screen_name": "IMAO_",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 76,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@IMAO_ Ok sheeple https://t.co/bN3QWbSzn3"
+	},
+	{
+		"created_at": "Sun Apr 09 19:15:19 +0000 2023",
+		"id": 1645143368564093000,
+		"id_str": "1645143368564092928",
+		"full_text": "@benryanwriter No in fact I hate the places that make bacon sweet! They exist and I don’t like it! Ruins a good piece of bacon!",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "benryanwriter",
+					"name": "Benjamin Ryan",
+					"id": 1666939494,
+					"id_str": "1666939494",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645135570362851300,
+		"in_reply_to_status_id_str": "1645135570362851328",
+		"in_reply_to_user_id": 1666939494,
+		"in_reply_to_user_id_str": "1666939494",
+		"in_reply_to_screen_name": "benryanwriter",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@benryanwriter No in fact I hate the places that make bacon sweet! They exist and I don’t like it! Ruins a good piece of bacon!"
+	},
+	{
+		"created_at": "Sun Apr 09 18:41:03 +0000 2023",
+		"id": 1645134747876855800,
+		"id_str": "1645134747876855808",
+		"full_text": "@amolitor99 Oh for real? I have owned some eufy bathroom scales and stuff in the past and they were pretty good.",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			112
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "amolitor99",
+					"name": "amolitor.dolt",
+					"id": 161498321,
+					"id_str": "161498321",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645134070974922800,
+		"in_reply_to_status_id_str": "1645134070974922752",
+		"in_reply_to_user_id": 161498321,
+		"in_reply_to_user_id_str": "161498321",
+		"in_reply_to_screen_name": "amolitor99",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@amolitor99 Oh for real? I have owned some eufy bathroom scales and stuff in the past and they were pretty good."
+	},
+	{
+		"created_at": "Sun Apr 09 18:40:11 +0000 2023",
+		"id": 1645134530792296400,
+		"id_str": "1645134530792296449",
+		"full_text": "@benryanwriter I don’t like sweet things. Sugar is the devil. A dash of something? Fine. But maple syrup is so sweet that it cannot be applied in a soaring fashion. It overwhelms the taste of anything it comes in contact with. It is an apex breakfast platter predator",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			267
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "benryanwriter",
+					"name": "Benjamin Ryan",
+					"id": 1666939494,
+					"id_str": "1666939494",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645133882726006800,
+		"in_reply_to_status_id_str": "1645133882726006789",
+		"in_reply_to_user_id": 1666939494,
+		"in_reply_to_user_id_str": "1666939494",
+		"in_reply_to_screen_name": "benryanwriter",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@benryanwriter I don’t like sweet things. Sugar is the devil. A dash of something? Fine. But maple syrup is so sweet that it cannot be applied in a soaring fashion. It overwhelms the taste of anything it comes in contact with. It is an apex breakfast platter predator"
+	},
+	{
+		"created_at": "Sun Apr 09 18:37:01 +0000 2023",
+		"id": 1645133733094379500,
+		"id_str": "1645133733094379520",
+		"full_text": "If I do end up buying a SimpliSafe then I am going to need to think long and hard about which podcast I want get the commission.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645133291606126600,
+		"in_reply_to_status_id_str": "1645133291606126592",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "If I do end up buying a SimpliSafe then I am going to need to think long and hard about which podcast I want get the commission."
+	},
+	{
+		"created_at": "Sun Apr 09 18:35:16 +0000 2023",
+		"id": 1645133291606126600,
+		"id_str": "1645133291606126592",
+		"full_text": "There are two companies everyone has heard of that make the little camera things that go above your front door. SimpliSafe, made famous by podcast ads, and Ring, which Amazon will not shut up about it. \n\nBut what is the sophisticate’s video security system?",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			257
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645131989131960300,
+		"in_reply_to_status_id_str": "1645131989131960321",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "There are two companies everyone has heard of that make the little camera things that go above your front door. SimpliSafe, made famous by podcast ads, and Ring, which Amazon will not shut up about it. \n\nBut what is the sophisticate’s video security system?"
+	},
+	{
+		"created_at": "Sun Apr 09 18:32:00 +0000 2023",
+		"id": 1645132468360736800,
+		"id_str": "1645132468360736768",
+		"full_text": "@benryanwriter Ham is gross but the answer given the limited options you provide here has to be mustard since maple syrup is disgusting in every single situation.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			162
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "benryanwriter",
+					"name": "Benjamin Ryan",
+					"id": 1666939494,
+					"id_str": "1666939494",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645131856755474400,
+		"in_reply_to_status_id_str": "1645131856755474432",
+		"in_reply_to_user_id": 1666939494,
+		"in_reply_to_user_id_str": "1666939494",
+		"in_reply_to_screen_name": "benryanwriter",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@benryanwriter Ham is gross but the answer given the limited options you provide here has to be mustard since maple syrup is disgusting in every single situation."
+	},
+	{
+		"created_at": "Sun Apr 09 18:30:05 +0000 2023",
+		"id": 1645131989131960300,
+		"id_str": "1645131989131960321",
+		"full_text": "This is the type of content you’ll soon only be able to get if you subscribe to me on substack Notes https://t.co/etLOSIn90j",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1645131984522604500,
+					"id_str": "1645131984522604544",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FtSu0toacAArAiN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtSu0toacAArAiN.jpg",
+					"url": "https://t.co/etLOSIn90j",
+					"display_url": "pic.twitter.com/etLOSIn90j",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645131989131960321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 390,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1640,
+							"h": 533,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 221,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1645131984522604500,
+					"id_str": "1645131984522604544",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/FtSu0toacAArAiN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtSu0toacAArAiN.jpg",
+					"url": "https://t.co/etLOSIn90j",
+					"display_url": "pic.twitter.com/etLOSIn90j",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645131989131960321/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 390,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1640,
+							"h": 533,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 221,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 27,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This is the type of content you’ll soon only be able to get if you subscribe to me on substack Notes https://t.co/etLOSIn90j"
+	},
+	{
+		"created_at": "Sun Apr 09 18:24:58 +0000 2023",
+		"id": 1645130698158919700,
+		"id_str": "1645130698158919681",
+		"full_text": "“Oh know the Teen Vogue columnists are mad”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645130137191710700,
+		"in_reply_to_status_id_str": "1645130137191710721",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 68,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "“Oh know the Teen Vogue columnists are mad”"
+	},
+	{
+		"created_at": "Sun Apr 09 18:22:57 +0000 2023",
+		"id": 1645130190560051200,
+		"id_str": "1645130190560051200",
+		"full_text": "@pbump Yeah that was a nice move, I sped up because I didn’t want to to give them the satisfaction lol",
+		"truncated": false,
+		"display_text_range": [
+			7,
+			102
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "pbump",
+					"name": "Philip Bump",
+					"id": 950531,
+					"id_str": "950531",
+					"indices": [
+						0,
+						6
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645128997456453600,
+		"in_reply_to_status_id_str": "1645128997456453633",
+		"in_reply_to_user_id": 950531,
+		"in_reply_to_user_id_str": "950531",
+		"in_reply_to_screen_name": "pbump",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@pbump Yeah that was a nice move, I sped up because I didn’t want to to give them the satisfaction lol"
+	},
+	{
+		"created_at": "Sun Apr 09 18:22:44 +0000 2023",
+		"id": 1645130137191710700,
+		"id_str": "1645130137191710721",
+		"full_text": "All these people went to Wesleyan or whatever and grew up to become the folks who spent 2018 being like “an athlete did an OK sign during a college football game? He must be a Nazi.” https://t.co/r0nQMxz8gg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1645130027774931000,
+					"id_str": "1645130027774930944",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1645130027774930944/pu/img/2GGHCO7SRZl3cEf9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1645130027774930944/pu/img/2GGHCO7SRZl3cEf9.jpg",
+					"url": "https://t.co/r0nQMxz8gg",
+					"display_url": "pic.twitter.com/r0nQMxz8gg",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645130137191710721/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 1036,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1036,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 473,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1645130027774931000,
+					"id_str": "1645130027774930944",
+					"indices": [
+						183,
+						206
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1645130027774930944/pu/img/2GGHCO7SRZl3cEf9.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1645130027774930944/pu/img/2GGHCO7SRZl3cEf9.jpg",
+					"url": "https://t.co/r0nQMxz8gg",
+					"display_url": "pic.twitter.com/r0nQMxz8gg",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645130137191710721/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 1036,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1036,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 473,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							180,
+							259
+						],
+						"duration_millis": 18531,
+						"variants": [
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1645130027774930944/pu/vid/320x460/T6F3VAXwD1THFr0A.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1645130027774930944/pu/vid/720x1036/9Dx1p2xfpoMy9VVf.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1645130027774930944/pu/pl/uEggWDky6YfQqR09.m3u8?tag=12&container=fmp4"
+							},
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1645130027774930944/pu/vid/480x690/G0vKyL-LXx582Rku.mp4?tag=12"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645128392667439000,
+		"in_reply_to_status_id_str": "1645128392667439104",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 117,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "All these people went to Wesleyan or whatever and grew up to become the folks who spent 2018 being like “an athlete did an OK sign during a college football game? He must be a Nazi.” https://t.co/r0nQMxz8gg"
+	},
+	{
+		"created_at": "Sun Apr 09 18:15:48 +0000 2023",
+		"id": 1645128392667439000,
+		"id_str": "1645128392667439104",
+		"full_text": "Look at all these fucking idiots https://t.co/ZFHKojdSix",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1645128277533786000,
+					"id_str": "1645128277533786112",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1645128277533786112/pu/img/wq8ucBT2zUsZb-iA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1645128277533786112/pu/img/wq8ucBT2zUsZb-iA.jpg",
+					"url": "https://t.co/ZFHKojdSix",
+					"display_url": "pic.twitter.com/ZFHKojdSix",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645128392667439104/video/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 1036,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1036,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 473,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1645128277533786000,
+					"id_str": "1645128277533786112",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1645128277533786112/pu/img/wq8ucBT2zUsZb-iA.jpg",
+					"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1645128277533786112/pu/img/wq8ucBT2zUsZb-iA.jpg",
+					"url": "https://t.co/ZFHKojdSix",
+					"display_url": "pic.twitter.com/ZFHKojdSix",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645128392667439104/video/1",
+					"type": "video",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 720,
+							"h": 1036,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 720,
+							"h": 1036,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 473,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							180,
+							259
+						],
+						"duration_millis": 22965,
+						"variants": [
+							{
+								"bitrate": 950000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1645128277533786112/pu/vid/480x690/_9HeSczsYZqf9KKO.mp4?tag=12"
+							},
+							{
+								"bitrate": 632000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1645128277533786112/pu/vid/320x460/ZqRs8a8lEvsiYuzb.mp4?tag=12"
+							},
+							{
+								"bitrate": 2176000,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/ext_tw_video/1645128277533786112/pu/vid/720x1036/E24xBz9ZD6YkQ2iK.mp4?tag=12"
+							},
+							{
+								"content_type": "application/x-mpegURL",
+								"url": "https://video.twimg.com/ext_tw_video/1645128277533786112/pu/pl/lqtuNpq1GwVwo9d5.m3u8?tag=12&container=fmp4"
+							}
+						]
+					},
+					"additional_media_info": {
+						"monetizable": false
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645125527307690000,
+		"in_reply_to_status_id_str": "1645125527307689985",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 86,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Look at all these fucking idiots https://t.co/ZFHKojdSix"
+	},
+	{
+		"created_at": "Sun Apr 09 18:13:28 +0000 2023",
+		"id": 1645127803720056800,
+		"id_str": "1645127803720056833",
+		"full_text": "@BlueMax_0 Haha",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			15
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "BlueMax_0",
+					"name": "BlueMax",
+					"id": 1377037073245474800,
+					"id_str": "1377037073245474823",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645126261751287800,
+		"in_reply_to_status_id_str": "1645126261751287808",
+		"in_reply_to_user_id": 1377037073245474800,
+		"in_reply_to_user_id_str": "1377037073245474823",
+		"in_reply_to_screen_name": "BlueMax_0",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 9,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tl",
+		"text": "@BlueMax_0 Haha"
+	},
+	{
+		"created_at": "Sun Apr 09 18:11:49 +0000 2023",
+		"id": 1645127390828580900,
+		"id_str": "1645127390828580864",
+		"full_text": "@DrHueyLi I never said he was benign. I said that there probably are benign collectors which is relevant since this entire thread is not about the guy, you fucking moron, but is about the general stupidity of assuming that owning Nazi collectibles necessarily makes one a Nazi.",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			277
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "DrHueyLi",
+					"name": "Huey Li",
+					"id": 796760905866301400,
+					"id_str": "796760905866301440",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1644913254551158800,
+		"in_reply_to_status_id_str": "1644913254551158785",
+		"in_reply_to_user_id": 796760905866301400,
+		"in_reply_to_user_id_str": "796760905866301440",
+		"in_reply_to_screen_name": "DrHueyLi",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@DrHueyLi I never said he was benign. I said that there probably are benign collectors which is relevant since this entire thread is not about the guy, you fucking moron, but is about the general stupidity of assuming that owning Nazi collectibles necessarily makes one a Nazi."
+	},
+	{
+		"created_at": "Sun Apr 09 18:04:25 +0000 2023",
+		"id": 1645125527307690000,
+		"id_str": "1645125527307689985",
+		"full_text": "people ask me why i do my tweets when there aint no money in it and i tell them the truth: the smiles on the children's faces are the only reward i need https://t.co/BXJsEc7Zdh",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			152
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1645125522094194700,
+					"id_str": "1645125522094194690",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FtSo8jNagAI7Pz2.png",
+					"media_url_https": "https://pbs.twimg.com/media/FtSo8jNagAI7Pz2.png",
+					"url": "https://t.co/BXJsEc7Zdh",
+					"display_url": "pic.twitter.com/BXJsEc7Zdh",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645125527307689985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 426,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 472,
+							"h": 754,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 472,
+							"h": 754,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1645125522094194700,
+					"id_str": "1645125522094194690",
+					"indices": [
+						153,
+						176
+					],
+					"media_url": "http://pbs.twimg.com/media/FtSo8jNagAI7Pz2.png",
+					"media_url_https": "https://pbs.twimg.com/media/FtSo8jNagAI7Pz2.png",
+					"url": "https://t.co/BXJsEc7Zdh",
+					"display_url": "pic.twitter.com/BXJsEc7Zdh",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645125527307689985/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 426,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 472,
+							"h": 754,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 472,
+							"h": 754,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 13,
+		"favorite_count": 461,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "people ask me why i do my tweets when there aint no money in it and i tell them the truth: the smiles on the children's faces are the only reward i need https://t.co/BXJsEc7Zdh"
+	},
+	{
+		"created_at": "Sun Apr 09 18:02:45 +0000 2023",
+		"id": 1645125109026541600,
+		"id_str": "1645125109026541570",
+		"full_text": "@bdomenech Well deserved!",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bdomenech",
+					"name": "Ben Domenech",
+					"id": 14989516,
+					"id_str": "14989516",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1645124716024279000,
+		"in_reply_to_status_id_str": "1645124716024279043",
+		"in_reply_to_user_id": 14989516,
+		"in_reply_to_user_id_str": "14989516",
+		"in_reply_to_screen_name": "bdomenech",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bdomenech Well deserved!"
+	},
+	{
+		"created_at": "Sun Apr 09 17:27:58 +0000 2023",
+		"id": 1645116354482303000,
+		"id_str": "1645116354482302978",
+		"full_text": "@Rajjah Hahahhahah",
+		"truncated": false,
+		"display_text_range": [
+			8,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Rajjah",
+					"name": "PoshPug",
+					"id": 19048677,
+					"id_str": "19048677",
+					"indices": [
+						0,
+						7
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645116148298444800,
+		"in_reply_to_status_id_str": "1645116148298444800",
+		"in_reply_to_user_id": 19048677,
+		"in_reply_to_user_id_str": "19048677",
+		"in_reply_to_screen_name": "Rajjah",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tl",
+		"text": "@Rajjah Hahahhahah"
+	},
+	{
+		"created_at": "Sun Apr 09 17:25:38 +0000 2023",
+		"id": 1645115768387047400,
+		"id_str": "1645115768387047424",
+		"full_text": "@REOtweetwagon But then in act 3 they come together and discover more unites them than divides them",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "REOtweetwagon",
+					"name": "REOtweetwagon",
+					"id": 1492693485794705400,
+					"id_str": "1492693485794705409",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645115629819793400,
+		"in_reply_to_status_id_str": "1645115629819793409",
+		"in_reply_to_user_id": 1492693485794705400,
+		"in_reply_to_user_id_str": "1492693485794705409",
+		"in_reply_to_screen_name": "REOtweetwagon",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@REOtweetwagon But then in act 3 they come together and discover more unites them than divides them"
+	},
+	{
+		"created_at": "Sun Apr 09 17:25:07 +0000 2023",
+		"id": 1645115636182564900,
+		"id_str": "1645115636182564864",
+		"full_text": "Could also do this but on Christmas. That might be a better holiday hook.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645115192303579100,
+		"in_reply_to_status_id_str": "1645115192303579147",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 26,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Could also do this but on Christmas. That might be a better holiday hook."
+	},
+	{
+		"created_at": "Sun Apr 09 17:23:21 +0000 2023",
+		"id": 1645115192303579100,
+		"id_str": "1645115192303579147",
+		"full_text": "A heist movie where a bunch of Jews and Muslims and Hindus and Buddhists (and one very quiet and deferential atheist) rob every business in a small overwhelmingly Christian town during Easter service.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			200
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645114735594176500,
+		"in_reply_to_status_id_str": "1645114735594176512",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 4,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "A heist movie where a bunch of Jews and Muslims and Hindus and Buddhists (and one very quiet and deferential atheist) rob every business in a small overwhelmingly Christian town during Easter service."
+	},
+	{
+		"created_at": "Sun Apr 09 17:21:32 +0000 2023",
+		"id": 1645114735594176500,
+		"id_str": "1645114735594176512",
+		"full_text": "Everyone in this town is Christian and yet I tried to go to breakfast this morning and the restaurant was too packed and I was like “aren’t you dummies supposed to be in church”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			177
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 113,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Everyone in this town is Christian and yet I tried to go to breakfast this morning and the restaurant was too packed and I was like “aren’t you dummies supposed to be in church”"
+	},
+	{
+		"created_at": "Sun Apr 09 17:18:07 +0000 2023",
+		"id": 1645113877347307500,
+		"id_str": "1645113877347307521",
+		"full_text": "@simplicio823 Good point",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			24
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "simplicio823",
+					"name": "Simplicio",
+					"id": 2658603474,
+					"id_str": "2658603474",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645093060798283800,
+		"in_reply_to_status_id_str": "1645093060798283776",
+		"in_reply_to_user_id": 2658603474,
+		"in_reply_to_user_id_str": "2658603474",
+		"in_reply_to_screen_name": "simplicio823",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@simplicio823 Good point"
+	},
+	{
+		"created_at": "Sun Apr 09 17:15:07 +0000 2023",
+		"id": 1645113119415599000,
+		"id_str": "1645113119415599106",
+		"full_text": "It’s also pretty amazing that in 2023 BuzzFeed is still doing these “here are some comments from a Reddit thread” posts https://t.co/5kpnLIpgh2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			143
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5kpnLIpgh2",
+					"expanded_url": "https://apple.news/AyWaFepAQT_qXF2NvFDo6BA",
+					"display_url": "apple.news/AyWaFepAQT_qXF…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645110992878325800,
+		"in_reply_to_status_id_str": "1645110992878325760",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 39,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "It’s also pretty amazing that in 2023 BuzzFeed is still doing these “here are some comments from a Reddit thread” posts https://t.co/5kpnLIpgh2"
+	},
+	{
+		"created_at": "Sun Apr 09 17:10:56 +0000 2023",
+		"id": 1645112068566286300,
+		"id_str": "1645112068566286337",
+		"full_text": "@KatzOnEarth Yeah to be honest the AMI part of all of this has always felt way more sketchy than the hush payments, tbh. I understand there are practical reasons why one is being charged and the other isn’t but it is sort of ironic.",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			232
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "KatzOnEarth",
+					"name": "Jonathan M. Katz writes The Racket on Substack",
+					"id": 144286635,
+					"id_str": "144286635",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645111206326292500,
+		"in_reply_to_status_id_str": "1645111206326292482",
+		"in_reply_to_user_id": 144286635,
+		"in_reply_to_user_id_str": "144286635",
+		"in_reply_to_screen_name": "KatzOnEarth",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@KatzOnEarth Yeah to be honest the AMI part of all of this has always felt way more sketchy than the hush payments, tbh. I understand there are practical reasons why one is being charged and the other isn’t but it is sort of ironic."
+	},
+	{
+		"created_at": "Sun Apr 09 17:06:40 +0000 2023",
+		"id": 1645110992878325800,
+		"id_str": "1645110992878325760",
+		"full_text": "Oh yeah what an awful little brat, giving an iPad as a gift to someone who worked for their parents. So out of touch. The horror https://t.co/4zakArPWme",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			128
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1645110987807408000,
+					"id_str": "1645110987807408128",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FtSbuixaQAAU5mM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtSbuixaQAAU5mM.jpg",
+					"url": "https://t.co/4zakArPWme",
+					"display_url": "pic.twitter.com/4zakArPWme",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645110992878325760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 836,
+							"h": 303,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 836,
+							"h": 303,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 246,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1645110987807408000,
+					"id_str": "1645110987807408128",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FtSbuixaQAAU5mM.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtSbuixaQAAU5mM.jpg",
+					"url": "https://t.co/4zakArPWme",
+					"display_url": "pic.twitter.com/4zakArPWme",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645110992878325760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 836,
+							"h": 303,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 836,
+							"h": 303,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 246,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1645110987799019500,
+					"id_str": "1645110987799019520",
+					"indices": [
+						129,
+						152
+					],
+					"media_url": "http://pbs.twimg.com/media/FtSbuivaQAACPrn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtSbuivaQAACPrn.jpg",
+					"url": "https://t.co/4zakArPWme",
+					"display_url": "pic.twitter.com/4zakArPWme",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645110992878325760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 597,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 338,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1567,
+							"h": 780,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 6,
+		"favorite_count": 197,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Oh yeah what an awful little brat, giving an iPad as a gift to someone who worked for their parents. So out of touch. The horror https://t.co/4zakArPWme"
+	},
+	{
+		"created_at": "Sun Apr 09 17:01:23 +0000 2023",
+		"id": 1645109664915558400,
+		"id_str": "1645109664915558401",
+		"full_text": "@GScottShand “Easter eggs you didn’t get the first time” hahhahahahha",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GScottShand",
+					"name": "G. Scott Shand 🌐",
+					"id": 37688422,
+					"id_str": "37688422",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645109430654992400,
+		"in_reply_to_status_id_str": "1645109430654992386",
+		"in_reply_to_user_id": 37688422,
+		"in_reply_to_user_id_str": "37688422",
+		"in_reply_to_screen_name": "GScottShand",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 3,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@GScottShand “Easter eggs you didn’t get the first time” hahhahahahha"
+	},
+	{
+		"created_at": "Sun Apr 09 16:59:41 +0000 2023",
+		"id": 1645109238333833200,
+		"id_str": "1645109238333833217",
+		"full_text": "@bart_smith Wow I saw someone predict that Mario would be one of the top grossing films of the year a few months ago and I was pretty doubtful but looks like they were onto something",
+		"truncated": false,
+		"display_text_range": [
+			12,
+			182
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bart_smith",
+					"name": "bart",
+					"id": 22010685,
+					"id_str": "22010685",
+					"indices": [
+						0,
+						11
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645107696041951200,
+		"in_reply_to_status_id_str": "1645107696041951233",
+		"in_reply_to_user_id": 22010685,
+		"in_reply_to_user_id_str": "22010685",
+		"in_reply_to_screen_name": "bart_smith",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bart_smith Wow I saw someone predict that Mario would be one of the top grossing films of the year a few months ago and I was pretty doubtful but looks like they were onto something"
+	},
+	{
+		"created_at": "Sun Apr 09 16:59:01 +0000 2023",
+		"id": 1645109067810226200,
+		"id_str": "1645109067810226176",
+		"full_text": "@ENBrown Awwww",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			14
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ENBrown",
+					"name": "Elizabeth Nolan Brown",
+					"id": 3264081,
+					"id_str": "3264081",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645107637548200000,
+		"in_reply_to_status_id_str": "1645107637548199942",
+		"in_reply_to_user_id": 3264081,
+		"in_reply_to_user_id_str": "3264081",
+		"in_reply_to_screen_name": "ENBrown",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "und",
+		"text": "@ENBrown Awwww"
+	},
+	{
+		"created_at": "Sun Apr 09 16:55:43 +0000 2023",
+		"id": 1645108238042660900,
+		"id_str": "1645108238042660865",
+		"full_text": "@K_NoiseWaterMD Yeah, I agree with that. If I owned this stuff, which if it cost $1 I would be willing to own, I would understand that I would have to be explaining it a lot.",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			174
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "K_NoiseWaterMD",
+					"name": "🥊Johnny Danger📖",
+					"id": 743141296626335700,
+					"id_str": "743141296626335745",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645107969078485000,
+		"in_reply_to_status_id_str": "1645107969078484996",
+		"in_reply_to_user_id": 743141296626335700,
+		"in_reply_to_user_id_str": "743141296626335745",
+		"in_reply_to_screen_name": "K_NoiseWaterMD",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@K_NoiseWaterMD Yeah, I agree with that. If I owned this stuff, which if it cost $1 I would be willing to own, I would understand that I would have to be explaining it a lot."
+	},
+	{
+		"created_at": "Sun Apr 09 16:51:06 +0000 2023",
+		"id": 1645107078787399700,
+		"id_str": "1645107078787399680",
+		"full_text": "@K_NoiseWaterMD Haha fair",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			25
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "K_NoiseWaterMD",
+					"name": "🥊Johnny Danger📖",
+					"id": 743141296626335700,
+					"id_str": "743141296626335745",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645106758929580000,
+		"in_reply_to_status_id_str": "1645106758929580035",
+		"in_reply_to_user_id": 743141296626335700,
+		"in_reply_to_user_id_str": "743141296626335745",
+		"in_reply_to_screen_name": "K_NoiseWaterMD",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "fr",
+		"text": "@K_NoiseWaterMD Haha fair"
+	},
+	{
+		"created_at": "Sun Apr 09 16:50:56 +0000 2023",
+		"id": 1645107036932436000,
+		"id_str": "1645107036932435971",
+		"full_text": "You shouldn’t actually be a Nazi or a Nazi sympathizer. Those are very bad things to be. But “you should refrain from any activity which could give people who see Nazis everywhere a reason no matter how tenuous to think you may be a Nazi” is not a very reasonable standard.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			273
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645106434043150300,
+		"in_reply_to_status_id_str": "1645106434043150336",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 124,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "You shouldn’t actually be a Nazi or a Nazi sympathizer. Those are very bad things to be. But “you should refrain from any activity which could give people who see Nazis everywhere a reason no matter how tenuous to think you may be a Nazi” is not a very reasonable standard."
+	},
+	{
+		"created_at": "Sun Apr 09 16:48:33 +0000 2023",
+		"id": 1645106434043150300,
+		"id_str": "1645106434043150336",
+		"full_text": "This would be a much more compelling argument if every few months twitter didn’t decide that Taylor Swift or whoever is a Nazi. https://t.co/FLsMkU2Hz0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/FLsMkU2Hz0",
+					"expanded_url": "https://twitter.com/k_noisewatermd/status/1645064984097898502",
+					"display_url": "twitter.com/k_noisewatermd…",
+					"indices": [
+						128,
+						151
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1645064984097898500,
+		"quoted_status_id_str": "1645064984097898502",
+		"quoted_status_permalink": {
+			"url": "https://t.co/FLsMkU2Hz0",
+			"expanded": "https://twitter.com/k_noisewatermd/status/1645064984097898502",
+			"display": "twitter.com/k_noisewatermd…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 09 14:03:50 +0000 2023",
+			"id": 1645064984097898500,
+			"id_str": "1645064984097898502",
+			"full_text": "A solid rule to live life by: never do anything that might make folks ask \"is that guy a Nazi sympathizer?\"\n\nIt may not be fair in your opinion, it may not leave a lot of room for nuanced debate about appreciating history. But you'll never regret following that rule.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				267
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 743141296626335700,
+				"id_str": "743141296626335745",
+				"name": "🥊Johnny Danger📖",
+				"screen_name": "K_NoiseWaterMD",
+				"location": "Kentucky, USA",
+				"description": "Civil Rights and Appellate Lawyer, #606, thrower of hands. \"Hillbilly Scholar Monk\" 🦉⚖️",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 4531,
+				"friends_count": 1019,
+				"listed_count": 49,
+				"created_at": "Wed Jun 15 18:01:06 +0000 2016",
+				"favourites_count": 75249,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 36676,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1478034868399484936/QlNUhvXl_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1478034868399484936/QlNUhvXl_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/743141296626335745/1609261615",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 4,
+			"favorite_count": 47,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 27,
+		"favorite_count": 301,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This would be a much more compelling argument if every few months twitter didn’t decide that Taylor Swift or whoever is a Nazi. https://t.co/FLsMkU2Hz0"
+	},
+	{
+		"created_at": "Sun Apr 09 16:44:34 +0000 2023",
+		"id": 1645105435211624400,
+		"id_str": "1645105435211624449",
+		"full_text": "It’s totally fine to own dumb Nazi shit, ok? Didn’t you see American Beauty? I got bored and turned it off halfway through but i watched it long enough to know the nice neighbor next door was a collector.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			204
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 63,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "It’s totally fine to own dumb Nazi shit, ok? Didn’t you see American Beauty? I got bored and turned it off halfway through but i watched it long enough to know the nice neighbor next door was a collector."
+	},
+	{
+		"created_at": "Sun Apr 09 16:42:47 +0000 2023",
+		"id": 1645104985284436000,
+		"id_str": "1645104985284435968",
+		"full_text": "@GScottShand Yeah I agree with this. If the shoe were on other foot a lot of conservatives, but certainly not all, would be singing a different tune https://t.co/CVJaYiZU8h",
+		"truncated": false,
+		"display_text_range": [
+			13,
+			148
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "GScottShand",
+					"name": "G. Scott Shand 🌐",
+					"id": 37688422,
+					"id_str": "37688422",
+					"indices": [
+						0,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/CVJaYiZU8h",
+					"expanded_url": "https://twitter.com/gscottshand/status/1645103004381585411",
+					"display_url": "twitter.com/gscottshand/st…",
+					"indices": [
+						149,
+						172
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645104013489193000,
+		"in_reply_to_status_id_str": "1645104013489192961",
+		"in_reply_to_user_id": 37688422,
+		"in_reply_to_user_id_str": "37688422",
+		"in_reply_to_screen_name": "GScottShand",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1645103004381585400,
+		"quoted_status_id_str": "1645103004381585411",
+		"quoted_status_permalink": {
+			"url": "https://t.co/CVJaYiZU8h",
+			"expanded": "https://twitter.com/gscottshand/status/1645103004381585411",
+			"display": "twitter.com/gscottshand/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sun Apr 09 16:34:55 +0000 2023",
+			"id": 1645103004381585400,
+			"id_str": "1645103004381585411",
+			"full_text": "I can't imagine the articles they would write if it was revealed that a billionaire with statutes of Mao and Stalin in their garden was showering a liberal justice with gifts/travel on their private jet and all of liberal media defended that billionaire as a close friend.",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				272
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1645102027985305600,
+			"in_reply_to_status_id_str": "1645102027985305601",
+			"in_reply_to_user_id": 37688422,
+			"in_reply_to_user_id_str": "37688422",
+			"in_reply_to_screen_name": "GScottShand",
+			"user": {
+				"id": 37688422,
+				"id_str": "37688422",
+				"name": "G. Scott Shand 🌐",
+				"screen_name": "GScottShand",
+				"location": "",
+				"description": "Attorney | Holy Cross '06 | dog lover | political science, finance, sports, and music junkie. Neoliberal 🌐",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 533,
+				"friends_count": 596,
+				"listed_count": 8,
+				"created_at": "Mon May 04 15:54:46 +0000 2009",
+				"favourites_count": 98157,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 15970,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1121099372450734080/VDdjFp6z_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1121099372450734080/VDdjFp6z_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/37688422/1535134271",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@GScottShand Yeah I agree with this. If the shoe were on other foot a lot of conservatives, but certainly not all, would be singing a different tune https://t.co/CVJaYiZU8h"
+	},
+	{
+		"created_at": "Sun Apr 09 16:36:47 +0000 2023",
+		"id": 1645103476203196400,
+		"id_str": "1645103476203196417",
+		"full_text": "Just to nip this shit in the bud https://t.co/r7KSOgK01w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1645103471887282200,
+					"id_str": "1645103471887282176",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/FtSU5DyacAAe2Jv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtSU5DyacAAe2Jv.jpg",
+					"url": "https://t.co/r7KSOgK01w",
+					"display_url": "pic.twitter.com/r7KSOgK01w",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645103476203196417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 834,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1423,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1645103471887282200,
+					"id_str": "1645103471887282176",
+					"indices": [
+						33,
+						56
+					],
+					"media_url": "http://pbs.twimg.com/media/FtSU5DyacAAe2Jv.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtSU5DyacAAe2Jv.jpg",
+					"url": "https://t.co/r7KSOgK01w",
+					"display_url": "pic.twitter.com/r7KSOgK01w",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645103476203196417/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 834,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1423,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645103329390006300,
+		"in_reply_to_status_id_str": "1645103329390006274",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just to nip this shit in the bud https://t.co/r7KSOgK01w"
+	},
+	{
+		"created_at": "Sun Apr 09 16:36:12 +0000 2023",
+		"id": 1645103329390006300,
+		"id_str": "1645103329390006274",
+		"full_text": "Just to be clear before random people start yelling at me about this, this particular tweet is a joke making fun of myself for a thread from the night before https://t.co/ZXSLUezfrN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			157
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ZXSLUezfrN",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1644510550867714048",
+					"display_url": "twitter.com/bendreyfuss/st…",
+					"indices": [
+						158,
+						181
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1644924387215429600,
+		"in_reply_to_status_id_str": "1644924387215429636",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1644510550867714000,
+		"quoted_status_id_str": "1644510550867714048",
+		"quoted_status_permalink": {
+			"url": "https://t.co/ZXSLUezfrN",
+			"expanded": "https://twitter.com/bendreyfuss/status/1644510550867714048",
+			"display": "twitter.com/bendreyfuss/st…"
+		},
+		"quoted_status": {
+			"created_at": "Sat Apr 08 01:20:43 +0000 2023",
+			"id": 1644510550867714000,
+			"id_str": "1644510550867714048",
+			"full_text": "I have been tweeting about this subject since I went to Israel in 2015 and learned the shocking news that the Jews were not ever in Egypt and yet still in 2023 the sheeple haven’t wrapped their brains around it!! https://t.co/BlJIFPAVVC",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				212
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1644510546836988000,
+						"id_str": "1644510546836987904",
+						"indices": [
+							213,
+							236
+						],
+						"media_url": "http://pbs.twimg.com/media/FtJ5oR2aIAAjgbW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FtJ5oR2aIAAjgbW.jpg",
+						"url": "https://t.co/BlJIFPAVVC",
+						"display_url": "pic.twitter.com/BlJIFPAVVC",
+						"expanded_url": "https://twitter.com/bendreyfuss/status/1644510550867714048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1431,
+								"h": 1112,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 932,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 528,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1644510546836988000,
+						"id_str": "1644510546836987904",
+						"indices": [
+							213,
+							236
+						],
+						"media_url": "http://pbs.twimg.com/media/FtJ5oR2aIAAjgbW.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FtJ5oR2aIAAjgbW.jpg",
+						"url": "https://t.co/BlJIFPAVVC",
+						"display_url": "pic.twitter.com/BlJIFPAVVC",
+						"expanded_url": "https://twitter.com/bendreyfuss/status/1644510550867714048/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1431,
+								"h": 1112,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 932,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 528,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 18269124,
+				"id_str": "18269124",
+				"name": "Ben Dreyfuss",
+				"screen_name": "bendreyfuss",
+				"location": "United States",
+				"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+				"url": "https://t.co/lZNMDnDERH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lZNMDnDERH",
+								"expanded_url": "http://www.calmdownben.com",
+								"display_url": "calmdownben.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 82870,
+				"friends_count": 964,
+				"listed_count": 1068,
+				"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+				"favourites_count": 136624,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": true,
+				"statuses_count": 15175,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 45,
+			"favorite_count": 207,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just to be clear before random people start yelling at me about this, this particular tweet is a joke making fun of myself for a thread from the night before https://t.co/ZXSLUezfrN"
+	},
+	{
+		"created_at": "Sun Apr 09 16:34:41 +0000 2023",
+		"id": 1645102945976070100,
+		"id_str": "1645102945976070145",
+		"full_text": "@RyanRadia @ASFleischman Oh yeah I mean life would be awful. I would bathe in the numbing properties of Sichuan pepper juice",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			124
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RyanRadia",
+					"name": "Ryan Radia",
+					"id": 71156555,
+					"id_str": "71156555",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "ASFleischman",
+					"name": "Andrew Fleischman",
+					"id": 3461132476,
+					"id_str": "3461132476",
+					"indices": [
+						11,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645102710243438600,
+		"in_reply_to_status_id_str": "1645102710243438592",
+		"in_reply_to_user_id": 71156555,
+		"in_reply_to_user_id_str": "71156555",
+		"in_reply_to_screen_name": "RyanRadia",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RyanRadia @ASFleischman Oh yeah I mean life would be awful. I would bathe in the numbing properties of Sichuan pepper juice"
+	},
+	{
+		"created_at": "Sun Apr 09 16:32:07 +0000 2023",
+		"id": 1645102299730284500,
+		"id_str": "1645102299730284544",
+		"full_text": "@gelliottmorris Damn have to hand it to ya: that does look good",
+		"truncated": false,
+		"display_text_range": [
+			16,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "gelliottmorris",
+					"name": "G Elliott Morris",
+					"id": 57029492,
+					"id_str": "57029492",
+					"indices": [
+						0,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645101034098786300,
+		"in_reply_to_status_id_str": "1645101034098786307",
+		"in_reply_to_user_id": 57029492,
+		"in_reply_to_user_id_str": "57029492",
+		"in_reply_to_screen_name": "gelliottmorris",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@gelliottmorris Damn have to hand it to ya: that does look good"
+	},
+	{
+		"created_at": "Sun Apr 09 16:30:56 +0000 2023",
+		"id": 1645102004157694000,
+		"id_str": "1645102004157693954",
+		"full_text": "@RyanRadia @ASFleischman Jesus I’ve already been over this Ryan. The Sichuan pepper is a totally different type of thing than good ol capsicum. It’s a numbing poignancy! Totally different! That’s why modern Sichuan cousins adds capsicum peppers for the heat!",
+		"truncated": false,
+		"display_text_range": [
+			25,
+			258
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "RyanRadia",
+					"name": "Ryan Radia",
+					"id": 71156555,
+					"id_str": "71156555",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "ASFleischman",
+					"name": "Andrew Fleischman",
+					"id": 3461132476,
+					"id_str": "3461132476",
+					"indices": [
+						11,
+						24
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645099809525596200,
+		"in_reply_to_status_id_str": "1645099809525596161",
+		"in_reply_to_user_id": 71156555,
+		"in_reply_to_user_id_str": "71156555",
+		"in_reply_to_screen_name": "RyanRadia",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@RyanRadia @ASFleischman Jesus I’ve already been over this Ryan. The Sichuan pepper is a totally different type of thing than good ol capsicum. It’s a numbing poignancy! Totally different! That’s why modern Sichuan cousins adds capsicum peppers for the heat!"
+	},
+	{
+		"created_at": "Sun Apr 09 16:04:26 +0000 2023",
+		"id": 1645095335348551700,
+		"id_str": "1645095335348551680",
+		"full_text": "To be fair, a German man in the mid 1950s probably did a lot of bad things earlier in their life and if you were going to steal something from someone at sometime in history, it might as well be him",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			198
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645094744006209500,
+		"in_reply_to_status_id_str": "1645094744006209536",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 23,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "To be fair, a German man in the mid 1950s probably did a lot of bad things earlier in their life and if you were going to steal something from someone at sometime in history, it might as well be him"
+	},
+	{
+		"created_at": "Sun Apr 09 16:02:06 +0000 2023",
+		"id": 1645094744006209500,
+		"id_str": "1645094744006209536",
+		"full_text": "Actually having now looked closer at this it appears the lady who invented Barbie stole it from some German dude who then sued and it was settled out of court. She was later forced out of Mattel and convicted of financial crimes lol.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			233
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1644935565832511500,
+		"in_reply_to_status_id_str": "1644935565832511488",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Actually having now looked closer at this it appears the lady who invented Barbie stole it from some German dude who then sued and it was settled out of court. She was later forced out of Mattel and convicted of financial crimes lol."
+	},
+	{
+		"created_at": "Sun Apr 09 15:59:42 +0000 2023",
+		"id": 1645094142404624400,
+		"id_str": "1645094142404624385",
+		"full_text": "@Gobochan7 Interesting! I didn’t know that. Maybe it was the teevee’s fault https://t.co/CeXpEgyRhd",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Gobochan7",
+					"name": "OldManScreamsAtGround",
+					"id": 1297122630470905900,
+					"id_str": "1297122630470905860",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1645094138352926700,
+					"id_str": "1645094138352926720",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/FtSMZxqagAAKPKs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtSMZxqagAAKPKs.jpg",
+					"url": "https://t.co/CeXpEgyRhd",
+					"display_url": "pic.twitter.com/CeXpEgyRhd",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645094142404624385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1640,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 293,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 166,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1645094138352926700,
+					"id_str": "1645094138352926720",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/FtSMZxqagAAKPKs.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtSMZxqagAAKPKs.jpg",
+					"url": "https://t.co/CeXpEgyRhd",
+					"display_url": "pic.twitter.com/CeXpEgyRhd",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645094142404624385/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1640,
+							"h": 400,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 293,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 166,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645081659878830000,
+		"in_reply_to_status_id_str": "1645081659878830090",
+		"in_reply_to_user_id": 1297122630470905900,
+		"in_reply_to_user_id_str": "1297122630470905860",
+		"in_reply_to_screen_name": "Gobochan7",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@Gobochan7 Interesting! I didn’t know that. Maybe it was the teevee’s fault https://t.co/CeXpEgyRhd"
+	},
+	{
+		"created_at": "Sun Apr 09 15:53:11 +0000 2023",
+		"id": 1645092501769048000,
+		"id_str": "1645092501769048065",
+		"full_text": "Not all of them are winners https://t.co/8nNkkuY3WR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			27
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1645092496580694000,
+					"id_str": "1645092496580694016",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/FtSK6NlaUAACr02.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtSK6NlaUAACr02.jpg",
+					"url": "https://t.co/8nNkkuY3WR",
+					"display_url": "pic.twitter.com/8nNkkuY3WR",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645092501769048065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 514,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1640,
+							"h": 1240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 907,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1645092496580694000,
+					"id_str": "1645092496580694016",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/FtSK6NlaUAACr02.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtSK6NlaUAACr02.jpg",
+					"url": "https://t.co/8nNkkuY3WR",
+					"display_url": "pic.twitter.com/8nNkkuY3WR",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645092501769048065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 514,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1640,
+							"h": 1240,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 907,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1645092496576495600,
+					"id_str": "1645092496576495616",
+					"indices": [
+						28,
+						51
+					],
+					"media_url": "http://pbs.twimg.com/media/FtSK6NkaQAAuoG6.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtSK6NkaQAAuoG6.jpg",
+					"url": "https://t.co/8nNkkuY3WR",
+					"display_url": "pic.twitter.com/8nNkkuY3WR",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645092501769048065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1423,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 834,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645087953771970600,
+		"in_reply_to_status_id_str": "1645087953771970561",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Not all of them are winners https://t.co/8nNkkuY3WR"
+	},
+	{
+		"created_at": "Sun Apr 09 15:35:07 +0000 2023",
+		"id": 1645087953771970600,
+		"id_str": "1645087953771970561",
+		"full_text": "https://t.co/qspL8vbm1O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			0
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1645087949334380500,
+					"id_str": "1645087949334380548",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FtSGxhxaAAQzoj5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtSGxhxaAAQzoj5.jpg",
+					"url": "https://t.co/qspL8vbm1O",
+					"display_url": "pic.twitter.com/qspL8vbm1O",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645087953771970561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1423,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 834,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1645087949334380500,
+					"id_str": "1645087949334380548",
+					"indices": [
+						0,
+						23
+					],
+					"media_url": "http://pbs.twimg.com/media/FtSGxhxaAAQzoj5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtSGxhxaAAQzoj5.jpg",
+					"url": "https://t.co/qspL8vbm1O",
+					"display_url": "pic.twitter.com/qspL8vbm1O",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645087953771970561/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 472,
+							"h": 680,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1423,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 834,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645085544093974500,
+		"in_reply_to_status_id_str": "1645085544093974530",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 15,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "zxx",
+		"text": "https://t.co/qspL8vbm1O"
+	},
+	{
+		"created_at": "Sun Apr 09 15:25:32 +0000 2023",
+		"id": 1645085544093974500,
+		"id_str": "1645085544093974530",
+		"full_text": "This isn’t from last night but the network executive voice in my head foresees some issues with this idea https://t.co/1vRf7ppRDp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			105
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1645085538712682500,
+					"id_str": "1645085538712682496",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FtSElNgaAAAE6Mr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtSElNgaAAAE6Mr.jpg",
+					"url": "https://t.co/1vRf7ppRDp",
+					"display_url": "pic.twitter.com/1vRf7ppRDp",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645085544093974530/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1640,
+							"h": 1085,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 794,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1645085538712682500,
+					"id_str": "1645085538712682496",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/FtSElNgaAAAE6Mr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtSElNgaAAAE6Mr.jpg",
+					"url": "https://t.co/1vRf7ppRDp",
+					"display_url": "pic.twitter.com/1vRf7ppRDp",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645085544093974530/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1640,
+							"h": 1085,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 794,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645080143743029200,
+		"in_reply_to_status_id_str": "1645080143743029249",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 36,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This isn’t from last night but the network executive voice in my head foresees some issues with this idea https://t.co/1vRf7ppRDp"
+	},
+	{
+		"created_at": "Sun Apr 09 15:18:13 +0000 2023",
+		"id": 1645083700995162000,
+		"id_str": "1645083700995162113",
+		"full_text": "@iambradk Most of mine are just random vignettes that I thought would make funny little background scenes in a larger narrative https://t.co/B9h6ZBYBWT",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iambradk",
+					"name": "Brad Knollenberg",
+					"id": 55150841,
+					"id_str": "55150841",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1645083697291612200,
+					"id_str": "1645083697291612161",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/FtSC6BraUAEaT9v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtSC6BraUAEaT9v.jpg",
+					"url": "https://t.co/B9h6ZBYBWT",
+					"display_url": "pic.twitter.com/B9h6ZBYBWT",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645083700995162113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 230,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1640,
+							"h": 555,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1645083697291612200,
+					"id_str": "1645083697291612161",
+					"indices": [
+						128,
+						151
+					],
+					"media_url": "http://pbs.twimg.com/media/FtSC6BraUAEaT9v.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtSC6BraUAEaT9v.jpg",
+					"url": "https://t.co/B9h6ZBYBWT",
+					"display_url": "pic.twitter.com/B9h6ZBYBWT",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645083700995162113/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 230,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1640,
+							"h": 555,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 406,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645081870567186400,
+		"in_reply_to_status_id_str": "1645081870567186436",
+		"in_reply_to_user_id": 55150841,
+		"in_reply_to_user_id_str": "55150841",
+		"in_reply_to_screen_name": "iambradk",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@iambradk Most of mine are just random vignettes that I thought would make funny little background scenes in a larger narrative https://t.co/B9h6ZBYBWT"
+	},
+	{
+		"created_at": "Sun Apr 09 15:09:53 +0000 2023",
+		"id": 1645081603276959700,
+		"id_str": "1645081603276959746",
+		"full_text": "@AMYBOSO Oh shit that would have been better haha",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "AMYBOSO",
+					"name": "TeamFunCaptain",
+					"id": 35116540,
+					"id_str": "35116540",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645081522028904400,
+		"in_reply_to_status_id_str": "1645081522028904451",
+		"in_reply_to_user_id": 35116540,
+		"in_reply_to_user_id_str": "35116540",
+		"in_reply_to_screen_name": "AMYBOSO",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@AMYBOSO Oh shit that would have been better haha"
+	},
+	{
+		"created_at": "Sun Apr 09 15:08:37 +0000 2023",
+		"id": 1645081285982032000,
+		"id_str": "1645081285982031875",
+		"full_text": "@jbuhl35 One of my all time fave Trumpisms",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			42
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jbuhl35",
+					"name": "John Buhl",
+					"id": 1858383722,
+					"id_str": "1858383722",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645081171242434600,
+		"in_reply_to_status_id_str": "1645081171242434561",
+		"in_reply_to_user_id": 1858383722,
+		"in_reply_to_user_id_str": "1858383722",
+		"in_reply_to_screen_name": "jbuhl35",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 16,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jbuhl35 One of my all time fave Trumpisms"
+	},
+	{
+		"created_at": "Sun Apr 09 15:08:05 +0000 2023",
+		"id": 1645081153928560600,
+		"id_str": "1645081153928560640",
+		"full_text": "And a very merry unbirthday to you, Mr President!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			49
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645080832170754000,
+		"in_reply_to_status_id_str": "1645080832170754049",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 45,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "And a very merry unbirthday to you, Mr President!"
+	},
+	{
+		"created_at": "Sun Apr 09 15:06:49 +0000 2023",
+		"id": 1645080832170754000,
+		"id_str": "1645080832170754049",
+		"full_text": "Thanks? https://t.co/SEpwhM1xzC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			7
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1645080823975248000,
+					"id_str": "1645080823975247873",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/FtSASxvaAAE0vlg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtSASxvaAAE0vlg.jpg",
+					"url": "https://t.co/SEpwhM1xzC",
+					"display_url": "pic.twitter.com/SEpwhM1xzC",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645080832170754049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1089,
+							"h": 980,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 612,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1089,
+							"h": 980,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1645080823975248000,
+					"id_str": "1645080823975247873",
+					"indices": [
+						8,
+						31
+					],
+					"media_url": "http://pbs.twimg.com/media/FtSASxvaAAE0vlg.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FtSASxvaAAE0vlg.jpg",
+					"url": "https://t.co/SEpwhM1xzC",
+					"display_url": "pic.twitter.com/SEpwhM1xzC",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1645080832170754049/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1089,
+							"h": 980,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 612,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1089,
+							"h": 980,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 12,
+		"favorite_count": 201,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Thanks? https://t.co/SEpwhM1xzC"
+	},
+	{
+		"created_at": "Sun Apr 09 15:04:37 +0000 2023",
+		"id": 1645080281379123200,
+		"id_str": "1645080281379123202",
+		"full_text": "@SubBeck Haha I mostly standby my tweets in the morning but once in awhile I am like “what”",
+		"truncated": false,
+		"display_text_range": [
+			9,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SubBeck",
+					"name": "The real chris beck",
+					"id": 337284868,
+					"id_str": "337284868",
+					"indices": [
+						0,
+						8
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645080045143093200,
+		"in_reply_to_status_id_str": "1645080045143093249",
+		"in_reply_to_user_id": 337284868,
+		"in_reply_to_user_id_str": "337284868",
+		"in_reply_to_screen_name": "SubBeck",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 5,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SubBeck Haha I mostly standby my tweets in the morning but once in awhile I am like “what”"
+	},
+	{
+		"created_at": "Sun Apr 09 15:04:05 +0000 2023",
+		"id": 1645080143743029200,
+		"id_str": "1645080143743029249",
+		"full_text": "Gonna put in the work and make my riches penning short stories.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645079874372276200,
+		"in_reply_to_status_id_str": "1645079874372276231",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 20,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Gonna put in the work and make my riches penning short stories."
+	},
+	{
+		"created_at": "Sun Apr 09 15:03:00 +0000 2023",
+		"id": 1645079874372276200,
+		"id_str": "1645079874372276231",
+		"full_text": "The one from last night is a *squints* short story idea? Haha.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645079537859047400,
+		"in_reply_to_status_id_str": "1645079537859047426",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 19,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "The one from last night is a *squints* short story idea? Haha."
+	},
+	{
+		"created_at": "Sun Apr 09 15:01:40 +0000 2023",
+		"id": 1645079537859047400,
+		"id_str": "1645079537859047426",
+		"full_text": "Every night that I take marijuana gummies I inevitably have some idea that I think is worth putting in my Notes app and every morning after whenever I look at them I’m always disappointed to discover that they make no sense.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			224
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 133,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Every night that I take marijuana gummies I inevitably have some idea that I think is worth putting in my Notes app and every morning after whenever I look at them I’m always disappointed to discover that they make no sense."
+	},
+	{
+		"created_at": "Sun Apr 09 14:58:36 +0000 2023",
+		"id": 1645078764366475300,
+		"id_str": "1645078764366475264",
+		"full_text": "When I was a little boy I did think it was Bearenstein and they were Jews but then these goy teachers in Kindergarten or whatever were like “no you stupid yid. That isn’t how spell it and the bears are good Christian folk of humble stock”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			238
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645078307808084000,
+		"in_reply_to_status_id_str": "1645078307808083969",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 51,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "When I was a little boy I did think it was Bearenstein and they were Jews but then these goy teachers in Kindergarten or whatever were like “no you stupid yid. That isn’t how spell it and the bears are good Christian folk of humble stock”"
+	},
+	{
+		"created_at": "Sun Apr 09 14:56:47 +0000 2023",
+		"id": 1645078307808084000,
+		"id_str": "1645078307808083969",
+		"full_text": "“Did you know that Bearenstein Bears are actually the Berenstain Bears and aren’t actually Jewish?”",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645077116453793800,
+		"in_reply_to_status_id_str": "1645077116453793792",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 48,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "“Did you know that Bearenstein Bears are actually the Berenstain Bears and aren’t actually Jewish?”"
+	},
+	{
+		"created_at": "Sun Apr 09 14:52:38 +0000 2023",
+		"id": 1645077263682244600,
+		"id_str": "1645077263682244609",
+		"full_text": "@simplicio823 I thought tea was in both places? Maybe not black tea.",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "simplicio823",
+					"name": "Simplicio",
+					"id": 2658603474,
+					"id_str": "2658603474",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645076957636305000,
+		"in_reply_to_status_id_str": "1645076957636304896",
+		"in_reply_to_user_id": 2658603474,
+		"in_reply_to_user_id_str": "2658603474",
+		"in_reply_to_screen_name": "simplicio823",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@simplicio823 I thought tea was in both places? Maybe not black tea."
+	},
+	{
+		"created_at": "Sun Apr 09 14:52:03 +0000 2023",
+		"id": 1645077116453793800,
+		"id_str": "1645077116453793792",
+		"full_text": "It’s fun how after you read a nonfiction book that you then try to find opportunities to discuss your new knowledge for a couple of weeks.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			138
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1645076107409125400,
+		"in_reply_to_status_id_str": "1645076107409125376",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 66,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "It’s fun how after you read a nonfiction book that you then try to find opportunities to discuss your new knowledge for a couple of weeks."
+	},
+	{
+		"created_at": "Sun Apr 09 14:48:02 +0000 2023",
+		"id": 1645076107409125400,
+		"id_str": "1645076107409125376",
+		"full_text": "Every morning I go to the coffee shop and order a coffee and then I say “did you know that before the Colombian exchange half the world didn’t even have coffee” and they look at me blankly and I say “but the other half had tea &amp; that ain’t nothing” and then they ask me to leave",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			282
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "not all of these are “takes.” many are just lighthearted “jokes.”",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82870,
+			"friends_count": 964,
+			"listed_count": 1068,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 136624,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": true,
+			"statuses_count": 15175,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 14,
+		"favorite_count": 277,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Every morning I go to the coffee shop and order a coffee and then I say “did you know that before the Colombian exchange half the world didn’t even have coffee” and they look at me blankly and I say “but the other half had tea &amp; that ain’t nothing” and then they ask me to leave"
+	},
+	{
 		"created_at": "Sun Apr 09 05:29:34 +0000 2023",
 		"id": 1644935565832511500,
 		"id_str": "1644935565832511488",
