@@ -1,6 +1,1057 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Thu May 25 23:52:24 +0000 2023",
+		"id": 1661875529648312300,
+		"id_str": "1661882941008666626",
+		"full_text": "If Taylor Swift really cared about her fans she would let them choose her next boyfriend",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 14994676,
+			"id_str": "14994676",
+			"name": "Katie Herzog",
+			"screen_name": "kittypurrzog",
+			"location": "Canada",
+			"description": "testing",
+			"url": "https://t.co/uykfuoSBYr",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/uykfuoSBYr",
+							"expanded_url": "https://www.blockedandreported.org",
+							"display_url": "blockedandreported.org",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 131663,
+			"friends_count": 4169,
+			"listed_count": 905,
+			"created_at": "Tue Jun 03 16:47:06 +0000 2008",
+			"favourites_count": 27949,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 20850,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1489814151732023300/yca5TCEs_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1489814151732023300/yca5TCEs_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/14994676/1597279088",
+			"profile_link_color": "0B2A33",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": true,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 80,
+		"favorite_count": 974,
+		"favorited": true,
+		"retweeted": true,
+		"lang": "en",
+		"text": "If Taylor Swift really cared about her fans she would let them choose her next boyfriend"
+	},
+	{
+		"created_at": "Thu May 25 22:55:16 +0000 2023",
+		"id": 1661868564192829400,
+		"id_str": "1661868564192829440",
+		"full_text": "@mattyglesias “If anything, Johnny Quest didn’t go far enough. They were sellouts and worse: they sold out to woke corporations” —Ron DeSantis",
+		"truncated": false,
+		"display_text_range": [
+			14,
+			142
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "mattyglesias",
+					"name": "Matthew Yglesias",
+					"id": 15446531,
+					"id_str": "15446531",
+					"indices": [
+						0,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1661867875496341500,
+		"in_reply_to_status_id_str": "1661867875496341504",
+		"in_reply_to_user_id": 15446531,
+		"in_reply_to_user_id_str": "15446531",
+		"in_reply_to_screen_name": "mattyglesias",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "i love all of my followers but please don’t be mean to people I quote retweet even when I do it to drag them. xoxo",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82999,
+			"friends_count": 977,
+			"listed_count": 1091,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 139925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@mattyglesias “If anything, Johnny Quest didn’t go far enough. They were sellouts and worse: they sold out to woke corporations” —Ron DeSantis"
+	},
+	{
+		"created_at": "Thu May 25 22:52:26 +0000 2023",
+		"id": 1661867850448117800,
+		"id_str": "1661867850448117761",
+		"full_text": "In each of these “AI-used-for-bad” examples it seems very obvious to me that the party that should be liable is the user who told the AI to do these things! Not the company that built the AI https://t.co/IRKoRLfM7C https://t.co/h4nVxP31Li",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			214
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IRKoRLfM7C",
+					"expanded_url": "https://open.substack.com/pub/entertainment/p/bob-iger-puts-his-stamp-on-disney?r=2hm88&utm_medium=ios&utm_campaign=post",
+					"display_url": "open.substack.com/pub/entertainm…",
+					"indices": [
+						191,
+						214
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1661867844815159300,
+					"id_str": "1661867844815159296",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FxAj__naAAA3Wzf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FxAj__naAAA3Wzf.jpg",
+					"url": "https://t.co/h4nVxP31Li",
+					"display_url": "pic.twitter.com/h4nVxP31Li",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1661867850448117761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1170,
+							"h": 1581,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 503,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 888,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1661867844815159300,
+					"id_str": "1661867844815159296",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FxAj__naAAA3Wzf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FxAj__naAAA3Wzf.jpg",
+					"url": "https://t.co/h4nVxP31Li",
+					"display_url": "pic.twitter.com/h4nVxP31Li",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1661867850448117761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1170,
+							"h": 1581,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 503,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 888,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1661867844806799400,
+					"id_str": "1661867844806799360",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FxAj__lacAArFNV.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FxAj__lacAArFNV.jpg",
+					"url": "https://t.co/h4nVxP31Li",
+					"display_url": "pic.twitter.com/h4nVxP31Li",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1661867850448117761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1551,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 905,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 513,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1661867844810965000,
+					"id_str": "1661867844810964992",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FxAj__maAAAMZpK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FxAj__maAAAMZpK.jpg",
+					"url": "https://t.co/h4nVxP31Li",
+					"display_url": "pic.twitter.com/h4nVxP31Li",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1661867850448117761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 723,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1941,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 410,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				},
+				{
+					"id": 1661867844806795300,
+					"id_str": "1661867844806795265",
+					"indices": [
+						215,
+						238
+					],
+					"media_url": "http://pbs.twimg.com/media/FxAj__laYAEg15T.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FxAj__laYAEg15T.jpg",
+					"url": "https://t.co/h4nVxP31Li",
+					"display_url": "pic.twitter.com/h4nVxP31Li",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1661867850448117761/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 567,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 567,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 330,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "i love all of my followers but please don’t be mean to people I quote retweet even when I do it to drag them. xoxo",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82999,
+			"friends_count": 977,
+			"listed_count": 1091,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 139925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 8,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In each of these “AI-used-for-bad” examples it seems very obvious to me that the party that should be liable is the user who told the AI to do these things! Not the company that built the AI https://t.co/IRKoRLfM7C https://t.co/h4nVxP31Li"
+	},
+	{
+		"created_at": "Thu May 25 21:39:38 +0000 2023",
+		"id": 1661826849016520700,
+		"id_str": "1661849529388531717",
+		"full_text": "La Sombrita united people of all stripes: progressives who hate incrementalism, conservatives who hate public projects and sociopaths who hate the word \"gender.\" \n\nOne thing all the takes have in common are bad facts: https://t.co/vhHfZYcn35",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vhHfZYcn35",
+					"expanded_url": "https://bloom.bg/3WAUOEz",
+					"display_url": "bloom.bg/3WAUOEz",
+					"indices": [
+						218,
+						241
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 25570250,
+			"id_str": "25570250",
+			"name": "◥◤Kriston Capps",
+			"screen_name": "kristoncapps",
+			"location": "Washington, D.C.",
+			"description": "Writer and editor for @CityLab. Texan. I like housing and buildings and art and chili. kriston.capps@gmail.com Signal: 202-445-7606",
+			"url": "https://t.co/Vh4tWlk5Ie",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/Vh4tWlk5Ie",
+							"expanded_url": "http://archive.boston.com/ae/theater_arts/exhibitionist/2007/04/kriston_capps_i.html",
+							"display_url": "archive.boston.com/ae/theater_art…",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 18864,
+			"friends_count": 2462,
+			"listed_count": 648,
+			"created_at": "Fri Mar 20 20:31:13 +0000 2009",
+			"favourites_count": 31958,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 80585,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/492681457974788096/4-bDgNiO_normal.jpeg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/492681457974788096/4-bDgNiO_normal.jpeg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/25570250/1534682582",
+			"profile_link_color": "0084B4",
+			"profile_sidebar_border_color": "C0DEED",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "regular",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 11,
+		"favorite_count": 79,
+		"favorited": true,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "La Sombrita united people of all stripes: progressives who hate incrementalism, conservatives who hate public projects and sociopaths who hate the word \"gender.\" \n\nOne thing all the takes have in common are bad facts: https://t.co/vhHfZYcn35"
+	},
+	{
+		"created_at": "Thu May 25 20:29:28 +0000 2023",
+		"id": 1661831872522096600,
+		"id_str": "1661831872522096640",
+		"full_text": "@Bruce35dc Oh I just assumed. I mean what else would they say? “Wow I guess you used Groupon to find a plastic surgeon, huh?”",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			125
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Bruce35dc",
+					"name": "BruceDC",
+					"id": 844877436,
+					"id_str": "844877436",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1661831362658066400,
+		"in_reply_to_status_id_str": "1661831362658066433",
+		"in_reply_to_user_id": 844877436,
+		"in_reply_to_user_id_str": "844877436",
+		"in_reply_to_screen_name": "Bruce35dc",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "i love all of my followers but please don’t be mean to people I quote retweet even when I do it to drag them. xoxo",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82999,
+			"friends_count": 977,
+			"listed_count": 1091,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 139925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@Bruce35dc Oh I just assumed. I mean what else would they say? “Wow I guess you used Groupon to find a plastic surgeon, huh?”"
+	},
+	{
+		"created_at": "Thu May 25 20:14:30 +0000 2023",
+		"id": 1661828106460745700,
+		"id_str": "1661828106460745728",
+		"full_text": "@SonnyBunch @Ernie_esq i know i know i was laughing at the actual quote lol",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "SonnyBunch",
+					"name": "Sonny Bunch",
+					"id": 70424767,
+					"id_str": "70424767",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "Ernie_esq",
+					"name": "Ernie the Attorney",
+					"id": 389207563,
+					"id_str": "389207563",
+					"indices": [
+						12,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1661827968987955200,
+		"in_reply_to_status_id_str": "1661827968987955200",
+		"in_reply_to_user_id": 70424767,
+		"in_reply_to_user_id_str": "70424767",
+		"in_reply_to_screen_name": "SonnyBunch",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "i love all of my followers but please don’t be mean to people I quote retweet even when I do it to drag them. xoxo",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82999,
+			"friends_count": 977,
+			"listed_count": 1091,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 139925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@SonnyBunch @Ernie_esq i know i know i was laughing at the actual quote lol"
+	},
+	{
+		"created_at": "Thu May 25 20:12:17 +0000 2023",
+		"id": 1661827550111465500,
+		"id_str": "1661827550111465473",
+		"full_text": "@Ernie_esq @SonnyBunch hahahahah",
+		"truncated": false,
+		"display_text_range": [
+			23,
+			32
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "Ernie_esq",
+					"name": "Ernie the Attorney",
+					"id": 389207563,
+					"id_str": "389207563",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "SonnyBunch",
+					"name": "Sonny Bunch",
+					"id": 70424767,
+					"id_str": "70424767",
+					"indices": [
+						11,
+						22
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": 1661826207317368800,
+		"in_reply_to_status_id_str": "1661826207317368848",
+		"in_reply_to_user_id": 389207563,
+		"in_reply_to_user_id_str": "389207563",
+		"in_reply_to_screen_name": "Ernie_esq",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "i love all of my followers but please don’t be mean to people I quote retweet even when I do it to drag them. xoxo",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82999,
+			"friends_count": 977,
+			"listed_count": 1091,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 139925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tl",
+		"text": "@Ernie_esq @SonnyBunch hahahahah"
+	},
+	{
+		"created_at": "Thu May 25 20:05:08 +0000 2023",
+		"id": 1661825747412197400,
+		"id_str": "1661825747412197376",
+		"full_text": "In today's advice column, I discuss why people who commit adultery confess. https://t.co/mDBdoBUlS1",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mDBdoBUlS1",
+					"expanded_url": "https://www.calmdownben.com/p/you-had-an-affair-should-you-confess",
+					"display_url": "calmdownben.com/p/you-had-an-a…",
+					"indices": [
+						76,
+						99
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "i love all of my followers but please don’t be mean to people I quote retweet even when I do it to drag them. xoxo",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 82999,
+			"friends_count": 977,
+			"listed_count": 1091,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 139925,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18107,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 7,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "In today's advice column, I discuss why people who commit adultery confess. https://t.co/mDBdoBUlS1"
+	},
+	{
 		"created_at": "Thu May 25 03:05:35 +0000 2023",
 		"id": 1661569170113167400,
 		"id_str": "1661569170113167363",
