@@ -1,6 +1,3547 @@
 Grailbird.data.tweets_2023_05 = 
 [
 	{
+		"created_at": "Wed May 31 18:34:20 +0000 2023",
+		"id": 1663977226034102300,
+		"id_str": "1663977226034102272",
+		"full_text": "I mean the best proof that I am totally wrong about how well these takes do is that they keep publishing them. Like, these companies have analytics and decide what to put on the homepage because of data etc.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			207
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1663973464276111400,
+		"in_reply_to_status_id_str": "1663973464276111361",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "i love all of my followers but please don’t be mean to people I quote retweet even when I do it to drag them. xoxo",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83135,
+			"friends_count": 980,
+			"listed_count": 1096,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 140072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 29,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I mean the best proof that I am totally wrong about how well these takes do is that they keep publishing them. Like, these companies have analytics and decide what to put on the homepage because of data etc."
+	},
+	{
+		"created_at": "Wed May 31 18:20:51 +0000 2023",
+		"id": 1663973833525825500,
+		"id_str": "1663973833525825536",
+		"full_text": "@MattGertz Yeah, and I’m not totally second guessing the decision to do so much coverage of the finale. That only happens once. The more questionable one is the places that do coverage of the shows weekly over the course the run indefinitely",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MattGertz",
+					"name": "Matthew Gertz",
+					"id": 55376380,
+					"id_str": "55376380",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1663972992571830300,
+		"in_reply_to_status_id_str": "1663972992571830272",
+		"in_reply_to_user_id": 55376380,
+		"in_reply_to_user_id_str": "55376380",
+		"in_reply_to_screen_name": "MattGertz",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "i love all of my followers but please don’t be mean to people I quote retweet even when I do it to drag them. xoxo",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83135,
+			"friends_count": 980,
+			"listed_count": 1096,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 140072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MattGertz Yeah, and I’m not totally second guessing the decision to do so much coverage of the finale. That only happens once. The more questionable one is the places that do coverage of the shows weekly over the course the run indefinitely"
+	},
+	{
+		"created_at": "Wed May 31 18:19:23 +0000 2023",
+		"id": 1663973464276111400,
+		"id_str": "1663973464276111361",
+		"full_text": "I think the Facebook part of this is probably a big deal. Like, if you watched Game of Thrones (it was obviously hugely popular but also) FB would push culture stories about it on you from publishers you didn’t even follow. https://t.co/DlRNr5vsE0",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			223
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/DlRNr5vsE0",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1663972440056406017",
+					"display_url": "twitter.com/bendreyfuss/st…",
+					"indices": [
+						224,
+						247
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1663969973105229800,
+		"in_reply_to_status_id_str": "1663969973105229824",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "i love all of my followers but please don’t be mean to people I quote retweet even when I do it to drag them. xoxo",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83135,
+			"friends_count": 980,
+			"listed_count": 1096,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 140072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1663972440056406000,
+		"quoted_status_id_str": "1663972440056406017",
+		"quoted_status_permalink": {
+			"url": "https://t.co/DlRNr5vsE0",
+			"expanded": "https://twitter.com/bendreyfuss/status/1663972440056406017",
+			"display": "twitter.com/bendreyfuss/st…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 31 18:15:19 +0000 2023",
+			"id": 1663972440056406000,
+			"id_str": "1663972440056406017",
+			"full_text": "@MattGertz I just am suspicious that the Tv take economy really makes sense outside of finales the way it used to when these shows had bigger audiences and Facebook was a bigger traffic driver that algorithmically pushed it to the right people",
+			"truncated": false,
+			"display_text_range": [
+				11,
+				243
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [
+					{
+						"screen_name": "MattGertz",
+						"name": "Matthew Gertz",
+						"id": 55376380,
+						"id_str": "55376380",
+						"indices": [
+							0,
+							10
+						]
+					}
+				],
+				"urls": []
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": 1663971735761301500,
+			"in_reply_to_status_id_str": "1663971735761301504",
+			"in_reply_to_user_id": 55376380,
+			"in_reply_to_user_id_str": "55376380",
+			"in_reply_to_screen_name": "MattGertz",
+			"user": {
+				"id": 18269124,
+				"id_str": "18269124",
+				"name": "Ben Dreyfuss",
+				"screen_name": "bendreyfuss",
+				"location": "United States",
+				"description": "i love all of my followers but please don’t be mean to people I quote retweet even when I do it to drag them. xoxo",
+				"url": "https://t.co/lZNMDnDERH",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/lZNMDnDERH",
+								"expanded_url": "http://www.calmdownben.com",
+								"display_url": "calmdownben.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 83135,
+				"friends_count": 980,
+				"listed_count": 1096,
+				"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+				"favourites_count": 140072,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 18239,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+				"profile_link_color": "3B94D9",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 0,
+			"favorite_count": 2,
+			"favorited": false,
+			"retweeted": false,
+			"lang": "en"
+		},
+		"retweet_count": 0,
+		"favorite_count": 24,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I think the Facebook part of this is probably a big deal. Like, if you watched Game of Thrones (it was obviously hugely popular but also) FB would push culture stories about it on you from publishers you didn’t even follow. https://t.co/DlRNr5vsE0"
+	},
+	{
+		"created_at": "Wed May 31 18:15:19 +0000 2023",
+		"id": 1663972440056406000,
+		"id_str": "1663972440056406017",
+		"full_text": "@MattGertz I just am suspicious that the Tv take economy really makes sense outside of finales the way it used to when these shows had bigger audiences and Facebook was a bigger traffic driver that algorithmically pushed it to the right people",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			243
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MattGertz",
+					"name": "Matthew Gertz",
+					"id": 55376380,
+					"id_str": "55376380",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1663971735761301500,
+		"in_reply_to_status_id_str": "1663971735761301504",
+		"in_reply_to_user_id": 55376380,
+		"in_reply_to_user_id_str": "55376380",
+		"in_reply_to_screen_name": "MattGertz",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "i love all of my followers but please don’t be mean to people I quote retweet even when I do it to drag them. xoxo",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83135,
+			"friends_count": 980,
+			"listed_count": 1096,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 140072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MattGertz I just am suspicious that the Tv take economy really makes sense outside of finales the way it used to when these shows had bigger audiences and Facebook was a bigger traffic driver that algorithmically pushed it to the right people"
+	},
+	{
+		"created_at": "Wed May 31 18:12:19 +0000 2023",
+		"id": 1663971687002693600,
+		"id_str": "1663971687002693632",
+		"full_text": "@jamesrbuk @MattGertz Yeah totally but like even if 10% of the entire audience read a bunch of takes about the show (which seems massively unrealistic) that is still only a few hundred thousand people!",
+		"truncated": false,
+		"display_text_range": [
+			22,
+			201
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "jamesrbuk",
+					"name": "James Ball",
+					"id": 40713876,
+					"id_str": "40713876",
+					"indices": [
+						0,
+						10
+					]
+				},
+				{
+					"screen_name": "MattGertz",
+					"name": "Matthew Gertz",
+					"id": 55376380,
+					"id_str": "55376380",
+					"indices": [
+						11,
+						21
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1663971333636513800,
+		"in_reply_to_status_id_str": "1663971333636513792",
+		"in_reply_to_user_id": 40713876,
+		"in_reply_to_user_id_str": "40713876",
+		"in_reply_to_screen_name": "jamesrbuk",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "i love all of my followers but please don’t be mean to people I quote retweet even when I do it to drag them. xoxo",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83135,
+			"friends_count": 980,
+			"listed_count": 1096,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 140072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@jamesrbuk @MattGertz Yeah totally but like even if 10% of the entire audience read a bunch of takes about the show (which seems massively unrealistic) that is still only a few hundred thousand people!"
+	},
+	{
+		"created_at": "Wed May 31 18:10:42 +0000 2023",
+		"id": 1663971278515224600,
+		"id_str": "1663971278515224581",
+		"full_text": "@MattGertz That’s fair",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			22
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "MattGertz",
+					"name": "Matthew Gertz",
+					"id": 55376380,
+					"id_str": "55376380",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1663971187028836400,
+		"in_reply_to_status_id_str": "1663971187028836353",
+		"in_reply_to_user_id": 55376380,
+		"in_reply_to_user_id_str": "55376380",
+		"in_reply_to_screen_name": "MattGertz",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "i love all of my followers but please don’t be mean to people I quote retweet even when I do it to drag them. xoxo",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83135,
+			"friends_count": 980,
+			"listed_count": 1096,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 140072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@MattGertz That’s fair"
+	},
+	{
+		"created_at": "Wed May 31 18:10:24 +0000 2023",
+		"id": 1663971201453293600,
+		"id_str": "1663971201453293568",
+		"full_text": "@iowahawkblog @ArbiterofCool It will take a few weeks for the streaming numbers to come out so definitely a few million more people watched it but even if you double the size that’s still really not many people!",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			211
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "iowahawkblog",
+					"name": "David Burge",
+					"id": 149913262,
+					"id_str": "149913262",
+					"indices": [
+						0,
+						13
+					]
+				},
+				{
+					"screen_name": "ArbiterofCool",
+					"name": "💥Arbiter of Cool💥😎✌🏻👊🏻",
+					"id": 996216517711810600,
+					"id_str": "996216517711810560",
+					"indices": [
+						14,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1663970808220336000,
+		"in_reply_to_status_id_str": "1663970808220336128",
+		"in_reply_to_user_id": 149913262,
+		"in_reply_to_user_id_str": "149913262",
+		"in_reply_to_screen_name": "iowahawkblog",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "i love all of my followers but please don’t be mean to people I quote retweet even when I do it to drag them. xoxo",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83135,
+			"friends_count": 980,
+			"listed_count": 1096,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 140072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@iowahawkblog @ArbiterofCool It will take a few weeks for the streaming numbers to come out so definitely a few million more people watched it but even if you double the size that’s still really not many people!"
+	},
+	{
+		"created_at": "Wed May 31 18:08:42 +0000 2023",
+		"id": 1663970773370024000,
+		"id_str": "1663970773370023936",
+		"full_text": "@bdomenech Seriously. Or like the Chicago shows. You could have a whole team dedicated to writing about the Dick Wolf universe!",
+		"truncated": false,
+		"display_text_range": [
+			11,
+			127
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bdomenech",
+					"name": "Ben Domenech",
+					"id": 14989516,
+					"id_str": "14989516",
+					"indices": [
+						0,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1663970426119237600,
+		"in_reply_to_status_id_str": "1663970426119237632",
+		"in_reply_to_user_id": 14989516,
+		"in_reply_to_user_id_str": "14989516",
+		"in_reply_to_screen_name": "bdomenech",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "i love all of my followers but please don’t be mean to people I quote retweet even when I do it to drag them. xoxo",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83135,
+			"friends_count": 980,
+			"listed_count": 1096,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 140072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 11,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@bdomenech Seriously. Or like the Chicago shows. You could have a whole team dedicated to writing about the Dick Wolf universe!"
+	},
+	{
+		"created_at": "Wed May 31 18:06:50 +0000 2023",
+		"id": 1663970306913091600,
+		"id_str": "1663970306913091584",
+		"full_text": "@ArbiterofCool Yeah the overall numbers are probably a few million more. It’s definitely popular! I just mean that like it’s not so popular that a recap of the show is going to get hundreds of thousands of views.",
+		"truncated": false,
+		"display_text_range": [
+			15,
+			212
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "ArbiterofCool",
+					"name": "💥Arbiter of Cool💥😎✌🏻👊🏻",
+					"id": 996216517711810600,
+					"id_str": "996216517711810560",
+					"indices": [
+						0,
+						14
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1663969635752870000,
+		"in_reply_to_status_id_str": "1663969635752869890",
+		"in_reply_to_user_id": 996216517711810600,
+		"in_reply_to_user_id_str": "996216517711810560",
+		"in_reply_to_screen_name": "ArbiterofCool",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "i love all of my followers but please don’t be mean to people I quote retweet even when I do it to drag them. xoxo",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83135,
+			"friends_count": 980,
+			"listed_count": 1096,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 140072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 12,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@ArbiterofCool Yeah the overall numbers are probably a few million more. It’s definitely popular! I just mean that like it’s not so popular that a recap of the show is going to get hundreds of thousands of views."
+	},
+	{
+		"created_at": "Wed May 31 18:05:31 +0000 2023",
+		"id": 1663969973105229800,
+		"id_str": "1663969973105229824",
+		"full_text": "Doesn’t mean you shouldn’t write about stuff you like! But the Succession finale reached a level of Take saturation that only happens when editors are assigning those stories bc they think there is a huge demand for them.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			221
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1663969526277607400,
+		"in_reply_to_status_id_str": "1663969526277607424",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "i love all of my followers but please don’t be mean to people I quote retweet even when I do it to drag them. xoxo",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83135,
+			"friends_count": 980,
+			"listed_count": 1096,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 140072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 3,
+		"favorite_count": 72,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Doesn’t mean you shouldn’t write about stuff you like! But the Succession finale reached a level of Take saturation that only happens when editors are assigning those stories bc they think there is a huge demand for them."
+	},
+	{
+		"created_at": "Wed May 31 18:03:44 +0000 2023",
+		"id": 1663969526277607400,
+		"id_str": "1663969526277607424",
+		"full_text": "Editors love to project their own tastes on their audience which is why for years places would publish like a thousand takes about “Hamilton” or whatever and then be totally shocked that they didn’t do numbers.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			210
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1663968995043872800,
+		"in_reply_to_status_id_str": "1663968995043872768",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "i love all of my followers but please don’t be mean to people I quote retweet even when I do it to drag them. xoxo",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83135,
+			"friends_count": 980,
+			"listed_count": 1096,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 140072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 5,
+		"favorite_count": 104,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Editors love to project their own tastes on their audience which is why for years places would publish like a thousand takes about “Hamilton” or whatever and then be totally shocked that they didn’t do numbers."
+	},
+	{
+		"created_at": "Wed May 31 18:01:38 +0000 2023",
+		"id": 1663968995043872800,
+		"id_str": "1663968995043872768",
+		"full_text": "I personally read every take about the succession finale on the internet but these hilariously low viewership numbers are why I’m sort of suspicious of the editorial decision to publish so much about it. Like, ultimately it’s a very niche show! https://t.co/VxXoHE97Oi",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			244
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VxXoHE97Oi",
+					"expanded_url": "https://twitter.com/filmupdates/status/1663592968543170560",
+					"display_url": "twitter.com/filmupdates/st…",
+					"indices": [
+						245,
+						268
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "i love all of my followers but please don’t be mean to people I quote retweet even when I do it to drag them. xoxo",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83135,
+			"friends_count": 980,
+			"listed_count": 1096,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 140072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1663592968543170600,
+		"quoted_status_id_str": "1663592968543170560",
+		"quoted_status_permalink": {
+			"url": "https://t.co/VxXoHE97Oi",
+			"expanded": "https://twitter.com/filmupdates/status/1663592968543170560",
+			"display": "twitter.com/filmupdates/st…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 30 17:07:26 +0000 2023",
+			"id": 1663592968543170600,
+			"id_str": "1663592968543170560",
+			"full_text": "‘SUCCESSION’ ended with a series high of 2.9 million viewers on Sunday night. \n\nThis marks the show’s largest audience ever. https://t.co/mHXjMP2ki4",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				124
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1663592963887501300,
+						"id_str": "1663592963887501312",
+						"indices": [
+							125,
+							148
+						],
+						"media_url": "http://pbs.twimg.com/media/FxZE_I9akAAvI-d.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FxZE_I9akAAvI-d.jpg",
+						"url": "https://t.co/mHXjMP2ki4",
+						"display_url": "pic.twitter.com/mHXjMP2ki4",
+						"expanded_url": "https://twitter.com/FilmUpdates/status/1663592968543170560/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1663592963887501300,
+						"id_str": "1663592963887501312",
+						"indices": [
+							125,
+							148
+						],
+						"media_url": "http://pbs.twimg.com/media/FxZE_I9akAAvI-d.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FxZE_I9akAAvI-d.jpg",
+						"url": "https://t.co/mHXjMP2ki4",
+						"display_url": "pic.twitter.com/mHXjMP2ki4",
+						"expanded_url": "https://twitter.com/FilmUpdates/status/1663592968543170560/photo/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 2048,
+								"h": 1152,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 1339619325578240000,
+				"id_str": "1339619325578240000",
+				"name": "Film Updates",
+				"screen_name": "FilmUpdates",
+				"location": "",
+				"description": "All the latest news, reviews and interviews on films, actors and TV shows | Backup: @TheFilmUpdates",
+				"url": "https://t.co/aaXEnilFrK",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/aaXEnilFrK",
+								"expanded_url": "http://filmupdates.net",
+								"display_url": "filmupdates.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 581822,
+				"friends_count": 61,
+				"listed_count": 2147,
+				"created_at": "Thu Dec 17 17:12:06 +0000 2020",
+				"favourites_count": 262,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 27240,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1339620577523462147/8Sb_cCzd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1339620577523462147/8Sb_cCzd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/1339619325578240000/1608309069",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 874,
+			"favorite_count": 18334,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 30,
+		"favorite_count": 444,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "I personally read every take about the succession finale on the internet but these hilariously low viewership numbers are why I’m sort of suspicious of the editorial decision to publish so much about it. Like, ultimately it’s a very niche show! https://t.co/VxXoHE97Oi"
+	},
+	{
+		"created_at": "Wed May 31 17:56:55 +0000 2023",
+		"id": 1663967808613683200,
+		"id_str": "1663967808613683200",
+		"full_text": "@daweiner Total tangent but that thread is such a great example of people dragging out a story that could be told in two tweets. Like, when I got to the “first what I expected” trifecta of tweets I was like “Jesus Christ just get to the story!!” https://t.co/Tu5SzFevCm",
+		"truncated": false,
+		"display_text_range": [
+			10,
+			245
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "daweiner",
+					"name": "David Weiner",
+					"id": 15922651,
+					"id_str": "15922651",
+					"indices": [
+						0,
+						9
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 1663967801592414200,
+					"id_str": "1663967801592414209",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/FxeZ5kOagAEqMyY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FxeZ5kOagAEqMyY.jpg",
+					"url": "https://t.co/Tu5SzFevCm",
+					"display_url": "pic.twitter.com/Tu5SzFevCm",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1663967808613683200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1663967801592414200,
+					"id_str": "1663967801592414209",
+					"indices": [
+						246,
+						269
+					],
+					"media_url": "http://pbs.twimg.com/media/FxeZ5kOagAEqMyY.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FxeZ5kOagAEqMyY.jpg",
+					"url": "https://t.co/Tu5SzFevCm",
+					"display_url": "pic.twitter.com/Tu5SzFevCm",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1663967808613683200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 554,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 314,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 946,
+							"h": 2048,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1663953873541660700,
+		"in_reply_to_status_id_str": "1663953873541660673",
+		"in_reply_to_user_id": 15922651,
+		"in_reply_to_user_id_str": "15922651",
+		"in_reply_to_screen_name": "daweiner",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "i love all of my followers but please don’t be mean to people I quote retweet even when I do it to drag them. xoxo",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83135,
+			"friends_count": 980,
+			"listed_count": 1096,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 140072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 4,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "@daweiner Total tangent but that thread is such a great example of people dragging out a story that could be told in two tweets. Like, when I got to the “first what I expected” trifecta of tweets I was like “Jesus Christ just get to the story!!” https://t.co/Tu5SzFevCm"
+	},
+	{
+		"created_at": "Wed May 31 17:46:21 +0000 2023",
+		"id": 1663965151236878300,
+		"id_str": "1663965151236878336",
+		"full_text": "Why on earth would the most famous and successful banker in America quit his wonderful lucrative job to run a doomed primary challenge against a sitting president? Like, even if he really does harbor presidential aspirations, just wait four years!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			247
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": 1663964258617655300,
+		"in_reply_to_status_id_str": "1663964258617655297",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "i love all of my followers but please don’t be mean to people I quote retweet even when I do it to drag them. xoxo",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83135,
+			"friends_count": 980,
+			"listed_count": 1096,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 140072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 41,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Why on earth would the most famous and successful banker in America quit his wonderful lucrative job to run a doomed primary challenge against a sitting president? Like, even if he really does harbor presidential aspirations, just wait four years!"
+	},
+	{
+		"created_at": "Wed May 31 17:42:48 +0000 2023",
+		"id": 1663964258617655300,
+		"id_str": "1663964258617655297",
+		"full_text": "Jaimie Dimon might be the nicest guy in the whole world and maybe he would make the best president in history but this political assessment is just totally divorced from reality. (Which is one reason he won’t run lol) https://t.co/PFJ03bwtXK https://t.co/QzzAOwSjic",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			241
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/PFJ03bwtXK",
+					"expanded_url": "https://twitter.com/billackman/status/1663959113703751720",
+					"display_url": "twitter.com/billackman/sta…",
+					"indices": [
+						218,
+						241
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1663964251818705000,
+					"id_str": "1663964251818704896",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FxeWq8SaQAAhx3e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FxeWq8SaQAAhx3e.jpg",
+					"url": "https://t.co/QzzAOwSjic",
+					"display_url": "pic.twitter.com/QzzAOwSjic",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1663964258617655297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 585,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 1007,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1007,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1663964251818705000,
+					"id_str": "1663964251818704896",
+					"indices": [
+						242,
+						265
+					],
+					"media_url": "http://pbs.twimg.com/media/FxeWq8SaQAAhx3e.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FxeWq8SaQAAhx3e.jpg",
+					"url": "https://t.co/QzzAOwSjic",
+					"display_url": "pic.twitter.com/QzzAOwSjic",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1663964258617655297/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 585,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1170,
+							"h": 1007,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1170,
+							"h": 1007,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "i love all of my followers but please don’t be mean to people I quote retweet even when I do it to drag them. xoxo",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83135,
+			"friends_count": 980,
+			"listed_count": 1096,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 140072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1663959113703751700,
+		"quoted_status_id_str": "1663959113703751720",
+		"quoted_status_permalink": {
+			"url": "https://t.co/PFJ03bwtXK",
+			"expanded": "https://twitter.com/billackman/status/1663959113703751720",
+			"display": "twitter.com/billackman/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 31 17:22:22 +0000 2023",
+			"id": 1663959113703751700,
+			"id_str": "1663959113703751720",
+			"full_text": "Jamie Dimon is one of the world's most respected business leaders. Politically he is a centrist. He is pro-business and pro-free enterprise, but also supportive of well-designed social programs and rational tax policies that can help the less fortunate. He is extremely smart,… https://t.co/hOTA4SgZ7N",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				301
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/hOTA4SgZ7N",
+						"expanded_url": "https://twitter.com/i/web/status/1663959113703751720",
+						"display_url": "twitter.com/i/web/status/1…",
+						"indices": [
+							278,
+							301
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 880412538625810400,
+				"id_str": "880412538625810432",
+				"name": "Bill Ackman",
+				"screen_name": "BillAckman",
+				"location": "New York, NY",
+				"description": "CEO Pershing Square, Co-trustee @PershingSqFdn",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 708269,
+				"friends_count": 557,
+				"listed_count": 5474,
+				"created_at": "Thu Jun 29 13:08:01 +0000 2017",
+				"favourites_count": 828,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1679,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "F5F8FA",
+				"profile_background_image_url": null,
+				"profile_background_image_url_https": null,
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1619837521059348481/9UeNLFmD_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1619837521059348481/9UeNLFmD_normal.jpg",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1708,
+			"favorite_count": 12609,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 5,
+		"favorite_count": 34,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Jaimie Dimon might be the nicest guy in the whole world and maybe he would make the best president in history but this political assessment is just totally divorced from reality. (Which is one reason he won’t run lol) https://t.co/PFJ03bwtXK https://t.co/QzzAOwSjic"
+	},
+	{
+		"created_at": "Wed May 31 16:47:32 +0000 2023",
+		"id": 1663950349076680700,
+		"id_str": "1663950349076680709",
+		"full_text": "@EsotericCD @Political_Beats Love The Jam",
+		"truncated": false,
+		"display_text_range": [
+			29,
+			41
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "EsotericCD",
+					"name": "Jeff Blehar is *BOX OFFICE POISON*",
+					"id": 161163311,
+					"id_str": "161163311",
+					"indices": [
+						0,
+						11
+					]
+				},
+				{
+					"screen_name": "Political_Beats",
+					"name": "Political Beats",
+					"id": 893608329347465200,
+					"id_str": "893608329347465216",
+					"indices": [
+						12,
+						28
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1663948629088804900,
+		"in_reply_to_status_id_str": "1663948629088804864",
+		"in_reply_to_user_id": 161163311,
+		"in_reply_to_user_id_str": "161163311",
+		"in_reply_to_screen_name": "EsotericCD",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "i love all of my followers but please don’t be mean to people I quote retweet even when I do it to drag them. xoxo",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83135,
+			"friends_count": 980,
+			"listed_count": 1096,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 140072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 6,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "@EsotericCD @Political_Beats Love The Jam"
+	},
+	{
+		"created_at": "Wed May 31 16:44:56 +0000 2023",
+		"id": 1663949695167897600,
+		"id_str": "1663949695167897600",
+		"full_text": "I just realized this guy’s name is Matty Healy and not Matt Healy and ok fine she should break up with him. Two names that both end in y is a deal breaker.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			155
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1663739329926299600,
+		"in_reply_to_status_id_str": "1663739329926299648",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "i love all of my followers but please don’t be mean to people I quote retweet even when I do it to drag them. xoxo",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83135,
+			"friends_count": 980,
+			"listed_count": 1096,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 140072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 58,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "I just realized this guy’s name is Matty Healy and not Matt Healy and ok fine she should break up with him. Two names that both end in y is a deal breaker."
+	},
+	{
+		"created_at": "Wed May 31 16:39:06 +0000 2023",
+		"id": 1663948227316535300,
+		"id_str": "1663948227316535298",
+		"full_text": "Remember how doctors used to tell me I needed surgery and then I got the surgery and suddenly the doctors stopped saying I needed surgery? Suspicious. https://t.co/t7DDum831V",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			150
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/t7DDum831V",
+					"expanded_url": "https://twitter.com/pithypacky/status/1663702101338509313",
+					"display_url": "twitter.com/pithypacky/sta…",
+					"indices": [
+						151,
+						174
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "i love all of my followers but please don’t be mean to people I quote retweet even when I do it to drag them. xoxo",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83135,
+			"friends_count": 980,
+			"listed_count": 1096,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 140072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1663702101338509300,
+		"quoted_status_id_str": "1663702101338509313",
+		"quoted_status_permalink": {
+			"url": "https://t.co/t7DDum831V",
+			"expanded": "https://twitter.com/pithypacky/status/1663702101338509313",
+			"display": "twitter.com/pithypacky/sta…"
+		},
+		"quoted_status": {
+			"created_at": "Wed May 31 00:21:05 +0000 2023",
+			"id": 1663702101338509300,
+			"id_str": "1663702101338509313",
+			"full_text": "Boom. https://t.co/aAjiNVPUSo",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				5
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1663702096628293600,
+						"id_str": "1663702096628293633",
+						"indices": [
+							6,
+							29
+						],
+						"media_url": "http://pbs.twimg.com/media/FxaoPgGaIAEmrmX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FxaoPgGaIAEmrmX.jpg",
+						"url": "https://t.co/aAjiNVPUSo",
+						"display_url": "pic.twitter.com/aAjiNVPUSo",
+						"expanded_url": "https://twitter.com/pithypacky/status/1663702101338509313/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 804,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1066,
+								"h": 1591,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 456,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1663702096628293600,
+						"id_str": "1663702096628293633",
+						"indices": [
+							6,
+							29
+						],
+						"media_url": "http://pbs.twimg.com/media/FxaoPgGaIAEmrmX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/FxaoPgGaIAEmrmX.jpg",
+						"url": "https://t.co/aAjiNVPUSo",
+						"display_url": "pic.twitter.com/aAjiNVPUSo",
+						"expanded_url": "https://twitter.com/pithypacky/status/1663702101338509313/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 804,
+								"h": 1200,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1066,
+								"h": 1591,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 456,
+								"h": 680,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 267337153,
+				"id_str": "267337153",
+				"name": "🇺🇸 𝘗𝘪𝘵𝘩𝘺 𝘗𝘢𝘤𝘬𝘺 🇳🇱",
+				"screen_name": "pithypacky",
+				"location": "Sane America",
+				"description": "Live your life the way the Church would've killed you for 500 years ago. She/her. True blue American. 🗳. PithyPacky on 📪+🦣",
+				"url": "https://t.co/RzLycaJohS",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/RzLycaJohS",
+								"expanded_url": "http://action.aclu.org",
+								"display_url": "action.aclu.org",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 13545,
+				"friends_count": 13094,
+				"listed_count": 15,
+				"created_at": "Wed Mar 16 19:16:47 +0000 2011",
+				"favourites_count": 503638,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 118618,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1393001839293960192/MT-xXn7L_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1393001839293960192/MT-xXn7L_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/267337153/1685112406",
+				"profile_link_color": "1DA1F2",
+				"profile_sidebar_border_color": "C0DEED",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": true,
+				"default_profile_image": false,
+				"following": false,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2491,
+			"favorite_count": 15414,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 30,
+		"favorite_count": 288,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Remember how doctors used to tell me I needed surgery and then I got the surgery and suddenly the doctors stopped saying I needed surgery? Suspicious. https://t.co/t7DDum831V"
+	},
+	{
+		"created_at": "Wed May 31 16:30:46 +0000 2023",
+		"id": 1663946129631850500,
+		"id_str": "1663946129631850496",
+		"full_text": "@joshtpm @eligit Haha",
+		"truncated": false,
+		"display_text_range": [
+			17,
+			21
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "joshtpm",
+					"name": "Josh Marshall",
+					"id": 21268897,
+					"id_str": "21268897",
+					"indices": [
+						0,
+						8
+					]
+				},
+				{
+					"screen_name": "eligit",
+					"name": "eli friedmann",
+					"id": 136706317,
+					"id_str": "136706317",
+					"indices": [
+						9,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1663943307427184600,
+		"in_reply_to_status_id_str": "1663943307427184641",
+		"in_reply_to_user_id": 21268897,
+		"in_reply_to_user_id_str": "21268897",
+		"in_reply_to_screen_name": "joshtpm",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "i love all of my followers but please don’t be mean to people I quote retweet even when I do it to drag them. xoxo",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83135,
+			"friends_count": 980,
+			"listed_count": 1096,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 140072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "tl",
+		"text": "@joshtpm @eligit Haha"
+	},
+	{
+		"created_at": "Wed May 31 16:21:15 +0000 2023",
+		"id": 1663943736198328300,
+		"id_str": "1663943736198328321",
+		"full_text": "Audible for bills.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			18
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1663943100060901400,
+		"in_reply_to_status_id_str": "1663943100060901377",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "i love all of my followers but please don’t be mean to people I quote retweet even when I do it to drag them. xoxo",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83135,
+			"friends_count": 980,
+			"listed_count": 1096,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 140072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 14,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Audible for bills."
+	},
+	{
+		"created_at": "Wed May 31 16:18:44 +0000 2023",
+		"id": 1663943100060901400,
+		"id_str": "1663943100060901377",
+		"full_text": "They aren’t Russian novels. Like, the committee staff works for the lawmakers. They are perfectly capable of honestly and accurately distilling the bills down to five pages.",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			173
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1663942426686374000,
+		"in_reply_to_status_id_str": "1663942426686373889",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "i love all of my followers but please don’t be mean to people I quote retweet even when I do it to drag them. xoxo",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83135,
+			"friends_count": 980,
+			"listed_count": 1096,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 140072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 22,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "They aren’t Russian novels. Like, the committee staff works for the lawmakers. They are perfectly capable of honestly and accurately distilling the bills down to five pages."
+	},
+	{
+		"created_at": "Wed May 31 16:16:03 +0000 2023",
+		"id": 1663942426686374000,
+		"id_str": "1663942426686373889",
+		"full_text": "Aside from the fact that you really should be able to read 99 double spaced pages in 72 hours, it’s a funny talking point because honestly they don’t even need to read the actual bill! They can just read the committee staff’s summaries!",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			236
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": []
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1663941939421499400,
+		"in_reply_to_status_id_str": "1663941939421499394",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "i love all of my followers but please don’t be mean to people I quote retweet even when I do it to drag them. xoxo",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83135,
+			"friends_count": 980,
+			"listed_count": 1096,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 140072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": false,
+		"lang": "en",
+		"text": "Aside from the fact that you really should be able to read 99 double spaced pages in 72 hours, it’s a funny talking point because honestly they don’t even need to read the actual bill! They can just read the committee staff’s summaries!"
+	},
+	{
+		"created_at": "Wed May 31 16:14:07 +0000 2023",
+		"id": 1663941939421499400,
+		"id_str": "1663941939421499394",
+		"full_text": "Nothing gives me more joy than when lawmakers complain about how the bills are too long. https://t.co/TgiSqw9ml3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			88
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/TgiSqw9ml3",
+					"expanded_url": "https://twitter.com/atrupar/status/1663619991764180996",
+					"display_url": "twitter.com/atrupar/status…",
+					"indices": [
+						89,
+						112
+					]
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "i love all of my followers but please don’t be mean to people I quote retweet even when I do it to drag them. xoxo",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83135,
+			"friends_count": 980,
+			"listed_count": 1096,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 140072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": true,
+		"quoted_status_id": 1663619991764181000,
+		"quoted_status_id_str": "1663619991764180996",
+		"quoted_status_permalink": {
+			"url": "https://t.co/TgiSqw9ml3",
+			"expanded": "https://twitter.com/atrupar/status/1663619991764180996",
+			"display": "twitter.com/atrupar/status…"
+		},
+		"quoted_status": {
+			"created_at": "Tue May 30 18:54:49 +0000 2023",
+			"id": 1663619991764181000,
+			"id_str": "1663619991764180996",
+			"full_text": "RALPH NORMAN: It's like the Pelosi days. You gotta pass it before you read it.\n\nFOX: But he's giving you 72 hours to read it.\n\nNORMAN: We ought to have a lot more time.\n\nFOX: It's only 99 pages. https://t.co/Yl7SQBMaw7",
+			"truncated": false,
+			"display_text_range": [
+				0,
+				194
+			],
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 1663619917063618600,
+						"id_str": "1663619917063618560",
+						"indices": [
+							195,
+							218
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1663619917063618560/pu/img/xQeMYry1EVnFRpSX.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1663619917063618560/pu/img/xQeMYry1EVnFRpSX.jpg",
+						"url": "https://t.co/Yl7SQBMaw7",
+						"display_url": "pic.twitter.com/Yl7SQBMaw7",
+						"expanded_url": "https://twitter.com/atrupar/status/1663619991764180996/video/1",
+						"type": "photo",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 1663619917063618600,
+						"id_str": "1663619917063618560",
+						"indices": [
+							195,
+							218
+						],
+						"media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1663619917063618560/pu/img/xQeMYry1EVnFRpSX.jpg",
+						"media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1663619917063618560/pu/img/xQeMYry1EVnFRpSX.jpg",
+						"url": "https://t.co/Yl7SQBMaw7",
+						"display_url": "pic.twitter.com/Yl7SQBMaw7",
+						"expanded_url": "https://twitter.com/atrupar/status/1663619991764180996/video/1",
+						"type": "video",
+						"sizes": {
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 675,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 383,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1280,
+								"h": 720,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								16,
+								9
+							],
+							"duration_millis": 69069,
+							"variants": [
+								{
+									"bitrate": 2176000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1663619917063618560/pu/vid/1280x720/tGMndstHWT7OhA-L.mp4?tag=12"
+								},
+								{
+									"content_type": "application/x-mpegURL",
+									"url": "https://video.twimg.com/ext_tw_video/1663619917063618560/pu/pl/XIkLlO1zMoIAamJP.m3u8?tag=12&container=fmp4&v=5ec"
+								},
+								{
+									"bitrate": 832000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1663619917063618560/pu/vid/640x360/M4rnLJqwz6GRZWbE.mp4?tag=12"
+								},
+								{
+									"bitrate": 256000,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/ext_tw_video/1663619917063618560/pu/vid/480x270/_YOpDiAV3KbftpdE.mp4?tag=12"
+								}
+							]
+						},
+						"additional_media_info": {
+							"monetizable": false
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://www.snapstream.com\" rel=\"nofollow\">SnapStream TV Search</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 288277167,
+				"id_str": "288277167",
+				"name": "Aaron Rupar",
+				"screen_name": "atrupar",
+				"location": "",
+				"description": "journalist. sign up for my newsletter, Public Notice (link below). Powered by @SnapStream (more info: https://t.co/N5NrGpoIlq…).",
+				"url": "https://t.co/H5kvTa6Tzt",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/H5kvTa6Tzt",
+								"expanded_url": "https://www.publicnotice.co/subscribe",
+								"display_url": "publicnotice.co/subscribe",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/N5NrGpoIlq",
+								"expanded_url": "http://bit.ly/snapstream-aar",
+								"display_url": "bit.ly/snapstream-aar",
+								"indices": [
+									102,
+									125
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 882731,
+				"friends_count": 2606,
+				"listed_count": 8691,
+				"created_at": "Tue Apr 26 15:22:47 +0000 2011",
+				"favourites_count": 195118,
+				"utc_offset": null,
+				"time_zone": null,
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 120351,
+				"lang": null,
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "C0DEED",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/1335565046290804738/eGXNmTvg_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/1335565046290804738/eGXNmTvg_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/288277167/1469538346",
+				"profile_link_color": "1B95E0",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none",
+				"withheld_in_countries": []
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1789,
+			"favorite_count": 13201,
+			"favorited": false,
+			"retweeted": false,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"retweet_count": 8,
+		"favorite_count": 83,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nothing gives me more joy than when lawmakers complain about how the bills are too long. https://t.co/TgiSqw9ml3"
+	},
+	{
+		"created_at": "Wed May 31 16:03:25 +0000 2023",
+		"id": 1663939245118029800,
+		"id_str": "1663939245118029824",
+		"full_text": "Just for the record, if I collapse in public and stop breathing, I DO want CPR. Lol https://t.co/AQAm0ZVqBr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			83
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [],
+			"media": [
+				{
+					"id": 1663939240022122500,
+					"id_str": "1663939240022122499",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/Fxd_7EFaIAMqgH7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fxd_7EFaIAMqgH7.jpg",
+					"url": "https://t.co/AQAm0ZVqBr",
+					"display_url": "pic.twitter.com/AQAm0ZVqBr",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1663939245118029824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1422,
+							"h": 151,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 72,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 127,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1663939240022122500,
+					"id_str": "1663939240022122499",
+					"indices": [
+						84,
+						107
+					],
+					"media_url": "http://pbs.twimg.com/media/Fxd_7EFaIAMqgH7.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Fxd_7EFaIAMqgH7.jpg",
+					"url": "https://t.co/AQAm0ZVqBr",
+					"display_url": "pic.twitter.com/AQAm0ZVqBr",
+					"expanded_url": "https://twitter.com/bendreyfuss/status/1663939245118029824/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1422,
+							"h": 151,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 72,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 127,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+		"in_reply_to_status_id": 1663938716044341200,
+		"in_reply_to_status_id_str": "1663938716044341248",
+		"in_reply_to_user_id": 18269124,
+		"in_reply_to_user_id_str": "18269124",
+		"in_reply_to_screen_name": "bendreyfuss",
+		"user": {
+			"id": 18269124,
+			"id_str": "18269124",
+			"name": "Ben Dreyfuss",
+			"screen_name": "bendreyfuss",
+			"location": "United States",
+			"description": "i love all of my followers but please don’t be mean to people I quote retweet even when I do it to drag them. xoxo",
+			"url": "https://t.co/lZNMDnDERH",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/lZNMDnDERH",
+							"expanded_url": "http://www.calmdownben.com",
+							"display_url": "calmdownben.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 83135,
+			"friends_count": 980,
+			"listed_count": 1096,
+			"created_at": "Sat Dec 20 17:19:32 +0000 2008",
+			"favourites_count": 140072,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": true,
+			"verified": false,
+			"statuses_count": 18239,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "C0DEED",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": true,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/1448781155617030147/OZPBnb59_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/18269124/1663554127",
+			"profile_link_color": "3B94D9",
+			"profile_sidebar_border_color": "FFFFFF",
+			"profile_sidebar_fill_color": "DDEEF6",
+			"profile_text_color": "333333",
+			"profile_use_background_image": true,
+			"has_extended_profile": false,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 28,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Just for the record, if I collapse in public and stop breathing, I DO want CPR. Lol https://t.co/AQAm0ZVqBr"
+	},
+	{
 		"created_at": "Wed May 31 04:43:46 +0000 2023",
 		"id": 1663768207637741600,
 		"id_str": "1663768207637741570",
